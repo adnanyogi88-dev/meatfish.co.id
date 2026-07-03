@@ -1,7 +1,7 @@
 """Download every attachment in the WordPress export into public/wp-content/uploads."""
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from urllib.parse import unquote, urlparse
+from urllib.parse import quote, unquote, urlparse, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 import json
 import re
@@ -76,18 +76,26 @@ def download(record):
         return "cached", record
     target.parent.mkdir(parents=True, exist_ok=True)
     error = None
-    for attempt in range(3):
-        try:
-            request = Request(record["source"], headers={"User-Agent": "Mozilla/5.0"})
-            with urlopen(request, timeout=45) as response:
-                data = response.read()
-            if not data:
-                raise ValueError("empty response")
-            target.write_bytes(data)
-            return "downloaded", record
-        except Exception as exc:
-            error = exc
-            time.sleep(attempt + 1)
+    sources = [record["source"]]
+    if urlparse(record["source"]).hostname == "indofishmart.id":
+        sources.append(record["source"].replace("indofishmart.id", "meatfish.id", 1))
+    for source in sources:
+        parts = urlsplit(source)
+        safe_source = urlunsplit(
+            (parts.scheme, parts.netloc, quote(unquote(parts.path), safe="/"), parts.query, parts.fragment)
+        )
+        for attempt in range(3):
+            try:
+                request = Request(safe_source, headers={"User-Agent": "Mozilla/5.0"})
+                with urlopen(request, timeout=45) as response:
+                    data = response.read()
+                if not data:
+                    raise ValueError("empty response")
+                target.write_bytes(data)
+                return "downloaded", record
+            except Exception as exc:
+                error = exc
+                time.sleep(attempt + 1)
     return f"failed: {error}", record
 
 
