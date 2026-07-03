@@ -32,6 +32,19 @@ def sitemap_urls():
     return [value for value in strings if value.startswith("https://meatfish.id")]
 
 
+def article_paths():
+    paths = []
+    with zipfile.ZipFile(ZIP) as archive:
+        for member in archive.namelist():
+            if not member.endswith(".md"):
+                continue
+            text = archive.read(member).decode("utf-8-sig")
+            match = re.search(r'(?m)^slug:\s*"([^"]+)"', text)
+            if match:
+                paths.append(f"/{match.group(1)}/")
+    return paths
+
+
 def normalize_words(value):
     value = unicodedata.normalize("NFKD", value.lower())
     value = "".join(char for char in value if not unicodedata.combining(char))
@@ -122,6 +135,11 @@ def main():
     for url in urls:
         path = urlparse(url).path
         records.append({"path": path, "url": url.replace("meatfish.id", "meatfish.co.id")})
+    known = {record["path"] for record in records}
+    for path in article_paths():
+        if path not in known:
+            records.append({"path": path, "url": f"https://meatfish.co.id{path}"})
+            known.add(path)
     (DATA / "routes.json").write_text(
         json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8"
     )
