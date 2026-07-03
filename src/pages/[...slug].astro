@@ -23,7 +23,7 @@ const post:any = posts.find((p:any)=>p.frontmatter.slug===slug);
 const pretty = (value:string) => value.replace(/-/g," ").replace(/\b\w/g,c=>c.toUpperCase());
 const title = post?.frontmatter.title || pretty(slug);
 const description = post?.frontmatter.description || `Informasi ${title} dari Meat & Fish, penyedia daging, ikan, seafood, dan frozen food berkualitas.`;
-const pageImage = (routeMedia as Record<string,string>)[path] || "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-12-2025-12_23_31-PM.png";
+const pageImage = (routeMedia as Record<string,string>)[path] || "/wp-content/uploads/2025/10/mf-logo.webp";
 const isArchive = kind==="tag" || kind==="category";
 const staticType = required.includes(clean) ? clean : null;
 const categoryPosts = isArchive ? posts.filter((p:any)=>{
