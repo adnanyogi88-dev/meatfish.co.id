@@ -9,7 +9,8 @@ const modules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { e
 const posts = modules.map((m:any)=>({frontmatter:m.frontmatter, Content:m.Content}));
 export function getStaticPaths() {
   const requiredPaths = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
-  const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`)])].filter(x=>x!=="/");
+  const articlePaths = posts.map((post:any)=>`/${post.frontmatter.slug}/`);
+  const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`), ...articlePaths])].filter(x=>x!=="/");
   return routePaths.map((path:string)=>({params:{slug:path.replace(/^\/|\/$/g,"")},props:{path}}));
 }
 const { path } = Astro.props;
