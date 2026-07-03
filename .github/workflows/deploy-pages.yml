@@ -29,6 +29,10 @@ jobs:
         run: npm ci
       - name: Import WordPress media
         run: python scripts/import-wordpress-media.py
+      - name: Optimize media for Pages
+        run: |
+          python -m pip install Pillow
+          python scripts/optimize-media.py
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
