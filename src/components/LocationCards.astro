@@ -1,0 +1,49 @@
+---
+const locations = [
+  {
+    name: "Kayuringin Bekasi",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-06-07-at-07.18.28-rpd2t55otp45yrxveqx7cld3otprwk0avmmwqzegzs.webp",
+    maps: "https://www.google.com/maps/dir/-6.1710065,106.8060503/INDOFISHMART+FROZEN+FOOD,+Ruko+maya+persada,+Jl.+Lampiri+Raya+No.14,+RT.004%2FRW.regency,+Jatibening+Baru,+Pondok+Gede,+Bekasi,+West+Java+17412/@-6.2145265,106.7882091,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2e698d51184956db:0x36a44a7f57d8d526!2m2!1d106.9399574!2d-6.2535464?entry=ttu"
+  },
+  {
+    name: "Pondok Ungu Bekasi",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/i-rcy8n6p7q6k9kqblch9ls6x1bm6rux0u2g1bjj2xxc.webp",
+    maps: "https://www.google.com/maps/dir//INDOFISHMART+KAYURINGIN/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e698d907be722b5:0x391ee0444adae6de?sa=X&ved=1t:3061&hl=id&ictx=111"
+  },
+  {
+    name: "Pedurungan Semarang",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-06-23-at-10.53.52-rpd2h8ja98tewl8gxlnbrliwt4eeekqp8p5hwt1zt4.webp",
+    maps: "https://www.google.com/maps/dir//indofishmart+sukamaju/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e69eb8a16d91681:0xfeb16d77303f3563?sa=X&ved=1t:3061&ictx=111"
+  },
+  {
+    name: "Legenda Wisata Cibubur",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/i-rcy8n6p42m6yqpue3qo3fydy7ljvvndof29t3bn9u0.webp",
+    maps: "https://g.co/kgs/3q1uyT8"
+  },
+  {
+    name: "Grand Wisata Bekasi",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/i-rcy8n6p2urej4ponotsxbvjl69c97w5yj9omxx61sw.webp"
+  },
+  {
+    name: "Bandar Lampung",
+    image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/i-rcy8n6p2urej4ponotsxbvjl69c97w5yj9omxx61sw.webp"
+  }
+];
+---
+<div class="grid location-grid">
+  {locations.map((location) => (
+    <article class="card location-card">
+      <img src={location.image} alt={`Toko Meat & Fish ${location.name}`} loading="lazy" />
+      <div class="card-body">
+        <span class="pill">{location.maps ? "Buka sekarang" : "Segera hadir"}</span>
+        <h3>{location.name}</h3>
+        <div class="location-actions">
+          {location.maps && <a class="map-button" href={location.maps} target="_blank" rel="noopener">Lihat di Google Maps</a>}
+          <a class="icon-button" href="https://wa.link/89ffhn" target="_blank" rel="nofollow noopener">
+            <img src="/images/WhatsApp_icon.png" alt="" aria-hidden="true" /> WhatsApp
+          </a>
+        </div>
+      </div>
+    </article>
+  ))}
+</div>

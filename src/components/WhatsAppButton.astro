@@ -1,0 +1,7 @@
+---
+const { label = "Hubungi WhatsApp", class: className = "button" } = Astro.props;
+---
+<a class:list={[className, "whatsapp-button"]} href="https://wa.link/89ffhn" target="_blank" rel="nofollow noopener">
+  <img src="/images/WhatsApp_icon.png" alt="" aria-hidden="true" />
+  <span>{label}</span>
+</a>
