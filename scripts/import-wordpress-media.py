@@ -103,7 +103,7 @@ def main():
     records = attachment_records()
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
-    counts = {"downloaded": 0, "cached": 0, "failed": 0}
+    counts = {"downloaded": 0, "cached": 0, "failed": 0, "required_failed": 0}
     with ThreadPoolExecutor(max_workers=48) as pool:
         futures = [pool.submit(download, record) for record in records]
         for index, future in enumerate(as_completed(futures), 1):
@@ -111,11 +111,13 @@ def main():
             key = status if status in counts else "failed"
             counts[key] += 1
             if key == "failed":
+                if record["id"]:
+                    counts["required_failed"] += 1
                 print(f"{status}: {record['source']}")
             elif index % 50 == 0:
                 print(f"{index}/{len(records)}")
     print(json.dumps(counts))
-    if counts["failed"]:
+    if counts["required_failed"]:
         raise SystemExit(1)
 
 
