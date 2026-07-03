@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+  <title id="t">Meat &amp; Fish</title><desc id="d">Placeholder gambar produk daging dan ikan beku</desc>
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#092f38"/><stop offset="1" stop-color="#d64632"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#g)"/><circle cx="940" cy="140" r="260" fill="#fff" opacity=".08"/>
+  <text x="80" y="310" fill="#fff" font-family="Arial,sans-serif" font-size="92" font-weight="700">MEAT &amp; FISH</text>
+  <text x="84" y="385" fill="#fff" font-family="Arial,sans-serif" font-size="34">Daging • Ikan • Frozen Food</text>
+</svg>

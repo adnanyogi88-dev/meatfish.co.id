@@ -1,0 +1,22 @@
+---
+const links = [
+  ["Meat & Fish", "/"],
+  ["Lokasi Toko", "/lokasi-meat-fish/"],
+  ["Jadi Supplier", "/daftar-supplier-meatfish/"],
+  ["Gabung Kemitraan", "/gabung-kemitraan/"],
+  ["Produk", "/produk-meatfish/"],
+  ["Artikel", "/trend-daging-ikan-frozen/"],
+  ["Tentang", "/tentang-meatfish/"]
+];
+const current = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="site-logo" href="/" aria-label="Meat & Fish homepage"><span>M&F</span> Meat & Fish</a>
+    <input id="nav-toggle" class="nav-toggle" type="checkbox" aria-label="Buka menu" />
+    <label for="nav-toggle" class="nav-button" aria-hidden="true">☰</label>
+    <nav class="main-nav" aria-label="Navigasi utama">
+      {links.map(([label, href]) => <a class:list={{active: href === "/" ? current === "/" : current.startsWith(href)}} href={href}>{label}</a>)}
+    </nav>
+  </div>
+</header>

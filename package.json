@@ -1,0 +1,19 @@
+{
+  "name": "meatfish-co-id",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare": "python scripts/prepare-content.py",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.12.0",
+    "retext": "^9.0.0",
+    "retext-latin": "^4.0.0",
+    "retext-stringify": "^4.0.0"
+  }
+}
