@@ -4,8 +4,8 @@ slug: "harga-ikan-kuniran-per-kg-peluang-emas-untuk-pebisnis-seafood"
 date: 2025-05-20T16:44:16+07:00
 draft: false
 description: "Artikel ini membahas harga ikan kuniran per kg, serta bagaimana informasi ini dapat menjadi dasar strategis bagi pelaku bisnis seafood"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-04_49_20-PM.png"
+featured_image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-04_49_20-PM.png"
 categories:
   - "Bisnis"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Dalam dunia bisnis perikanan, permintaan terhadap ikan konsumsi terus meningkat seiring kesadaran masyarakat akan pentingnya asupan protein hewani yang sehat.
 
-![Harga Ikan Kuniran per Kg](/images/article-placeholder.svg)
+![Harga Ikan Kuniran per Kg](/wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-04_49_20-PM-300x200.png)
 
 Salah satu jenis ikan yang kini banyak diminati adalah **ikan kuniran**. Bukan hanya karena rasanya yang lezat, tetapi juga karena harganya yang kompetitif dan kandungan gizinya yang tinggi. Artikel ini akan membahas secara lengkap **harga ikan kuniran per kg**, serta bagaimana informasi ini dapat menjadi dasar keputusan strategis bagi pelaku bisnis seafood.
 

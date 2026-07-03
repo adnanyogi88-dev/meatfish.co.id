@@ -4,8 +4,8 @@ slug: "sejarah-ikan-salem-dari-masa-kemasa"
 date: 2024-07-12T13:54:28+07:00
 draft: false
 description: "Ikan salem, dengan nama ilmiah Scomber austraslicus, merupakan salah satu biota laut yang telah lama menjadi bagian penting dalam sejarah kuliner dan budaya manusia."
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/07/ikan-salem.jpg"
+featured_image: "/wp-content/uploads/2024/07/ikan-salem.jpg"
 categories:
   - "Artikel"
 tags:
@@ -20,7 +20,7 @@ author: "administrator"
 
 ## Ikan salem, dengan nama ilmiah **Scomber austraslicus**, merupakan salah satu biota laut yang telah lama menjadi bagian penting dalam sejarah kuliner dan budaya manusia.
 
-[caption id="attachment\_3329" align="alignnone" width="300"]![ikan salem](/images/article-placeholder.svg) [sumber](http://tokopedia.com)[/caption]
+[caption id="attachment\_3329" align="alignnone" width="300"]![ikan salem](/wp-content/uploads/2024/07/ikan-salem-300x300.jpg) [sumber](http://tokopedia.com)[/caption]
 
 Ikan berbadan ramping ini, dengan pola garis-garis vertikal berwarna gelap pada tubuhnya, menyimpan cerita panjang tentang migrasi, adaptasi, dan pemanfaatannya oleh peradaban di berbagai belahan dunia.
 

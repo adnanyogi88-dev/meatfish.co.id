@@ -4,8 +4,8 @@ slug: "kerapu-cantang-hybrida-kerapu-yang-diminati-di-tiongkok-peluang-besar-unt
 date: 2025-07-26T00:25:40+07:00
 draft: false
 description: "Kerapu cantang adalah hasil persilangan antara kerapu macan (Epinephelus fuscoguttatus) dan kerapu kertang (Epinephelus lanceolatus)"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_24_45-AM.png"
+featured_image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_24_45-AM.png"
 categories:
   - "Bisnis"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Kerapu cantang adalah hasil persilangan antara kerapu macan (*Epinephelus fuscoguttatus*) dan kerapu kertang (*Epinephelus lanceolatus*).
 
-![Kerapu Cantang](/images/article-placeholder.svg)
+![Kerapu Cantang](/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_24_45-AM-300x300.png)
 
 Ikan ini bukan hanya memiliki pertumbuhan yang cepat dan ketahanan tubuh yang kuat, tetapi juga menjadi primadona di pasar ekspor, terutama di Tiongkok. Dengan permintaan yang terus meningkat, kerapu cantang membuka peluang besar bagi pelaku usaha perikanan Indonesia untuk meraih pasar ekspor yang menguntungkan.
 

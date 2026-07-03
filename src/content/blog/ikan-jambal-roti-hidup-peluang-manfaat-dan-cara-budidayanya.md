@@ -4,8 +4,8 @@ slug: "ikan-jambal-roti-hidup-peluang-manfaat-dan-cara-budidayanya"
 date: 2025-05-02T17:06:19+07:00
 draft: false
 description: "artikel ini mengulas tentang ikan jambal roti hidup, mulai dari karakteristiknya, manfaat gizi, hingga peluang usaha dan teknik budidayanya"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-22-2025-05_19_11-PM.png"
+featured_image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-22-2025-05_19_11-PM.png"
 categories:
   - "Bisnis"
   - "Tips"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Dalam dunia perikanan Indonesia, ikan jambal roti telah lama terkenal sebagai salah satu jenis ikan asin yang memiliki rasa gurih khas dan orang sukai.
 
-![Ikan Jambal Roti Hidup](/images/article-placeholder.svg)
+![Ikan Jambal Roti Hidup](/wp-content/uploads/2025/04/ChatGPT-Image-Apr-22-2025-05_19_11-PM-300x200.png)
 
 Namun, tahukah Anda bahwa kini tersedia juga ikan jambal roti dalam bentuk hidup? Tren ini berkembang seiring meningkatnya kesadaran akan konsumsi ikan segar dan berkembangnya teknologi budidaya. Oleh karena itu, artikel ini akan mengulas secara menyeluruh tentang ikan jambal roti hidup, mulai dari karakteristiknya, manfaat gizi, hingga peluang usaha dan teknik budidayanya.
 

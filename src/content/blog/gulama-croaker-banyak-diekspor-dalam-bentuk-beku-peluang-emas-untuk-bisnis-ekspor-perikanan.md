@@ -4,8 +4,8 @@ slug: "gulama-croaker-banyak-diekspor-dalam-bentuk-beku-peluang-emas-untuk-bisni
 date: 2025-08-17T16:44:36+07:00
 draft: false
 description: "Ikan Gulama termasuk dalam keluarga Sciaenidae hidup di perairan tropis dan subtropis. ditemukan di perairan Kalimantan, Sumatera,"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-28-2025-04_45_45-PM.png"
+featured_image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-28-2025-04_45_45-PM.png"
 categories:
   - "Bisnis"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Dalam dunia perdagangan internasional, komoditas perikanan menjadi salah satu sektor yang terus mengalami pertumbuhan signifikan.
 
-![Gulama (Croaker)](/images/article-placeholder.svg)re
+![Gulama (Croaker)](/wp-content/uploads/2025/07/ChatGPT-Image-Jul-28-2025-04_45_45-PM-300x300.png)re
 
 Salah satu jenis ikan laut yang saat ini mendapatkan perhatian khusus dari pasar ekspor adalah Gulama atau yang terkenal secara internasional sebagai Croaker. Ikan ini bukan hanya populer di dalam negeri, tetapi juga banyak orang ekspor dalam bentuk beku ke berbagai negara di Asia, Eropa, dan Amerika.
 

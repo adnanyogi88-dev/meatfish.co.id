@@ -4,8 +4,8 @@ slug: "supplier-cumi-berkualitas-ekspor-kunci-sukses-bisnis-seafood-anda"
 date: 2025-04-15T09:07:41+07:00
 draft: false
 description: "penting memilih supplier cumi yang tidak hanya menyediakan produk berkualitas tinggi, tetapi juga menjaga konsistensi, kesegaran,"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/04/DALL·E-2025-04-08-09.10.59-A-high-quality-photo-depicting-fresh-premium-quality-squid-being-prepared-for-export.-The-squid-are-clean-well-arranged-and-packaged-hygienically-u.webp"
+featured_image: "/wp-content/uploads/2025/04/DALL·E-2025-04-08-09.10.59-A-high-quality-photo-depicting-fresh-premium-quality-squid-being-prepared-for-export.-The-squid-are-clean-well-arranged-and-packaged-hygienically-u.webp"
 categories:
   - "Bisnis"
   - "Tren Pasar Ikan"
@@ -26,7 +26,7 @@ author: "administrator"
 
 ## Meningkatnya permintaan terhadap produk seafood khususnya cumi-cumi di pasar internasional membuat peluang bisnis cumi berkualitas ekspor semakin menjanjikan.
 
-![supplier cumi](/images/article-placeholder.svg)
+![supplier cumi](/wp-content/uploads/2025/04/DALL·E-2025-04-08-09.10.59-A-high-quality-photo-depicting-fresh-premium-quality-squid-being-prepared-for-export.-The-squid-are-clean-well-arranged-and-packaged-hygienically-u-300x171.webp)
 
 Produk seafood dari Indonesia, khususnya cumi-cumi, memiliki reputasi yang sangat baik karena kualitasnya yang tinggi dan segar. Untuk meraih sukses di pasar ekspor, sangat penting memilih supplier cumi yang tidak hanya menyediakan produk berkualitas tinggi, tetapi juga memiliki kemampuan untuk menjaga konsistensi, kesegaran, dan standar internasional dalam pengolahannya.
 

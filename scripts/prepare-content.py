@@ -10,6 +10,7 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 XLSX = ROOT / "data sitemaps meatfish.xlsx"
 ZIP = ROOT / "indofishmart_top_40_markdown.zip"
+MEDIA_XML = ROOT / "meatampfish.WordPress.2026-07-02.xml"
 DATA = ROOT / "src" / "data"
 BLOG = ROOT / "src" / "content" / "blog"
 
@@ -25,15 +26,36 @@ def sitemap_urls():
     return [value for value in strings if value.startswith("https://meatfish.id")]
 
 
-def clean_markdown(text):
+def media_paths():
+    paths = {}
+    if not MEDIA_XML.exists():
+        return paths
+    namespace = "http://wordpress.org/export/1.2/"
+    root = ET.parse(MEDIA_XML).getroot()
+    for item in root.findall("./channel/item"):
+        url = item.findtext(f"{{{namespace}}}attachment_url")
+        if not url:
+            continue
+        path = urlparse(url).path
+        paths[Path(path).name.lower()] = path
+    return paths
+
+
+def local_image(url, paths):
+    filename = Path(urlparse(url).path).name.lower()
+    parsed_path = urlparse(url).path
+    return paths.get(filename, parsed_path if "/wp-content/uploads/" in parsed_path else url)
+
+
+def clean_markdown(text, paths):
     text = re.sub(
-        r'(?m)^(image|featured_image):\s*".*?"\s*$',
-        r'\1: "/images/article-placeholder.svg"',
+        r'(?m)^(image|featured_image):\s*"([^"]+)"\s*$',
+        lambda match: f'{match.group(1)}: "{local_image(match.group(2), paths)}"',
         text,
     )
     text = re.sub(
         r'!\[([^\]]*)\]\(https?://[^)]+\)',
-        r'![\1](/images/article-placeholder.svg)',
+        lambda match: f'![{match.group(1)}]({local_image(match.group(0).split("](", 1)[1][:-1], paths)})',
         text,
     )
     text = text.replace("https://indofishmart.id", "https://meatfish.co.id")
@@ -50,6 +72,7 @@ def main():
     DATA.mkdir(parents=True, exist_ok=True)
     BLOG.mkdir(parents=True, exist_ok=True)
     urls = sitemap_urls()
+    paths = media_paths()
     records = []
     for url in urls:
         path = urlparse(url).path
@@ -66,7 +89,7 @@ def main():
                 continue
             raw = archive.read(member).decode("utf-8-sig")
             name = re.sub(r"^\d+-", "", Path(member).name)
-            (BLOG / name).write_text(clean_markdown(raw), encoding="utf-8")
+            (BLOG / name).write_text(clean_markdown(raw, paths), encoding="utf-8")
     print(f"Prepared {len(records)} routes and {len(list(BLOG.glob('*.md')))} articles")
 
 

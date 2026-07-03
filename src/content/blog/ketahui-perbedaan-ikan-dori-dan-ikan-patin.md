@@ -4,8 +4,8 @@ slug: "ketahui-perbedaan-ikan-dori-dan-ikan-patin"
 date: 2024-08-15T21:53:31+07:00
 draft: false
 description: "rtikel ini akan membahas secara mendalam perbedaan antara ikan dori dan ikan patin"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/08/hipwee-SAMPUL-SEO-IKAN-DORI.jpg"
+featured_image: "/wp-content/uploads/2024/08/hipwee-SAMPUL-SEO-IKAN-DORI.jpg"
 categories:
   - "Artikel"
   - "Tips"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Ikan merupakan salah satu sumber protein hewani yang sangat penting bagi masyarakat Indonesia.
 
-[caption id="attachment\_3626" align="alignnone" width="300"]![ikan dori vs patin](/images/article-placeholder.svg) [sumber](https://www.hipwee.com/)[/caption]
+[caption id="attachment\_3626" align="alignnone" width="300"]![ikan dori vs patin](/wp-content/uploads/2024/08/hipwee-SAMPUL-SEO-IKAN-DORI-300x176.jpg) [sumber](https://www.hipwee.com/)[/caption]
 
 Di antara berbagai jenis ikan yang tersedia, ikan dori dan ikan patin menjadi pilihan populer baik untuk konsumsi maupun budidaya. Namun, tidak jarang masyarakat awam sulit membedakan antara ikan dori dan ikan patin, padahal keduanya memiliki perbedaan yang signifikan, baik dari segi biologis, nutrisi, hingga cara pengolahannya. Artikel ini akan membahas secara mendalam perbedaan antara ikan dori dan ikan patin, serta memberikan panduan bagi konsumen dan pembudidaya dalam memilih jenis ikan yang sesuai dengan kebutuhan mereka.
 

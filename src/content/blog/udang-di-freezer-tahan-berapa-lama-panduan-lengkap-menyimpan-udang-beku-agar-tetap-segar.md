@@ -4,8 +4,8 @@ slug: "udang-di-freezer-tahan-berapa-lama-panduan-lengkap-menyimpan-udang-beku-a
 date: 2025-04-28T16:38:15+07:00
 draft: false
 description: "Dalam artikel in mengupas tuntas tentang ketahanan udang di freezer, bagaimana cara penyimpanan yang tepat, hingga potensi bisnis"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_08-PM.png"
+featured_image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_08-PM.png"
 categories:
   - "Tips"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Udang adalah salah satu seafood favorit banyak orang karena kelezatannya, teksturnya yang lembut, dan kandungan nutrisinya yang tinggi.
 
-![Berapa Lama Ikan Tahan di Freezer](/images/article-placeholder.svg)
+![Berapa Lama Ikan Tahan di Freezer](/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_08-PM-300x300.png)
 
 Namun, seperti bahan makanan laut lainnya, udang sangat mudah rusak jika tidak anda simpan dengan baik. Maka tak heran, pertanyaan yang sering muncul adalah: **udang di freezer tahan berapa lama?**
 

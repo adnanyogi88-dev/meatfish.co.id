@@ -4,8 +4,8 @@ slug: "berapa-lama-ikan-lele-bertelur-panduan-lengkap-budidaya-peluang-bisnis"
 date: 2025-10-11T11:38:30+07:00
 draft: false
 description: "Berapa Lama Ikan Lele Bertelur? Ikan lele biasanya membutuhkan waktu sekitar 10–15 hari sejak pembuahan"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/09/ChatGPT-Image-Sep-15-2025-11_35_49-AM-1.png"
+featured_image: "/wp-content/uploads/2025/09/ChatGPT-Image-Sep-15-2025-11_35_49-AM-1.png"
 categories:
   - "Tren Pasar Ikan"
 tags:

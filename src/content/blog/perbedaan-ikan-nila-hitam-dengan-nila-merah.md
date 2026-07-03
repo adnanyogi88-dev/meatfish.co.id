@@ -4,8 +4,8 @@ slug: "perbedaan-ikan-nila-hitam-dengan-nila-merah"
 date: 2024-12-10T10:34:54+07:00
 draft: false
 description: "Ikan nila hitam memiliki warna gelap, mulai dari abu-abu hingga hitam pekat, yang penyebabnya adalah tingginya kandungan melanin pada kulitnya"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/12/DALL·E-2024-12-06-10.33.29-Illustration-showing-the-differences-between-black-tilapia-and-red-tilapia-featuring-two-fish-side-by-side.-The-black-tilapia-has-a-darker-gray-to-bl.webp"
+featured_image: "/wp-content/uploads/2024/12/DALL·E-2024-12-06-10.33.29-Illustration-showing-the-differences-between-black-tilapia-and-red-tilapia-featuring-two-fish-side-by-side.-The-black-tilapia-has-a-darker-gray-to-bl.webp"
 categories:
   - "Artikel"
   - "Tren Pasar Ikan"
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Terdapat dua varietas utama yang sering masyarakat budidayakan dan konsumsi, yaitu ikan nila hitam dan ikan nila merah.
 
-![](/images/article-placeholder.svg)
+![](/wp-content/uploads/2024/12/DALL·E-2024-12-06-10.33.29-Illustration-showing-the-differences-between-black-tilapia-and-red-tilapia-featuring-two-fish-side-by-side.-The-black-tilapia-has-a-darker-gray-to-bl.webp)
 
 Meskipun berasal dari spesies yang sama, keduanya memiliki perbedaan signifikan dalam hal penampilan, pertumbuhan, rasa, dan preferensi pasar. Memahami perbedaan ini penting bagi konsumen, peternak, dan pelaku industri perikanan.
 

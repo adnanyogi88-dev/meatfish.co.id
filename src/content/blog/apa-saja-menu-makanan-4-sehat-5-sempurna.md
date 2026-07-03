@@ -4,8 +4,8 @@ slug: "apa-saja-menu-makanan-4-sehat-5-sempurna"
 date: 2024-08-12T21:18:43+07:00
 draft: false
 description: "Artikel ini diharapkan dapat membantu pembaca memahami pentingnya pola makan yang sehat dan panduan praktis pada penerapanya."
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/08/4_sehat_5_sempurna_1024x1024.webp"
+featured_image: "/wp-content/uploads/2024/08/4_sehat_5_sempurna_1024x1024.webp"
 categories:
   - "Menu"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Konsep "4 Sehat 5 Sempurna" telah lama terkenal di Indonesia sebagai panduan pola makan sehat yang dianjurkan oleh pemerintah pada tahun 1950-an.
 
-[caption id="attachment\_3601" align="alignnone" width="300"]![menu makanan 4 sehat 5 sempurna ](/images/article-placeholder.svg) [sumber](https://www.hanakobabyshop.com/)[/caption]
+[caption id="attachment\_3601" align="alignnone" width="300"]![menu makanan 4 sehat 5 sempurna ](/wp-content/uploads/2024/08/4_sehat_5_sempurna_1024x1024-300x226.webp) [sumber](https://www.hanakobabyshop.com/)[/caption]
 
 Meskipun konsep ini sudah terperbarui dengan Pedoman Gizi Seimbang, "4 Sehat 5 Sempurna" masih kita kenang dan kita anggap sebagai dasar untuk memahami pentingnya pola makan sehat dan seimbang.
 

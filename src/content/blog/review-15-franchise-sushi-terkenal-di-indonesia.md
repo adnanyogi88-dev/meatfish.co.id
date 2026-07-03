@@ -4,8 +4,8 @@ slug: "review-15-franchise-sushi-terkenal-di-indonesia"
 date: 2025-01-21T15:30:46+07:00
 draft: false
 description: "Berikut adalah review 15 franchise sushi terkenal di Indonesia yang dapat menjadi inspirasi bagi pecinta kuliner dan calon pengusaha."
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/01/DALL·E-2025-01-17-15.26.11-A-professional-and-visually-appealing-infographic-summarizing-the-key-steps-in-creating-a-franchise-proposal.-The-infographic-features-sections-labele.webp"
+featured_image: "/wp-content/uploads/2025/01/DALL·E-2025-01-17-15.26.11-A-professional-and-visually-appealing-infographic-summarizing-the-key-steps-in-creating-a-franchise-proposal.-The-infographic-features-sections-labele.webp"
 categories:
   - "Bisnis"
   - "Franchise"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Sushi telah menjadi salah satu makanan Jepang yang paling populer di dunia, termasuk di Indonesia.
 
-![Cara Membuat Proposal Franchise](/images/article-placeholder.svg)
+![Cara Membuat Proposal Franchise](/wp-content/uploads/2025/01/DALL·E-2025-01-17-15.26.11-A-professional-and-visually-appealing-infographic-summarizing-the-key-steps-in-creating-a-franchise-proposal.-The-infographic-features-sections-labele-300x300.webp)
 
 Dengan rasa yang khas dan tampilan yang menarik, bisnis sushi telah berkembang pesat di berbagai kota di Tanah Air. Berikut adalah review 15 franchise sushi terkenal di Indonesia yang dapat menjadi inspirasi bagi pecinta kuliner dan calon pengusaha.
 

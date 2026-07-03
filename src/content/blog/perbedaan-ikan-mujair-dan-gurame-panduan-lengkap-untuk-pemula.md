@@ -4,8 +4,8 @@ slug: "perbedaan-ikan-mujair-dan-gurame-panduan-lengkap-untuk-pemula"
 date: 2025-04-08T08:07:51+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas perbedaan ikan mujair dan gurame dari berbagai aspek, termasuk bentuk fisik, rasa, gizi,"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/03/DALL·E-2025-03-20-08.11.59-A-detailed-comparison-image-of-Mujair-fish-and-Gurame-fish.-On-the-left-the-Mujair-fish-is-depicted-as-a-slimmer-elongated-fish-with-smaller-scales.webp"
+featured_image: "/wp-content/uploads/2025/03/DALL·E-2025-03-20-08.11.59-A-detailed-comparison-image-of-Mujair-fish-and-Gurame-fish.-On-the-left-the-Mujair-fish-is-depicted-as-a-slimmer-elongated-fish-with-smaller-scales.webp"
 categories:
   - "Tips"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Ikan merupakan salah satu sumber protein yang sangat penting bagi manusia.
 
-![Ikan Mujair vs Gurame](/images/article-placeholder.svg)
+![Ikan Mujair vs Gurame](/wp-content/uploads/2025/03/DALL·E-2025-03-20-08.11.59-A-detailed-comparison-image-of-Mujair-fish-and-Gurame-fish.-On-the-left-the-Mujair-fish-is-depicted-as-a-slimmer-elongated-fish-with-smaller-scales-1-300x300.webp)
 
 Di Indonesia, ada banyak jenis ikan air tawar yang sering kita konsumsi, dua di antaranya adalah ikan mujair dan ikan gurame. Keduanya sering menjadi pilihan utama bagi masyarakat, baik untuk konsumsi harian maupun untuk usaha perikanan. Namun, banyak orang yang masih bingung membedakan antara kedua jenis ikan ini. Dalam artikel ini, kita akan membahas secara lengkap perbedaan ikan mujair dan gurame dari berbagai aspek, termasuk bentuk fisik, rasa, kandungan gizi, hingga prospek usaha.
 

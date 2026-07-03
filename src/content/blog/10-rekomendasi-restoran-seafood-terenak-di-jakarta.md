@@ -4,8 +4,8 @@ slug: "10-rekomendasi-restoran-seafood-terenak-di-jakarta"
 date: 2024-12-19T14:31:12+07:00
 draft: false
 description: "Berikut adalah 10 rekomendasi restoran seafood terenak di Jakarta yang harus Anda coba untuk pengalaman kuliner tak terlupakan."
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/12/DALL·E-2024-12-16-14.39.04-A-vibrant-seafood-restaurant-scene-in-Jakarta-featuring-a-variety-of-fresh-seafood-dishes-such-as-grilled-fish-shrimp-lobster-and-crab-on-a-beautif.webp"
+featured_image: "/wp-content/uploads/2024/12/DALL·E-2024-12-16-14.39.04-A-vibrant-seafood-restaurant-scene-in-Jakarta-featuring-a-variety-of-fresh-seafood-dishes-such-as-grilled-fish-shrimp-lobster-and-crab-on-a-beautif.webp"
 categories:
   - "Artikel"
   - "Bisnis"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Jakarta, sebagai ibu kota Indonesia, adalah surga bagi para pecinta kuliner dengan beragam pilihan yang menggugah selera.
 
-![Restoran Seafood Terenak di Jakarta](/images/article-placeholder.svg)
+![Restoran Seafood Terenak di Jakarta](/wp-content/uploads/2024/12/DALL·E-2024-12-16-14.39.04-A-vibrant-seafood-restaurant-scene-in-Jakarta-featuring-a-variety-of-fresh-seafood-dishes-such-as-grilled-fish-shrimp-lobster-and-crab-on-a-beautif-300x171.webp)
 
 Salah satu jenis kuliner yang paling digemari adalah hidangan seafood. Berkat kekayaan hasil laut Nusantara, restoran seafood di Jakarta menyajikan berbagai hidangan dengan cita rasa autentik, segar, dan penuh sensasi rasa. Berikut adalah 10 rekomendasi restoran seafood terenak di Jakarta yang harus Anda coba untuk pengalaman kuliner tak terlupakan.
 

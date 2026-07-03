@@ -4,8 +4,8 @@ slug: "modal-awal-usaha-seafood-panduan-lengkap-memulai-bisnis-seafood-yang-meng
 date: 2025-01-31T15:54:17+07:00
 draft: false
 description: "Artikel ini akan membahas secara mendalam modal awal usaha seafood, mulai dari perencanaan hingga langkah praktis"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/01/DALL·E-2025-01-23-15.55.21-An-infographic-style-illustration-depicting-the-initial-investment-requirements-for-starting-a-seafood-business.-It-includes-detailed-visuals-such-as-.webp"
+featured_image: "/wp-content/uploads/2025/01/DALL·E-2025-01-23-15.55.21-An-infographic-style-illustration-depicting-the-initial-investment-requirements-for-starting-a-seafood-business.-It-includes-detailed-visuals-such-as-.webp"
 categories:
   - "Bisnis"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Memulai usaha seafood adalah salah satu peluang bisnis yang sangat menjanjikan di Indonesia.
 
-![Modal Awal Usaha Seafood](/images/article-placeholder.svg)
+![Modal Awal Usaha Seafood](/wp-content/uploads/2025/01/DALL·E-2025-01-23-15.55.21-An-infographic-style-illustration-depicting-the-initial-investment-requirements-for-starting-a-seafood-business.-It-includes-detailed-visuals-such-as--300x300.webp)
 
 Sebagai negara maritim, Indonesia memiliki sumber daya laut yang melimpah, menjadikan bisnis ini tidak pernah kehilangan daya tariknya. Salah satu kunci utama untuk sukses dalam usaha ini adalah memahami modal awal yang diperlukan dan bagaimana mengelolanya dengan efisien. Artikel ini akan membahas secara mendalam modal awal usaha seafood, mulai dari perencanaan hingga langkah praktis untuk menjalankannya.
 

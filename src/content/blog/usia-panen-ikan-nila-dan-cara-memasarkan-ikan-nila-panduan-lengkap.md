@@ -4,8 +4,8 @@ slug: "usia-panen-ikan-nila-dan-cara-memasarkan-ikan-nila-panduan-lengkap"
 date: 2025-04-23T09:09:07+07:00
 draft: false
 description: "usia panen ikan nila ideal adalah 4-6 bulan, tergantung pada kondisi pemeliharaan dan target pasar"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-11-2025-09_12_16-AM.png"
+featured_image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-11-2025-09_12_16-AM.png"
 categories:
   - "Bisnis"
   - "Tips"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Budidaya ikan nila menjadi salah satu usaha perikanan air tawar yang paling menjanjikan di Indonesia.
 
-![Usia Panen Ikan Nila](/images/article-placeholder.svg)
+![Usia Panen Ikan Nila](/wp-content/uploads/2025/04/ChatGPT-Image-Apr-11-2025-09_12_16-AM-200x300.png)
 
 Selain mudah kita budidayakan, permintaan pasar terhadap ikan ini terus meningkat dari waktu ke waktu. Namun, keberhasilan usaha ini sangat terpengaruhi oleh dua faktor penting, yaitu mengetahui *usia panen ikan nila yang ideal* serta strategi pemasaran yang efektif. Artikel ini akan membahas secara lengkap kedua aspek tersebut dan mengaitkannya dengan peluang bisnis yang lebih luas.
 

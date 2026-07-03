@@ -5,13 +5,13 @@ import "../styles/global.css";
 const {
   title = "Meat & Fish – Daging, Ikan & Frozen Food",
   description = "Pusat daging, ikan, seafood, dan frozen food berkualitas untuk keluarga dan bisnis.",
-  image = "/images/article-placeholder.svg",
+  image = "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-12-2025-12_04_31-PM.png",
   type = "website"
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const organization = {
   "@context": "https://schema.org", "@type": "Organization", name: "Meat & Fish",
-  url: "https://meatfish.co.id", logo: new URL("/images/article-placeholder.svg", Astro.site).href
+  url: "https://meatfish.co.id", logo: new URL("/wp-content/uploads/2025/10/mf-logo.webp", Astro.site).href
 };
 ---
 <!doctype html>

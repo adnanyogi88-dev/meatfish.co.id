@@ -1,5 +1,7 @@
 node_modules/
 dist/
 .astro/
+public/wp-content/uploads/
+.astro/
 .DS_Store
 npm-debug.log*

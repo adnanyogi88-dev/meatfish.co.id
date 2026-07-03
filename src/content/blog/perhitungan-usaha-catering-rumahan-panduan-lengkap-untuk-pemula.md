@@ -4,8 +4,8 @@ slug: "perhitungan-usaha-catering-rumahan-panduan-lengkap-untuk-pemula"
 date: 2024-12-18T14:15:56+07:00
 draft: false
 description: "Artikel ini akan membahas cara melakukan perhitungan usaha catering rumahan, termasuk estimasi modal, biaya operasional, dan potensi keuntungan"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2024/12/perhitungan-usaha-catering-rumahan.webp"
+featured_image: "/wp-content/uploads/2024/12/perhitungan-usaha-catering-rumahan.webp"
 categories:
   - "Artikel"
   - "Bisnis"
@@ -24,7 +24,7 @@ author: "administrator"
 
 ## Usaha catering rumahan menjadi salah satu bisnis yang menjanjikan di tengah meningkatnya kebutuhan masyarakat akan layanan makanan siap saji.
 
-![Perhitungan Usaha Catering Rumahan](/images/article-placeholder.svg)
+![Perhitungan Usaha Catering Rumahan](/wp-content/uploads/2024/12/perhitungan-usaha-catering-rumahan-300x200.webp)
 
 Untuk memulai bisnis ini, diperlukan perhitungan yang cermat agar usaha bisa berjalan dengan lancar dan menghasilkan keuntungan optimal. Artikel ini akan membahas cara melakukan perhitungan usaha catering rumahan, termasuk estimasi modal, biaya operasional, dan potensi keuntungan. Tak lupa, Anda dapatkan bahan bakunya hanya di **Meat & Fish** untuk jaminan kualitas terbaik.
 

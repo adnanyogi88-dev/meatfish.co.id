@@ -4,8 +4,8 @@ slug: "enak-mana-kerapu-atau-kakap-panduan-lengkap-memilih-ikan-terbaik-untuk-hi
 date: 2025-10-23T15:05:08+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas secara mendalam perbedaan rasa kerapu dan kakap, tips memasaknya agar selalu lezat, hingga rekomendasi"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/09/ChatGPT-Image-Sep-17-2025-03_09_58-PM.png"
+featured_image: "/wp-content/uploads/2025/09/ChatGPT-Image-Sep-17-2025-03_09_58-PM.png"
 categories:
   - "Tren Pasar Ikan"
 tags:

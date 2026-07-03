@@ -4,8 +4,8 @@ slug: "berapa-lama-lele-bertahan-di-freezer-panduan-lengkap-untuk-pebisnis-froze
 date: 2025-06-03T17:17:23+07:00
 draft: false
 description: "\"Berapa lama lele bertahan di freezer?\" Artikel ini akan menjawab pertanyaan tersebut secara mendalam. Lebih dari itu, kita akan mengulasnya"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_19_47-PM.png"
+featured_image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_19_47-PM.png"
 categories:
   - "Uncategorized"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Dalam dunia bisnis makanan beku, terutama frozen food berbasis ikan konsumsi, efisiensi penyimpanan menjadi kunci utama.
 
-![berapa lama lele dalam kulkas](/images/article-placeholder.svg)featu
+![berapa lama lele dalam kulkas](/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_19_47-PM-200x300.png)featu
 
 Salah satu pertanyaan yang sering muncul adalah: **"Berapa lama lele bertahan di freezer?"** Artikel ini akan menjawab pertanyaan tersebut secara mendalam. Lebih dari itu, kita akan mengulas dampaknya terhadap keberlangsungan dan pertumbuhan bisnis, terutama bagi Anda yang terlibat di industri kuliner, restoran, dan distribusi makanan beku.
 

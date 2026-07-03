@@ -3,8 +3,8 @@ title: "Apakah Ikan Harus Dicuci Sebelum Masuk Freezer? Panduan Lengkap untuk Pe
 slug: "apakah-ikan-harus-dicuci-sebelum-masuk-freezer-panduan-lengkap-untuk-pebisnis-makanan-beku"
 date: 2025-05-02T17:05:15+07:00
 draft: false
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
+image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_08_05-PM.png"
+featured_image: "/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_08_05-PM.png"
 categories:
   - "Bisnis"
   - "Tips"
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Dalam dunia bisnis makanan beku, terutama bagi pelaku usaha seperti restoran seafood, distributor frozen food, maupun dropshipper,
 
-![Apakah Ikan Harus Dicuci Sebelum Masuk Freezer](/images/article-placeholder.svg)
+![Apakah Ikan Harus Dicuci Sebelum Masuk Freezer](/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_08_05-PM-200x300.png)
 
 kualitas bahan baku adalah segalanya. Salah satu pertanyaan paling umum dari para pelaku usaha pemula adalah: **Apakah ikan harus anda cuci sebelum masuk freezer?** Jawaban atas pertanyaan ini ternyata sangat penting karena berkaitan langsung dengan kualitas produk akhir, efisiensi operasional, dan tentu saja—kepuasan konsumen.
 
