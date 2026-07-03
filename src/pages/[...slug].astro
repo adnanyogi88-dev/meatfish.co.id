@@ -31,13 +31,77 @@ const categoryPosts = isArchive ? posts.filter((p:any)=>{
   return vals.some((v:string)=>v.toLowerCase().replace(/\s+/g,"-")===slug);
 }) : [];
 const articleLd = post ? {"@context":"https://schema.org","@type":"Article",headline:title,datePublished:post.frontmatter.date,author:{"@type":"Person","name":post.frontmatter.author||"administrator"},image:new URL(post.frontmatter.image||"/images/article-placeholder.svg",Astro.site).href} : null;
+const productCatalog = [
+  {
+    title: "Daging Frozen",
+    items: [
+      ["Beef Slice Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp"],
+      ["Beef Steak Sirloin Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Steak-Sirloin-1.webp"],
+      ["Beef Steak Tenderloin Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Steak-Tenderloin-2.webp"],
+      ["Daging Rendang Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Daging-Rendang-3.webp"],
+      ["Beef Short Ribeye Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Short-Ribeye-2.webp"],
+      ["Beef Shortplate Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Shortplate-1.webp"],
+      ["Beef Oxtail Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Oxtail-Import-2.webp"],
+      ["Beef Steak Sirloin Meltique Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Sirloin-Meltique-2.webp"],
+      ["Daging Frozen lainnya", "https://meatfish.id/wp-content/uploads/2024/07/WhatsApp-Image-2025-12-22-at-17.35.31-1.webp"]
+    ]
+  },
+  {
+    title: "Ayam Frozen",
+    items: [
+      ["Ayam Frozen", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
+      ["Paha Ayam Frozen", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
+      ["Ati Ampela Frozen", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
+    ]
+  },
+  {
+    title: "Ikan & Seafood Frozen",
+    items: [
+      ["Ikan Dori Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"],
+      ["Ikan Lele Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Lele-Fillet-3.webp"],
+      ["Ikan Salmon Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Salmon-Portion-1-1.webp"],
+      ["Cumi Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cumi-Ring-2.webp"],
+      ["Udang Beku", "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"],
+      ["Ikan Tuna Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tuna-Steak-3.webp"],
+      ["Ikan Gurame Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Gurame-1.webp"],
+      ["Ikan Tenggiri Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tenggiri-Steak-3-1.webp"],
+      ["Ikan Salem Beku", "https://meatfish.id/wp-content/uploads/2024/07/Salem-1.webp"],
+      ["Ikan Nila Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tilapia-2.png"],
+      ["Ikan Cucut Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cucut-Fillet-2.webp"],
+      ["Ikan Kakap Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kakap-Merah-Fillet-3.webp"],
+      ["Ikan Kembung Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kembung-Banjar-2.webp"],
+      ["Ikan Shisamo Beku", "https://meatfish.id/wp-content/uploads/2024/07/Shisamo-1.webp"],
+      ["Ikan Kembung Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kembung-Banjar-2.webp"],
+      ["Ikan Cakalang Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cakalang-1.webp"],
+      ["Ikan Bandeng Beku", "https://meatfish.id/wp-content/uploads/2024/07/Bandeng-2.webp"],
+      ["Ikan Fillet Frozen lainnya", "https://meatfish.id/wp-content/uploads/2024/07/WhatsApp-Image-2025-12-22-at-17.35.31-1.webp"]
+    ]
+  },
+  {
+    title: "Frozen Food",
+    items: [
+      ["CIDEA", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
+      ["KENZLER", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
+      ["BELFOODS", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
+    ]
+  },
+  {
+    title: "Bumbu Dapur",
+    items: [
+      ["SASA", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
+      ["MAMASUKA", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
+      ["INDOFOOD", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
+    ]
+  }
+] as const;
+const pdfCatalogUrl = "https://drive.google.com/file/d/1v7RIv-XQXVv6rr2fq5mZRWBkSI1CmzKJ/view?usp=sharing";
 ---
 <BaseLayout title={`${title} | Meat & Fish`} description={description} image={post?.frontmatter.image || pageImage} type={post?"article":"website"}>
   <Breadcrumbs items={isArchive?[{name:pretty(kind),url:`/${kind}/`},{name:title,url:path}]:[{name:title,url:path}]} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
   {post ? <><header class="page-head container"><span class="pill">{post.frontmatter.categories?.[0]||"Artikel"}</span><h1>{title}</h1><p class="article-meta">Published {new Date(post.frontmatter.date).toLocaleDateString("id-ID")} · By {post.frontmatter.author||"administrator"}</p></header><div class="container article-layout"><article class="article-content"><img src={post.frontmatter.image||"/images/article-placeholder.svg"} alt={title}/><post.Content /></article><aside class="sidebar"><h2>Terbaru</h2>{posts.slice(0,8).map((p:any)=><a href={`/${p.frontmatter.slug}/`}>{p.frontmatter.title}</a>)}<h2>Categories</h2>{["Ayam","Daging","Franchise","Frozen","Ikan","Resep masakan","Tips"].map(c=><a href={`/category/${c.toLowerCase().replace(" ","-")}/`}>{c}</a>)}</aside></div></>
   : isArchive ? <section class="section"><div class="container"><header class="page-head archive-head"><div><span class="eyebrow">{pretty(kind)}</span><h1>{title}</h1></div><img src={pageImage} alt={title} /></header>{categoryPosts.length?<div class="grid">{categoryPosts.map((p:any)=><article class="card"><img src={p.frontmatter.image||pageImage} alt={p.frontmatter.title} loading="lazy"/><div class="card-body"><h3><a href={`/${p.frontmatter.slug}/`}>{p.frontmatter.title}</a></h3><p>{p.frontmatter.description}</p></div></article>)}</div>:<p class="empty-note">Arsip ini sudah memiliki URL aktif. Artikel terkait akan ditampilkan saat konten dengan label ini diterbitkan.</p>}</div></section>
-  : staticType==="produk-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Produk Meat & Fish</h1><p class="lead">Pilihan daging, ayam, ikan, dan seafood frozen untuk rumah tangga maupun bisnis.</p></header>{["Daging Frozen","Ayam Frozen","Ikan & Seafood Frozen"].map(group=><><h2>{group}</h2><div class="grid">{["Paket Ekonomis","Pilihan Keluarga","Paket Bisnis"].map(x=><article class="card"><img src={(routeMedia as Record<string,string>)[`/${group.toLowerCase().replaceAll(" ","-")}/`]||pageImage} alt={`${group} ${x}`}/><div class="card-body"><h3>{group} – {x}</h3><WhatsAppButton label="Order via WhatsApp" /></div></article>)}</div></>)}</div></section>
+  : staticType==="produk-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Produk Meat & Fish</h1></header>{productCatalog.map((section)=> <div class="catalog-section"><h2>{section.title}</h2><div class="grid">{section.items.map(([name,image]) => <article class="card product-card"><img src={image} alt={name} loading="lazy" /><div class="card-body"><h3>{name}</h3><WhatsAppButton label="Order" /></div></article>)}</div></div>)}<div class="cta catalog-cta"><h2>DOWNLOAD PDF KATALOG PRODUK Meat & Fish</h2><a class="button secondary" href={pdfCatalogUrl} target="_blank" rel="noopener noreferrer">KLIK DISINI DOWNLOAD PDF</a></div><div class="catalog-footnote"><WhatsAppButton label="Klik disini untuk tanya-tanya dulu" /></div></div></section>
   : staticType==="gabung-kemitraan" ? <section class="section"><div class="container"><header class="page-head"><h1>Gabung Kemitraan Meat & Fish</h1><p class="lead">Bisnis toko daging dan frozen food dengan dukungan supply chain dan digitalisasi.</p></header><div class="grid">{["Tentang Kemitraan","Visi & Misi","Konsep Kemitraan","Dukungan Digitalisasi","Dukungan Supply Chain","Proyeksi BEP"].map(x=><article class="card"><div class="card-body"><h2>{x}</h2><p>Program disiapkan untuk membantu mitra menjalankan toko secara terstruktur, efisien, dan berkelanjutan.</p></div></article>)}</div><div class="cta"><h2>Paket Minimarket, Medium, dan Premium</h2><p>Konsultasikan lokasi, modal, dan paket yang sesuai dengan tim kemitraan.</p><WhatsAppButton label="Gabung Kemitraan" /></div></div></section>
   : staticType==="daftar-supplier-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Daftar Jadi Supplier Meat & Fish</h1></header><div class="grid">{["Bumbu Masak","Makanan Olahan Frozen","Daging / Ikan / Ayam Frozen"].map(x=><article class="card"><div class="card-body"><h2>{x}</h2><p>Ajukan produk, legalitas, kapasitas pasokan, dan area distribusi Anda.</p><WhatsAppButton label="Daftar Supplier" /></div></article>)}</div></div></section>
   : staticType==="lokasi-meat-fish" ? <section class="section"><div class="container"><header class="page-head"><span class="eyebrow dark">Kunjungi toko kami</span><h1>Lokasi Toko Meat & Fish</h1><p class="lead">Buka petunjuk Google Maps atau hubungi toko melalui WhatsApp.</p></header><LocationCards /></div></section>
