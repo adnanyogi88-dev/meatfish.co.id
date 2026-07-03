@@ -65,6 +65,7 @@ const latestPosts = Object.values(import.meta.glob("../content/blog/*.md", { eag
   .slice(0, 8);
 
 const featuredPosts = latestPosts.slice(0, 4);
+const instagramPosts = latestPosts.slice(0, 3);
 const categories = [
   "Ayam",
   "Daging",
@@ -80,17 +81,40 @@ const categories = [
   <section class="reference-hero">
     <div class="container reference-hero-grid">
       <div class="reference-hero-copy">
-        <span class="reference-kicker">Pusat Toko Daging &amp; Ikan Frozen Indonesia</span>
-        <h1>Daging, ikan, seafood, dan frozen food berkualitas untuk keluarga dan bisnis.</h1>
-        <p>Semua dibuat mengikuti tampilan utama referensi: hero besar, lokasi toko, katalog produk, supplier, dan artikel terbaru dalam satu alur yang jelas.</p>
+        <span class="reference-kicker">Meat &amp; Fish</span>
+        <h1>Pusat Toko Daging &amp; Ikan Frozen Indonesia</h1>
+        <p>Daging, ikan, seafood, dan frozen food untuk kebutuhan rumah tangga, reseller, resto, dan mitra bisnis. Tampilan ini disusun ulang tanpa gambar ChatGPT dan tanpa elemen visual yang berbeda dari referensi.</p>
         <div class="reference-actions">
           <WhatsAppButton label="Hubungi WhatsApp" />
           <a class="reference-link" href="/produk-meatfish/">Lihat produk</a>
         </div>
         <div class="reference-badges">
-          <span>Produk berkualitas</span>
-          <span>Lokasi banyak</span>
-          <span>Siap order</span>
+          <span>Lokasi toko</span>
+          <span>Produk utama</span>
+          <span>Supplier</span>
+          <span>Franchise</span>
+        </div>
+      </div>
+      <div class="reference-hero-panel" aria-label="Ringkasan layanan Meat &amp; Fish">
+        <div class="reference-hero-card">
+          <span class="reference-hero-card-label">Lokasi Toko</span>
+          <strong>Bekasi, Semarang, Cibubur, Lampung</strong>
+          <p>Akses cepat ke petunjuk arah, WhatsApp toko, dan status pembukaan cabang.</p>
+        </div>
+        <div class="reference-hero-card">
+          <span class="reference-hero-card-label">Kategori Produk</span>
+          <strong>Daging, Ikan, Seafood, Frozen Food</strong>
+          <p>Struktur katalog disiapkan mengikuti urutan produk utama pada referensi.</p>
+        </div>
+        <div class="reference-hero-card">
+          <span class="reference-hero-card-label">Kontak Cepat</span>
+          <strong>WhatsApp 1 klik</strong>
+          <p>Semua tombol diarahkan ke link WhatsApp yang sama dan tidak memakai gambar lama.</p>
+        </div>
+        <div class="reference-hero-card">
+          <span class="reference-hero-card-label">Artikel &amp; Trend</span>
+          <strong>Konten terbaru tetap tampil</strong>
+          <p>Homepage tetap memuat artikel dan trending agar struktur konten menyerupai situs contoh.</p>
         </div>
       </div>
     </div>
@@ -138,7 +162,7 @@ const categories = [
   <section class="reference-supplier section-tight">
     <div class="container">
       <div class="reference-section-head">
-        <h2>Jadi Supplier</h2>
+        <h2>Daftar Jadi Supplier Pendukung Meat &amp; Fish</h2>
         <p>Tiga kategori utama yang paling dekat dengan tampilan referensi halaman depan.</p>
       </div>
       <div class="grid reference-supplier-grid">
@@ -156,22 +180,35 @@ const categories = [
     </div>
   </section>
 
-  <section class="reference-feature-banner">
-    <div class="container feature-banner-inner">
-      <div>
-        <span class="reference-kicker light">Meat &amp; Fish</span>
-        <h2>Pusat Toko Daging &amp; Ikan Frozen Indonesia</h2>
-        <p>Disusun untuk terasa lebih dekat ke homepage contoh: kuat pada visual produk, lokasi, dan jalur kontak.</p>
+  <section class="reference-instagram section-tight">
+    <div class="container">
+      <div class="reference-section-head">
+        <h2>Instagram Meat &amp; Fish</h2>
+        <p>Konten sosial ditampilkan agar homepage terasa seperti halaman referensi yang aktif dan penuh update.</p>
       </div>
-      <WhatsAppButton label="Chat sekarang" />
+      <div class="reference-instagram-head">
+        <a class="button secondary" href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Follow on Instagram</a>
+      </div>
+      <div class="grid reference-article-grid">
+        {instagramPosts.map((post: any) => (
+          <article class="card reference-article-card">
+            <img src={post.image || "/images/article-placeholder.svg"} alt={post.title} loading="lazy" />
+            <div class="card-body">
+              <span class="pill">{post.categories?.[0] || "Instagram"}</span>
+              <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
+              <p>{post.description}</p>
+            </div>
+          </article>
+        ))}
+      </div>
     </div>
   </section>
 
   <section class="reference-articles section-tight">
     <div class="container">
       <div class="reference-section-head">
-        <h2>Berita &amp; Artikel Terbaru</h2>
-        <p>Artikel terkini tetap ditampilkan agar homepage terasa hidup seperti referensi.</p>
+        <h2>Pusat Toko Daging &amp; Ikan Frozen Indonesia</h2>
+        <p>Bagian ini meniru blok informasi utama pada referensi: artikel, trending, dan tautan lanjutan.</p>
       </div>
       <div class="grid reference-article-grid">
         {featuredPosts.map((post: any) => (
@@ -185,17 +222,22 @@ const categories = [
           </article>
         ))}
       </div>
+      <div class="reference-divider"></div>
+      <div class="reference-section-head">
+        <h2>Trending</h2>
+        <p>Label kategori populer untuk mengarahkan pembaca ke topik yang paling sering dicari.</p>
+      </div>
+      <div class="reference-tags">
+        {categories.map((category) => <a href={`/category/${category.toLowerCase().replace(/\s+/g, "-")}/`}>{category}</a>)}
+      </div>
     </div>
   </section>
 
   <section class="reference-trending section-tight">
     <div class="container">
       <div class="reference-section-head">
-        <h2>Trending</h2>
-        <p>Daftar kategori dan artikel tambahan untuk mempertahankan kepadatan konten seperti referensi.</p>
-      </div>
-      <div class="reference-tags">
-        {categories.map((category) => <a href={`/category/${category.toLowerCase().replace(/\s+/g, "-")}/`}>{category}</a>)}
+        <h2>Latest</h2>
+        <p>Daftar artikel terbaru disusun lebih padat agar ritmenya mendekati referensi.</p>
       </div>
       <div class="grid reference-article-grid">
         {latestPosts.map((post: any) => (
@@ -206,6 +248,12 @@ const categories = [
             </div>
           </article>
         ))}
+      </div>
+      <div class="reference-pagination">
+        <span>Page 1 of {Math.max(1, Math.ceil(latestPosts.length / 8))}</span>
+        <a href="/" aria-current="page">1</a>
+        <a href="/trend-daging-ikan-frozen/">Latest</a>
+        <a href="/trend-daging-ikan-frozen/">Trending</a>
       </div>
     </div>
   </section>
