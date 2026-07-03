@@ -4,8 +4,8 @@ slug: "perbedaan-ciri-ciri-dan-manfaat-ikan-bandeng-laut-dan-tawar"
 date: 2024-12-11T08:28:35+07:00
 draft: false
 description: "alam artikel ini, kita akan membahas secara lengkap perbedaan ikan bandeng laut dan tawar, mencakup habitat, rasa, tekstur, kandungan gizi, dan cara pengolahannya"
-image: "/wp-content/uploads/2024/12/DALL·E-2024-12-10-08.35.31-A-side-by-side-comparison-of-a-saltwater-milkfish-bandeng-laut-and-a-freshwater-milkfish-bandeng-tawar.-The-saltwater-milkfish-has-a-shiny-silver.webp"
-featured_image: "/wp-content/uploads/2024/12/DALL·E-2024-12-10-08.35.31-A-side-by-side-comparison-of-a-saltwater-milkfish-bandeng-laut-and-a-freshwater-milkfish-bandeng-tawar.-The-saltwater-milkfish-has-a-shiny-silver.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-03_51_38-PM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-03_51_38-PM.png"
 categories:
   - "Artikel"
   - "Tren Pasar Ikan"

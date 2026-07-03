@@ -4,8 +4,8 @@ slug: "20-nama-nama-ikan-yang-dijual-di-pasar"
 date: 2024-12-02T09:51:27+07:00
 draft: false
 description: "Dalam artikel ini, kita akan menyelami berbagai nama-nama ikan yang populer di pasar, potensi bisnis yang mereka tawarkan"
-image: "/wp-content/uploads/2024/12/DALL·E-2024-12-02-09.50.21-A-bustling-traditional-Indonesian-fish-market-scene-with-diverse-fish-species-displayed.-The-market-features-wooden-stalls-covered-with-thatched-roofs.webp"
-featured_image: "/wp-content/uploads/2024/12/DALL·E-2024-12-02-09.50.21-A-bustling-traditional-Indonesian-fish-market-scene-with-diverse-fish-species-displayed.-The-market-features-wooden-stalls-covered-with-thatched-roofs.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-03_36_49-PM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-03_36_49-PM.png"
 categories:
   - "Artikel"
   - "Bisnis"
@@ -24,7 +24,7 @@ author: "administrator"
 
 ## Pasar ikan di Indonesia adalah sumber kekayaan alam yang tidak hanya penting dari segi ekologi tetapi juga ekonomi.
 
-![](/wp-content/uploads/2024/12/DALL·E-2024-12-02-09.50.21-A-bustling-traditional-Indonesian-fish-market-scene-with-diverse-fish-species-displayed.-The-market-features-wooden-stalls-covered-with-thatched-roofs-1024x585.webp)
+![](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-03_36_49-PM.png)
 
 Dengan beragamnya spesies ikan yang mereka tawarkan, pasar ikan lokal membuka peluang bisnis yang menguntungkan bagi para investor dan pengusaha yang ingin terlibat dalam industri perikanan yang berkelanjutan. Dalam artikel ini, kita akan menyelami berbagai nama-nama ikan yang populer di pasar, potensi bisnis yang mereka tawarkan, dan bagaimana Anda dapat mengambil bagian dalam peluang bisnis ini melalui kemitraan dengan Meat & Fish.
 

@@ -4,8 +4,8 @@ slug: "pusat-penjualan-ikan-segar-di-bekasi-pilihan-terbaik-untuk-kebutuhan-anda
 date: 2025-02-06T13:48:19+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas berbagai pusat penjualan ikan segar di Bekasi, mengapa kualitas ikan menjadi faktor utama,"
-image: "/wp-content/uploads/2025/02/DALL·E-2025-02-03-13.50.22-A-bustling-fish-market-in-Bekasi-Indonesia-with-vendors-selling-fresh-fish-and-seafood.-The-scene-is-lively-with-people-selecting-fresh-fish-from-n.webp"
-featured_image: "/wp-content/uploads/2025/02/DALL·E-2025-02-03-13.50.22-A-bustling-fish-market-in-Bekasi-Indonesia-with-vendors-selling-fresh-fish-and-seafood.-The-scene-is-lively-with-people-selecting-fresh-fish-from-n.webp"
+image: "/wp-content/uploads/2026/02/no_brand_-terlaris-_ikan_mas_segar_-_ikan_mas_full01_m3ljojse.jpg"
+featured_image: "/wp-content/uploads/2026/02/no_brand_-terlaris-_ikan_mas_segar_-_ikan_mas_full01_m3ljojse.jpg"
 categories:
   - "Bisnis"
   - "Frozen food"
@@ -25,7 +25,7 @@ author: "administrator"
 
 ## Bekasi, sebagai kota dengan pertumbuhan penduduk yang pesat dan akses ke berbagai jalur perdagangan,
 
-![Penjual Ikan Segar di Bekasi](/wp-content/uploads/2025/02/DALL·E-2025-02-03-13.50.22-A-bustling-fish-market-in-Bekasi-Indonesia-with-vendors-selling-fresh-fish-and-seafood.-The-scene-is-lively-with-people-selecting-fresh-fish-from-n-300x300.webp)
+![Penjual Ikan Segar di Bekasi](/wp-content/uploads/2026/02/no_brand_-terlaris-_ikan_mas_segar_-_ikan_mas_full01_m3ljojse.jpg)
 
 memiliki kebutuhan tinggi akan ikan segar. Baik untuk kebutuhan rumah tangga, restoran, maupun usaha kuliner lainnya, ikan segar menjadi komoditas penting yang harus tersedia dalam kondisi terbaik.
 

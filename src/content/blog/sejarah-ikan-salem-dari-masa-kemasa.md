@@ -20,7 +20,7 @@ author: "administrator"
 
 ## Ikan salem, dengan nama ilmiah **Scomber austraslicus**, merupakan salah satu biota laut yang telah lama menjadi bagian penting dalam sejarah kuliner dan budaya manusia.
 
-[caption id="attachment\_3329" align="alignnone" width="300"]![ikan salem](/wp-content/uploads/2024/07/ikan-salem-300x300.jpg) [sumber](http://tokopedia.com)[/caption]
+[caption id="attachment\_3329" align="alignnone" width="300"]![ikan salem](/wp-content/uploads/2025/11/ChatGPT-Image-Oct-21-2025-09_42_14-AM.png) [sumber](http://tokopedia.com)[/caption]
 
 Ikan berbadan ramping ini, dengan pola garis-garis vertikal berwarna gelap pada tubuhnya, menyimpan cerita panjang tentang migrasi, adaptasi, dan pemanfaatannya oleh peradaban di berbagai belahan dunia.
 

@@ -4,8 +4,8 @@ slug: "cara-budidaya-gurame-padang-panduan-lengkap-dari-persiapan-hingga-panen"
 date: 2025-04-24T13:41:09+07:00
 draft: false
 description: "Artikel ini membahas tentang cara budidaya gurame di Padang, mulai dari persiapan kolam, pemilihan bibit, pemberian pakan"
-image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-14-2025-01_45_09-PM.png"
-featured_image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-14-2025-01_45_09-PM.png"
+image: "/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg"
+featured_image: "/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg"
 categories:
   - "Tips"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Budidaya ikan gurame merupakan salah satu usaha perikanan yang menjanjikan di Indonesia, termasuk di wilayah Padang.
 
-![Cara Budidaya Gurame Padang](/wp-content/uploads/2025/04/ChatGPT-Image-Apr-14-2025-01_45_09-PM-200x300.png)
+![Cara Budidaya Gurame Padang](/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg)
 
 Dengan permintaan pasar yang terus meningkat dan nilai ekonomis yang tinggi, gurame menjadi pilihan utama bagi para pembudidaya ikan air tawar. Artikel ini akan membahas secara lengkap tentang cara budidaya gurame di Padang, mulai dari persiapan kolam, pemilihan bibit, pemberian pakan, hingga proses panen dan pemasaran.​
 

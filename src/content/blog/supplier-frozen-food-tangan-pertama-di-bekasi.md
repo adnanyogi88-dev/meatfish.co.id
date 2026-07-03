@@ -4,8 +4,8 @@ slug: "supplier-frozen-food-tangan-pertama-di-bekasi"
 date: 2024-10-24T20:40:50+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas mengapa memilih supplier tangan pertama adalah langkah penting"
-image: "/wp-content/uploads/2024/10/DALL·E-2024-10-24-20.38.52-A-vibrant-marketplace-scene-in-Bekasi-Indonesia-showcasing-a-supplier-of-frozen-food-products.-The-market-is-filled-with-stalls-selling-various-froz.webp"
-featured_image: "/wp-content/uploads/2024/10/DALL·E-2024-10-24-20.38.52-A-vibrant-marketplace-scene-in-Bekasi-Indonesia-showcasing-a-supplier-of-frozen-food-products.-The-market-is-filled-with-stalls-selling-various-froz.webp"
+image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
+featured_image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 categories:
   - "Bisnis"
   - "Frozen food"
@@ -24,7 +24,7 @@ author: "administrator"
 
 ## Frozen food atau makanan beku telah menjadi pilihan populer di kalangan masyarakat modern, terutama di daerah perkotaan seperti Bekasi.
 
-![Supplier Frozen food](/wp-content/uploads/2024/10/DALL·E-2024-10-24-20.38.52-A-vibrant-marketplace-scene-in-Bekasi-Indonesia-showcasing-a-supplier-of-frozen-food-products.-The-market-is-filled-with-stalls-selling-various-froz-300x300.webp)
+![Supplier Frozen food](/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg)
 
 Praktis, mudah tersimpan, dan tahan lama, frozen food menawarkan kemudahan bagi mereka yang ingin menyediakan makanan berkualitas. Namun, untuk memulai bisnis di industri ini, penting untuk memilih supplier frozen food tangan pertama yang terpercaya. Salah satu supplier yang terkenal amanah dan profesional di Bekasi adalah **Meat & Fish**.
 

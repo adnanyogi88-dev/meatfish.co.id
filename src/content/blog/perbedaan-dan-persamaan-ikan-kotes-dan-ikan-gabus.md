@@ -4,8 +4,8 @@ slug: "perbedaan-dan-persamaan-ikan-kotes-dan-ikan-gabus"
 date: 2024-12-11T08:21:01+07:00
 draft: false
 description: "artikel ini akan membahas secara mendalam perbedaan dan persamaan ikan kotes dan ikan gabus peluang bisnis yang pengusaha dapatkan."
-image: "/wp-content/uploads/2024/12/DALL·E-2024-12-11-08.14.03-A-comparison-illustration-featuring-two-freshwater-fish_-ikan-kotes-and-ikan-gabus.-On-the-left-side-depict-ikan-kotes-as-a-small-silver-colored-fis.webp"
-featured_image: "/wp-content/uploads/2024/12/DALL·E-2024-12-11-08.14.03-A-comparison-illustration-featuring-two-freshwater-fish_-ikan-kotes-and-ikan-gabus.-On-the-left-side-depict-ikan-kotes-as-a-small-silver-colored-fis.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_42_10-PM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_42_10-PM.png"
 categories:
   - "Artikel"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Ikan merupakan salah satu komoditas penting dalam dunia perikanan dan bisnis kuliner di Indonesia. Dua jenis ikan yang sering dibahas adalah ikan kotes dan ikan gabus.
 
-![Perbedaan dan Persamaan Ikan Kotes dan Ikan Gabus](/wp-content/uploads/2024/12/DALL·E-2024-12-11-08.14.03-A-comparison-illustration-featuring-two-freshwater-fish_-ikan-kotes-and-ikan-gabus.-On-the-left-side-depict-ikan-kotes-as-a-small-silver-colored-fis-300x171.webp)
+![Perbedaan dan Persamaan Ikan Kotes dan Ikan Gabus](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_42_10-PM.png)
 Meskipun keduanya hidup di habitat air tawar, mereka memiliki karakteristik unik yang membedakan dan beberapa kesamaan yang membuat keduanya populer di pasar ikan Indonesia.
 Artikel ini akan membahas secara mendalam **perbedaan dan persamaan ikan kotes dan ikan gabus**, mencakup aspek biologis, habitat, manfaat gizi, hingga peluang bisnis yang bisa dikejar oleh para pengusaha perikanan. Selain itu, artikel ini juga akan menghubungkan peluang bisnis terkait ikan kotes dan ikan gabus dengan referensi dari situs **Meat & Fish.id** sebagai salah satu platform pemasaran hasil perikanan.
 

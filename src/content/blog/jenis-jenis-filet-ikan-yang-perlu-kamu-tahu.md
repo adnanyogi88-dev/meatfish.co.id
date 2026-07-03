@@ -4,8 +4,8 @@ slug: "jenis-jenis-filet-ikan-yang-perlu-kamu-tahu"
 date: 2025-02-24T15:42:47+07:00
 draft: false
 description: "Berikut adalah beberapa jenis filet ikan yang sering kita gunakan di industri makanan dan rumah tangga."
-image: "/wp-content/uploads/2025/02/DALL·E-2025-02-17-15.46.18-An-illustration-of-different-types-of-fish-fillets-arranged-on-a-wooden-cutting-board.-The-fillets-include-salmon-orange-pink-flesh-tuna-deep-red-.webp"
-featured_image: "/wp-content/uploads/2025/02/DALL·E-2025-02-17-15.46.18-An-illustration-of-different-types-of-fish-fillets-arranged-on-a-wooden-cutting-board.-The-fillets-include-salmon-orange-pink-flesh-tuna-deep-red-.webp"
+image: "/wp-content/uploads/2024/07/150113_SOLO_PASOKAN-LANGKA2.jpg"
+featured_image: "/wp-content/uploads/2024/07/150113_SOLO_PASOKAN-LANGKA2.jpg"
 categories:
   - "Menu"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Dalam dunia kuliner, filet ikan adalah salah satu bahan makanan yang sangat populer dan serbaguna.
 
-![Jenis Filet ikan](/wp-content/uploads/2025/02/DALL·E-2025-02-17-15.46.18-An-illustration-of-different-types-of-fish-fillets-arranged-on-a-wooden-cutting-board.-The-fillets-include-salmon-orange-pink-flesh-tuna-deep-red--300x300.webp)
+![Jenis Filet ikan](/wp-content/uploads/2024/07/150113_SOLO_PASOKAN-LANGKA2.jpg)
 
 Filet ikan merupakan potongan daging ikan yang sudah terpisahkan dari tulang dan kulitnya, sehingga lebih mudah terolah untuk berbagai hidangan. Dengan banyaknya jenis ikan di pasaran, penting untuk mengetahui berbagai jenis filet ikan yang tersedia agar bisa memilih yang terbaik sesuai kebutuhan kuliner maupun bisnis. Berikut adalah beberapa jenis filet ikan yang sering kita gunakan di industri makanan dan rumah tangga.
 

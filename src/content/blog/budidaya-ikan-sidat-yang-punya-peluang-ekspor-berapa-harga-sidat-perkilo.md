@@ -4,8 +4,8 @@ slug: "budidaya-ikan-sidat-yang-punya-peluang-ekspor-berapa-harga-sidat-perkilo"
 date: 2025-04-02T13:30:24+07:00
 draft: false
 description: "Ikan sidat merupakan salah satu komoditas perikanan yang memiliki nilai ekonomi tinggi, terutama di pasar ekspor."
-image: "/wp-content/uploads/2025/03/DALL·E-2025-03-07-13.32.36-A-realistic-illustration-of-a-freshwater-eel-ikan-sidat-swimming-in-a-clean-natural-habitat-with-clear-water-aquatic-plants-and-small-rocks-at-th.webp"
-featured_image: "/wp-content/uploads/2025/03/DALL·E-2025-03-07-13.32.36-A-realistic-illustration-of-a-freshwater-eel-ikan-sidat-swimming-in-a-clean-natural-habitat-with-clear-water-aquatic-plants-and-small-rocks-at-th.webp"
+image: "/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg"
+featured_image: "/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg"
 categories:
   - "Bisnis"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Potensi Bisnis Ikan Sidat di Pasar Ekspor
 
-![Budidaya Ikan Sidat](/wp-content/uploads/2025/03/DALL·E-2025-03-07-13.32.36-A-realistic-illustration-of-a-freshwater-eel-ikan-sidat-swimming-in-a-clean-natural-habitat-with-clear-water-aquatic-plants-and-small-rocks-at-th-300x300.webp)
+![Budidaya Ikan Sidat](/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg)
 Ikan sidat merupakan salah satu komoditas perikanan yang memiliki nilai ekonomi tinggi, terutama di pasar ekspor. Negara-negara seperti Jepang, Korea, dan Tiongkok sangat menggemari ikan sidat karena kandungan gizinya yang tinggi dan manfaat kesehatannya. Permintaan global yang terus meningkat menjadikan budidaya ikan sidat sebagai peluang bisnis yang sangat menjanjikan.
 Harga sidat per kilo bervariasi tergantung pada ukuran, kualitas, dan permintaan pasar. Di pasar domestik, harga sidat per kilo bisa berkisar antara Rp200.000 hingga Rp500.000, sedangkan di pasar ekspor bisa mencapai lebih dari Rp1.000.000 per kilo, terutama untuk ukuran yang lebih besar dan kualitas premium.
 

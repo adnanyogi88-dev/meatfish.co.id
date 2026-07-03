@@ -4,8 +4,8 @@ slug: "ikan-tenggiri-banyak-diekspor-dalam-bentuk-beku-atau-olahan"
 date: 2025-07-29T00:34:53+07:00
 draft: false
 description: "Tenggiri terkenal luas karena dagingnya yang tebal, rasa yang gurih, serta kandungan nutrisinya yang tinggi."
-image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_37_37-AM.png"
-featured_image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_37_37-AM.png"
+image: "/wp-content/uploads/2024/07/frozen-ikan-tenggiri.jpg"
+featured_image: "/wp-content/uploads/2024/07/frozen-ikan-tenggiri.jpg"
 categories:
   - "Bisnis"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Industri perikanan Indonesia telah menjadi salah satu pilar penting dalam mendukung pertumbuhan ekonomi nasional.
 
-![](/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_37_37-AM-300x300.png)
+![](/wp-content/uploads/2024/07/frozen-ikan-tenggiri.jpg)
 
 Di antara berbagai jenis ikan laut yang memiliki nilai komersial tinggi, tenggiri menjadi salah satu komoditas unggulan yang banyak orang ekspor dalam bentuk beku atau olahan. Artikel ini akan membahas secara mendalam tentang potensi ekspor ikan tenggiri, keuntungan bisnisnya, strategi pemasaran, serta pentingnya menjaga mutu dan distribusi rantai dingin.
 

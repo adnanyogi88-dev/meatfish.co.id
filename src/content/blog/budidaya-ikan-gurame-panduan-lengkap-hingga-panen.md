@@ -23,7 +23,7 @@ author: "administrator"
 
 Kita kenal dengan kelezatan dagingnya yang gurih dan teksturnya yang empuk, gurame telah menjadi bagian tak terpisahkan dari berbagai hidangan nusantara, mulai dari gurame goreng, gurame asam manis, hingga gurame bakar.
 
-[caption id="attachment\_3336" align="alignnone" width="300"]![budidaya ikan gurame](/wp-content/uploads/2024/07/budidaya-ikan-gurame-300x204.jpg) [sumber](https://id.wikipedia.org/wiki/Gurami)[/caption]
+[caption id="attachment\_3336" align="alignnone" width="300"]![budidaya ikan gurame](/wp-content/uploads/2024/07/budidaya-ikan-gurame.jpg) [sumber](https://id.wikipedia.org/wiki/Gurami)[/caption]
 
 Lebih dari sekadar hidangan lezat, gurame menyimpan pesona dan keunikan tersendiri yang membuatnya istimewa. Mari kita telusuri lebih dalam tentang ikan gurame, mulai dari habitat alaminya, ciri-ciri fisiknya yang khas, hingga perannya dalam budaya dan kuliner Indonesia.
 

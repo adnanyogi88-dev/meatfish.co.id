@@ -4,8 +4,8 @@ slug: "supplier-ikan-dori-di-jabodetabek-pilihan-terbaik-untuk-bisnis-anda"
 date: 2025-04-04T08:06:29+07:00
 draft: false
 description: "Artikel ini akan membantu Anda memahami bagaimana memilih supplier ikan dori terbaik serta rekomendasi tempat mitra bisnis"
-image: "/wp-content/uploads/2025/03/DALL·E-2025-03-14-08.12.02-A-realistic-digital-illustration-of-fresh-and-frozen-dory-fish-displayed-on-a-wooden-cutting-board.-The-fresh-fish-has-a-clean-white-and-firm-textur.webp"
-featured_image: "/wp-content/uploads/2025/03/DALL·E-2025-03-14-08.12.02-A-realistic-digital-illustration-of-fresh-and-frozen-dory-fish-displayed-on-a-wooden-cutting-board.-The-fresh-fish-has-a-clean-white-and-firm-textur.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-23-2025-09_57_59-AM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-23-2025-09_57_59-AM.png"
 categories:
   - "Meat & Fish"
   - "Tren Pasar Ikan"

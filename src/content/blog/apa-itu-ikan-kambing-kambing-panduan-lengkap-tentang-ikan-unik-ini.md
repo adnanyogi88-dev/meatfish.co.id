@@ -4,8 +4,8 @@ slug: "apa-itu-ikan-kambing-kambing-panduan-lengkap-tentang-ikan-unik-ini"
 date: 2025-02-20T08:54:10+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas secara lengkap mengenai ikan kambing-kambing, mulai dari habitatnya, manfaatnya, hingga peluang bisnis"
-image: "/wp-content/uploads/2025/02/DALL·E-2025-02-14-09.07.07-A-realistic-illustration-of-a-Kambing-Kambing-fish-also-known-as-a-grunt-fish-swimming-in-a-tropical-coral-reef.-The-fish-has-a-silvery-or-brownis.webp"
-featured_image: "/wp-content/uploads/2025/02/DALL·E-2025-02-14-09.07.07-A-realistic-illustration-of-a-Kambing-Kambing-fish-also-known-as-a-grunt-fish-swimming-in-a-tropical-coral-reef.-The-fish-has-a-silvery-or-brownis.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_36_36-PM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_36_36-PM.png"
 categories:
   - "Tren Pasar Ikan"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Ikan kambing-kambing merupakan salah satu jenis ikan yang cukup unik, namun belum begitu dikenal luas di masyarakat.
 
-![gambar kan kaming kambing](/wp-content/uploads/2025/02/DALL·E-2025-02-14-09.07.07-A-realistic-illustration-of-a-Kambing-Kambing-fish-also-known-as-a-grunt-fish-swimming-in-a-tropical-coral-reef.-The-fish-has-a-silvery-or-brownis-300x300.webp)
+![gambar kan kaming kambing](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_36_36-PM.png)
 Meski namanya terdengar aneh, ikan ini memiliki karakteristik yang menarik dan banyak ditemukan di perairan tropis. Ikan ini memiliki nilai ekonomi yang cukup tinggi, terutama bagi pelaku usaha di bidang perikanan dan kuliner.
 Dalam artikel ini, kita akan membahas secara lengkap mengenai ikan kambing-kambing, mulai dari habitatnya, manfaatnya, hingga peluang bisnis yang dapat dimanfaatkan dari ikan ini. Selain itu, kita juga akan menghubungkannya dengan berbagai peluang bisnis kemitraan dan franchise yang dapat menjadi sumber penghasilan tambahan.
 

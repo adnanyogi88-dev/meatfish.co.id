@@ -4,8 +4,8 @@ slug: "daftar-20-hewan-laut-yang-bagus-untuk-dibuat-seafood"
 date: 2025-01-23T09:06:59+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas 20 hewan laut yang populer dan sering kita jadikan bahan utama dalam masakan seafood."
-image: "/wp-content/uploads/2025/01/DALL·E-2025-01-21-09.28.42-A-vibrant-and-detailed-illustration-of-20-different-seafood-dishes-representing-various-ocean-creatures-such-as-shrimp-tempura-lobster-thermidor-gr.webp"
-featured_image: "/wp-content/uploads/2025/01/DALL·E-2025-01-21-09.28.42-A-vibrant-and-detailed-illustration-of-20-different-seafood-dishes-representing-various-ocean-creatures-such-as-shrimp-tempura-lobster-thermidor-gr.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_20_13-AM-1.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_20_13-AM-1.png"
 categories:
   - "Bisnis"
   - "Frozen food"

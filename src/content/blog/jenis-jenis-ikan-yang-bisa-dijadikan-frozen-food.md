@@ -4,8 +4,8 @@ slug: "jenis-jenis-ikan-yang-bisa-dijadikan-frozen-food"
 date: 2024-09-19T16:07:01+07:00
 draft: false
 description: "Dalam artikel ini, kita akan membahas berbagai jenis ikan yang umum kita gunakan dalam produksi frozen food serta keunggulannya."
-image: "/wp-content/uploads/2024/09/DALL·E-2024-09-19-22.03.29-A-variety-of-fish-types-laid-out-on-a-clean-white-surface-arranged-as-frozen-food-options.-The-fish-includes-salmon-fillets-tuna-steaks-cod-fillet.webp"
-featured_image: "/wp-content/uploads/2024/09/DALL·E-2024-09-19-22.03.29-A-variety-of-fish-types-laid-out-on-a-clean-white-surface-arranged-as-frozen-food-options.-The-fish-includes-salmon-fillets-tuna-steaks-cod-fillet.webp"
+image: "/wp-content/uploads/2024/08/steak-ikan.jpg"
+featured_image: "/wp-content/uploads/2024/08/steak-ikan.jpg"
 categories:
   - "Frozen food"
 tags:
@@ -21,7 +21,7 @@ author: "administrator"
 
 ## Frozen food atau makanan beku semakin menjadi pilihan populer di kalangan masyarakat modern yang mencari kemudahan dalam mempersiapkan makanan.
 
-![jenis ikan frozen food](/wp-content/uploads/2024/09/DALL·E-2024-09-19-22.03.29-A-variety-of-fish-types-laid-out-on-a-clean-white-surface-arranged-as-frozen-food-options.-The-fish-includes-salmon-fillets-tuna-steaks-cod-fillet-300x300.webp)
+![jenis ikan frozen food](/wp-content/uploads/2024/08/steak-ikan.jpg)
 
 Salah satu produk frozen food yang paling banyak peminatnya adalah ikan beku. Tidak hanya praktis, ikan yang kita jadikan frozen food tetap kaya akan kandungan gizi, termasuk protein, asam lemak omega-3, vitamin, dan mineral. Jenis-jenis ikan yang bisa kita jadikan frozen food sangat beragam, dari ikan laut hingga ikan air tawar. Dalam artikel ini, kita akan membahas berbagai jenis ikan yang umum kita gunakan dalam produksi frozen food serta keunggulannya.
 

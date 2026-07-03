@@ -4,8 +4,8 @@ slug: "apa-itu-ikan-cucut-laut-fakta-menarik-dan-manfaatnya"
 date: 2024-11-26T08:40:15+07:00
 draft: false
 description: "Ikan cucut laut merupakan salah satu jenis ikan laut yang cukup populer di kalangan masyarakat pesisir dan pencinta seafood."
-image: "/wp-content/uploads/2024/11/ikan-cucut-laut.webp"
-featured_image: "/wp-content/uploads/2024/11/ikan-cucut-laut.webp"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-02_40_15-PM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-02_40_15-PM.png"
 categories:
   - "Uncategorized"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Ikan cucut laut merupakan salah satu jenis ikan laut yang cukup populer di kalangan masyarakat pesisir dan pencinta seafood.
 
-![ikan cucut laut](/wp-content/uploads/2024/11/ikan-cucut-laut.webp)
+![ikan cucut laut](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-02_40_15-PM.png)
 
 Ikan ini tidak hanya memiliki cita rasa yang khas, tetapi juga manfaat kesehatan yang luar biasa. Dalam artikel ini, kita akan membahas secara mendalam tentang apa itu ikan cucut laut, habitatnya, jenis-jenisnya, manfaatnya bagi kesehatan, hingga cara pengolahannya. Selain itu, Anda juga akan menemukan tautan bermanfaat untuk mendukung bisnis atau pemahaman lebih lanjut seputar dunia perikanan.
 

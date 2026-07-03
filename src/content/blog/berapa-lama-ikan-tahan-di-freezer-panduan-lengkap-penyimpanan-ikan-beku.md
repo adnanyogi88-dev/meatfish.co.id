@@ -4,8 +4,8 @@ slug: "berapa-lama-ikan-tahan-di-freezer-panduan-lengkap-penyimpanan-ikan-beku"
 date: 2025-04-28T16:26:43+07:00
 draft: false
 description: "Ketahanan ikan dalam freezer tergantung pada jenis ikan, kondisi sebelum terbekukan, dan suhu penyimpanan dengan suhu stabil -18°C"
-image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_16-PM.png"
-featured_image: "/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_16-PM.png"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png"
 categories:
   - "Tips"
 tags:
@@ -22,7 +22,7 @@ author: "administrator"
 
 ## Penyimpanan ikan di freezer adalah solusi paling efektif untuk menjaga kesegaran, rasa, dan nilai gizinya dalam jangka waktu yang lama.
 
-![Berapa Lama Ikan Tahan di Freezer](/wp-content/uploads/2025/04/ChatGPT-Image-Apr-15-2025-04_31_16-PM-300x300.png)
+![Berapa Lama Ikan Tahan di Freezer](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png)
 
 Baik Anda seorang konsumen rumahan, pelaku usaha kuliner, hingga pemilik usaha seafood pinggir jalan, memahami **berapa lama ikan tahan di freezer** menjadi hal yang penting demi kualitas produk dan kesehatan konsumen.
 

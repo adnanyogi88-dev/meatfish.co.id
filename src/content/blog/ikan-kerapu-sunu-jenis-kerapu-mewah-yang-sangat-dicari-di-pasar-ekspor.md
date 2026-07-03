@@ -4,8 +4,8 @@ slug: "ikan-kerapu-sunu-jenis-kerapu-mewah-yang-sangat-dicari-di-pasar-ekspor"
 date: 2025-07-29T00:25:52+07:00
 draft: false
 description: "alam artikel ini, Anda akan menemukan berbagai informasi penting terkait peluang bisnis ekspor kerapu sunu, karakteristik ikan ini, serta prospek yang bisa pelaku bisnis"
-image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_39_32-AM.png"
-featured_image: "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_39_32-AM.png"
+image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-09_11_10-AM.png"
+featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-09_11_10-AM.png"
 categories:
   - "Bisnis"
   - "Tren Pasar Ikan"
@@ -23,7 +23,7 @@ author: "administrator"
 
 ## Industri perikanan Indonesia terus menunjukkan pertumbuhan positif di pasar global, terutama dengan meningkatnya permintaan terhadap ikan kerapu sunu,  Sebagai salah satu komoditas ekspor unggulan,
 
-![](/wp-content/uploads/2025/07/ChatGPT-Image-Jul-26-2025-12_39_32-AM-300x300.png)
+![](/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-09_11_10-AM.png)
 
 kerapu sunu kini menjadi favorit di berbagai negara seperti China, Jepang, Singapura, dan Amerika Serikat. Dalam artikel ini, Anda akan menemukan berbagai informasi penting terkait peluang bisnis ekspor kerapu sunu, karakteristik ikan ini, serta prospek yang bisa pelaku bisnis ekspor Indonesia manfaatkan.
 
