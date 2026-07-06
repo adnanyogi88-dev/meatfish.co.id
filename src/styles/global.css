@@ -9,21 +9,16 @@
 .site-header{background:#fff}.header-inner{min-height:84px}.main-nav a{font-size:14px}.site-logo{font-size:18px}
 .reference-hero{position:relative;overflow:hidden;background:#0b4a55;color:#fff}
 .reference-hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,51,59,.96),rgba(6,83,94,.9) 52%,rgba(3,51,59,.72));z-index:0}
-.reference-hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1.08fr) minmax(300px,.92fr);gap:28px;align-items:start;padding:78px 0}
-.reference-hero-copy{padding:14px 0}
-.reference-hero-copy h1{margin:.22em 0 16px;font-size:clamp(38px,5.3vw,62px);line-height:1.04;letter-spacing:-.04em;max-width:760px}
-.reference-hero-copy p{max-width:620px;font-size:17px;color:#e3f1f2}
+.reference-hero-grid{position:relative;z-index:1;padding:78px 0}
+.reference-hero-copy{max-width:900px;padding:14px 0}
+.reference-hero-copy h1{margin:.22em 0 16px;font-size:clamp(38px,5.3vw,62px);line-height:1.04;letter-spacing:-.04em;max-width:860px}
+.reference-hero-copy p{max-width:820px;font-size:17px;color:#e3f1f2}
 .reference-kicker{display:inline-block;text-transform:uppercase;letter-spacing:.18em;font-size:12px;font-weight:800;color:#ffd7d0}
 .reference-kicker.light{color:#fff}
 .reference-actions{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:24px}
 .reference-badges{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}
 .reference-badges span{padding:7px 13px;border-radius:999px;background:#ffffff18;border:1px solid #ffffff2f;color:#fff;font-size:12px;font-weight:750}
 .reference-link{color:#fff;font-weight:800}
-.reference-hero-panel{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-.reference-hero-card{padding:18px;border-radius:18px;background:#ffffff14;border:1px solid #ffffff24;backdrop-filter:blur(8px);box-shadow:0 16px 36px #00171d22}
-.reference-hero-card-label{display:block;margin-bottom:8px;text-transform:uppercase;letter-spacing:.14em;font-size:10px;font-weight:800;color:#ffd7d0}
-.reference-hero-card strong{display:block;font-size:17px;line-height:1.22;margin-bottom:8px;color:#fff}
-.reference-hero-card p{margin:0;color:#e4f2f2;font-size:13px;line-height:1.55}
 .reference-section-head{margin-bottom:18px}
 .reference-section-head h2,.reference-product-group h3,.reference-download h3,.reference-feature-banner h2{margin:0 0 10px;line-height:1.12}
 .reference-section-head h2{font-size:clamp(28px,3.6vw,38px)}
@@ -52,5 +47,5 @@
 .reference-pagination{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin-top:22px;color:#587076;font-size:12px}
 .reference-pagination a,.reference-pagination span{padding:7px 11px;border-radius:10px;border:1px solid var(--line);background:#fff}
 .reference-pagination a[aria-current="page"]{background:var(--brand);color:#fff;border-color:var(--brand)}
-@media(max-width:900px){.reference-hero-grid{grid-template-columns:1fr}.reference-hero-panel{grid-template-columns:repeat(2,minmax(0,1fr))}.reference-grid,.reference-supplier-grid,.reference-article-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.reference-download{display:block}}
-@media(max-width:560px){.reference-hero-grid{padding:48px 0}.reference-hero-panel{grid-template-columns:1fr}.reference-grid,.reference-supplier-grid,.reference-article-grid{grid-template-columns:1fr}.reference-download{display:block}.reference-pagination{gap:8px}}
+@media(max-width:900px){.reference-grid,.reference-supplier-grid,.reference-article-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.reference-download{display:block}}
+@media(max-width:560px){.reference-hero-grid{padding:48px 0}.reference-grid,.reference-supplier-grid,.reference-article-grid{grid-template-columns:1fr}.reference-download{display:block}.reference-pagination{gap:8px}}
