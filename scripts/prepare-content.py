@@ -45,6 +45,20 @@ def article_paths():
     return paths
 
 
+def existing_article_paths_and_media():
+    records = []
+    if not BLOG.exists():
+        return records
+    for path in BLOG.glob("*.md"):
+        text = path.read_text(encoding="utf-8-sig")
+        slug = re.search(r'(?m)^slug:\s*"?([^"\r\n]+)"?', text)
+        if not slug:
+            continue
+        image = re.search(r'(?m)^image:\s*"([^"]+)"', text)
+        records.append((f"/{slug.group(1)}/", image.group(1) if image else None))
+    return records
+
+
 def normalize_words(value):
     value = unicodedata.normalize("NFKD", value.lower())
     value = "".join(char for char in value if not unicodedata.combining(char))
@@ -131,12 +145,17 @@ def main():
     BLOG.mkdir(parents=True, exist_ok=True)
     urls = sitemap_urls()
     paths, media = media_data()
+    existing_articles = existing_article_paths_and_media()
     records = []
     for url in urls:
         path = urlparse(url).path
         records.append({"path": path, "url": url.replace("meatfish.id", "meatfish.co.id")})
     known = {record["path"] for record in records}
     for path in article_paths():
+        if path not in known:
+            records.append({"path": path, "url": f"https://meatfish.co.id{path}"})
+            known.add(path)
+    for path, _image in existing_articles:
         if path not in known:
             records.append({"path": path, "url": f"https://meatfish.co.id{path}"})
             known.add(path)
@@ -147,19 +166,31 @@ def main():
         record["path"]: best_media(record["path"].replace("-", " "), media)
         for record in records
     }
+    for path, image in existing_articles:
+        if image:
+            route_media[path] = image
     (DATA / "route-media.json").write_text(
         json.dumps(route_media, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
+    existing_markdown = {
+        old.name: old.read_text(encoding="utf-8-sig")
+        for old in BLOG.glob("*.md")
+    }
     for old in BLOG.glob("*.md"):
         old.unlink()
+    generated_names = set()
     with zipfile.ZipFile(ZIP) as archive:
         for member in archive.namelist():
             if not member.endswith(".md"):
                 continue
             raw = archive.read(member).decode("utf-8-sig")
             name = re.sub(r"^\d+-", "", Path(member).name)
+            generated_names.add(name)
             (BLOG / name).write_text(clean_markdown(raw, paths, media), encoding="utf-8")
+    for name, text in existing_markdown.items():
+        if name not in generated_names:
+            (BLOG / name).write_text(text, encoding="utf-8")
     print(f"Prepared {len(records)} routes and {len(list(BLOG.glob('*.md')))} articles")
 
 
