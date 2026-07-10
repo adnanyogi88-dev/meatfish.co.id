@@ -27,5 +27,88 @@ const organization = {
     <meta name="twitter:card" content="summary_large_image" />
     <script type="application/ld+json" set:html={JSON.stringify(organization)} />
   </head>
-  <body><Header /><main><slot /></main><Footer /><a class="floating-wa" href="https://wa.link/89ffhn" target="_blank" aria-label="Chat WhatsApp" rel="nofollow noopener"><img src="/images/WhatsApp_icon.png" alt="" /></a></body>
+  <body>
+    <Header />
+    <main><slot /></main>
+    <Footer />
+    <a class="floating-wa" href="https://wa.link/89ffhn" target="_blank" aria-label="Chat WhatsApp" rel="nofollow noopener noreferrer"><img src="/images/WhatsApp_icon.png" alt="" /></a>
+    <script is:inline>
+      (function () {
+        var messagePrefix =
+          "Halo Meatfish, saya ingin bertanya tentang produk seafood, daging, ayam, atau frozen food. Saya datang dari halaman: ";
+
+        function isWhatsAppLink(href) {
+          try {
+            var hostname = new URL(href, window.location.origin).hostname.toLowerCase();
+            return hostname === "wa.me" ||
+              hostname.endsWith(".wa.me") ||
+              hostname === "wa.link" ||
+              hostname.endsWith(".wa.link") ||
+              hostname === "api.whatsapp.com" ||
+              hostname === "whatsapp.com" ||
+              hostname.endsWith(".whatsapp.com");
+          } catch (error) {
+            return false;
+          }
+        }
+
+        function buildWhatsAppUrl(originalUrl) {
+          try {
+            var url = new URL(originalUrl, window.location.origin);
+            var message = messagePrefix + (document.title || "") + " - " + window.location.href;
+            url.searchParams.set("text", message);
+            return url.toString();
+          } catch (error) {
+            return originalUrl;
+          }
+        }
+
+        function prepareWhatsAppLink(link) {
+          var href = link.getAttribute("href") || "";
+          if (!isWhatsAppLink(href)) return false;
+
+          link.setAttribute("href", buildWhatsAppUrl(link.href));
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "nofollow noopener noreferrer");
+          link.setAttribute("data-track", "whatsapp");
+          return true;
+        }
+
+        function setupWhatsAppTracking() {
+          document.querySelectorAll("a[href]").forEach(prepareWhatsAppLink);
+
+          document.addEventListener("click", function (event) {
+            var link = event.target.closest("a[href]");
+            if (!link || !prepareWhatsAppLink(link)) return;
+
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+              event: "whatsapp_click",
+              source_page_url: window.location.href,
+              source_page_path: window.location.pathname,
+              source_page_title: document.title,
+              whatsapp_url: link.href,
+              button_text: (link.innerText || link.getAttribute("aria-label") || "WhatsApp CTA").trim()
+            });
+          });
+
+          new MutationObserver(function (mutations) {
+            mutations.forEach(function (mutation) {
+              mutation.addedNodes.forEach(function (node) {
+                if (node.nodeType !== 1) return;
+                if (node.matches && node.matches("a[href]")) prepareWhatsAppLink(node);
+                if (node.querySelectorAll) node.querySelectorAll("a[href]").forEach(prepareWhatsAppLink);
+              });
+            });
+          }).observe(document.body, { childList: true, subtree: true });
+        }
+
+        if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", setupWhatsAppTracking);
+        } else {
+          setupWhatsAppTracking();
+        }
+      })();
+    </script>
+  </body>
 </html>
