@@ -5,7 +5,7 @@ description: "Panduan memilih franchise Depok berdasarkan segmen mahasiswa, kelu
 pubDate: 2026-07-24
 date: 2026-07-24T16:36:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise Depok", "peluang usaha Depok", "waralaba Depok", "franchise makanan", "franchise frozen food"]

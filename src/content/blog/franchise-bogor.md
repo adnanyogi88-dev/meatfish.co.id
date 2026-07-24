@@ -5,7 +5,7 @@ description: "Pelajari peluang franchise Bogor untuk pasar wisata, keluarga, per
 pubDate: 2026-07-24
 date: 2026-07-24T16:37:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise Bogor", "peluang usaha Bogor", "waralaba Bogor", "bisnis kuliner Bogor", "franchise frozen food"]

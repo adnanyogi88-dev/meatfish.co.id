@@ -5,7 +5,7 @@ description: "Panduan franchise Bekasi: target pasar, lokasi perumahan dan indus
 pubDate: 2026-07-24
 date: 2026-07-24T16:38:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise Bekasi", "peluang usaha Bekasi", "waralaba Bekasi", "franchise makanan", "franchise frozen food"]

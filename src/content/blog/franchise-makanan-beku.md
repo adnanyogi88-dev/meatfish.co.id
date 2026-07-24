@@ -5,7 +5,7 @@ description: "Pelajari franchise makanan beku dari kategori produk, pengelolaan 
 pubDate: 2026-07-24
 date: 2026-07-24T16:48:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise makanan beku", "franchise frozen food", "bisnis makanan beku", "toko frozen", "waralaba frozen"]

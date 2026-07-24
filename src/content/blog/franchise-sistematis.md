@@ -5,7 +5,7 @@ description: "Panduan menilai franchise sistematis melalui SOP, pelatihan, pasok
 pubDate: 2026-07-24
 date: 2026-07-24T16:40:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise sistematis", "sistem franchise", "SOP franchise", "bisnis franchise", "usaha franchise"]

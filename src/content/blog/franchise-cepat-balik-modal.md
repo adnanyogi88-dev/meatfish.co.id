@@ -5,7 +5,7 @@ description: "Panduan menilai franchise cepat balik modal melalui investasi tota
 pubDate: 2026-07-24
 date: 2026-07-24T16:43:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise cepat balik modal", "franchise menguntungkan", "payback period", "bisnis franchise", "peluang franchise"]

@@ -5,7 +5,7 @@ description: "Panduan waralaba frozen untuk menilai merek, kontrak, biaya, pasok
 pubDate: 2026-07-24
 date: 2026-07-24T16:49:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["waralaba frozen", "franchise frozen food", "kemitraan frozen food", "bisnis frozen", "usaha waralaba"]

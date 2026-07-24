@@ -5,7 +5,7 @@ description: "Panduan memilih franchise Jakarta berdasarkan target pasar, lokasi
 pubDate: 2026-07-24
 date: 2026-07-24T16:33:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise Jakarta", "peluang usaha Jakarta", "bisnis franchise", "franchise frozen food", "waralaba Jakarta"]

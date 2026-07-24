@@ -5,7 +5,7 @@ description: "Panduan franchise Chinese food dari pemilihan menu, dapur, bahan b
 pubDate: 2026-07-24
 date: 2026-07-24T16:47:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise Chinese food", "franchise makanan", "bisnis kuliner", "restoran Chinese food", "usaha franchise"]

@@ -5,7 +5,7 @@ description: "Panduan franchise meat shop: konsep usaha, produk, lokasi, operasi
 pubDate: 2026-07-24
 date: 2026-07-24T16:30:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise meat shop", "franchise toko daging", "franchise frozen food", "bisnis daging", "meat shop"]

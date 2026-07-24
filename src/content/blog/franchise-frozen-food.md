@@ -5,7 +5,7 @@ description: "Panduan franchise frozen food dari produk, lokasi, freezer, stok, 
 pubDate: 2026-07-24
 date: 2026-07-24T16:46:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise frozen food", "bisnis frozen food", "toko frozen", "waralaba frozen", "franchise makanan beku"]

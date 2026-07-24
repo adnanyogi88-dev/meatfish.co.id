@@ -5,7 +5,7 @@ description: "Kenali kriteria franchise mudah dijalankan dari produk, SOP, tim, 
 pubDate: 2026-07-24
 date: 2026-07-24T16:41:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise mudah dijalankan", "franchise pemula", "usaha franchise", "bisnis mudah", "franchise sistematis"]

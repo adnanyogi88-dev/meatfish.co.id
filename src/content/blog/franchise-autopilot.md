@@ -5,7 +5,7 @@ description: "Pelajari arti franchise autopilot, sistem yang dibutuhkan, peran p
 pubDate: 2026-07-24
 date: 2026-07-24T16:39:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise autopilot", "bisnis autopilot", "franchise sistematis", "usaha franchise", "franchise mudah dijalankan"]

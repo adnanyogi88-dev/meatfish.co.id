@@ -5,7 +5,7 @@ description: "Pelajari franchise ikan dari model toko, pilihan produk, penyimpan
 pubDate: 2026-07-24
 date: 2026-07-24T16:45:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise ikan", "franchise toko ikan", "ikan frozen", "bisnis ikan", "franchise seafood"]

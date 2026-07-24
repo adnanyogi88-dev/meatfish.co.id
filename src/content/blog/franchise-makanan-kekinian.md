@@ -5,7 +5,7 @@ description: "Pelajari cara memilih franchise makanan kekinian berdasarkan tren,
 pubDate: 2026-07-24
 date: 2026-07-24T16:31:00+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 categories: ["Franchise"]
 tags: ["franchise makanan kekinian", "bisnis kuliner", "usaha franchise", "franchise makanan", "peluang usaha"]
