@@ -2,7 +2,7 @@
 title: "Supplier dan Distributor Daging Sapi Frozen: Panduan Memilih Mitra"
 slug: "supplier-distributor-daging-sapi-frozen"
 description: "Panduan memilih supplier, grosir, dan distributor daging sapi frozen berdasarkan harga per kg, spesifikasi, cold chain, MOQ, dan layanan."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Frozen Food"

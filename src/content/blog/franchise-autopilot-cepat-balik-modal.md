@@ -2,7 +2,7 @@
 title: "Franchise Autopilot dan Cepat Balik Modal: Cara Menilainya dengan Realistis"
 slug: "franchise-autopilot-cepat-balik-modal"
 description: "Pahami franchise autopilot, sistem operasional, kebutuhan karyawan, modal Rp500 juta, dan cara menghitung peluang cepat balik modal."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

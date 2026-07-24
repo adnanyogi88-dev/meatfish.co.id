@@ -2,7 +2,7 @@
 title: "Tuna Steak dan Tuna Frozen: Jenis, Manfaat, Cara Memilih, dan Mengolah"
 slug: "tuna-steak-dan-tuna-frozen"
 description: "Kenali tuna dan tuna steak frozen, pilihan potongan, cara memilih, teknik thawing, ide menu, serta peluang bisnisnya."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

@@ -2,7 +2,7 @@
 title: "Jual Ikan Fillet Frozen Jakarta: Harga, Supplier, Distributor, dan Grosir"
 slug: "jual-ikan-fillet-frozen-jakarta"
 description: "Panduan membeli ikan fillet frozen di Jakarta, membandingkan harga, memilih supplier dan distributor, serta memesan secara grosir."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Frozen Food"

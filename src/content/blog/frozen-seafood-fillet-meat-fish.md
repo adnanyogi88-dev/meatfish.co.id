@@ -2,7 +2,7 @@
 title: "Frozen Seafood Fillet dan Meat Fish Fillet Frozen: Panduan Produk Lengkap"
 slug: "frozen-seafood-fillet-meat-fish"
 description: "Kenali frozen seafood fillet, meat fish fillet frozen, chicken fillet, beef fillet, seafood frozen pack, serta strategi memilih dan menjualnya."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Frozen Food"

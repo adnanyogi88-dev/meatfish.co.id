@@ -2,7 +2,7 @@
 title: "Seafood: Pengertian, Jenis, Cara Memilih, dan Ide Menjual Produk Frozen"
 slug: "seafood-jenis-manfaat-cara-memilih"
 description: "Kenali pengertian seafood, jenis populer, ciri produk berkualitas, cara menyimpan, serta peluang penjualan seafood frozen."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

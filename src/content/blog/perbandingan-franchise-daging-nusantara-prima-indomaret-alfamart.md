@@ -2,7 +2,7 @@
 title: "Franchise Toko Daging Nusantara, Prima Freshmart, Indomaret, dan Alfamart"
 slug: "perbandingan-franchise-daging-nusantara-prima-indomaret-alfamart"
 description: "Kerangka membandingkan franchise Toko Daging Nusantara, Prima Freshmart, Indomaret, Alfamart, dan toko frozen spesialis secara objektif."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

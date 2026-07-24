@@ -2,7 +2,7 @@
 title: "Iga Frozen, Rendang Frozen, Daging Slice, dan Wagyu untuk Menu Praktis"
 slug: "iga-rendang-daging-slice-wagyu-frozen"
 description: "Kenali iga sapi frozen, rendang frozen, daging sapi slice, dan wagyu frozen untuk menu keluarga, hotpot, katering, dan usaha kuliner."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Frozen Food"

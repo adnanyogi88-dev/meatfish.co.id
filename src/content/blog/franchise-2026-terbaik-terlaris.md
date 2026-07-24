@@ -2,7 +2,7 @@
 title: "Franchise 2026: Cara Memilih Franchise Terbaik dan Terlaris Secara Realistis"
 slug: "franchise-2026-terbaik-terlaris"
 description: "Panduan memilih franchise 2026, menilai franchise terbaik dan terlaris, menghitung modal, membaca dukungan, serta menghindari klaim berlebihan."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

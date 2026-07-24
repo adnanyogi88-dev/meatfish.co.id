@@ -2,7 +2,7 @@
 title: "Cumi Ring Frozen: Cara Memilih, Mengolah, dan Menjualnya"
 slug: "cumi-ring-frozen"
 description: "Panduan cumi ring frozen, mulai dari jenis natural dan breaded, cara menggoreng agar renyah, penyimpanan, hingga strategi penjualan."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

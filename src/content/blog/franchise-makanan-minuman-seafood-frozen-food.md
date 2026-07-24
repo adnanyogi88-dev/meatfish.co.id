@@ -2,7 +2,7 @@
 title: "Franchise Makanan, Minuman, Seafood, dan Frozen Food: Panduan Membandingkan"
 slug: "franchise-makanan-minuman-seafood-frozen-food"
 description: "Bandingkan franchise makanan, minuman, kopi, fried chicken, burger, seafood, dan frozen food berdasarkan operasional, stok, dan pasar."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

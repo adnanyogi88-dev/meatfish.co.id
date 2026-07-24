@@ -2,7 +2,7 @@
 title: "Franchise Toko Daging, Toko Frozen, dan Toko Ikan Frozen: Mana yang Cocok?"
 slug: "franchise-toko-daging-frozen-ikan"
 description: "Bandingkan franchise toko daging, toko frozen, dan toko ikan frozen dari sisi produk, target pasar, operasional, lokasi, dan modal."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

@@ -2,7 +2,7 @@
 title: "Ikan Air Tawar: Jenis Populer, Manfaat, dan Pilihan Fillet Beku"
 slug: "ikan-air-tawar-jenis-manfaat-fillet-beku"
 description: "Panduan ikan air tawar, mulai dari nila, patin, gurame, dan lele hingga cara memilih fillet beku untuk rumah dan usaha."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

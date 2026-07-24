@@ -2,7 +2,7 @@
 title: "Franchise Jakarta, Bandung, Tangerang, Depok, Bogor, dan Bekasi"
 slug: "franchise-jakarta-bandung-tangerang-depok-bogor-bekasi"
 description: "Panduan memilih lokasi franchise frozen food di Jakarta, Bandung, Tangerang, Depok, Bogor, dan Bekasi berdasarkan karakter pasar lokal."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Franchise"

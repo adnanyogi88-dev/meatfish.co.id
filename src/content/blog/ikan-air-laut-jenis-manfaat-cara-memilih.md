@@ -2,7 +2,7 @@
 title: "Ikan Air Laut: Jenis, Manfaat, Cara Memilih, dan Tips Menyimpannya"
 slug: "ikan-air-laut-jenis-manfaat-cara-memilih"
 description: "Kenali jenis ikan air laut, manfaat, cara memilih ikan segar atau frozen, teknik penyimpanan, serta peluang penjualannya."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

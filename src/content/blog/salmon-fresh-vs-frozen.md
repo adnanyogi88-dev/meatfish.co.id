@@ -2,7 +2,7 @@
 title: "Salmon Fresh vs Frozen: Perbedaan, Manfaat, dan Cara Menyimpannya"
 slug: "salmon-fresh-vs-frozen"
 description: "Bandingkan salmon fresh dan frozen dari sisi kualitas, masa simpan, harga, penggunaan, cara memilih, serta teknik thawing."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

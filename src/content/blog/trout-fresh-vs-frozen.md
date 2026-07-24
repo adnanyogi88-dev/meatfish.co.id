@@ -2,7 +2,7 @@
 title: "Trout Fresh vs Frozen: Karakteristik, Cara Memilih, dan Mengolahnya"
 slug: "trout-fresh-vs-frozen"
 description: "Kenali trout fresh dan frozen, perbedaannya dengan salmon, cara memilih, teknik penyimpanan, serta ide menu untuk rumah dan bisnis."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"

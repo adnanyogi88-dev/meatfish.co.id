@@ -2,7 +2,7 @@
 title: "Frozen Meat Fillet: Tenderloin, Sirloin, Rib Eye, dan Daging Steak Frozen"
 slug: "frozen-meat-fillet-tenderloin-sirloin-ribeye"
 description: "Panduan frozen meat fillet, tenderloin, sirloin, rib eye, beef fillet, dan daging steak frozen untuk rumah serta bisnis kuliner."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Frozen Food"

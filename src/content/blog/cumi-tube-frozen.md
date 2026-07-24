@@ -2,7 +2,7 @@
 title: "Cumi Tube Frozen: Pengertian, Cara Memilih, dan Tips Mengolah agar Empuk"
 slug: "cumi-tube-frozen"
 description: "Pelajari apa itu cumi tube frozen, ciri produk berkualitas, cara menyimpan, teknik memasak agar empuk, dan peluang penjualannya."
-date: 2026-07-24
+date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
 author: "Meat & Fish"
 category: "Ikan & Seafood"
