@@ -18,7 +18,7 @@ gsc_clicks: 42
 gsc_impressions: 8635
 gsc_ctr: 0.49
 gsc_average_position: 5.27
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan merupakan salah satu komoditas penting dalam dunia perikanan dan bisnis kuliner di Indonesia. Dua jenis ikan yang sering dibahas adalah ikan kotes dan ikan gabus.

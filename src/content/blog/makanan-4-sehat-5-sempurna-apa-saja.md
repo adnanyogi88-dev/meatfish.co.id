@@ -11,7 +11,7 @@ primary_keyword: "makanan 4 sehat 5 sempurna apa saja"
 image: "/uploads/makanan-4-sehat-5-sempurna-apa-saja-primary.png"
 featured_image: "/uploads/makanan-4-sehat-5-sempurna-apa-saja-primary.png"
 image_alt: "Ilustrasi contoh makanan 4 sehat 5 sempurna"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Makanan 4 Sehat 5 Sempurna Apa Saja? Ini Contoh Menu dengan Protein Berkualitas

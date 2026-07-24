@@ -17,7 +17,7 @@ primary_keyword: "franchise frozen food vs reseller"
 image: "/uploads/franchise-frozen-food-vs-reseller-primary.png"
 featured_image: "/uploads/franchise-frozen-food-vs-reseller-primary.png"
 image_alt: "Ilustrasi franchise frozen food vs reseller untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Topik **franchise frozen food vs reseller** sering muncul pada tahap penting: calon mitra sudah tertarik, tetapi belum memiliki kerangka untuk memeriksa angka, sistem, dan risiko. Artikel ini menyusun kerangka tersebut secara praktis.

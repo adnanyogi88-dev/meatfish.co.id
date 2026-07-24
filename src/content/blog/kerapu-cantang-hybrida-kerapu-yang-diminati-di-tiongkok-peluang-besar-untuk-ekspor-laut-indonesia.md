@@ -17,7 +17,7 @@ gsc_clicks: 99
 gsc_impressions: 89852
 gsc_ctr: 0.11
 gsc_average_position: 1.13
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Kerapu cantang adalah hasil persilangan antara kerapu macan (*Epinephelus fuscoguttatus*) dan kerapu kertang (*Epinephelus lanceolatus*).

@@ -11,7 +11,7 @@ primary_keyword: "ikan kembung beku"
 image: "/uploads/ikan-kembung-beku-primary.png"
 featured_image: "/uploads/ikan-kembung-beku-primary.png"
 image_alt: "Ilustrasi ikan kembung beku untuk lauk harian"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Kembung Beku: Lauk Harian Ekonomis dengan Rasa Gurih dan Mudah Diolah

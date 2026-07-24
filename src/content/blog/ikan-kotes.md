@@ -11,7 +11,7 @@ primary_keyword: "ikan kotes"
 image: "/uploads/ikan-kotes-primary.png"
 featured_image: "/uploads/ikan-kotes-primary.png"
 image_alt: "Ilustrasi ikan kotes untuk menu harian"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Kotes: Ciri, Habitat, Manfaat Konsumsi, dan Tips Mengolah

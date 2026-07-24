@@ -4,7 +4,7 @@ slug: "franchise-toko-daging-frozen-ikan"
 description: "Bandingkan franchise toko daging, toko frozen, dan toko ikan frozen dari sisi produk, target pasar, operasional, lokasi, dan modal."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 tags: ["franchise toko daging", "franchise toko frozen", "franchise toko ikan frozen", "franchise meat shop", "minimarket franchise", "waralaba frozen"]
 image: "/images/blog/franchise-toko-daging-frozen-ikan.webp"
@@ -111,4 +111,3 @@ Bisa melalui pilihan produk lebih dalam, layanan, edukasi, kemasan B2B, dan hubu
 - **Artikel berikutnya:** [Franchise Autopilot dan Cepat Balik Modal: Cara Menilainya dengan Realistis](/franchise-autopilot-cepat-balik-modal/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

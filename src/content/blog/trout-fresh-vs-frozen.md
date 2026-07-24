@@ -4,7 +4,7 @@ slug: "trout-fresh-vs-frozen"
 description: "Kenali trout fresh dan frozen, perbedaannya dengan salmon, cara memilih, teknik penyimpanan, serta ide menu untuk rumah dan bisnis."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["trout fresh", "trout frozen", "frozen fish fillet", "fillet ikan beku", "supplier ikan fillet frozen"]
 image: "/images/blog/trout-fresh-vs-frozen.webp"
@@ -109,4 +109,3 @@ Bisa. Gunakan porsi konsisten dan sertakan petunjuk penyimpanan serta cara memas
 - **Artikel berikutnya:** [Cumi Tube Frozen: Pengertian, Cara Memilih, dan Tips Mengolah agar Empuk](/cumi-tube-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

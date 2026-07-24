@@ -19,7 +19,7 @@ gsc_clicks: 370
 gsc_impressions: 8708
 gsc_ctr: 4.25
 gsc_average_position: 8.25
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Frozen food atau makanan beku telah menjadi pilihan populer di kalangan masyarakat modern, terutama di daerah perkotaan seperti Bekasi.

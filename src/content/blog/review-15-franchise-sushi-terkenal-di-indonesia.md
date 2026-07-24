@@ -18,7 +18,7 @@ gsc_clicks: 102
 gsc_impressions: 3964
 gsc_ctr: 2.57
 gsc_average_position: 5.65
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Sushi telah menjadi salah satu makanan Jepang yang paling populer di dunia, termasuk di Indonesia.

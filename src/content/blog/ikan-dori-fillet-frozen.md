@@ -11,7 +11,7 @@ primary_keyword: "ikan dori fillet frozen"
 image: "/uploads/ikan-dori-fillet-frozen-primary.png"
 featured_image: "/uploads/ikan-dori-fillet-frozen-primary.png"
 image_alt: "Ilustrasi ikan dori fillet frozen"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Dori Fillet Frozen: Praktis untuk Menu Anak, Katering, dan Restoran

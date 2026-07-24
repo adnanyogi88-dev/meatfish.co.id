@@ -11,7 +11,7 @@ primary_keyword: "ikan mulut panjang"
 image: "/uploads/ikan-mulut-panjang-primary.png"
 featured_image: "/uploads/ikan-mulut-panjang-primary.png"
 image_alt: "Ilustrasi ikan mulut panjang untuk artikel seafood"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Mulut Panjang: Ciri-Ciri, Jenis yang Mirip, dan Ide Olahan Rumahan

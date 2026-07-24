@@ -17,7 +17,7 @@ gsc_clicks: 69
 gsc_impressions: 9135
 gsc_ctr: 0.76
 gsc_average_position: 4.7
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Terdapat dua varietas utama yang sering masyarakat budidayakan dan konsumsi, yaitu ikan nila hitam dan ikan nila merah.

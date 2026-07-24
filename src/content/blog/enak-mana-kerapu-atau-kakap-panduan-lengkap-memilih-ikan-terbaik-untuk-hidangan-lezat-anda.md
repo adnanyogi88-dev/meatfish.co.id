@@ -17,7 +17,7 @@ gsc_clicks: 209
 gsc_impressions: 13042
 gsc_ctr: 1.6
 gsc_average_position: 3.36
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Jika Anda pernah bertanya, **“Enak mana kerapu atau kakap?”**, Anda tidak sendiri. Pertanyaan ini sering muncul di antara pecinta seafood. Kedua ikan ini memang populer di Indonesia, dan keduanya sering menjadi pilihan utama untuk masakan rumahan maupun restoran. Namun, untuk memilih mana yang lebih enak, kita perlu membandingkan rasa, tekstur, kandungan gizi, dan cara pengolahannya.

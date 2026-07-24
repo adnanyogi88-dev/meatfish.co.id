@@ -4,7 +4,7 @@ slug: "frozen-seafood-fillet-meat-fish"
 description: "Kenali frozen seafood fillet, meat fish fillet frozen, chicken fillet, beef fillet, seafood frozen pack, serta strategi memilih dan menjualnya."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["frozen seafood fillet", "frozenmart meat fish", "meat fish fillet frozen", "chicken fillet frozen", "beef fillet frozen", "seafood frozen pack", "fillet ikan sehat", "jual daging fillet frozen"]
 image: "/images/blog/frozen-seafood-fillet-meat-fish.webp"
@@ -115,4 +115,3 @@ Tidak. Mulailah dari produk inti dan tambah kategori berdasarkan data pelanggan.
 - **Artikel berikutnya:** [Jual Ikan Fillet Frozen Jakarta: Harga, Supplier, Distributor, dan Grosir](/jual-ikan-fillet-frozen-jakarta/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

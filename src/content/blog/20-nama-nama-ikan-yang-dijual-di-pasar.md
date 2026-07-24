@@ -19,7 +19,7 @@ gsc_clicks: 148
 gsc_impressions: 9637
 gsc_ctr: 1.54
 gsc_average_position: 6.08
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Pasar ikan di Indonesia adalah sumber kekayaan alam yang tidak hanya penting dari segi ekologi tetapi juga ekonomi.

@@ -17,7 +17,7 @@ primary_keyword: "risiko franchise frozen food"
 image: "/uploads/risiko-franchise-frozen-food-primary.png"
 featured_image: "/uploads/risiko-franchise-frozen-food-primary.png"
 image_alt: "Ilustrasi risiko franchise frozen food untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Ketika orang mencari **risiko franchise frozen food**, mereka biasanya tidak hanya ingin mengetahui nama merek. Mereka ingin memahami apakah model usaha itu cocok untuk modal, lokasi, waktu, dan target pelanggan mereka.

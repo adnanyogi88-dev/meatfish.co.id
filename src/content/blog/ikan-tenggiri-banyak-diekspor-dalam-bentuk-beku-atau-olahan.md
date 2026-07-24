@@ -18,7 +18,7 @@ gsc_clicks: 46
 gsc_impressions: 114656
 gsc_ctr: 0.04
 gsc_average_position: 1.09
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Industri perikanan Indonesia telah menjadi salah satu pilar penting dalam mendukung pertumbuhan ekonomi nasional.

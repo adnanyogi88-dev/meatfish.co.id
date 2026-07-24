@@ -4,7 +4,7 @@ slug: "seafood-jenis-manfaat-cara-memilih"
 description: "Kenali pengertian seafood, jenis populer, ciri produk berkualitas, cara menyimpan, serta peluang penjualan seafood frozen."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["seafood", "frozen seafood fillet", "seafood frozen pack", "franchise seafood", "grosir fillet frozen"]
 image: "/images/blog/seafood-jenis-manfaat-cara-memilih.webp"
@@ -109,4 +109,3 @@ Udang, cumi ring, cumi tube, dori fillet, tuna steak, salmon fillet, dan seafood
 - **Artikel berikutnya:** [Salmon Fresh vs Frozen: Perbedaan, Manfaat, dan Cara Menyimpannya](/salmon-fresh-vs-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

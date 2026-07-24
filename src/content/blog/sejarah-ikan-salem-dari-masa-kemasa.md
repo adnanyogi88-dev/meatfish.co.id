@@ -15,7 +15,7 @@ gsc_clicks: 57
 gsc_impressions: 46403
 gsc_ctr: 0.12
 gsc_average_position: 1.99
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan salem, dengan nama ilmiah **Scomber austraslicus**, merupakan salah satu biota laut yang telah lama menjadi bagian penting dalam sejarah kuliner dan budaya manusia.

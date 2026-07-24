@@ -18,7 +18,7 @@ gsc_clicks: 397
 gsc_impressions: 6825
 gsc_ctr: 5.82
 gsc_average_position: 4.48
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia bisnis frozen food yang semakin kompetitif, nama produk atau merek memegang peranan penting.

@@ -17,7 +17,7 @@ gsc_clicks: 87
 gsc_impressions: 9488
 gsc_ctr: 0.92
 gsc_average_position: 5.0
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Budidaya ikan lele selalu menjadi salah satu pilihan menarik bagi peternak ikan di Indonesia.

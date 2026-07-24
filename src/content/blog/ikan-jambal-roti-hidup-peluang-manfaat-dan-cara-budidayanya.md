@@ -18,7 +18,7 @@ gsc_clicks: 65
 gsc_impressions: 24017
 gsc_ctr: 0.27
 gsc_average_position: 2.35
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia perikanan Indonesia, ikan jambal roti telah lama terkenal sebagai salah satu jenis ikan asin yang memiliki rasa gurih khas dan orang sukai.

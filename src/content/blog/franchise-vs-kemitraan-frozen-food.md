@@ -17,7 +17,7 @@ primary_keyword: "franchise vs kemitraan frozen food"
 image: "/uploads/franchise-vs-kemitraan-frozen-food-primary.png"
 featured_image: "/uploads/franchise-vs-kemitraan-frozen-food-primary.png"
 image_alt: "Ilustrasi franchise vs kemitraan frozen food untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Ketika orang mencari **franchise vs kemitraan frozen food**, mereka biasanya tidak hanya ingin mengetahui nama merek. Mereka ingin memahami apakah model usaha itu cocok untuk modal, lokasi, waktu, dan target pelanggan mereka.

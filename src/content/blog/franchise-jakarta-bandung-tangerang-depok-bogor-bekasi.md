@@ -4,7 +4,7 @@ slug: "franchise-jakarta-bandung-tangerang-depok-bogor-bekasi"
 description: "Panduan memilih lokasi franchise frozen food di Jakarta, Bandung, Tangerang, Depok, Bogor, dan Bekasi berdasarkan karakter pasar lokal."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 tags: ["franchise Jakarta", "franchise Bandung", "franchise Tangerang", "franchise Depok", "franchise Bogor", "franchise Bekasi", "franchise frozen food"]
 image: "/images/blog/franchise-jakarta-bandung-tangerang-depok-bogor-bekasi.webp"
@@ -119,4 +119,3 @@ Tidak selalu. Ukuran perlu mengikuti target pasar, jumlah produk, dan model laya
 - **Artikel berikutnya:** [Franchise Toko Daging Nusantara, Prima Freshmart, Indomaret, dan Alfamart](/perbandingan-franchise-daging-nusantara-prima-indomaret-alfamart/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

@@ -15,7 +15,7 @@ tags:
   - "humor ikan"
 image: "/images/blog/tebak-tebakan-tentang-ikan.webp"
 featured_image: "/images/blog/tebak-tebakan-tentang-ikan.webp"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 **Tebak-tebakan tentang ikan** bisa menjadi hiburan sederhana yang cocok dimainkan bersama teman, keluarga, pasangan, maupun anak-anak. Selain lucu, nama-nama ikan ternyata dapat diplesetkan menjadi permainan kata yang receh dan tidak terduga.

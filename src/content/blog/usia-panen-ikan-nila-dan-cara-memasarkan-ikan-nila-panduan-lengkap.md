@@ -18,7 +18,7 @@ gsc_clicks: 94
 gsc_impressions: 29918
 gsc_ctr: 0.31
 gsc_average_position: 6.35
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Budidaya ikan nila menjadi salah satu usaha perikanan air tawar yang paling menjanjikan di Indonesia.

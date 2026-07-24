@@ -19,7 +19,7 @@ gsc_clicks: 72
 gsc_impressions: 10335
 gsc_ctr: 0.7
 gsc_average_position: 7.63
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Seafood adalah salah satu jenis makanan yang sangat banyak penggemarnya di berbagai belahan dunia.

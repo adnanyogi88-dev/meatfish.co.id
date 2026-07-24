@@ -17,7 +17,7 @@ gsc_clicks: 93
 gsc_impressions: 20699
 gsc_ctr: 0.45
 gsc_average_position: 6.22
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Udang adalah salah satu seafood favorit banyak orang karena kelezatannya, teksturnya yang lembut, dan kandungan nutrisinya yang tinggi.

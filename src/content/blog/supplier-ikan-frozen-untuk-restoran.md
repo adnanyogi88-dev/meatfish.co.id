@@ -11,7 +11,7 @@ primary_keyword: "supplier ikan frozen untuk restoran"
 image: "/uploads/supplier-ikan-frozen-untuk-restoran-primary.png"
 featured_image: "/uploads/supplier-ikan-frozen-untuk-restoran-primary.png"
 image_alt: "Ilustrasi supplier ikan frozen untuk restoran dan katering"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Supplier Ikan Frozen untuk Restoran: Cara Memilih Pasokan Stabil dan Berkualitas

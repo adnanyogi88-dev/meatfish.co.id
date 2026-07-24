@@ -11,7 +11,7 @@ primary_keyword: "cumi beku"
 image: "/uploads/cumi-beku-primary.png"
 featured_image: "/uploads/cumi-beku-primary.png"
 image_alt: "Ilustrasi cumi beku dan olahan seafood"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Cumi Beku: Tips Memilih, Membersihkan, dan Membuat Tekstur Tidak Alot

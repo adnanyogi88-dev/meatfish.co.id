@@ -20,7 +20,7 @@ gsc_clicks: 265
 gsc_impressions: 12172
 gsc_ctr: 2.18
 gsc_average_position: 7.15
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Bekasi, sebagai kota dengan pertumbuhan penduduk yang pesat dan akses ke berbagai jalur perdagangan,

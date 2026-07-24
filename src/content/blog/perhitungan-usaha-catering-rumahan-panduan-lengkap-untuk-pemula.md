@@ -19,7 +19,7 @@ gsc_clicks: 53
 gsc_impressions: 3606
 gsc_ctr: 1.47
 gsc_average_position: 6.8
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Usaha catering rumahan menjadi salah satu bisnis yang menjanjikan di tengah meningkatnya kebutuhan masyarakat akan layanan makanan siap saji.

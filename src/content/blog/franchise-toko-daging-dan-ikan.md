@@ -17,7 +17,7 @@ primary_keyword: "franchise toko daging dan ikan"
 image: "/uploads/franchise-toko-daging-dan-ikan-primary.png"
 featured_image: "/uploads/franchise-toko-daging-dan-ikan-primary.png"
 image_alt: "Ilustrasi franchise toko daging dan ikan untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **franchise toko daging dan ikan** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

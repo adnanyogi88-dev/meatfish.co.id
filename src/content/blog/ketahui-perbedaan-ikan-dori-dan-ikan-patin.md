@@ -18,7 +18,7 @@ gsc_clicks: 339
 gsc_impressions: 208415
 gsc_ctr: 0.16
 gsc_average_position: 1.6
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan merupakan salah satu sumber protein hewani yang sangat penting bagi masyarakat Indonesia.

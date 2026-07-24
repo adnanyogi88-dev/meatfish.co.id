@@ -4,7 +4,7 @@ slug: "supplier-distributor-daging-sapi-frozen"
 description: "Panduan memilih supplier, grosir, dan distributor daging sapi frozen berdasarkan harga per kg, spesifikasi, cold chain, MOQ, dan layanan."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["supplier daging sapi beku", "grosir daging sapi frozen", "distributor daging sapi frozen", "daging sapi impor beku", "harga daging sapi frozen per kg", "jual daging sapi beku"]
 image: "/images/blog/supplier-distributor-daging-sapi-frozen.webp"
@@ -115,4 +115,3 @@ Sangat disarankan untuk produk baru atau volume besar agar pembeli dapat menguji
 - **Artikel berikutnya:** [Frozen Seafood Fillet dan Meat Fish Fillet Frozen: Panduan Produk Lengkap](/frozen-seafood-fillet-meat-fish/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

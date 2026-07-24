@@ -17,7 +17,7 @@ primary_keyword: "franchise frozen food untuk pemula"
 image: "/uploads/franchise-frozen-food-untuk-pemula-primary.png"
 featured_image: "/uploads/franchise-frozen-food-untuk-pemula-primary.png"
 image_alt: "Ilustrasi franchise frozen food untuk pemula untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Topik **franchise frozen food untuk pemula** sering muncul pada tahap penting: calon mitra sudah tertarik, tetapi belum memiliki kerangka untuk memeriksa angka, sistem, dan risiko. Artikel ini menyusun kerangka tersebut secara praktis.

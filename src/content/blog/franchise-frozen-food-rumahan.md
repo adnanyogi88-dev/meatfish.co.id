@@ -17,7 +17,7 @@ primary_keyword: "franchise frozen food rumahan"
 image: "/uploads/franchise-frozen-food-rumahan-primary.png"
 featured_image: "/uploads/franchise-frozen-food-rumahan-primary.png"
 image_alt: "Ilustrasi franchise frozen food rumahan untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Ketika orang mencari **franchise frozen food rumahan**, mereka biasanya tidak hanya ingin mengetahui nama merek. Mereka ingin memahami apakah model usaha itu cocok untuk modal, lokasi, waktu, dan target pelanggan mereka.

@@ -11,7 +11,7 @@ primary_keyword: "udang beku"
 image: "/uploads/udang-beku-primary.png"
 featured_image: "/uploads/udang-beku-primary.png"
 image_alt: "Ilustrasi udang beku untuk artikel Meatfish"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Udang Beku: Cara Memilih, Menyimpan, dan Mengolah agar Tetap Manis Gurih

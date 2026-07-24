@@ -18,7 +18,7 @@ gsc_clicks: 169
 gsc_impressions: 17503
 gsc_ctr: 0.97
 gsc_average_position: 4.86
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan bandeng merupakan salah satu jenis ikan yang populer di Indonesia.

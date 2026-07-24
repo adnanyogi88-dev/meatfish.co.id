@@ -16,7 +16,7 @@ gsc_clicks: 42
 gsc_impressions: 4163
 gsc_ctr: 1.01
 gsc_average_position: 5.94
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Frozen food atau makanan beku semakin menjadi pilihan populer di kalangan masyarakat modern yang mencari kemudahan dalam mempersiapkan makanan.

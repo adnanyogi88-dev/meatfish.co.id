@@ -17,7 +17,7 @@ primary_keyword: "cara memilih franchise frozen food terpercaya"
 image: "/uploads/cara-memilih-franchise-frozen-food-terpercaya-primary.png"
 featured_image: "/uploads/cara-memilih-franchise-frozen-food-terpercaya-primary.png"
 image_alt: "Ilustrasi cara memilih franchise frozen food terpercaya untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **cara memilih franchise frozen food terpercaya** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

@@ -18,7 +18,7 @@ gsc_clicks: 87
 gsc_impressions: 10070
 gsc_ctr: 0.86
 gsc_average_position: 4.47
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Potensi Bisnis Ikan Sidat di Pasar Ekspor

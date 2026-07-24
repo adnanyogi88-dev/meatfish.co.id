@@ -17,7 +17,7 @@ primary_keyword: "biaya franchise frozen food 2026"
 image: "/uploads/biaya-franchise-frozen-food-2026-primary.png"
 featured_image: "/uploads/biaya-franchise-frozen-food-2026-primary.png"
 image_alt: "Ilustrasi biaya franchise frozen food 2026 untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Ketika orang mencari **biaya franchise frozen food 2026**, mereka biasanya tidak hanya ingin mengetahui nama merek. Mereka ingin memahami apakah model usaha itu cocok untuk modal, lokasi, waktu, dan target pelanggan mereka.

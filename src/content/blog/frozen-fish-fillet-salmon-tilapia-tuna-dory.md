@@ -4,7 +4,7 @@ slug: "frozen-fish-fillet-salmon-tilapia-tuna-dory"
 description: "Panduan lengkap frozen fish fillet, termasuk salmon, tilapia, tuna, cucut, dan dory untuk rumah tangga, restoran, dan toko frozen."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["frozen fish fillet", "fillet ikan beku", "salmon fillet frozen", "tilapia fillet frozen", "tuna fillet frozen", "cucut fillet frozen", "dory fillet frozen"]
 image: "/images/blog/frozen-fish-fillet-salmon-tilapia-tuna-dory.webp"
@@ -121,4 +121,3 @@ Nilai kualitas, konsistensi spesifikasi, suhu, legalitas, MOQ, harga, jadwal pas
 - **Artikel berikutnya:** [Franchise 2026: Cara Memilih Franchise Terbaik dan Terlaris Secara Realistis](/franchise-2026-terbaik-terlaris/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

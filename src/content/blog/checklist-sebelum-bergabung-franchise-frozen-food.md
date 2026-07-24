@@ -17,7 +17,7 @@ primary_keyword: "checklist sebelum bergabung franchise frozen food"
 image: "/uploads/checklist-sebelum-bergabung-franchise-frozen-food-primary.png"
 featured_image: "/uploads/checklist-sebelum-bergabung-franchise-frozen-food-primary.png"
 image_alt: "Ilustrasi checklist sebelum bergabung franchise frozen food untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Topik **checklist sebelum bergabung franchise frozen food** sering muncul pada tahap penting: calon mitra sudah tertarik, tetapi belum memiliki kerangka untuk memeriksa angka, sistem, dan risiko. Artikel ini menyusun kerangka tersebut secara praktis.

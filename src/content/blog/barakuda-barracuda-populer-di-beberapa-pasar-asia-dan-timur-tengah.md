@@ -18,7 +18,7 @@ gsc_clicks: 98
 gsc_impressions: 104132
 gsc_ctr: 0.09
 gsc_average_position: 1.42
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam industri ekspor makanan laut, nama Barakuda (Barracuda) semakin dikenal.

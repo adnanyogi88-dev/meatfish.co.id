@@ -17,7 +17,7 @@ primary_keyword: "franchise seafood frozen"
 image: "/uploads/franchise-seafood-frozen-primary.png"
 featured_image: "/uploads/franchise-seafood-frozen-primary.png"
 image_alt: "Ilustrasi franchise seafood frozen untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Topik **franchise seafood frozen** sering muncul pada tahap penting: calon mitra sudah tertarik, tetapi belum memiliki kerangka untuk memeriksa angka, sistem, dan risiko. Artikel ini menyusun kerangka tersebut secara praktis.

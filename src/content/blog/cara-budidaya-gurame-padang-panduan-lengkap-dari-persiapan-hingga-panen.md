@@ -17,7 +17,7 @@ gsc_clicks: 57
 gsc_impressions: 42285
 gsc_ctr: 0.13
 gsc_average_position: 4.8
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Budidaya ikan gurame merupakan salah satu usaha perikanan yang menjanjikan di Indonesia, termasuk di wilayah Padang.

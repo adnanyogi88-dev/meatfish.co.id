@@ -18,7 +18,7 @@ gsc_clicks: 51
 gsc_impressions: 13905
 gsc_ctr: 0.37
 gsc_average_position: 1.61
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia perdagangan internasional, komoditas perikanan menjadi salah satu sektor yang terus mengalami pertumbuhan signifikan.

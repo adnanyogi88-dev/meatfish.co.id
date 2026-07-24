@@ -11,7 +11,7 @@ primary_keyword: "ikan kakap frozen"
 image: "/uploads/ikan-kakap-frozen-primary.png"
 featured_image: "/uploads/ikan-kakap-frozen-primary.png"
 image_alt: "Ilustrasi ikan kakap frozen untuk menu restoran"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Kakap Frozen: Pilihan Gurih untuk Sup, Goreng, Panggang, dan Menu Restoran

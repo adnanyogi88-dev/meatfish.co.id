@@ -11,7 +11,7 @@ primary_keyword: "harga ikan kuniran"
 image: "/uploads/harga-ikan-kuniran-primary.png"
 featured_image: "/uploads/harga-ikan-kuniran-primary.png"
 image_alt: "Ilustrasi harga ikan kuniran dan pilihan frozen"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Harga Ikan Kuniran: Faktor yang Mempengaruhi dan Cara Beli Lebih Efisien

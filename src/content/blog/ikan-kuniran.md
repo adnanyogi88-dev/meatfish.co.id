@@ -11,7 +11,7 @@ primary_keyword: "ikan kuniran"
 image: "/uploads/ikan-kuniran-primary.png"
 featured_image: "/uploads/ikan-kuniran-primary.png"
 image_alt: "Ilustrasi ikan kuniran untuk artikel Meatfish"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Kuniran: Ciri, Manfaat, Cara Mengolah, dan Pilihan Frozen untuk Dapur

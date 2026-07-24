@@ -17,7 +17,7 @@ primary_keyword: "legalitas franchise frozen food Indonesia"
 image: "/uploads/legalitas-franchise-frozen-food-indonesia-primary.png"
 featured_image: "/uploads/legalitas-franchise-frozen-food-indonesia-primary.png"
 image_alt: "Ilustrasi legalitas franchise frozen food Indonesia untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **legalitas franchise frozen food Indonesia** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

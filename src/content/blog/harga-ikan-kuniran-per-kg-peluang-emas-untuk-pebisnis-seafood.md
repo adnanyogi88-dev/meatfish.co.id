@@ -17,7 +17,7 @@ gsc_clicks: 38
 gsc_impressions: 15691
 gsc_ctr: 0.24
 gsc_average_position: 1.5
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia bisnis perikanan, permintaan terhadap ikan konsumsi terus meningkat seiring kesadaran masyarakat akan pentingnya asupan protein hewani yang sehat.

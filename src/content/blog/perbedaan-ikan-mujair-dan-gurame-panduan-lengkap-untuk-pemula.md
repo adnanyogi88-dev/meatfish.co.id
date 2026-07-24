@@ -18,7 +18,7 @@ gsc_clicks: 82
 gsc_impressions: 11279
 gsc_ctr: 0.73
 gsc_average_position: 2.94
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan merupakan salah satu sumber protein yang sangat penting bagi manusia.

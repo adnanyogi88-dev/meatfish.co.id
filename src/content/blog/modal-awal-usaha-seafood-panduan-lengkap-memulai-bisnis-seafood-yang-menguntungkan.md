@@ -17,7 +17,7 @@ gsc_clicks: 38
 gsc_impressions: 1243
 gsc_ctr: 3.06
 gsc_average_position: 4.31
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Memulai usaha seafood adalah salah satu peluang bisnis yang sangat menjanjikan di Indonesia.

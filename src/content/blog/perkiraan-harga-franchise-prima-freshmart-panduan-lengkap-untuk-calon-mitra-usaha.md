@@ -17,7 +17,7 @@ gsc_clicks: 80
 gsc_impressions: 15112
 gsc_ctr: 0.53
 gsc_average_position: 5.89
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Franchise telah menjadi salah satu model bisnis yang semakin populer di Indonesia, termasuk dalam sektor ritel dan minimarket.

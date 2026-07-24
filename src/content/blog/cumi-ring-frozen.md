@@ -4,7 +4,7 @@ slug: "cumi-ring-frozen"
 description: "Panduan cumi ring frozen, mulai dari jenis natural dan breaded, cara menggoreng agar renyah, penyimpanan, hingga strategi penjualan."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["cumi ring", "cumi ring frozen", "seafood frozen pack", "grosir seafood frozen", "franchise makanan beku"]
 image: "/images/blog/cumi-ring-frozen.webp"
@@ -105,4 +105,3 @@ Cocok selama pengiriman menggunakan kemasan dingin dan waktu tempuh dapat dikend
 - **Artikel berikutnya:** [Tuna Steak dan Tuna Frozen: Jenis, Manfaat, Cara Memilih, dan Mengolah](/tuna-steak-dan-tuna-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

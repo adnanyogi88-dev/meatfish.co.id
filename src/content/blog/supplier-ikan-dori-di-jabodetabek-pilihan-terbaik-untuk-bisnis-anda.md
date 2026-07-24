@@ -18,7 +18,7 @@ gsc_clicks: 62
 gsc_impressions: 1577
 gsc_ctr: 3.93
 gsc_average_position: 7.25
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Mengapa Memilih Ikan Dori?

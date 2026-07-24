@@ -11,7 +11,7 @@ primary_keyword: "gambar makanan 4 sehat 5 sempurna"
 image: "/uploads/gambar-makanan-4-sehat-5-sempurna-primary.png"
 featured_image: "/uploads/gambar-makanan-4-sehat-5-sempurna-primary.png"
 image_alt: "Ilustrasi piring makanan 4 sehat 5 sempurna untuk keluarga"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Gambar Makanan 4 Sehat 5 Sempurna untuk Ide Menu Harian Keluarga

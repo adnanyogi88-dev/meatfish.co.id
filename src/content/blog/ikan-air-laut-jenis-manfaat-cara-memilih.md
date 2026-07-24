@@ -4,7 +4,7 @@ slug: "ikan-air-laut-jenis-manfaat-cara-memilih"
 description: "Kenali jenis ikan air laut, manfaat, cara memilih ikan segar atau frozen, teknik penyimpanan, serta peluang penjualannya."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["ikan air laut", "ikan laut frozen", "seafood", "frozen fish fillet", "fillet ikan beku", "franchise seafood"]
 image: "/images/blog/ikan-air-laut-jenis-manfaat-cara-memilih.webp"
@@ -112,4 +112,3 @@ Mulailah dengan produk yang mudah dipahami pelanggan, seperti dori fillet, tuna 
 - **Artikel berikutnya:** [Ikan Air Tawar: Jenis Populer, Manfaat, dan Pilihan Fillet Beku](/ikan-air-tawar-jenis-manfaat-fillet-beku/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

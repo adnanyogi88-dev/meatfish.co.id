@@ -4,7 +4,7 @@ slug: "ikan-air-tawar-jenis-manfaat-fillet-beku"
 description: "Panduan ikan air tawar, mulai dari nila, patin, gurame, dan lele hingga cara memilih fillet beku untuk rumah dan usaha."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["ikan air tawar", "tilapia fillet frozen", "fillet ikan sehat", "jual ikan fillet beku", "supplier ikan fillet frozen"]
 image: "/images/blog/ikan-air-tawar-jenis-manfaat-fillet-beku.webp"
@@ -109,4 +109,3 @@ Periksa konsistensi spesifikasi, cold chain, legalitas, jadwal kirim, MOQ, harga
 - **Artikel berikutnya:** [Seafood: Pengertian, Jenis, Cara Memilih, dan Ide Menjual Produk Frozen](/seafood-jenis-manfaat-cara-memilih/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

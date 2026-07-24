@@ -4,7 +4,7 @@ slug: "franchise-autopilot-cepat-balik-modal"
 description: "Pahami franchise autopilot, sistem operasional, kebutuhan karyawan, modal Rp500 juta, dan cara menghitung peluang cepat balik modal."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 tags: ["franchise autopilot", "franchise sistematis", "franchise mudah dijalankan", "franchise tanpa karyawan banyak", "franchise cepat balik modal", "franchise 500jt", "franchise menguntungkan"]
 image: "/images/blog/franchise-autopilot-cepat-balik-modal.webp"
@@ -122,4 +122,3 @@ Laba kotor, arus kas, transaksi, repeat order, selisih stok, produk rusak, biaya
 - **Artikel berikutnya:** [Franchise Makanan, Minuman, Seafood, dan Frozen Food: Panduan Membandingkan](/franchise-makanan-minuman-seafood-frozen-food/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

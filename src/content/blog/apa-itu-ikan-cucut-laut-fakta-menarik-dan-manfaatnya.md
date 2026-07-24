@@ -17,7 +17,7 @@ gsc_clicks: 131
 gsc_impressions: 29376
 gsc_ctr: 0.45
 gsc_average_position: 2.87
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan cucut laut merupakan salah satu jenis ikan laut yang cukup populer di kalangan masyarakat pesisir dan pencinta seafood.

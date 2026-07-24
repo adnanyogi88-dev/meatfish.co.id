@@ -4,7 +4,7 @@ slug: "iga-rendang-daging-slice-wagyu-frozen"
 description: "Kenali iga sapi frozen, rendang frozen, daging sapi slice, dan wagyu frozen untuk menu keluarga, hotpot, katering, dan usaha kuliner."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["iga sapi frozen", "iga frozen", "rendang frozen", "daging sapi slice frozen", "jual daging sapi slice beku", "daging sapi wagyu frozen", "beli daging sapi frozen"]
 image: "/images/blog/iga-rendang-daging-slice-wagyu-frozen.webp"
@@ -116,4 +116,3 @@ Tidak. Produk wagyu dapat berasal dari berbagai negara dan grade. Baca label den
 - **Artikel berikutnya:** [Supplier dan Distributor Daging Sapi Frozen: Panduan Memilih Mitra](/supplier-distributor-daging-sapi-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

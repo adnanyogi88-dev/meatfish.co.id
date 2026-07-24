@@ -18,7 +18,7 @@ gsc_clicks: 57
 gsc_impressions: 4282
 gsc_ctr: 1.33
 gsc_average_position: 4.56
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia kuliner, filet ikan adalah salah satu bahan makanan yang sangat populer dan serbaguna.

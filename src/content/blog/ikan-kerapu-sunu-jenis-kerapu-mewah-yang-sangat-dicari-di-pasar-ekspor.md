@@ -18,7 +18,7 @@ gsc_clicks: 84
 gsc_impressions: 107151
 gsc_ctr: 0.08
 gsc_average_position: 1.26
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Industri perikanan Indonesia terus menunjukkan pertumbuhan positif di pasar global, terutama dengan meningkatnya permintaan terhadap ikan kerapu sunu,  Sebagai salah satu komoditas ekspor unggulan,

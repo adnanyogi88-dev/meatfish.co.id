@@ -12,7 +12,7 @@ tags:
   - "kemitraan frozen food"
   - "peluang usaha frozen food"
 image: "/uploads/pemdaftaram-waralaba.jpg"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Memasuki 2026, banyak orang tidak lagi mencari franchise hanya karena mereknya viral. Calon pengusaha mulai memperhatikan kekuatan produk, kebutuhan pasar, kualitas pasokan, margin keuntungan, serta kemampuan bisnis untuk bertahan dalam jangka panjang.

@@ -4,7 +4,7 @@ slug: "salmon-fresh-vs-frozen"
 description: "Bandingkan salmon fresh dan frozen dari sisi kualitas, masa simpan, harga, penggunaan, cara memilih, serta teknik thawing."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["salmon fresh", "salmon frozen", "salmon fillet frozen", "harga fillet ikan frozen", "fillet ikan sehat"]
 image: "/images/blog/salmon-fresh-vs-frozen.webp"
@@ -113,4 +113,3 @@ Cocok karena mudah diporsikan dan dapat masuk ke menu grill, rice bowl, pasta, a
 - **Artikel berikutnya:** [Trout Fresh vs Frozen: Karakteristik, Cara Memilih, dan Mengolahnya](/trout-fresh-vs-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

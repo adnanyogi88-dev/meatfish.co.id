@@ -4,7 +4,7 @@ slug: "franchise-makanan-minuman-seafood-frozen-food"
 description: "Bandingkan franchise makanan, minuman, kopi, fried chicken, burger, seafood, dan frozen food berdasarkan operasional, stok, dan pasar."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 tags: ["franchise makanan", "franchise minuman", "franchise kopi", "franchise fried chicken", "franchise burger", "franchise seafood", "franchise frozen food", "franchise makanan kekinian", "franchise minuman kekinian", "franchise sehat", "franchise ikan", "franchise makanan beku", "waralaba frozen"]
 image: "/images/blog/franchise-makanan-minuman-seafood-frozen-food.webp"
@@ -114,4 +114,3 @@ Lihat data penjualan jangka lebih panjang, jumlah outlet yang bertahan, repeat o
 - **Artikel berikutnya:** [Franchise Jakarta, Bandung, Tangerang, Depok, Bogor, dan Bekasi](/franchise-jakarta-bandung-tangerang-depok-bogor-bekasi/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

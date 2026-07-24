@@ -17,7 +17,7 @@ primary_keyword: "cara menghitung margin franchise frozen food"
 image: "/uploads/cara-menghitung-margin-franchise-frozen-food-primary.png"
 featured_image: "/uploads/cara-menghitung-margin-franchise-frozen-food-primary.png"
 image_alt: "Ilustrasi cara menghitung margin franchise frozen food untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **cara menghitung margin franchise frozen food** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

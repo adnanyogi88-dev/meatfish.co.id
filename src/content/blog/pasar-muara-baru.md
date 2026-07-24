@@ -11,7 +11,7 @@ primary_keyword: "pasar muara baru"
 image: "/uploads/pasar-muara-baru-primary.png"
 featured_image: "/uploads/pasar-muara-baru-primary.png"
 image_alt: "Ilustrasi pasar ikan dan seafood frozen"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Pasar Muara Baru: Panduan Belanja Ikan dan Alternatif Seafood Frozen Praktis

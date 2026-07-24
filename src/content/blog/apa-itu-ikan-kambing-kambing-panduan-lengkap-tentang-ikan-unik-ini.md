@@ -17,7 +17,7 @@ gsc_clicks: 70
 gsc_impressions: 15593
 gsc_ctr: 0.45
 gsc_average_position: 5.29
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan kambing-kambing merupakan salah satu jenis ikan yang cukup unik, namun belum begitu dikenal luas di masyarakat.

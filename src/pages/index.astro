@@ -66,6 +66,13 @@ const latestPosts = Object.values(import.meta.glob("../content/blog/*.md", { eag
 
 const featuredPosts = latestPosts.slice(0, 4);
 const instagramPosts = latestPosts.slice(0, 3);
+const formatPublishDate = (date: string) =>
+  new Date(date).toLocaleDateString("id-ID", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "Asia/Jakarta"
+  });
 const categories = [
   "Ayam",
   "Daging",
@@ -174,6 +181,7 @@ const categories = [
             <div class="card-body">
               <span class="pill">{post.categories?.[0] || "Instagram"}</span>
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
+              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
               <p>{post.description}</p>
             </div>
           </article>
@@ -195,6 +203,7 @@ const categories = [
             <div class="card-body">
               <span class="pill">{post.categories?.[0] || "Artikel"}</span>
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
+              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
               <p>{post.description}</p>
             </div>
           </article>
@@ -223,6 +232,7 @@ const categories = [
             <img src={post.image || "/images/article-placeholder.svg"} alt={post.title} loading="lazy" />
             <div class="card-body">
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
+              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
             </div>
           </article>
         ))}

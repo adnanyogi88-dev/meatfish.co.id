@@ -11,7 +11,7 @@ primary_keyword: "gambar ikan tenggiri"
 image: "/uploads/gambar-ikan-tenggiri-primary.png"
 featured_image: "/uploads/gambar-ikan-tenggiri-primary.png"
 image_alt: "Ilustrasi ikan tenggiri sebagai primary image artikel"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Gambar Ikan Tenggiri: Ciri Fisik, Tekstur Daging, dan Pilihan Olahan Beku

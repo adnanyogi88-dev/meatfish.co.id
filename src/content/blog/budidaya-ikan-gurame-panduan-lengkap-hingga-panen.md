@@ -16,7 +16,7 @@ gsc_clicks: 41
 gsc_impressions: 13540
 gsc_ctr: 0.3
 gsc_average_position: 5.89
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Ikan gurame, dengan nama ilmiah *Osphronemus gouramy*, merupakan salah satu primadona air tawar yang tak asing lagi bagi masyarakat Indonesia.

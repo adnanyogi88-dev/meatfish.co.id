@@ -11,7 +11,7 @@ primary_keyword: "ikan tenggiri frozen"
 image: "/uploads/ikan-tenggiri-frozen-primary.png"
 featured_image: "/uploads/ikan-tenggiri-frozen-primary.png"
 image_alt: "Ilustrasi ikan tenggiri frozen untuk bisnis kuliner"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Tenggiri Frozen: Keunggulan, Cara Memilih, dan Ide Menu Siap Jual

@@ -11,7 +11,7 @@ primary_keyword: "gambar 4 sehat 5 sempurna"
 image: "/uploads/gambar-4-sehat-5-sempurna-primary.png"
 featured_image: "/uploads/gambar-4-sehat-5-sempurna-primary.png"
 image_alt: "Ilustrasi 4 sehat 5 sempurna dengan protein ikan daging ayam"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Gambar 4 Sehat 5 Sempurna: Contoh Menu Protein Ikan, Daging, Ayam, dan Seafood

@@ -11,7 +11,7 @@ primary_keyword: "kerapu lumpur"
 image: "/uploads/kerapu-lumpur-primary.png"
 featured_image: "/uploads/kerapu-lumpur-primary.png"
 image_alt: "Ilustrasi kerapu lumpur untuk menu seafood"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Kerapu Lumpur: Karakter Rasa, Cara Memasak, dan Peluang Menu Seafood

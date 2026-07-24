@@ -21,7 +21,7 @@ gsc_clicks: 40
 gsc_impressions: 727
 gsc_ctr: 5.5
 gsc_average_position: 6.13
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Meningkatnya permintaan terhadap produk seafood khususnya cumi-cumi di pasar internasional membuat peluang bisnis cumi berkualitas ekspor semakin menjanjikan.

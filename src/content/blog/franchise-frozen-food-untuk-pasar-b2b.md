@@ -17,7 +17,7 @@ primary_keyword: "franchise frozen food untuk pasar B2B"
 image: "/uploads/franchise-frozen-food-untuk-pasar-b2b-primary.png"
 featured_image: "/uploads/franchise-frozen-food-untuk-pasar-b2b-primary.png"
 image_alt: "Ilustrasi franchise frozen food untuk pasar B2B untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **franchise frozen food untuk pasar B2B** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

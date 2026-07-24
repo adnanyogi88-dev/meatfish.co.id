@@ -11,7 +11,7 @@ primary_keyword: "seafood frozen tahan berapa lama"
 image: "/uploads/seafood-frozen-tahan-berapa-lama-primary.png"
 featured_image: "/uploads/seafood-frozen-tahan-berapa-lama-primary.png"
 image_alt: "Ilustrasi penyimpanan seafood frozen di freezer"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Seafood Frozen Tahan Berapa Lama? Panduan Simpan Ikan, Udang, dan Cumi

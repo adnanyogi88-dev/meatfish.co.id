@@ -4,7 +4,7 @@ slug: "jual-ikan-fillet-frozen-jakarta"
 description: "Panduan membeli ikan fillet frozen di Jakarta, membandingkan harga, memilih supplier dan distributor, serta memesan secara grosir."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["jual ikan fillet frozen Jakarta", "beli fillet ikan beku", "harga fillet ikan frozen", "supplier ikan fillet frozen", "distributor frozen fish fillet", "jual ikan fillet beku", "grosir fillet frozen"]
 image: "/images/blog/jual-ikan-fillet-frozen-jakarta.webp"
@@ -119,4 +119,3 @@ Biasanya bisa bila memenuhi jumlah pembelian. Bandingkan margin, ongkir, dan kec
 - **Artikel berikutnya:** [Ikan Air Laut: Jenis, Manfaat, Cara Memilih, dan Tips Menyimpannya](/ikan-air-laut-jenis-manfaat-cara-memilih/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

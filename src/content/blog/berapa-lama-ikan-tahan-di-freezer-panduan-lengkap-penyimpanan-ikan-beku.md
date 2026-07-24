@@ -17,7 +17,7 @@ gsc_clicks: 124
 gsc_impressions: 30851
 gsc_ctr: 0.4
 gsc_average_position: 5.99
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Penyimpanan ikan di freezer adalah solusi paling efektif untuk menjaga kesegaran, rasa, dan nilai gizinya dalam jangka waktu yang lama.

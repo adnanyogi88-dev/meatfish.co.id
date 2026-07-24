@@ -4,7 +4,7 @@ slug: "cumi-tube-frozen"
 description: "Pelajari apa itu cumi tube frozen, ciri produk berkualitas, cara menyimpan, teknik memasak agar empuk, dan peluang penjualannya."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["cumi tube", "cumi tube frozen", "seafood frozen pack", "franchise seafood", "supplier seafood frozen"]
 image: "/images/blog/cumi-tube-frozen.webp"
@@ -103,4 +103,3 @@ Cocok karena mudah diporsikan, cepat disiapkan, dan dapat digunakan untuk banyak
 - **Artikel berikutnya:** [Cumi Ring Frozen: Cara Memilih, Mengolah, dan Menjualnya](/cumi-ring-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

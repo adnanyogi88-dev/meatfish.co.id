@@ -11,7 +11,7 @@ primary_keyword: "kerapu vs kakap"
 image: "/uploads/kerapu-vs-kakap-primary.png"
 featured_image: "/uploads/kerapu-vs-kakap-primary.png"
 image_alt: "Ilustrasi perbandingan kerapu dan kakap"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Kerapu vs Kakap: Perbedaan Rasa, Tekstur, Harga, dan Menu yang Cocok

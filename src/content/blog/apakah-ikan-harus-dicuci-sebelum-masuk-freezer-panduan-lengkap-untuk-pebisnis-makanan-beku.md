@@ -17,7 +17,7 @@ gsc_clicks: 78
 gsc_impressions: 7484
 gsc_ctr: 1.04
 gsc_average_position: 7.53
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia bisnis makanan beku, terutama bagi pelaku usaha seperti restoran seafood, distributor frozen food, maupun dropshipper,

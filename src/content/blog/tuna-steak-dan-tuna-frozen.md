@@ -4,7 +4,7 @@ slug: "tuna-steak-dan-tuna-frozen"
 description: "Kenali tuna dan tuna steak frozen, pilihan potongan, cara memilih, teknik thawing, ide menu, serta peluang bisnisnya."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Ikan & Seafood"
 tags: ["tuna steak", "tuna", "tuna fillet frozen", "frozen fish fillet", "jual ikan fillet beku"]
 image: "/images/blog/tuna-steak-dan-tuna-frozen.webp"
@@ -111,4 +111,3 @@ Cocok karena mudah diporsikan dan tersedia dalam berbagai bentuk.
 - **Artikel berikutnya:** [Frozen Fish Fillet: Salmon, Tilapia, Tuna, Cucut, dan Dory](/frozen-fish-fillet-salmon-tilapia-tuna-dory/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

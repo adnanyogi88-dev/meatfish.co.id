@@ -4,7 +4,7 @@ slug: "frozen-meat-fillet-tenderloin-sirloin-ribeye"
 description: "Panduan frozen meat fillet, tenderloin, sirloin, rib eye, beef fillet, dan daging steak frozen untuk rumah serta bisnis kuliner."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Frozen Food"
 tags: ["frozen meat fillet", "daging fillet beku", "daging steak frozen", "tenderloin frozen", "tenderloin fronzen", "sirloin frozen", "rib eye frozen", "beef fillet frozen", "jual daging fillet frozen"]
 image: "/images/blog/frozen-meat-fillet-tenderloin-sirloin-ribeye.webp"
@@ -120,4 +120,3 @@ Gunakan kemasan rapat, suhu stabil, dan hindari penyimpanan terlalu lama.
 - **Artikel berikutnya:** [Iga Frozen, Rendang Frozen, Daging Slice, dan Wagyu untuk Menu Praktis](/iga-rendang-daging-slice-wagyu-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

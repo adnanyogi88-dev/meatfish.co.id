@@ -17,7 +17,7 @@ gsc_clicks: 390
 gsc_impressions: 152975
 gsc_ctr: 0.25
 gsc_average_position: 2.52
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Konsep "4 Sehat 5 Sempurna" telah lama terkenal di Indonesia sebagai panduan pola makan sehat yang dianjurkan oleh pemerintah pada tahun 1950-an.

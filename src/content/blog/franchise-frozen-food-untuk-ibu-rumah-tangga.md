@@ -17,7 +17,7 @@ primary_keyword: "franchise frozen food untuk ibu rumah tangga"
 image: "/uploads/franchise-frozen-food-untuk-ibu-rumah-tangga-primary.png"
 featured_image: "/uploads/franchise-frozen-food-untuk-ibu-rumah-tangga-primary.png"
 image_alt: "Ilustrasi franchise frozen food untuk ibu rumah tangga untuk calon pengusaha frozen food"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 Minat terhadap **franchise frozen food untuk ibu rumah tangga** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.

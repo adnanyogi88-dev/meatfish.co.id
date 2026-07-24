@@ -18,7 +18,7 @@ gsc_clicks: 39
 gsc_impressions: 2781
 gsc_ctr: 1.4
 gsc_average_position: 10.44
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Jakarta, sebagai ibu kota Indonesia, adalah surga bagi para pecinta kuliner dengan beragam pilihan yang menggugah selera.

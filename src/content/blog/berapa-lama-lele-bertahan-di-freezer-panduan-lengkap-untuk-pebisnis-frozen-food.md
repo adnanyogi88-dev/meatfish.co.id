@@ -17,7 +17,7 @@ gsc_clicks: 70
 gsc_impressions: 10699
 gsc_ctr: 0.65
 gsc_average_position: 5.41
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 ## Dalam dunia bisnis makanan beku, terutama frozen food berbasis ikan konsumsi, efisiensi penyimpanan menjadi kunci utama.

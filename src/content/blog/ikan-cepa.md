@@ -11,7 +11,7 @@ primary_keyword: "ikan cepa"
 image: "/uploads/ikan-cepa-primary.png"
 featured_image: "/uploads/ikan-cepa-primary.png"
 image_alt: "Ilustrasi ikan cepa untuk panduan memilih ikan"
-author: "administrator"
+author: "Yogi Adnan"
 ---
 
 # Ikan Cepa: Mengenal Jenis Ikan Pasar, Rasa, dan Tips Memilih yang Segar

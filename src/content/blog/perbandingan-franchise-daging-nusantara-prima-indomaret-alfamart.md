@@ -4,7 +4,7 @@ slug: "perbandingan-franchise-daging-nusantara-prima-indomaret-alfamart"
 description: "Kerangka membandingkan franchise Toko Daging Nusantara, Prima Freshmart, Indomaret, Alfamart, dan toko frozen spesialis secara objektif."
 date: 2026-07-24T15:23:56+07:00
 updatedDate: 2026-07-24
-author: "Meat & Fish"
+author: "Yogi Adnan"
 category: "Franchise"
 tags: ["franchise toko daging nusantara", "franchise Prima freshmart", "franchise indomaret", "franchise alfamart", "minimarket franchise", "franchise toko frozen"]
 image: "/images/blog/perbandingan-franchise-daging-nusantara-prima-indomaret-alfamart.webp"
@@ -125,4 +125,3 @@ Perjanjian kerja sama, rincian biaya, hak dan kewajiban, wilayah, pasokan, serta
 - **Artikel berikutnya:** [Frozen Meat Fillet: Tenderloin, Sirloin, Rib Eye, dan Daging Steak Frozen](/frozen-meat-fillet-tenderloin-sirloin-ribeye/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-
