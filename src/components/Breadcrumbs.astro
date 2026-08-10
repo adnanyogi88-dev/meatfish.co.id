@@ -1,0 +1,15 @@
+---
+const { items = [] } = Astro.props;
+const all = [{ name: "Homepage", url: "/" }, ...items];
+const jsonLd = {
+  "@context": "https://schema.org", "@type": "BreadcrumbList",
+  itemListElement: all.map((item, index) => ({
+    "@type": "ListItem", position: index + 1, name: item.name,
+    ...(index < all.length - 1 ? { item: new URL(item.url, Astro.site).href } : {})
+  }))
+};
+---
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  {all.map((item, index) => <>{index > 0 && <span>›</span>}{index < all.length - 1 ? <a href={item.url}>{item.name}</a> : <span aria-current="page">{item.name}</span>}</>)}
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
