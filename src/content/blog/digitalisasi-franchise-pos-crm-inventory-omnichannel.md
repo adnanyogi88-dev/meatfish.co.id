@@ -17,6 +17,7 @@ image: "/images/blog/digitalisasi-franchise-pos-crm-inventory-omnichannel.webp"
 imageAlt: "Ilustrasi digitalisasi franchise dengan POS, CRM, inventory, cloud, dan beberapa outlet terhubung"
 primaryKeyword: "digitalisasi franchise"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Digitalisasi franchise menghubungkan transaksi, stok, pelanggan, keuangan, dan operasional agar pusat serta outlet mengambil keputusan dari data yang sama. Nilai terbesar muncul ketika sistem terintegrasi dan tim benar-benar menggunakannya.
 
@@ -126,3 +127,4 @@ Digitalisasi franchise mengubah data menjadi kontrol dan pertumbuhan. Mulailah d
 
 **Artikel sebelumnya:** [Cara Membangun Brand Franchise yang Kuat dan Mudah Dikenali](https://meatfish.co.id/cara-membangun-brand-franchise-yang-kuat/)  
 **Artikel berikutnya:** [Supply Chain Franchise Frozen Food: Cold Chain, Central Purchasing, dan Ketahanan Pasokan](https://meatfish.co.id/supply-chain-franchise-frozen-food/)
+

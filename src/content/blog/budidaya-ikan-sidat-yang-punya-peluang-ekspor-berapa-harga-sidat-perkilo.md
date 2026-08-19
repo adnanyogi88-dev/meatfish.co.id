@@ -19,6 +19,7 @@ gsc_impressions: 10070
 gsc_ctr: 0.86
 gsc_average_position: 4.47
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Potensi Bisnis Ikan Sidat di Pasar Ekspor
@@ -85,3 +86,4 @@ Jika Anda tertarik untuk membeli sidat atau seafood segar lainnya untuk konsumsi
 ## Kesimpulan
 
 Budidaya ikan sidat merupakan peluang bisnis yang sangat menjanjikan, terutama dengan permintaan ekspor yang tinggi dan harga sidat per kilo yang terus meningkat. Dengan persiapan yang matang, mulai dari pemilihan kolam, benih berkualitas, hingga pemasaran yang tepat, bisnis ini dapat menghasilkan keuntungan besar bagi para pengusaha perikanan. Bagi Anda yang ingin mencari peluang bisnis menguntungkan, budidaya ikan sidat bisa menjadi pilihan investasi yang menarik untuk dijalankan!
+

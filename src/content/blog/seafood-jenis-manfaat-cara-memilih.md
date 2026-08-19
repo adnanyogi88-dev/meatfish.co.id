@@ -10,6 +10,7 @@ tags: ["seafood", "frozen seafood fillet", "seafood frozen pack", "franchise sea
 image: "/images/blog/seafood-jenis-manfaat-cara-memilih.webp"
 imageAlt: "Aneka seafood berupa udang cumi kerang dan ikan"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Seafood adalah bahan pangan yang berasal dari laut atau perairan, seperti ikan, udang, cumi, kerang, kepiting, dan hasil laut lainnya. Dalam perdagangan modern, seafood tersedia dalam bentuk segar, chilled, frozen, fillet, steak, kupas, ring, tube, atau paket siap masak.
@@ -109,3 +110,4 @@ Udang, cumi ring, cumi tube, dori fillet, tuna steak, salmon fillet, dan seafood
 - **Artikel berikutnya:** [Salmon Fresh vs Frozen: Perbedaan, Manfaat, dan Cara Menyimpannya](/salmon-fresh-vs-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

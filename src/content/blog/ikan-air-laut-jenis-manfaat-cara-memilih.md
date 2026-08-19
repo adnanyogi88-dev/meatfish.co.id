@@ -10,6 +10,7 @@ tags: ["ikan air laut", "ikan laut frozen", "seafood", "frozen fish fillet", "fi
 image: "/images/blog/ikan-air-laut-jenis-manfaat-cara-memilih.webp"
 imageAlt: "Aneka ikan air laut dan seafood segar tersusun di atas meja"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Ikan air laut adalah ikan yang hidup di perairan asin, misalnya tuna, salmon, kakap, tenggiri, kerapu, dan dori. Konsumen dapat membelinya dalam bentuk utuh, steak, loin, atau fillet beku. Pilihan terbaik bergantung pada menu, anggaran, ukuran porsi, serta kemampuan penyimpanan.
@@ -112,3 +113,4 @@ Mulailah dengan produk yang mudah dipahami pelanggan, seperti dori fillet, tuna 
 - **Artikel berikutnya:** [Ikan Air Tawar: Jenis Populer, Manfaat, dan Pilihan Fillet Beku](/ikan-air-tawar-jenis-manfaat-fillet-beku/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

@@ -12,6 +12,7 @@ tags: ["franchise ikan", "franchise toko ikan", "ikan frozen", "bisnis ikan", "f
 image: "/images/blog/franchise-ikan.webp"
 imageAlt: "Aneka ikan segar dan fillet sebagai ilustrasi franchise ikan"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise ikan dapat menjual ikan utuh, potongan, fillet, steak, dan produk beku. Model ini melayani rumah tangga serta usaha kuliner dengan kebutuhan protein yang berulang.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Frozen Food: Peluang Bisnis Kebutuhan Rumah Tangga yang Berulang](/franchise-frozen-food/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

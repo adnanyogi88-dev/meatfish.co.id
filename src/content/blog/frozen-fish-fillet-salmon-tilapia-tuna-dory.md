@@ -10,6 +10,7 @@ tags: ["frozen fish fillet", "fillet ikan beku", "salmon fillet frozen", "tilapi
 image: "/images/blog/frozen-fish-fillet-salmon-tilapia-tuna-dory.webp"
 imageAlt: "Ikan tuna dan potongan fillet tuna merah di atas meja"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Frozen fish fillet adalah daging ikan tanpa bagian tulang utama yang dibekukan untuk memudahkan penyimpanan dan distribusi. Jenis populer meliputi salmon, tilapia, tuna, cucut, dan dory. Setiap fillet mempunyai rasa, tekstur, dan penggunaan yang berbeda.
@@ -121,3 +122,4 @@ Nilai kualitas, konsistensi spesifikasi, suhu, legalitas, MOQ, harga, jadwal pas
 - **Artikel berikutnya:** [Franchise 2026: Cara Memilih Franchise Terbaik dan Terlaris Secara Realistis](/franchise-2026-terbaik-terlaris/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

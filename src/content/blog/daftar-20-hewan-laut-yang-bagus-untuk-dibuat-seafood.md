@@ -20,6 +20,7 @@ gsc_impressions: 10335
 gsc_ctr: 0.7
 gsc_average_position: 7.63
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Seafood adalah salah satu jenis makanan yang sangat banyak penggemarnya di berbagai belahan dunia.
@@ -122,3 +123,4 @@ Jika Anda tertarik untuk memulai usaha di bidang ini, bergabung dengan kemitraan
 ### Penutup
 
 Seafood adalah makanan yang tidak hanya lezat tetapi juga kaya manfaat. Dengan daftar 20 hewan laut di atas, Anda memiliki banyak pilihan untuk mengeksplorasi berbagai hidangan laut yang menggugah selera. Selain itu, peluang usaha di bidang seafood juga sangat menjanjikan, terutama jika didukung dengan strategi yang tepat dan mitra yang terpercaya seperti Meat & Fish.
+

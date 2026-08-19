@@ -18,6 +18,7 @@ gsc_impressions: 89852
 gsc_ctr: 0.11
 gsc_average_position: 1.13
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Kerapu cantang adalah hasil persilangan antara kerapu macan (*Epinephelus fuscoguttatus*) dan kerapu kertang (*Epinephelus lanceolatus*).
@@ -74,3 +75,4 @@ Dengan strategi budidaya, pemasaran, dan distribusi yang tepat, kerapu cantang b
 - [Jual Frozen Udang Beku Murah Terbaik](https://meatfish.co.id/jual-frozen-udang-beku-murah-terbaik/)
 
 Dengan platform yang terpercaya dan produk berkualitas, bisnis ekspor Anda akan semakin kuat dan berkembang.
+

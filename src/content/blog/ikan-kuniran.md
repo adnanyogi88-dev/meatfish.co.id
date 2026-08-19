@@ -12,6 +12,7 @@ image: "/uploads/ikan-kuniran-primary.png"
 featured_image: "/uploads/ikan-kuniran-primary.png"
 image_alt: "Ilustrasi ikan kuniran untuk artikel Meatfish"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Ikan Kuniran: Ciri, Manfaat, Cara Mengolah, dan Pilihan Frozen untuk Dapur
@@ -67,3 +68,4 @@ Melalui halaman [Produk ikan dan seafood frozen Meatfish](https://meatfish.co.id
 Keyword **ikan kuniran** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

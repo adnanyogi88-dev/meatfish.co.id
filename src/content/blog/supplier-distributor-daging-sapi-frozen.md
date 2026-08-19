@@ -10,6 +10,7 @@ tags: ["supplier daging sapi beku", "grosir daging sapi frozen", "distributor da
 image: "/images/blog/supplier-distributor-daging-sapi-frozen.webp"
 imageAlt: "Freezer display berisi beragam produk daging beku"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Supplier daging sapi beku yang baik memberikan spesifikasi jelas, harga transparan, cold chain stabil, jadwal pasokan konsisten, dokumen produk, serta mekanisme komplain. Harga per kilogram harus dibandingkan bersama berat bersih, yield, MOQ, dan biaya kirim.
@@ -115,3 +116,4 @@ Sangat disarankan untuk produk baru atau volume besar agar pembeli dapat menguji
 - **Artikel berikutnya:** [Frozen Seafood Fillet dan Meat Fish Fillet Frozen: Panduan Produk Lengkap](/frozen-seafood-fillet-meat-fish/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

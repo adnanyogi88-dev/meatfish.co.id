@@ -12,6 +12,7 @@ tags: ["cara menyimpan frozen food", "penyimpanan frozen food", "freezer", "stok
 image: "/images/blog/cara-menyimpan-frozen-food-agar-tahan-lama.webp"
 imageAlt: "Freezer rumah tertata rapi dengan berbagai frozen food berlabel"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Simpan frozen food dalam porsi sekali masak, gunakan kemasan rapat, beri label tanggal, jaga freezer tetap teratur, dan terapkan sistem stok lama dipakai lebih dahulu.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Cara Thawing Daging dan Ikan Frozen](/cara-thawing-daging-dan-ikan-frozen/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

@@ -12,6 +12,7 @@ tags: ["cara thawing", "mencairkan daging frozen", "mencairkan ikan", "frozen fo
 image: "/images/blog/cara-thawing-daging-dan-ikan-frozen.webp"
 imageAlt: "Daging dan ikan frozen sedang dicairkan secara teratur di dalam chiller"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Cara thawing yang paling mudah direncanakan ialah memindahkan porsi dari freezer ke chiller sebelum hari memasak. Gunakan wadah tertutup, pisahkan dari makanan siap santap, dan ikuti petunjuk produk.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Ikan Frozen Berkualitas](/ikan-frozen-berkualitas-ciri-dan-cara-memilih/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

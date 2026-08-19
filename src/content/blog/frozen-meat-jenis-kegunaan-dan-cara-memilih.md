@@ -12,6 +12,7 @@ tags: ["frozen meat", "meat food", "daging beku", "daging sapi frozen", "produk 
 image: "/images/blog/frozen-meat-jenis-kegunaan-dan-cara-memilih.webp"
 imageAlt: "Berbagai potongan frozen meat tersusun di meja persiapan makanan"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Frozen meat mencakup berbagai daging dan potongan yang dibekukan untuk menjaga mutu serta memudahkan penyimpanan. Pilih jenis potongan berdasarkan resep, waktu memasak, dan jumlah porsi.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Meal Prep Daging Frozen](/meal-prep-daging-frozen-untuk-menu-mingguan/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

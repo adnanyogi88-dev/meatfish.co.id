@@ -12,6 +12,7 @@ tags: ["franchise Depok", "peluang usaha Depok", "waralaba Depok", "franchise ma
 image: "/images/blog/franchise-depok.webp"
 imageAlt: "Gerai retail di area perkotaan sebagai ilustrasi franchise Depok"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise Depok dapat menargetkan mahasiswa, keluarga muda, komuter, dan usaha rumahan. Produk dengan harga jelas, porsi praktis, delivery, dan pembelian berulang cenderung lebih sesuai.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Bogor: Peluang Bisnis di Pasar Wisata, Perumahan, dan Kuliner](/franchise-bogor/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

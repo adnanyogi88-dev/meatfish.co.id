@@ -12,6 +12,7 @@ tags: ["franchise autopilot", "bisnis autopilot", "franchise sistematis", "usaha
 image: "/images/blog/franchise-autopilot.webp"
 imageAlt: "Ilustrasi dashboard dan sistem otomatis untuk franchise autopilot"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise autopilot bukan bisnis tanpa pengawasan. Istilah ini lebih tepat menggambarkan outlet yang dapat dijalankan tim melalui SOP, teknologi, laporan, dan kontrol yang jelas sehingga pemilik tidak harus hadir sepanjang hari.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Sistematis: Ciri, SOP, dan Cara Menilai Kualitas Sistem](/franchise-sistematis/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

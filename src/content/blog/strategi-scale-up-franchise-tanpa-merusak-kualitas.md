@@ -17,6 +17,7 @@ image: "/images/blog/strategi-scale-up-franchise-tanpa-merusak-kualitas.webp"
 imageAlt: "Ilustrasi strategi scale up franchise dengan jalur pertumbuhan, quality gate, tim pusat, dan outlet baru"
 primaryKeyword: "strategi scale up franchise"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Strategi scale up franchise harus menyeimbangkan kecepatan pembukaan dengan kapasitas sistem. Jaringan perlu quality gate pada unit economics, calon mitra, lokasi, pelatihan, pasokan, teknologi, dan kesiapan tim pusat sebelum setiap outlet dibuka.
 
@@ -126,3 +127,4 @@ Strategi scale up franchise membutuhkan quality gate, kapasitas pusat, pipeline 
 
 **Artikel sebelumnya:** [Pendanaan Ekspansi Franchise: Modal Sendiri, Mitra, Pinjaman, atau Investor?](https://meatfish.co.id/pendanaan-ekspansi-franchise-modal-mitra-investor/)  
 **Artikel berikutnya:** [Bisnis Franchise Frozen: Panduan Membangun Toko yang Terukur dan Tahan Lama](https://meatfish.co.id/bisnis-franchise-frozen-panduan-membangun-toko/)
+

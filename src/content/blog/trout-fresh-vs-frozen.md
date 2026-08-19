@@ -10,6 +10,7 @@ tags: ["trout fresh", "trout frozen", "frozen fish fillet", "fillet ikan beku", 
 image: "/images/blog/trout-fresh-vs-frozen.webp"
 imageAlt: "Ikan trout utuh di atas es dengan lemon dan rempah"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Trout adalah ikan dengan daging lembut yang tersedia dalam bentuk fresh maupun frozen. Trout fresh cocok untuk penggunaan cepat, sedangkan trout frozen memberi fleksibilitas penyimpanan dan distribusi. Keduanya dapat diolah dengan grill, oven, kukus, atau pan-seared.
@@ -109,3 +110,4 @@ Bisa. Gunakan porsi konsisten dan sertakan petunjuk penyimpanan serta cara memas
 - **Artikel berikutnya:** [Cumi Tube Frozen: Pengertian, Cara Memilih, dan Tips Mengolah agar Empuk](/cumi-tube-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

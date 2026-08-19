@@ -12,6 +12,7 @@ tags: ["franchise cepat balik modal", "franchise menguntungkan", "payback period
 image: "/images/blog/franchise-cepat-balik-modal.webp"
 imageAlt: "Grafik pertumbuhan bisnis sebagai ilustrasi franchise cepat balik modal"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise cepat balik modal adalah bisnis yang dapat mengembalikan investasi awal melalui arus kas bersih dalam periode relatif singkat. Klaim tersebut harus diuji dengan biaya lengkap dan skenario penjualan konservatif.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Seafood: Peluang Bisnis Produk Laut Segar dan Frozen](/franchise-seafood/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

@@ -10,6 +10,7 @@ tags: ["jual ikan fillet frozen Jakarta", "beli fillet ikan beku", "harga fillet
 image: "/images/blog/jual-ikan-fillet-frozen-jakarta.webp"
 imageAlt: "Ikan tuna dan fillet merah sebagai ilustrasi supplier ikan fillet frozen"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Untuk membeli ikan fillet frozen di Jakarta, bandingkan jenis ikan, berat bersih, ukuran potongan, glazing, harga per kilogram, minimum order, biaya pengiriman, dan cold chain. Rumah tangga dapat memilih kemasan kecil, sedangkan restoran serta reseller perlu meminta spesifikasi dan harga grosir.
@@ -119,3 +120,4 @@ Biasanya bisa bila memenuhi jumlah pembelian. Bandingkan margin, ongkir, dan kec
 - **Artikel berikutnya:** [Ikan Air Laut: Jenis, Manfaat, Cara Memilih, dan Tips Menyimpannya](/ikan-air-laut-jenis-manfaat-cara-memilih/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

@@ -12,6 +12,7 @@ tags: ["ikan air tawar frozen", "ikan beku", "fish food", "menu ikan", "frozen f
 image: "/images/blog/ikan-air-tawar-frozen-pilihan-praktis.webp"
 imageAlt: "Ikan air tawar frozen dengan bumbu tradisional dan sayuran"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Ikan air tawar frozen cocok untuk goreng, bakar, pepes, sup, dan bumbu tradisional. Pilih kemasan utuh, ukuran sesuai porsi, serta tangani pencairan dengan terencana.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Jenis Ikan untuk Frozen Food](https://meatfish.co.id/jenis-jenis-ikan-yang-bisa-dijadikan-frozen-food/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

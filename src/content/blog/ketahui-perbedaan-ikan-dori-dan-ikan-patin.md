@@ -19,6 +19,7 @@ gsc_impressions: 208415
 gsc_ctr: 0.16
 gsc_average_position: 1.6
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan merupakan salah satu sumber protein hewani yang sangat penting bagi masyarakat Indonesia.
@@ -146,3 +147,4 @@ Secara umum, ikan dori dan ikan patin memiliki perbedaan yang cukup signifikan, 
 Bagi konsumen, memahami perbedaan antara ikan dori dan ikan patin sangat penting untuk membuat keputusan yang tepat saat membeli ikan. Sementara itu, bagi para pembudidaya, pemahaman mendalam tentang karakteristik kedua jenis ikan ini dapat membantu meningkatkan kualitas produksi dan daya saing di pasar.
 
 Dengan pengetahuan yang tepat, baik konsumen maupun pembudidaya dapat memaksimalkan manfaat yang diperoleh dari ikan dori dan ikan patin, serta berkontribusi pada keberlanjutan industri perikanan di Indonesia.
+

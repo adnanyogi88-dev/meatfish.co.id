@@ -20,6 +20,7 @@ gsc_impressions: 9637
 gsc_ctr: 1.54
 gsc_average_position: 6.08
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Pasar ikan di Indonesia adalah sumber kekayaan alam yang tidak hanya penting dari segi ekologi tetapi juga ekonomi.
@@ -87,3 +88,4 @@ Pasar ikan menawarkan peluang besar untuk berinvestasi dalam sektor yang tidak h
 ### **Call to Action**
 
 Jelajahi berbagai produk ikan segar dan berkualitas dari Meat & Fish melalui [website produk kami](https://meatfish.co.id/produk-kami/), dan mulailah perjalanan Anda dalam industri perikanan yang menjanjikan ini hari ini.
+

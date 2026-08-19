@@ -19,6 +19,7 @@ gsc_impressions: 2781
 gsc_ctr: 1.4
 gsc_average_position: 10.44
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Jakarta, sebagai ibu kota Indonesia, adalah surga bagi para pecinta kuliner dengan beragam pilihan yang menggugah selera.
@@ -108,3 +109,4 @@ Melalui diversifikasi usaha, Anda dapat memanfaatkan produk-produk seafood beku 
 ### **Kesimpulan**
 
 Dengan banyaknya restoran seafood terenak di Jakarta, Anda bisa menikmati hidangan laut segar dengan cita rasa yang menggoda. Untuk memastikan kualitas seafood tetap terbaik, kehadiran supplier seperti Meat & Fish menjadi solusi yang tepat. Jangan lewatkan peluang bisnis yang menjanjikan di dunia seafood dengan menjadikan Meat & Fish sebagai mitra usaha Anda. Kunjungi situs resminya di [**Meat & Fish.id**](https://meatfish.co.id/) untuk informasi lebih lanjut.
+

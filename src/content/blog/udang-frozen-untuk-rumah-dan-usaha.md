@@ -12,6 +12,7 @@ tags: ["udang frozen", "seafood frozen", "fish food", "udang beku", "supplier ud
 image: "/images/blog/udang-frozen-untuk-rumah-dan-usaha.webp"
 imageAlt: "Udang frozen dengan bawang, lemon, dan sayuran untuk menu rumah dan usaha"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Pilih udang frozen berdasarkan ukuran, bentuk produk, dan menu. Gunakan grade konsisten untuk usaha, bagi porsi untuk rumah, cairkan secara terencana, dan masak secukupnya.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Seafood Frozen untuk Usaha](/seafood-frozen-untuk-usaha-kuliner/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

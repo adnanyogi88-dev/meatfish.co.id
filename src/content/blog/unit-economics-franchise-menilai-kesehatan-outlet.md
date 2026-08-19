@@ -17,6 +17,7 @@ image: "/images/blog/unit-economics-franchise-menilai-kesehatan-outlet.webp"
 imageAlt: "Ilustrasi unit economics franchise dengan kalkulator, grafik margin, pelanggan, dan satu outlet"
 primaryKeyword: "unit economics franchise"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Unit economics franchise mengukur apakah satu outlet menghasilkan nilai ekonomi yang sehat setelah memperhitungkan harga jual, HPP, biaya variabel, biaya tetap, akuisisi pelanggan, repeat order, modal kerja, dan investasi awal.
 
@@ -126,3 +127,4 @@ Unit economics franchise memberi bahasa bersama untuk membahas kesehatan outlet.
 
 **Artikel sebelumnya:** [Franchise Multi-Outlet: Kapan Waktu Tepat Membuka Cabang Kedua dan Ketiga?](https://meatfish.co.id/franchise-multi-outlet-kapan-buka-cabang/)  
 **Artikel berikutnya:** [SOP Franchise Frozen Food: Standar Operasional yang Mudah Direplikasi](https://meatfish.co.id/sop-franchise-frozen-food-standar-operasional/)
+

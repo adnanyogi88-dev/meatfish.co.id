@@ -12,6 +12,7 @@ tags: ["franchise makanan beku", "franchise frozen food", "bisnis makanan beku",
 image: "/images/blog/franchise-makanan-beku.webp"
 imageAlt: "Freezer retail berisi makanan beku untuk franchise makanan beku"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise makanan beku menawarkan produk yang dapat disimpan lebih fleksibel daripada makanan siap saji. Model ini tetap memerlukan kontrol suhu, rotasi stok, supplier, dan pemasaran agar modal tidak tertahan dalam freezer.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Waralaba Frozen: Panduan Memilih Kemitraan Produk Beku yang Tepat](/waralaba-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

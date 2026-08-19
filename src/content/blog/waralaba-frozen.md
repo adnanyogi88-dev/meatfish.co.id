@@ -12,6 +12,7 @@ tags: ["waralaba frozen", "franchise frozen food", "kemitraan frozen food", "bis
 image: "/images/blog/waralaba-frozen.webp"
 imageAlt: "Toko produk beku modern sebagai ilustrasi waralaba frozen"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Waralaba frozen adalah kemitraan bisnis produk beku yang memberikan hak penggunaan merek dan sistem sesuai perjanjian. Calon mitra perlu menilai kontrak, biaya, pasokan, wilayah, dukungan, dan unit economics.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Meat Shop: Peluang Bisnis Toko Daging Modern yang Terukur](/franchise-meat-shop/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

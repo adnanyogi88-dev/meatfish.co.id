@@ -12,6 +12,7 @@ image: "/uploads/seafood-frozen-tahan-berapa-lama-primary.png"
 featured_image: "/uploads/seafood-frozen-tahan-berapa-lama-primary.png"
 image_alt: "Ilustrasi penyimpanan seafood frozen di freezer"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Seafood Frozen Tahan Berapa Lama? Panduan Simpan Ikan, Udang, dan Cumi
@@ -67,3 +68,4 @@ Melalui halaman [Apakah ikan harus dicuci sebelum masuk freezer](https://meatfis
 Keyword **seafood frozen tahan berapa lama** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

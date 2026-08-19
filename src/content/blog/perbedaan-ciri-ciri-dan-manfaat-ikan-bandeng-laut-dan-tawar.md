@@ -19,6 +19,7 @@ gsc_impressions: 17503
 gsc_ctr: 0.97
 gsc_average_position: 4.86
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan bandeng merupakan salah satu jenis ikan yang populer di Indonesia.
@@ -147,3 +148,4 @@ Untuk memperdalam wawasan tentang ikan laut lainnya, Anda bisa membaca beberapa 
 
 **Kesimpulan:**
 Memahami **perbedaan antara bandeng laut dan tawar** sangat penting bagi Anda yang ingin memaksimalkan manfaat ikan dalam menu harian. Keduanya memiliki keunggulan masing-masing baik dari segi rasa, tekstur, hingga nilai gizinya. Pastikan Anda memilih sesuai dengan kebutuhan dan selera keluarga Anda. Selamat menikmati hidangan ikan yang lezat dan sehat!
+

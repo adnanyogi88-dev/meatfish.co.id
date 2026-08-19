@@ -17,6 +17,7 @@ image: "/images/blog/pendanaan-ekspansi-franchise-modal-mitra-investor.webp"
 imageAlt: "Ilustrasi pendanaan ekspansi franchise dengan uang, investor, bank, mitra, dan jaringan outlet"
 primaryKeyword: "pendanaan ekspansi franchise"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Pendanaan ekspansi franchise harus disesuaikan dengan penggunaan dana, arus kas, kontrol, risiko, dan tahap bisnis. Laba ditahan menjaga kendali, franchisee mempercepat pembukaan, pinjaman mempertahankan kepemilikan, sedangkan investor membawa modal serta tuntutan tata kelola.
 
@@ -126,3 +127,4 @@ Pendanaan ekspansi franchise perlu menyeimbangkan kecepatan, biaya, kontrol, dan
 
 **Artikel sebelumnya:** [Franchise Keluarga Jadi Korporasi: Cara Profesionalisasi Tanpa Kehilangan Nilai Pendiri](https://meatfish.co.id/franchise-keluarga-jadi-korporasi/)  
 **Artikel berikutnya:** [Strategi Scale Up Franchise: Tumbuh Cepat Tanpa Merusak Kualitas Outlet](https://meatfish.co.id/strategi-scale-up-franchise-tanpa-merusak-kualitas/)
+

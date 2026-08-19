@@ -12,6 +12,7 @@ tags: ["cumi ring", "cumi tube", "cumi frozen", "seafood frozen", "fish food"]
 image: "/images/blog/cumi-ring-dan-cumi-tube-frozen.webp"
 imageAlt: "Cumi ring dan cumi tube frozen tersusun dengan lemon dan rempah"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Cumi ring cocok untuk goreng tepung dan tumisan cepat, sedangkan cumi tube memberi fleksibilitas untuk dipotong, diisi, atau dipanggang. Keduanya perlu dimasak dengan waktu yang terkontrol.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Udang Frozen untuk Rumah dan Usaha](/udang-frozen-untuk-rumah-dan-usaha/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

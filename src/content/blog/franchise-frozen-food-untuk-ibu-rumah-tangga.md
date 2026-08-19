@@ -18,6 +18,7 @@ image: "/uploads/franchise-frozen-food-untuk-ibu-rumah-tangga-primary.png"
 featured_image: "/uploads/franchise-frozen-food-untuk-ibu-rumah-tangga-primary.png"
 image_alt: "Ilustrasi franchise frozen food untuk ibu rumah tangga untuk calon pengusaha frozen food"
 author: "Yogi Adnan"
+published: true
 ---
 
 Minat terhadap **franchise frozen food untuk ibu rumah tangga** meningkat karena bisnis pangan beku menawarkan pembelian berulang, pilihan produk luas, dan kanal penjualan yang fleksibel. Meskipun demikian, peluang tersebut tetap membutuhkan perhitungan yang disiplin.
@@ -314,3 +315,4 @@ Untuk membahas pilihan produk dan peluang kerja sama, kunjungi [Gabung Kemitraan
 - Peraturan Pemerintah Nomor 35 Tahun 2024 tentang Waralaba: https://peraturan.bpk.go.id/Details/297489/pp-no-35-tahun-
 - Permendag Nomor 25 Tahun 2025 tentang tata cara penerbitan STPW: https://jdih.kemendag.go.id/peraturan/peraturan-menteri-perdagangan-republik-indonesia-nomor-25-tahun-2025-tentang-tata-cara-penerbitan-surat-tanda-pendaftaran-waralaba-oleh-pemerintah-daerah-1
 - Angka konsumsi ikan masyarakat Indonesia tahun 2025: https://kkp.go.id/unit-kerja/sj/publikasi/infografis-detail/angka-konsumsi-ikan-masyarakat-indonesia-tahun-2025.html
+

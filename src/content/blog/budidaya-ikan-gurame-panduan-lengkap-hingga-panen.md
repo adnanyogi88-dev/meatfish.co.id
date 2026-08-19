@@ -17,6 +17,7 @@ gsc_impressions: 13540
 gsc_ctr: 0.3
 gsc_average_position: 5.89
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan gurame, dengan nama ilmiah *Osphronemus gouramy*, merupakan salah satu primadona air tawar yang tak asing lagi bagi masyarakat Indonesia.
@@ -204,3 +205,4 @@ Ikan gurame mengandung asam lemak omega-3 yang penting untuk perkembangan otak d
 ### Kesimpulan
 
 Dengan mengonsumsi ikan gurame secara teratur, Anda dapat menikmati kelezatannya dan sekaligus mendapatkan berbagai manfaat kesehatan yang luar biasa. Jadikan ikan gurame sebagai bagian dari pola makan sehat Anda untuk hidup yang lebih sehat dan berkualitas.
+

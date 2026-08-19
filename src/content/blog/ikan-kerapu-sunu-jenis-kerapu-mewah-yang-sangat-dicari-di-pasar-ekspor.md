@@ -19,6 +19,7 @@ gsc_impressions: 107151
 gsc_ctr: 0.08
 gsc_average_position: 1.26
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Industri perikanan Indonesia terus menunjukkan pertumbuhan positif di pasar global, terutama dengan meningkatnya permintaan terhadap ikan kerapu sunu,  Sebagai salah satu komoditas ekspor unggulan,
@@ -60,3 +61,4 @@ Selain itu, tantangan lainnya adalah regulasi ketat di negara tujuan ekspor, sep
 ## Kesimpulan
 
 Kerapu sunu merupakan jenis ikan premium yang memiliki potensi besar di pasar ekspor internasional. Dengan kualitas unggulan dan permintaan yang terus meningkat, bisnis ekspor kerapu sunu menawarkan peluang menguntungkan bagi eksportir Indonesia. Melalui strategi tepat, jaringan distribusi yang solid, serta pemahaman terhadap tantangan pasar global, eksportir dapat meraih sukses dan memperluas pangsa pasar secara signifikan.
+

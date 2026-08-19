@@ -12,6 +12,7 @@ image: "/uploads/ikan-tenggiri-frozen-primary.png"
 featured_image: "/uploads/ikan-tenggiri-frozen-primary.png"
 image_alt: "Ilustrasi ikan tenggiri frozen untuk bisnis kuliner"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Ikan Tenggiri Frozen: Keunggulan, Cara Memilih, dan Ide Menu Siap Jual
@@ -67,3 +68,4 @@ Melalui halaman [Ikan tenggiri banyak diekspor](https://meatfish.co.id/ikan-teng
 Keyword **ikan tenggiri frozen** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

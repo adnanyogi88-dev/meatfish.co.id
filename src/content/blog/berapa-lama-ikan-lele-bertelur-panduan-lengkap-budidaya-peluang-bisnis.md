@@ -18,6 +18,7 @@ gsc_impressions: 9488
 gsc_ctr: 0.92
 gsc_average_position: 5.0
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Budidaya ikan lele selalu menjadi salah satu pilihan menarik bagi peternak ikan di Indonesia.
@@ -99,3 +100,4 @@ Dengan memanfaatkan peluang ini, Anda bisa mengembangkan usaha dari hulu ke hili
 Mengetahui **berapa lama ikan lele bertelur** membantu Anda merencanakan jadwal budidaya dengan lebih baik. Dengan perawatan induk, manajemen kolam, dan pakan yang tepat, Anda bisa menjaga produksi tetap konsisten.
 
 Lebih dari itu, bekerja sama dengan **Meat & Fish** memberikan Anda akses pasar yang luas dan peluang bisnis yang menguntungkan. Jangan hanya berhenti pada tahap produksi—kembangkan bisnis Anda dengan memanfaatkan program kemitraan dan jaringan distribusi yang sudah terbukti.
+

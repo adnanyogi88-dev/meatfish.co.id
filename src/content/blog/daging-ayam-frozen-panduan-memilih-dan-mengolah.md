@@ -12,6 +12,7 @@ tags: ["daging ayam frozen", "ayam beku", "frozen meat", "meat food", "olahan ay
 image: "/images/blog/daging-ayam-frozen-panduan-memilih-dan-mengolah.webp"
 imageAlt: "Potongan daging ayam frozen dengan bumbu dan sayuran segar"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Pilih daging ayam frozen dengan kemasan utuh, potongan sesuai menu, dan informasi label jelas. Simpan dalam porsi sekali masak, cairkan secara terencana, lalu olah sampai matang merata.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Frozen Meat dan Cara Memilih](/frozen-meat-jenis-kegunaan-dan-cara-memilih/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

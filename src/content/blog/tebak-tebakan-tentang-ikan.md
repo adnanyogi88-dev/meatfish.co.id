@@ -16,6 +16,7 @@ tags:
 image: "/images/blog/tebak-tebakan-tentang-ikan.webp"
 featured_image: "/images/blog/tebak-tebakan-tentang-ikan.webp"
 author: "Yogi Adnan"
+published: true
 ---
 
 **Tebak-tebakan tentang ikan** bisa menjadi hiburan sederhana yang cocok dimainkan bersama teman, keluarga, pasangan, maupun anak-anak. Selain lucu, nama-nama ikan ternyata dapat diplesetkan menjadi permainan kata yang receh dan tidak terduga.
@@ -344,3 +345,4 @@ Dari satu nama ikan saja, kita dapat membuat banyak variasi tebak-tebakan yang l
 Anda juga dapat mengembangkan ide lainnya menggunakan nama ikan seperti **lele, teri, tuna, tongkol, kakap, bandeng, gurame, nila, bawal, cupang, buntal, dan kembung**.
 
 Semakin sederhana pertanyaannya dan semakin tidak terduga jawabannya, biasanya semakin menarik tebak-tebakan tersebut untuk dimainkan dan dibagikan.
+

@@ -19,6 +19,7 @@ gsc_impressions: 11279
 gsc_ctr: 0.73
 gsc_average_position: 2.94
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan merupakan salah satu sumber protein yang sangat penting bagi manusia.
@@ -84,3 +85,4 @@ Dengan meningkatnya permintaan akan ikan konsumsi, baik ikan mujair maupun ikan 
 ## Kesimpulan
 
 Secara umum, perbedaan ikan mujair dan gurame dapat dilihat dari berbagai aspek, mulai dari bentuk fisik, rasa, kandungan gizi, hingga harga di pasaran. Ikan mujair lebih mudah dibudidayakan dan lebih terjangkau, sedangkan ikan gurame memiliki nilai ekonomi yang lebih tinggi karena tekstur dan rasa dagingnya yang lebih baik. Baik untuk konsumsi pribadi maupun peluang usaha, pemilihan antara kedua ikan ini harus disesuaikan dengan kebutuhan dan preferensi masing-masing.
+

@@ -17,6 +17,7 @@ gsc_impressions: 4163
 gsc_ctr: 1.01
 gsc_average_position: 5.94
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Frozen food atau makanan beku semakin menjadi pilihan populer di kalangan masyarakat modern yang mencari kemudahan dalam mempersiapkan makanan.
@@ -138,3 +139,4 @@ Ikan kakap merupakan jenis ikan laut yang sering dijadikan frozen food. Dagingny
 ### Kesimpulan
 
 Frozen food berbahan dasar ikan adalah pilihan praktis dan sehat bagi konsumen yang ingin menikmati hidangan bergizi dengan mudah. Berbagai jenis ikan seperti salmon, tuna, cod, dori, makarel, hingga ikan air tawar seperti patin dan lele, semuanya memiliki keunggulan masing-masing ketika dijadikan frozen food. Dengan proses pembekuan yang baik, kualitas nutrisi dari ikan-ikan tersebut dapat dipertahankan, sehingga memberikan manfaat kesehatan yang optimal bagi para konsumen.
+

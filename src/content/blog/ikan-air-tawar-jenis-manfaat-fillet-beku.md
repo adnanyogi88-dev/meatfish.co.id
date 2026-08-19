@@ -10,6 +10,7 @@ tags: ["ikan air tawar", "tilapia fillet frozen", "fillet ikan sehat", "jual ika
 image: "/images/blog/ikan-air-tawar-jenis-manfaat-fillet-beku.webp"
 imageAlt: "Ikan air tawar nila segar dengan latar alami"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Ikan air tawar adalah ikan yang hidup di sungai, danau, waduk, kolam, atau tambak air tawar. Jenis yang populer di Indonesia antara lain nila, patin, gurame, lele, dan bawal. Produk tersebut dapat dijual utuh maupun dalam bentuk fillet beku.
@@ -109,3 +110,4 @@ Periksa konsistensi spesifikasi, cold chain, legalitas, jadwal kirim, MOQ, harga
 - **Artikel berikutnya:** [Seafood: Pengertian, Jenis, Cara Memilih, dan Ide Menjual Produk Frozen](/seafood-jenis-manfaat-cara-memilih/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

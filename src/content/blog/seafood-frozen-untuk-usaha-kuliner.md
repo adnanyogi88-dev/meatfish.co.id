@@ -12,6 +12,7 @@ tags: ["seafood frozen", "usaha kuliner", "supplier seafood", "fish food", "stok
 image: "/images/blog/seafood-frozen-untuk-usaha-kuliner.webp"
 imageAlt: "Aneka seafood frozen untuk persiapan dapur usaha kuliner"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Usaha kuliner perlu memilih seafood frozen berdasarkan konsistensi ukuran, kondisi kemasan, kebutuhan menu, kapasitas freezer, keandalan supplier, dan biaya per porsi.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Udang Frozen untuk Rumah dan Usaha](/udang-frozen-untuk-rumah-dan-usaha/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

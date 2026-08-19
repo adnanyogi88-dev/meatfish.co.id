@@ -19,6 +19,7 @@ gsc_impressions: 29918
 gsc_ctr: 0.31
 gsc_average_position: 6.35
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Budidaya ikan nila menjadi salah satu usaha perikanan air tawar yang paling menjanjikan di Indonesia.
@@ -167,3 +168,4 @@ Kuncinya adalah:
 - Kolaborasi dengan jaringan distribusi atau dropshipper
 
 Dengan manajemen yang baik, usaha ikan nila bisa menjadi sumber penghasilan utama yang berkelanjutan.
+

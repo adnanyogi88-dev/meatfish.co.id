@@ -10,6 +10,7 @@ tags: ["iga sapi frozen", "iga frozen", "rendang frozen", "daging sapi slice fro
 image: "/images/blog/iga-rendang-daging-slice-wagyu-frozen.webp"
 imageAlt: "Deretan freezer berisi produk daging dan frozen food"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Iga sapi frozen cocok untuk sop, bakar, dan semur. Rendang frozen memberi solusi lauk siap panaskan. Daging sapi slice cocok untuk shabu, yakiniku, dan rice bowl, sedangkan wagyu frozen menargetkan segmen premium. Keempatnya dapat melengkapi katalog toko frozen.
@@ -116,3 +117,4 @@ Tidak. Produk wagyu dapat berasal dari berbagai negara dan grade. Baca label den
 - **Artikel berikutnya:** [Supplier dan Distributor Daging Sapi Frozen: Panduan Memilih Mitra](/supplier-distributor-daging-sapi-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

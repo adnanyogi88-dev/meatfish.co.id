@@ -16,6 +16,7 @@ gsc_impressions: 46403
 gsc_ctr: 0.12
 gsc_average_position: 1.99
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan salem, dengan nama ilmiah **Scomber austraslicus**, merupakan salah satu biota laut yang telah lama menjadi bagian penting dalam sejarah kuliner dan budaya manusia.
@@ -300,3 +301,4 @@ Ikan Asam Manis merupakan hidangan klasik China yang disukai banyak orang, terma
 ### Kesimpulan
 
 Ikan salem merupakan biota laut yang memiliki sejarah panjang dan peran penting dalam budaya dan kuliner manusia. Kemampuan migrasi, adaptasi, dan manfaatnya bagi kesehatan menjadikannya sumber daya alam yang berharga. Dengan pengelolaan yang berkelanjutan, ikan salem dapat terus menjadi sumber protein dan hidangan lezat bagi generasi mendatang.
+

@@ -12,6 +12,7 @@ tags: ["tuna steak", "tuna frozen", "fish food", "ikan tuna", "ikan beku"]
 image: "/images/blog/tuna-steak-frozen-cara-memilih-dan-memasak.webp"
 imageAlt: "Tuna steak frozen dengan bumbu lada dan sayuran untuk dipanggang"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Pilih tuna steak frozen dengan ketebalan seragam dan kemasan utuh. Cairkan di chiller, keringkan permukaan, gunakan bumbu sederhana, lalu kontrol waktu masak agar tekstur tidak terlalu kering.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Salmon Frozen](/salmon-frozen-panduan-memilih-dan-mengolah/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

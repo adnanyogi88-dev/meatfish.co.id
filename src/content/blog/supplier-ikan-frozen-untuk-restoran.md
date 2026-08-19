@@ -12,6 +12,7 @@ image: "/uploads/supplier-ikan-frozen-untuk-restoran-primary.png"
 featured_image: "/uploads/supplier-ikan-frozen-untuk-restoran-primary.png"
 image_alt: "Ilustrasi supplier ikan frozen untuk restoran dan katering"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Supplier Ikan Frozen untuk Restoran: Cara Memilih Pasokan Stabil dan Berkualitas
@@ -67,3 +68,4 @@ Melalui halaman [Produk Meatfish](https://meatfish.co.id/produk-meatfish/), pemb
 Keyword **supplier ikan frozen untuk restoran** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

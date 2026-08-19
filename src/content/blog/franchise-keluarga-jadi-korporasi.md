@@ -17,6 +17,7 @@ image: "/images/blog/franchise-keluarga-jadi-korporasi.webp"
 imageAlt: "Ilustrasi bisnis franchise keluarga berkembang menjadi korporasi dengan keluarga pendiri dan tim profesional"
 primaryKeyword: "franchise keluarga jadi korporasi"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Franchise keluarga dapat menjadi korporasi ketika perusahaan memisahkan kepemilikan, pengawasan, dan manajemen; merekrut berdasarkan kompetensi; membangun tata kelola; menyiapkan suksesi; serta menerjemahkan nilai pendiri menjadi budaya yang dapat dijalankan organisasi.
 
@@ -126,3 +127,4 @@ Franchise keluarga jadi korporasi melalui pemisahan peran, meritokrasi, transpar
 
 **Artikel sebelumnya:** [Supply Chain Franchise Frozen Food: Cold Chain, Central Purchasing, dan Ketahanan Pasokan](https://meatfish.co.id/supply-chain-franchise-frozen-food/)  
 **Artikel berikutnya:** [Pendanaan Ekspansi Franchise: Modal Sendiri, Mitra, Pinjaman, atau Investor?](https://meatfish.co.id/pendanaan-ekspansi-franchise-modal-mitra-investor/)
+

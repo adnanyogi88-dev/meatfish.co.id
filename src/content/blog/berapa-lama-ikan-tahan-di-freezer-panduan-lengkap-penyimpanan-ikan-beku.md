@@ -18,6 +18,7 @@ gsc_impressions: 30851
 gsc_ctr: 0.4
 gsc_average_position: 5.99
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Penyimpanan ikan di freezer adalah solusi paling efektif untuk menjaga kesegaran, rasa, dan nilai gizinya dalam jangka waktu yang lama.
@@ -206,3 +207,4 @@ Memahami **berapa lama ikan tahan di freezer** akan membantu Anda:
 - Menjaga kualitas produk usaha Anda
 
 Jangan lupa untuk mendapatkan ikan beku berkualitas dari supplier terpercaya seperti Meat & Fish. Dengan dukungan distribusi yang stabil dan kualitas produk terjaga, bisnis Anda akan lebih mudah berkembang.
+

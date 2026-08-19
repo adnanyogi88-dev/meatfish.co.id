@@ -12,6 +12,7 @@ image: "/uploads/kerapu-lumpur-primary.png"
 featured_image: "/uploads/kerapu-lumpur-primary.png"
 image_alt: "Ilustrasi kerapu lumpur untuk menu seafood"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Kerapu Lumpur: Karakter Rasa, Cara Memasak, dan Peluang Menu Seafood
@@ -67,3 +68,4 @@ Melalui halaman [Enak mana kerapu atau kakap](https://meatfish.co.id/enak-mana-k
 Keyword **kerapu lumpur** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

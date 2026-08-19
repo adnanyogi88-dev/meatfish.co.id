@@ -12,6 +12,7 @@ tags: ["menu frozen food", "ide masakan praktis", "frozen food keluarga", "menu 
 image: "/images/blog/ide-menu-frozen-food-praktis-untuk-keluarga.webp"
 imageAlt: "Meja makan keluarga dengan beberapa menu frozen food yang telah dimasak"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Frozen food dapat menjadi bahan menu harian apabila dipadukan dengan sayur, karbohidrat, saus, dan teknik memasak yang bervariasi. Kuncinya ialah menyusun stok berdasarkan fungsi, bukan hanya berdasarkan produk.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Meal Prep Daging Frozen](/meal-prep-daging-frozen-untuk-menu-mingguan/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

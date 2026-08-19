@@ -12,6 +12,7 @@ tags: ["franchise Bogor", "peluang usaha Bogor", "waralaba Bogor", "bisnis kulin
 image: "/images/blog/franchise-bogor.webp"
 imageAlt: "Toko modern dengan suasana hijau sebagai ilustrasi franchise Bogor"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise Bogor memiliki peluang dari pasar warga lokal, wisatawan, perumahan, dan usaha kuliner. Konsep perlu menyesuaikan pola hari kerja, akhir pekan, akses kendaraan, cuaca, dan layanan pengiriman.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Bekasi: Strategi Membuka Usaha di Kawasan Padat dan Industri](/franchise-bekasi/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

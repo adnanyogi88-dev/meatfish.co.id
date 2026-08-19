@@ -10,6 +10,7 @@ tags: ["cumi ring", "cumi ring frozen", "seafood frozen pack", "grosir seafood f
 image: "/images/blog/cumi-ring-frozen.webp"
 imageAlt: "Potongan cumi ring putih siap dimasak"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Cumi ring adalah badan cumi yang dipotong melintang menjadi bentuk cincin. Produk dapat dijual natural tanpa tepung atau breaded dengan lapisan tepung. Cumi ring cocok untuk calamari, tumisan, saus, sup, dan camilan.
@@ -105,3 +106,4 @@ Cocok selama pengiriman menggunakan kemasan dingin dan waktu tempuh dapat dikend
 - **Artikel berikutnya:** [Tuna Steak dan Tuna Frozen: Jenis, Manfaat, Cara Memilih, dan Mengolah](/tuna-steak-dan-tuna-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

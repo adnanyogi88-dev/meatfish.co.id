@@ -12,6 +12,7 @@ tags: ["meat food", "barbeque", "grill daging", "frozen meat", "menu barbeque"]
 image: "/images/blog/olahan-meat-food-untuk-barbeque-dan-grill.webp"
 imageAlt: "Aneka meat food dipanggang di atas grill untuk barbeque keluarga"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Barbeque rumahan menjadi lebih mudah ketika Anda memilih potongan yang cepat matang, menyiapkan marinasi sederhana, mengatur porsi, serta memisahkan alat untuk bahan mentah dan matang.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Paket Frozen Food untuk Acara Keluarga](/paket-frozen-food-untuk-acara-keluarga/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

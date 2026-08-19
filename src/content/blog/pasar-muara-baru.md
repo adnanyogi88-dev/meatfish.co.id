@@ -12,6 +12,7 @@ image: "/uploads/pasar-muara-baru-primary.png"
 featured_image: "/uploads/pasar-muara-baru-primary.png"
 image_alt: "Ilustrasi pasar ikan dan seafood frozen"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Pasar Muara Baru: Panduan Belanja Ikan dan Alternatif Seafood Frozen Praktis
@@ -67,3 +68,4 @@ Melalui halaman [Produk ikan dan seafood frozen](https://meatfish.co.id/produk-m
 Keyword **pasar muara baru** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

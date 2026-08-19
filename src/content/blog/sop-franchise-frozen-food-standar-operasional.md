@@ -17,6 +17,7 @@ image: "/images/blog/sop-franchise-frozen-food-standar-operasional.webp"
 imageAlt: "Ilustrasi SOP franchise frozen food dengan clipboard, freezer, termometer, stok, dan petugas toko"
 primaryKeyword: "SOP franchise frozen food"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** SOP franchise frozen food harus menjelaskan standar hasil, langkah kerja, penanggung jawab, waktu pelaksanaan, bukti pencatatan, dan tindakan koreksi untuk proses penerimaan barang, penyimpanan, penjualan, kebersihan, kas, serta kondisi darurat.
 
@@ -126,3 +127,4 @@ SOP franchise frozen food harus praktis, terukur, dan digunakan setiap hari. Pri
 
 **Artikel sebelumnya:** [Unit Economics Franchise: Cara Menilai Kesehatan Setiap Outlet](https://meatfish.co.id/unit-economics-franchise-menilai-kesehatan-outlet/)  
 **Artikel berikutnya:** [Struktur Organisasi Franchise: Peran Kantor Pusat, Area Manager, dan Outlet](https://meatfish.co.id/struktur-organisasi-franchise-kantor-pusat-area-outlet/)
+

@@ -12,6 +12,7 @@ image: "/uploads/ikan-cepa-primary.png"
 featured_image: "/uploads/ikan-cepa-primary.png"
 image_alt: "Ilustrasi ikan cepa untuk panduan memilih ikan"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Ikan Cepa: Mengenal Jenis Ikan Pasar, Rasa, dan Tips Memilih yang Segar
@@ -67,3 +68,4 @@ Melalui halaman [20 nama-nama ikan yang dijual di pasar](https://meatfish.co.id/
 Keyword **ikan cepa** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

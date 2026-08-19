@@ -12,6 +12,7 @@ tags: ["supplier frozen food", "distributor frozen food", "bisnis frozen food", 
 image: "/images/blog/panduan-memilih-supplier-frozen-food.webp"
 imageAlt: "Supplier frozen food menyiapkan produk daging dan ikan dalam rantai dingin"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Supplier frozen food yang baik menawarkan kualitas konsisten, informasi produk jelas, pengiriman teratur, komunikasi responsif, harga transparan, dan prosedur komplain.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Seafood Frozen untuk Usaha](/seafood-frozen-untuk-usaha-kuliner/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

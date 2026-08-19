@@ -19,6 +19,7 @@ gsc_impressions: 114656
 gsc_ctr: 0.04
 gsc_average_position: 1.09
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Industri perikanan Indonesia telah menjadi salah satu pilar penting dalam mendukung pertumbuhan ekonomi nasional.
@@ -103,3 +104,4 @@ Namun, semua tantangan ini dapat diatasi dengan perencanaan matang, inovasi prod
 
 Tenggiri yang banyak diekspor dalam bentuk beku atau olahan membuka peluang emas bagi pelaku usaha Indonesia untuk memperluas pasar mereka. Dengan strategi yang tepat, kualitas produk yang terjaga, dan pemanfaatan teknologi digital, bisnis ekspor ikan tenggiri tidak hanya menguntungkan tetapi juga berkelanjutan.
 Mulailah membangun bisnis Anda sekarang, dan manfaatkan platform seperti [Meat & Fish.id](https://meatfish.co.id/jual-ikan-laut-segar-terdekat-di-bekasi-harga-termurah) sebagai mitra terpercaya dalam distribusi dan pemasaran produk laut berkualitas.
+

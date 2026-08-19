@@ -12,6 +12,7 @@ tags: ["franchise Chinese food", "franchise makanan", "bisnis kuliner", "restora
 image: "/images/blog/franchise-chinese-food.webp"
 imageAlt: "Hidangan tumis dan dapur modern sebagai ilustrasi franchise Chinese food"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise Chinese food adalah kemitraan restoran atau gerai yang menawarkan menu bergaya masakan Tionghoa dengan resep, merek, pasokan, dan SOP terstandar. Menu populer dapat menjangkau keluarga, pekerja, dan layanan delivery.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Makanan Beku: Model Usaha dengan Stok yang Lebih Fleksibel](/franchise-makanan-beku/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

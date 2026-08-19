@@ -19,6 +19,7 @@ gsc_impressions: 24017
 gsc_ctr: 0.27
 gsc_average_position: 2.35
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Dalam dunia perikanan Indonesia, ikan jambal roti telah lama terkenal sebagai salah satu jenis ikan asin yang memiliki rasa gurih khas dan orang sukai.
@@ -78,3 +79,4 @@ Melihat perkembangan tren konsumsi makanan sehat, bisa diprediksi bahwa perminta
 
 Dari uraian di atas, jelas bahwa ikan jambal roti hidup bukan hanya sekadar bahan makanan, tetapi juga peluang bisnis yang menjanjikan. Dengan pengelolaan yang baik, budidaya ikan ini bisa menjadi sumber penghasilan yang stabil dan berkelanjutan. Selain mendukung ketahanan pangan, usaha ini juga dapat memberikan dampak sosial yang besar, terutama jika dikaitkan dengan program-program sosial seperti makan siang gratis di sekolah.
 Melalui pemanfaatan teknologi budidaya, kerja sama dengan distributor terpercaya, serta pengembangan pasar lokal dan digital, potensi ikan jambal roti hidup bisa semakin besar. Maka dari itu, mari manfaatkan peluang ini untuk ikut serta dalam membangun ketahanan pangan dan ekonomi lokal yang lebih mandiri dan berdaya saing.
+

@@ -17,6 +17,7 @@ image: "/images/blog/struktur-organisasi-franchise-kantor-pusat-area-outlet.webp
 imageAlt: "Ilustrasi struktur organisasi franchise dengan kantor pusat, area manager, dan jaringan outlet"
 primaryKeyword: "struktur organisasi franchise"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Struktur organisasi franchise memisahkan peran pengembangan merek, operasional, supply chain, pemasaran, keuangan, teknologi, legal, audit, area manager, pemilik outlet, dan tim toko agar keputusan cepat tanpa kehilangan kontrol.
 
@@ -126,3 +127,4 @@ Struktur organisasi franchise membantu perusahaan tumbuh tanpa menumpuk keputusa
 
 **Artikel sebelumnya:** [SOP Franchise Frozen Food: Standar Operasional yang Mudah Direplikasi](https://meatfish.co.id/sop-franchise-frozen-food-standar-operasional/)  
 **Artikel berikutnya:** [Franchise Area Development: Strategi Ekspansi Terencana per Wilayah](https://meatfish.co.id/franchise-area-development-strategi-ekspansi-wilayah/)
+

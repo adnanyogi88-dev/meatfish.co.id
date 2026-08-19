@@ -10,6 +10,7 @@ tags: ["cumi tube", "cumi tube frozen", "seafood frozen pack", "franchise seafoo
 image: "/images/blog/cumi-tube-frozen.webp"
 imageAlt: "Cumi tube putih bersih siap diolah di atas piring"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Cumi tube adalah bagian badan cumi yang telah dibersihkan dan dipisahkan dari kepala, isi perut, serta tulang transparannya. Bentuk ini praktis untuk dipotong menjadi ring, diisi, dipanggang, atau dimasak dengan saus.
@@ -103,3 +104,4 @@ Cocok karena mudah diporsikan, cepat disiapkan, dan dapat digunakan untuk banyak
 - **Artikel berikutnya:** [Cumi Ring Frozen: Cara Memilih, Mengolah, dan Menjualnya](/cumi-ring-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

@@ -10,6 +10,7 @@ tags: ["frozen meat fillet", "daging fillet beku", "daging steak frozen", "tende
 image: "/images/blog/frozen-meat-fillet-tenderloin-sirloin-ribeye.webp"
 imageAlt: "Interior meat shop modern dengan display daging"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Frozen meat fillet adalah daging tanpa tulang atau dengan trimming tertentu yang dibekukan untuk memudahkan penyimpanan dan distribusi. Tenderloin dikenal lembut, sirloin menawarkan rasa daging yang kuat, sedangkan rib eye mempunyai marbling yang lebih terlihat.
@@ -120,3 +121,4 @@ Gunakan kemasan rapat, suhu stabil, dan hindari penyimpanan terlalu lama.
 - **Artikel berikutnya:** [Iga Frozen, Rendang Frozen, Daging Slice, dan Wagyu untuk Menu Praktis](/iga-rendang-daging-slice-wagyu-frozen/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

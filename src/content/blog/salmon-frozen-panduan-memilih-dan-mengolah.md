@@ -12,6 +12,7 @@ tags: ["salmon frozen", "ikan salmon", "fish food", "ikan beku", "salmon fillet"
 image: "/images/blog/salmon-frozen-panduan-memilih-dan-mengolah.webp"
 imageAlt: "Salmon frozen fillet dengan lemon dan herba di meja dapur"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Pilih salmon frozen berdasarkan bentuk potongan, ketebalan, kondisi kemasan, dan menu. Cairkan secara terencana, keringkan permukaan, lalu masak sesuai ketebalan.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Cara Thawing Daging dan Ikan](/cara-thawing-daging-dan-ikan-frozen/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

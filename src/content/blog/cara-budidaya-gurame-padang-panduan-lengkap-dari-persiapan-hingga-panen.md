@@ -18,6 +18,7 @@ gsc_impressions: 42285
 gsc_ctr: 0.13
 gsc_average_position: 4.8
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Budidaya ikan gurame merupakan salah satu usaha perikanan yang menjanjikan di Indonesia, termasuk di wilayah Padang.
@@ -176,3 +177,4 @@ Dengan memasarkan secara tepat, Anda tidak hanya meningkatkan pendapatan, tapi j
 [Budidaya Ikan : Panduan Lengkap Hingga Panen](https://meatfish.co.id/budidaya-ikan-gurame-panduan-lengkap-hingga-panen/)
 
 💬 Sudah siap memulai budidaya gurame Padang? Dengan tekad, pengetahuan, dan kerja keras, Anda bisa menjadi salah satu pembudidaya sukses berikutnya di Sumatera Barat!
+

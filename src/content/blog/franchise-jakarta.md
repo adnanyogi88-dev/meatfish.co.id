@@ -12,6 +12,7 @@ tags: ["franchise Jakarta", "peluang usaha Jakarta", "bisnis franchise", "franch
 image: "/images/blog/franchise-jakarta.webp"
 imageAlt: "Toko modern di kawasan perkotaan sebagai ilustrasi franchise Jakarta"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise Jakarta memiliki pasar besar, tetapi juga biaya dan kompetisi yang tinggi. Calon mitra perlu memilih konsep berdasarkan mikro-lokasi, daya beli, pola mobilitas, delivery, dan kemampuan menanggung biaya tetap.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Bandung: Peluang Bisnis Kuliner, Frozen Food, dan Retail](/franchise-bandung/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

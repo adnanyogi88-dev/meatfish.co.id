@@ -17,6 +17,7 @@ image: "/images/blog/supply-chain-franchise-frozen-food.webp"
 imageAlt: "Ilustrasi supply chain franchise frozen food dengan pabrik, cold storage, truk berpendingin, dan outlet"
 primaryKeyword: "supply chain franchise frozen food"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Supply chain franchise frozen food menghubungkan supplier, pusat pembelian, cold storage, distribusi, outlet, dan pelanggan. Jaringan yang kuat menjaga suhu, kualitas, ketersediaan, biaya, traceability, dan respons ketika pasokan terganggu.
 
@@ -126,3 +127,4 @@ Supply chain franchise frozen food membutuhkan koordinasi dari supplier hingga o
 
 **Artikel sebelumnya:** [Digitalisasi Franchise: POS, CRM, Inventory, dan Omnichannel untuk Jaringan Outlet](https://meatfish.co.id/digitalisasi-franchise-pos-crm-inventory-omnichannel/)  
 **Artikel berikutnya:** [Franchise Keluarga Jadi Korporasi: Cara Profesionalisasi Tanpa Kehilangan Nilai Pendiri](https://meatfish.co.id/franchise-keluarga-jadi-korporasi/)
+

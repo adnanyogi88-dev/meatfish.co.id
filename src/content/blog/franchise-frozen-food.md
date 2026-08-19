@@ -12,6 +12,7 @@ tags: ["franchise frozen food", "bisnis frozen food", "toko frozen", "waralaba f
 image: "/images/blog/franchise-frozen-food.webp"
 imageAlt: "Deretan freezer dan produk beku sebagai ilustrasi franchise frozen food"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise frozen food adalah model toko atau kemitraan yang menjual makanan beku, daging, ikan, seafood, ayam, dan produk siap masak. Potensinya berasal dari kebutuhan praktis rumah tangga serta usaha kuliner.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Chinese Food: Peluang Menu Populer dengan Operasional Terstandar](/franchise-chinese-food/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

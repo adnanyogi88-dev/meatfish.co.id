@@ -18,6 +18,7 @@ gsc_impressions: 15593
 gsc_ctr: 0.45
 gsc_average_position: 5.29
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Ikan kambing-kambing merupakan salah satu jenis ikan yang cukup unik, namun belum begitu dikenal luas di masyarakat.
@@ -113,3 +114,4 @@ Dengan strategi yang tepat dan pemahaman mendalam tentang bisnis ini, Anda dapat
 - [Gabung Kemitraan](https://meatfish.co.id/gabung-kemitraan/)
 - [Apa Itu Franchise Toko Daging Nusantara?](https://meatfish.co.id/apa-itu-franchise-toko-daging-nusantara-bagaimana-cara-gabung-reseller/)
 - [Cara Membuat Proposal Franchise yang Efektif](https://meatfish.co.id/cara-membuat-proposal-franchise-yang-efektif-dan-menarik-investor/)
+

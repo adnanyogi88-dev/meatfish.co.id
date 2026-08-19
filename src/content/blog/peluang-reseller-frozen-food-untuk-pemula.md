@@ -12,6 +12,7 @@ tags: ["reseller frozen food", "bisnis frozen food", "jualan makanan beku", "pel
 image: "/images/blog/peluang-reseller-frozen-food-untuk-pemula.webp"
 imageAlt: "Reseller pemula menyiapkan paket frozen food untuk pelanggan lokal"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Reseller frozen food dapat memulai dari katalog kecil, sistem pre-order atau stok terbatas, target pelanggan lokal, supplier konsisten, serta pencatatan margin dan stok.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Panduan Supplier Frozen Food](/panduan-memilih-supplier-frozen-food/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

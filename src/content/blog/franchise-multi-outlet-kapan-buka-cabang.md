@@ -17,6 +17,7 @@ image: "/images/blog/franchise-multi-outlet-kapan-buka-cabang.webp"
 imageAlt: "Ilustrasi franchise multi-outlet dengan tiga toko terhubung, manajer area, dan dashboard kinerja"
 primaryKeyword: "franchise multi outlet"
 draft: false
+published: true
 ---
 > **Jawaban singkat:** Franchise multi-outlet layak dikembangkan ketika outlet pertama memiliki laba dan arus kas stabil, manajer yang mampu menjalankan operasi, SOP yang konsisten, data pasar cabang baru, serta modal kerja yang cukup tanpa mengganggu unit lama.
 
@@ -126,3 +127,4 @@ Franchise multi-outlet membutuhkan kesiapan organisasi, bukan hanya modal. Pasti
 
 **Artikel sebelumnya:** [Cara Membuat Bisnis Menjadi Franchise: Dari Outlet Terbukti hingga Siap Ditawarkan](https://meatfish.co.id/cara-membuat-bisnis-menjadi-franchise/)  
 **Artikel berikutnya:** [Unit Economics Franchise: Cara Menilai Kesehatan Setiap Outlet](https://meatfish.co.id/unit-economics-franchise-menilai-kesehatan-outlet/)
+

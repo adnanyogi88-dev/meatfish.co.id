@@ -18,6 +18,7 @@ gsc_impressions: 20699
 gsc_ctr: 0.45
 gsc_average_position: 6.22
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Udang adalah salah satu seafood favorit banyak orang karena kelezatannya, teksturnya yang lembut, dan kandungan nutrisinya yang tinggi.
@@ -168,3 +169,4 @@ Dengan mengetahui teknik penyimpanan yang benar, kamu tidak hanya bisa menikmati
 ---
 
 Kalau artikel ini bermanfaat, yuk bagikan ke temanmu yang juga suka makan seafood atau sedang merintis usaha frozen food!
+

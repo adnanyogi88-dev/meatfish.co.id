@@ -12,6 +12,7 @@ tags: ["ikan laut frozen", "fish food", "ikan beku", "menu ikan", "seafood"]
 image: "/images/blog/ikan-laut-frozen-untuk-menu-keluarga.webp"
 imageAlt: "Aneka ikan laut frozen dengan sayuran dan bumbu untuk menu keluarga"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Ikan laut frozen dapat digunakan untuk menu panggang, goreng, kukus, sup, dan kari. Pilih bentuk serta jenis ikan berdasarkan rasa, ketebalan, dan kebiasaan keluarga.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Salmon Frozen](/salmon-frozen-panduan-memilih-dan-mengolah/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

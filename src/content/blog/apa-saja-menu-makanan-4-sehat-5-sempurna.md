@@ -18,6 +18,7 @@ gsc_impressions: 152975
 gsc_ctr: 0.25
 gsc_average_position: 2.52
 author: "Yogi Adnan"
+published: true
 ---
 
 ## Konsep "4 Sehat 5 Sempurna" telah lama terkenal di Indonesia sebagai panduan pola makan sehat yang dianjurkan oleh pemerintah pada tahun 1950-an.
@@ -99,3 +100,4 @@ Untuk dapat menerapkan pola makan sehat berdasarkan prinsip "4 Sehat 5 Sempurna"
 Konsep "4 Sehat 5 Sempurna" mungkin telah digantikan oleh Pedoman Gizi Seimbang, tetapi nilai-nilai yang terkandung di dalamnya masih sangat relevan. Memahami dan menerapkan pola makan yang sehat adalah kunci untuk menjaga kesehatan dan mencegah berbagai penyakit. Dengan memilih makanan yang tepat dan menjaga keseimbangan dalam pola makan, kita dapat hidup lebih sehat dan produktif.
 
 Artikel ini diharapkan dapat membantu pembaca memahami pentingnya pola makan yang sehat dan memberikan panduan praktis untuk menerapkannya dalam kehidupan sehari-hari. Meskipun konsep gizi telah berkembang, fondasi yang diberikan oleh "4 Sehat 5 Sempurna" tetap menjadi bagian penting dalam sejarah dan budaya kesehatan di Indonesia.
+

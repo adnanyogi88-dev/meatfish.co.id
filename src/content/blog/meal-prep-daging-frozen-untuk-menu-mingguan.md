@@ -12,6 +12,7 @@ tags: ["meal prep", "daging frozen", "menu mingguan", "meat food", "frozen meat"
 image: "/images/blog/meal-prep-daging-frozen-untuk-menu-mingguan.webp"
 imageAlt: "Kotak meal prep berisi daging frozen dan bahan pendamping untuk seminggu"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Meal prep daging frozen bekerja paling baik ketika Anda menentukan menu, membagi bahan per porsi, menggunakan bumbu dasar, memberi label, dan menjadwalkan pencairan.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Cara Menyimpan Frozen Food](/cara-menyimpan-frozen-food-agar-tahan-lama/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

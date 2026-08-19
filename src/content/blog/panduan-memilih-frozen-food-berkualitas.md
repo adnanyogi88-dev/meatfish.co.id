@@ -12,6 +12,7 @@ tags: ["frozen food", "frozen food berkualitas", "makanan beku", "belanja frozen
 image: "/images/blog/panduan-memilih-frozen-food-berkualitas.webp"
 imageAlt: "Beragam frozen food berkualitas tersusun rapi di atas meja dapur"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Frozen food berkualitas memiliki kemasan utuh, label jelas, kondisi tetap beku, warna wajar, serta informasi penyimpanan yang mudah dipahami. Pilih produk sesuai kebutuhan agar stok tidak menumpuk dan kualitas tetap terjaga.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Ide Menu Frozen Food Praktis](/ide-menu-frozen-food-praktis-untuk-keluarga/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+

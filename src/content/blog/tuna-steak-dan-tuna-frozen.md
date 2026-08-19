@@ -10,6 +10,7 @@ tags: ["tuna steak", "tuna", "tuna fillet frozen", "frozen fish fillet", "jual i
 image: "/images/blog/tuna-steak-dan-tuna-frozen.webp"
 imageAlt: "Potongan tuna steak tebal dengan lada dan rempah"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Tuna steak adalah potongan tuna tebal yang cocok untuk grill atau pan-seared. Tuna juga tersedia sebagai loin, fillet, cube, slice, dan ground. Bentuk frozen membantu konsumen mengatur porsi serta menyimpan stok lebih mudah.
@@ -111,3 +112,4 @@ Cocok karena mudah diporsikan dan tersedia dalam berbagai bentuk.
 - **Artikel berikutnya:** [Frozen Fish Fillet: Salmon, Tilapia, Tuna, Cucut, dan Dory](/frozen-fish-fillet-salmon-tilapia-tuna-dory/)
 
 > **Tertarik membuka toko daging, ikan, seafood, dan frozen food?** Pelajari model bisnis, biaya, lokasi, supplier, risiko, dan strategi penjualannya melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

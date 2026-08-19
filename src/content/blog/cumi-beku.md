@@ -12,6 +12,7 @@ image: "/uploads/cumi-beku-primary.png"
 featured_image: "/uploads/cumi-beku-primary.png"
 image_alt: "Ilustrasi cumi beku dan olahan seafood"
 author: "Yogi Adnan"
+published: true
 ---
 
 # Cumi Beku: Tips Memilih, Membersihkan, dan Membuat Tekstur Tidak Alot
@@ -67,3 +68,4 @@ Melalui halaman [Produk cumi beku Meatfish](https://meatfish.co.id/produk-meatfi
 Keyword **cumi beku** memiliki potensi kuat karena dekat dengan kebutuhan pembeli sehari-hari. Ada unsur edukasi, niat beli, dan peluang bisnis di dalamnya. Dengan artikel yang informatif, internal link yang relevan, serta arahan ke produk Meatfish, konten ini dapat membantu meningkatkan topical authority website pada niche seafood, ikan, daging, ayam, dan frozen food.
 
 Jika Anda membutuhkan bahan protein yang praktis untuk rumah tangga, restoran, katering, hotel, atau usaha kuliner, jadikan Meatfish sebagai referensi belanja dan pemasok produk frozen berkualitas.
+

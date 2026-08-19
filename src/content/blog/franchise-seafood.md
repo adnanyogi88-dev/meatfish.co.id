@@ -12,6 +12,7 @@ tags: ["franchise seafood", "bisnis seafood", "franchise frozen food", "toko ika
 image: "/images/blog/franchise-seafood.webp"
 imageAlt: "Aneka seafood sebagai ilustrasi bisnis franchise seafood"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Franchise seafood adalah kemitraan yang menjual hasil laut dalam bentuk segar, dingin, beku, siap masak, atau siap saji. Potensinya berasal dari pasar rumah tangga, restoran, katering, dan reseller.
@@ -118,3 +119,4 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 - **Artikel berikutnya:** [Franchise Ikan: Peluang Toko Ikan Segar, Fillet, dan Frozen](/franchise-ikan/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
+

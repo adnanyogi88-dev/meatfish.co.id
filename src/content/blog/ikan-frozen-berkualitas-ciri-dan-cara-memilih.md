@@ -12,6 +12,7 @@ tags: ["ikan frozen", "fish food", "ikan beku", "seafood frozen", "memilih ikan"
 image: "/images/blog/ikan-frozen-berkualitas-ciri-dan-cara-memilih.webp"
 imageAlt: "Fillet ikan frozen berkualitas dengan lemon dan rempah di meja dapur"
 draft: false
+published: true
 ---
 
 > **Jawaban cepat:** Ikan frozen berkualitas memiliki kemasan utuh, informasi produk jelas, kondisi tetap beku, warna wajar, dan bentuk yang sesuai dengan kebutuhan resep.
@@ -121,3 +122,4 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 - [Jenis Ikan yang Bisa Dijadikan Frozen Food](https://meatfish.co.id/jenis-jenis-ikan-yang-bisa-dijadikan-frozen-food/)
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
+
