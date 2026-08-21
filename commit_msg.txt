@@ -1,3 +1,0 @@
-Publish blog posts: set published:true and draft:false in frontmatter
-
-Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
