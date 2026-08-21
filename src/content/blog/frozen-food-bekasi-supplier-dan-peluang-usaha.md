@@ -1,16 +1,16 @@
   ---
   title: "Frozen Food Bekasi: Panduan Mencari Supplier dan Peluang Usaha Lokal"
   description: "Frozen Food Bekasi: Panduan Mencari Supplier dan Peluang Usaha Lokal. Panduan praktis MeatFish untuk frozen food Bekasi, lengkap dengan tips memilih produk..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/frozen-food-bekasi-supplier-dan-peluang-usaha.webp"
   author: "MeatFish Editorial"
   tags:
     - "frozen food Bekasi"
-- "supplier frozen food Bekasi"
-- "toko frozen food"
-- "frozen food terdekat"
-- "MeatFish"
+    - "supplier frozen food Bekasi"
+    - "toko frozen food"
+    - "frozen food terdekat"
+    - "MeatFish"
   draft: false
   ---
 

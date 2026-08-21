@@ -1,16 +1,16 @@
   ---
   title: "Franchise Frozen Food 2026: Peluang Bisnis yang Layak Dipertimbangkan"
   description: "Franchise Frozen Food 2026: Peluang Bisnis yang Layak Dipertimbangkan. Panduan praktis MeatFish untuk franchise frozen food, lengkap dengan tips memilih pr..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/franchise-frozen-food-2026-peluang-bisnis.webp"
   author: "MeatFish Editorial"
   tags:
     - "franchise frozen food"
-- "franchise makanan"
-- "peluang usaha 2026"
-- "bisnis franchise 2026"
-- "MeatFish"
+    - "franchise makanan"
+    - "peluang usaha 2026"
+    - "bisnis franchise 2026"
+    - "MeatFish"
   draft: false
   ---
 

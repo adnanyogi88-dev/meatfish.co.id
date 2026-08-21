@@ -1,16 +1,16 @@
   ---
   title: "Franchise Makanan 2026: Cara Memilih Bisnis yang Tidak Sekadar Viral"
   description: "Franchise Makanan 2026: Cara Memilih Bisnis yang Tidak Sekadar Viral. Panduan praktis MeatFish untuk franchise makanan, lengkap dengan tips memilih produk,..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/franchise-makanan-2026-cara-memilih.webp"
   author: "MeatFish Editorial"
   tags:
     - "franchise makanan"
-- "franchise frozen food"
-- "peluang usaha 2026"
-- "bisnis franchise 2026"
-- "MeatFish"
+    - "franchise frozen food"
+    - "peluang usaha 2026"
+    - "bisnis franchise 2026"
+    - "MeatFish"
   draft: false
   ---
 

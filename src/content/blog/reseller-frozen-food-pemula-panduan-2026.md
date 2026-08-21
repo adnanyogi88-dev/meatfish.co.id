@@ -1,16 +1,16 @@
   ---
   title: "Reseller Frozen Food untuk Pemula: Panduan Praktis Memulai di 2026"
   description: "Reseller Frozen Food untuk Pemula: Panduan Praktis Memulai di 2026. Panduan praktis MeatFish untuk reseller frozen food, lengkap dengan tips memilih produk..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/reseller-frozen-food-pemula-panduan-2026.webp"
   author: "MeatFish Editorial"
   tags:
     - "reseller frozen food"
-- "bisnis frozen food"
-- "usaha modal kecil"
-- "frozen food untuk jualan"
-- "MeatFish"
+    - "bisnis frozen food"
+    - "usaha modal kecil"
+    - "frozen food untuk jualan"
+    - "MeatFish"
   draft: false
   ---
 

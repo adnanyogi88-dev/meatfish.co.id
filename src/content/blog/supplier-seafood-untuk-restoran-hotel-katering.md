@@ -1,16 +1,16 @@
   ---
   title: "Supplier Seafood untuk Restoran, Hotel, Katering, dan Bisnis Kuliner"
   description: "Supplier Seafood untuk Restoran, Hotel, Katering, dan Bisnis Kuliner. Panduan praktis MeatFish untuk supplier seafood, lengkap dengan tips memilih produk,..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/supplier-seafood-untuk-restoran-hotel-katering.webp"
   author: "MeatFish Editorial"
   tags:
     - "supplier seafood"
-- "supplier frozen food"
-- "seafood frozen"
-- "grosir seafood"
-- "MeatFish"
+    - "supplier frozen food"
+    - "seafood frozen"
+    - "grosir seafood"
+    - "MeatFish"
   draft: false
   ---
 

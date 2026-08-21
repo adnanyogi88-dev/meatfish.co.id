@@ -1,16 +1,16 @@
   ---
   title: "Distributor Frozen Food: Cara Memilih Mitra Pasokan untuk Bisnis Kuliner"
   description: "Distributor Frozen Food: Cara Memilih Mitra Pasokan untuk Bisnis Kuliner. Panduan praktis MeatFish untuk distributor frozen food, lengkap dengan tips memil..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/distributor-frozen-food-untuk-bisnis-kuliner.webp"
   author: "MeatFish Editorial"
   tags:
     - "distributor frozen food"
-- "supplier frozen food"
-- "grosir frozen food"
-- "agen frozen food"
-- "MeatFish"
+    - "supplier frozen food"
+    - "grosir frozen food"
+    - "agen frozen food"
+    - "MeatFish"
   draft: false
   ---
 

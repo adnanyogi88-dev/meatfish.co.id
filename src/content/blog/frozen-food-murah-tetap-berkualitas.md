@@ -1,16 +1,16 @@
   ---
   title: "Frozen Food Murah: Cara Hemat Tanpa Mengorbankan Kualitas"
   description: "Frozen Food Murah: Cara Hemat Tanpa Mengorbankan Kualitas. Panduan praktis MeatFish untuk frozen food murah, lengkap dengan tips memilih produk, supplier,..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/frozen-food-murah-tetap-berkualitas.webp"
   author: "MeatFish Editorial"
   tags:
     - "frozen food murah"
-- "grosir frozen food"
-- "frozen food terdekat"
-- "toko frozen food"
-- "MeatFish"
+    - "grosir frozen food"
+    - "frozen food terdekat"
+    - "toko frozen food"
+    - "MeatFish"
   draft: false
   ---
 

@@ -1,16 +1,16 @@
   ---
   title: "Frozen Food Terdekat: Cara Memilih Toko Terbaik, Lengkap, dan Terpercaya"
   description: "Frozen Food Terdekat: Cara Memilih Toko Terbaik, Lengkap, dan Terpercaya. Panduan praktis MeatFish untuk frozen food terdekat, lengkap dengan tips memilih..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/frozen-food-terdekat-panduan-pilih-toko-terbaik.webp"
   author: "MeatFish Editorial"
   tags:
     - "frozen food terdekat"
-- "toko frozen food"
-- "frozen food murah"
-- "supplier frozen food"
-- "MeatFish"
+    - "toko frozen food"
+    - "frozen food murah"
+    - "supplier frozen food"
+    - "MeatFish"
   draft: false
   ---
 

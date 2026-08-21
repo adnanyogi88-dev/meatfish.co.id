@@ -1,16 +1,16 @@
   ---
   title: "Supplier Frozen Food Jakarta untuk Toko, Restoran, Katering, dan Reseller"
   description: "Supplier Frozen Food Jakarta untuk Toko, Restoran, Katering, dan Reseller. Panduan praktis MeatFish untuk supplier frozen food, lengkap dengan tips memilih..."
-  pubDate: 2026-08-13
-  updatedDate: 2026-08-13
+  pubDate: 2026-08-21
+  updatedDate: 2026-08-21
   heroImage: "/images/blog/supplier-frozen-food-jakarta-untuk-usaha.webp"
   author: "MeatFish Editorial"
   tags:
     - "supplier frozen food"
-- "frozen food Jakarta"
-- "grosir frozen food"
-- "supplier daging beku"
-- "MeatFish"
+    - "frozen food Jakarta"
+    - "grosir frozen food"
+    - "supplier daging beku"
+    - "MeatFish"
   draft: false
   ---
 
