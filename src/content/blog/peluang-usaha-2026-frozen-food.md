@@ -1,18 +1,19 @@
-  ---
-  title: "Peluang Usaha 2026: Mengapa Frozen Food Menarik untuk Pasar Lokal"
-  description: "Peluang Usaha 2026: Mengapa Frozen Food Menarik untuk Pasar Lokal. Panduan praktis MeatFish untuk peluang usaha 2026, lengkap dengan tips memilih produk, s..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/peluang-usaha-2026-frozen-food.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "peluang usaha 2026"
-    - "bisnis frozen food"
-    - "franchise makanan"
-    - "usaha modal kecil"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Peluang Usaha 2026: Mengapa Frozen Food Menarik untuk Pasar Lokal"
+slug: "peluang-usaha-2026-frozen-food"
+description: "Peluang Usaha 2026: Mengapa Frozen Food Menarik untuk Pasar Lokal. Panduan praktis MeatFish untuk peluang usaha 2026, lengkap dengan tips memilih produk, s..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/peluang-usaha-2026-frozen-food.webp"
+author: "MeatFish Editorial"
+tags:
+  - "peluang usaha 2026"
+  - "bisnis frozen food"
+  - "franchise makanan"
+  - "usaha modal kecil"
+  - "MeatFish"
+draft: false
+---
 
 # Peluang Usaha 2026: Mengapa Frozen Food Menarik untuk Pasar Lokal
 

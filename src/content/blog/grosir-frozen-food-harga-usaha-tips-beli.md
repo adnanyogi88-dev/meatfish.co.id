@@ -1,18 +1,19 @@
-  ---
-  title: "Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok"
-  description: "Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok. Panduan praktis MeatFish untuk grosir frozen food, lengkap dengan tips memilih produk, supp..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/grosir-frozen-food-harga-usaha-tips-beli.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "grosir frozen food"
-    - "frozen food murah"
-    - "supplier frozen food"
-    - "distributor frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok"
+slug: "grosir-frozen-food-harga-usaha-tips-beli"
+description: "Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok. Panduan praktis MeatFish untuk grosir frozen food, lengkap dengan tips memilih produk, supp..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/grosir-frozen-food-harga-usaha-tips-beli.webp"
+author: "MeatFish Editorial"
+tags:
+  - "grosir frozen food"
+  - "frozen food murah"
+  - "supplier frozen food"
+  - "distributor frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok
 

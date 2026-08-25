@@ -1,18 +1,19 @@
-  ---
-  title: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan"
-  description: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan. Panduan praktis MeatFish untuk agen frozen food, lengkap dengan tips memilih produk, sup..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/agen-frozen-food-cara-mulai-dan-cari-supplier.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "agen frozen food"
-    - "reseller frozen food"
-    - "supplier frozen food"
-    - "usaha frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan"
+slug: "agen-frozen-food-cara-mulai-dan-cari-supplier"
+description: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan. Panduan praktis MeatFish untuk agen frozen food, lengkap dengan tips memilih produk, sup..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/agen-frozen-food-cara-mulai-dan-cari-supplier.webp"
+author: "MeatFish Editorial"
+tags:
+  - "agen frozen food"
+  - "reseller frozen food"
+  - "supplier frozen food"
+  - "usaha frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan
 
