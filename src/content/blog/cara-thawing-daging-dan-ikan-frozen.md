@@ -67,6 +67,10 @@ Siapkan bumbu, alat, dan pelengkap sebelum membuka produk. Dengan demikian, baha
 
 Apabila jadwal berubah, ikuti petunjuk penyimpanan dan keputusan penanganan yang sesuai. Hindari kebiasaan mencairkan serta membekukan berulang tanpa pertimbangan.
 
+## Memilih Sumber Ikan dan Daging Frozen
+
+Hasil thawing juga dipengaruhi oleh kualitas produk dan penanganannya sebelum sampai ke dapur. Jika Anda sedang mencari pemasok ikan, daging, atau seafood untuk kebutuhan rumah maupun usaha, Anda dapat menggunakan [daftar supplier Meatfish](https://meatfish.id/daftar-supplier-meatfish/) sebagai referensi untuk melihat pilihan pemasok yang relevan.
+
 ## Checklist Praktis Sebelum Membeli atau Mengolah
 
 1. Tentukan menu, jumlah porsi, dan waktu penggunaan.
