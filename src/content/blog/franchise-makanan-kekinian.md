@@ -114,9 +114,7 @@ Pelajari artikel dan panduan lain melalui [kategori Franchise Meat & Fish](https
 
 ## Lanjut Membaca
 
-- **Artikel sebelumnya:** [Franchise Meat Shop: Peluang Bisnis Toko Daging Modern yang Terukur](/franchise-meat-shop/)
 - **Pusat panduan bisnis:** [Kategori Franchise Meat & Fish](https://meatfish.co.id/category/franchise/)
 - **Artikel berikutnya:** [Franchise Minuman Kekinian: Peluang, Risiko, dan Strategi Memulai](/franchise-minuman-kekinian/)
 
 > **Tertarik membuka toko daging, ikan, seafood, atau frozen food?** Pelajari model bisnis, lokasi, supplier, risiko, dan strategi penjualan melalui [halaman Franchise Meat & Fish](https://meatfish.co.id/category/franchise/).
-

@@ -1,18 +1,19 @@
-  ---
-  title: "Frozen Food Tangerang: Peluang Toko, Supplier, dan Strategi Penjualan"
-  description: "Frozen Food Tangerang: Peluang Toko, Supplier, dan Strategi Penjualan. Panduan praktis MeatFish untuk frozen food Tangerang, lengkap dengan tips memilih pr..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/frozen-food-tangerang-peluang-toko-dan-supplier.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "frozen food Tangerang"
-    - "supplier frozen food Tangerang"
-    - "toko frozen food"
-    - "usaha frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Frozen Food Tangerang: Peluang Toko, Supplier, dan Strategi Penjualan"
+slug: "frozen-food-tangerang-peluang-toko-dan-supplier"
+description: "Frozen Food Tangerang: Peluang Toko, Supplier, dan Strategi Penjualan. Panduan praktis MeatFish untuk frozen food Tangerang, lengkap dengan tips memilih pr..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/frozen-food-tangerang-peluang-toko-dan-supplier.webp"
+author: "MeatFish Editorial"
+tags:
+  - "frozen food Tangerang"
+  - "supplier frozen food Tangerang"
+  - "toko frozen food"
+  - "usaha frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Frozen Food Tangerang: Peluang Toko, Supplier, dan Strategi Penjualan
 

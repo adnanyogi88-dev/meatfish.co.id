@@ -1,18 +1,19 @@
-  ---
-  title: "Modal Usaha Frozen Food Rumahan: Prioritas Belanja dan Cara Menghemat"
-  description: "Modal Usaha Frozen Food Rumahan: Prioritas Belanja dan Cara Menghemat. Panduan praktis MeatFish untuk modal usaha frozen food, lengkap dengan tips memilih..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/modal-usaha-frozen-food-rumahan.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "modal usaha frozen food"
-    - "usaha modal kecil"
-    - "bisnis frozen food"
-    - "reseller frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Modal Usaha Frozen Food Rumahan: Prioritas Belanja dan Cara Menghemat"
+slug: "modal-usaha-frozen-food-rumahan"
+description: "Modal Usaha Frozen Food Rumahan: Prioritas Belanja dan Cara Menghemat. Panduan praktis MeatFish untuk modal usaha frozen food, lengkap dengan tips memilih..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/modal-usaha-frozen-food-rumahan.webp"
+author: "MeatFish Editorial"
+tags:
+  - "modal usaha frozen food"
+  - "usaha modal kecil"
+  - "bisnis frozen food"
+  - "reseller frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Modal Usaha Frozen Food Rumahan: Prioritas Belanja dan Cara Menghemat
 

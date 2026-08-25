@@ -1,18 +1,19 @@
-  ---
-  title: "Usaha Modal Kecil 2026: Memulai Bisnis Frozen Food dari Rumah"
-  description: "Usaha Modal Kecil 2026: Memulai Bisnis Frozen Food dari Rumah. Panduan praktis MeatFish untuk usaha modal kecil, lengkap dengan tips memilih produk, suppli..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/usaha-modal-kecil-frozen-food-2026.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "usaha modal kecil"
-    - "usaha frozen food"
-    - "bisnis frozen food"
-    - "modal usaha frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Usaha Modal Kecil 2026: Memulai Bisnis Frozen Food dari Rumah"
+slug: "usaha-modal-kecil-frozen-food-2026"
+description: "Usaha Modal Kecil 2026: Memulai Bisnis Frozen Food dari Rumah. Panduan praktis MeatFish untuk usaha modal kecil, lengkap dengan tips memilih produk, suppli..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/usaha-modal-kecil-frozen-food-2026.webp"
+author: "MeatFish Editorial"
+tags:
+  - "usaha modal kecil"
+  - "usaha frozen food"
+  - "bisnis frozen food"
+  - "modal usaha frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Usaha Modal Kecil 2026: Memulai Bisnis Frozen Food dari Rumah
 

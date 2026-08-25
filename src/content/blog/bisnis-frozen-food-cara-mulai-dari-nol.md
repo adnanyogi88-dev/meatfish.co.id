@@ -1,18 +1,19 @@
-  ---
-  title: "Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order"
-  description: "Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order. Panduan praktis MeatFish untuk bisnis frozen food, lengkap dengan tips memilih produk..."
-  pubDate: 2026-08-21
-  updatedDate: 2026-08-21
-  heroImage: "/images/blog/bisnis-frozen-food-cara-mulai-dari-nol.webp"
-  author: "MeatFish Editorial"
-  tags:
-    - "bisnis frozen food"
-    - "usaha frozen food"
-    - "reseller frozen food"
-    - "supplier frozen food"
-    - "MeatFish"
-  draft: false
-  ---
+---
+title: "Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order"
+slug: "bisnis-frozen-food-cara-mulai-dari-nol"
+description: "Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order. Panduan praktis MeatFish untuk bisnis frozen food, lengkap dengan tips memilih produk..."
+pubDate: 2026-08-21
+updatedDate: 2026-08-21
+heroImage: "/images/blog/bisnis-frozen-food-cara-mulai-dari-nol.webp"
+author: "MeatFish Editorial"
+tags:
+  - "bisnis frozen food"
+  - "usaha frozen food"
+  - "reseller frozen food"
+  - "supplier frozen food"
+  - "MeatFish"
+draft: false
+---
 
 # Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order
 
