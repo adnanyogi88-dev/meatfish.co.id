@@ -108,6 +108,10 @@ Gunakan kemasan datar, keranjang kategori, dan hindari membeli stok melebihi keb
 
 Daftar stok mengurangi pembelian ganda dan membantu menyusun menu.
 
+## Memilih Supplier untuk Stok Frozen Food
+
+Selain teknik penyimpanan, kualitas produk sejak awal juga penting. Jika Anda membeli frozen food, ikan, seafood, atau daging untuk kebutuhan rumah maupun usaha, pilih pemasok yang mampu menjaga konsistensi produk dan pasokan. Anda dapat melihat [daftar supplier Meatfish](https://meatfish.id/daftar-supplier-meatfish/) sebagai salah satu referensi saat membandingkan kebutuhan stok.
+
 ## Kesimpulan
 
 **Cara Menyimpan Frozen Food agar Tahan Lama dan Tetap Praktis** dapat menjadi pilihan praktis ketika produk, porsi, penyimpanan, dan teknik memasak sesuai dengan kebutuhan. Jangan hanya melihat harga atau tampilan kemasan. Perhatikan juga kemudahan penggunaan, ruang freezer, waktu persiapan, dan potensi sisa.
