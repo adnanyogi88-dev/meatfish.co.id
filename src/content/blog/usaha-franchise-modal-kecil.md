@@ -16,8 +16,6 @@ draft: false
 published: true
 ---
 
-# Usaha Franchise Modal Kecil: Cara Menghitung Kebutuhan Dana
-
 **Jawaban singkat:** Istilah modal kecil perlu diterjemahkan menjadi komponen biaya yang jelas: biaya kemitraan, tempat, peralatan, stok awal, perizinan, promosi, dan modal kerja. Perhitungan menyeluruh membantu calon mitra menghindari kekurangan kas.
 
 Kebutuhan setiap pelanggan berbeda. Karena itu, gunakan panduan berikut sebagai kerangka penilaian, lalu cocokkan dengan wilayah, anggaran, kapasitas penyimpanan, dan tujuan pembelian Anda. Pendekatan ini membuat keputusan lebih terukur sekaligus mengurangi risiko memilih hanya berdasarkan harga atau promosi.

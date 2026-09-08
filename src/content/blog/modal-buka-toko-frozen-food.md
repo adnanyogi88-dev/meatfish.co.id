@@ -16,8 +16,6 @@ draft: false
 published: true
 ---
 
-# Modal Buka Toko Frozen Food: Daftar Biaya dan Simulasi Sederhana
-
 **Jawaban singkat:** Modal pembukaan toko terdiri dari biaya awal dan modal kerja. Calon pemilik perlu menghitung sewa, renovasi, freezer, stok, promosi, utilitas, tenaga kerja, dan cadangan kas sesuai kondisi lokasinya.
 
 Kebutuhan setiap pelanggan berbeda. Karena itu, gunakan panduan berikut sebagai kerangka penilaian, lalu cocokkan dengan wilayah, anggaran, kapasitas penyimpanan, dan tujuan pembelian Anda. Pendekatan ini membuat keputusan lebih terukur sekaligus mengurangi risiko memilih hanya berdasarkan harga atau promosi.

@@ -16,8 +16,6 @@ draft: false
 published: true
 ---
 
-# Operasional Toko Frozen Food: SOP Harian untuk Mitra
-
 **Jawaban singkat:** SOP membantu gerai menjaga mutu produk dan pengalaman pelanggan. Rutinitas utama meliputi pengecekan suhu, rotasi stok, kebersihan, penerimaan barang, pencatatan penjualan, dan penutupan toko.
 
 Kebutuhan setiap pelanggan berbeda. Karena itu, gunakan panduan berikut sebagai kerangka penilaian, lalu cocokkan dengan wilayah, anggaran, kapasitas penyimpanan, dan tujuan pembelian Anda. Pendekatan ini membuat keputusan lebih terukur sekaligus mengurangi risiko memilih hanya berdasarkan harga atau promosi.

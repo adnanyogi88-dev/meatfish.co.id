@@ -16,8 +16,6 @@ draft: false
 published: true
 ---
 
-# Strategi Pemasaran Franchise Frozen Food untuk Menarik Pelanggan Lokal
-
 **Jawaban singkat:** Gerai baru membutuhkan kombinasi pemasaran lokal, Google Business Profile, media sosial, WhatsApp, promo pembukaan, dan kerja sama komunitas. Semua kanal sebaiknya mengarahkan pelanggan ke tindakan yang terukur.
 
 Kebutuhan setiap pelanggan berbeda. Karena itu, gunakan panduan berikut sebagai kerangka penilaian, lalu cocokkan dengan wilayah, anggaran, kapasitas penyimpanan, dan tujuan pembelian Anda. Pendekatan ini membuat keputusan lebih terukur sekaligus mengurangi risiko memilih hanya berdasarkan harga atau promosi.
