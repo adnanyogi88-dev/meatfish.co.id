@@ -4,8 +4,10 @@ slug: "modal-buka-toko-frozen-food"
 description: "Modal pembukaan toko terdiri dari biaya awal dan modal kerja. Calon pemilik perlu menghitung sewa, renovasi, freezer, stok, promosi, utilitas, tenaga kerja."
 pubDate: 2026-09-08T10:20:00+07:00
 updatedDate: 2026-09-08T10:20:00+07:00
+date: 2026-09-08T10:20:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["modal buka toko frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/modal-buka-toko-frozen-food.webp"
 imageAlt: "Meja perencanaan toko frozen food dengan kalkulator denah dan daftar biaya tanpa teks"

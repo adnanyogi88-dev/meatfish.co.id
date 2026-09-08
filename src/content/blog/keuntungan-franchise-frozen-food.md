@@ -4,8 +4,10 @@ slug: "keuntungan-franchise-frozen-food"
 description: "Keuntungan tidak dapat dinilai hanya dari margin produk. Omzet, komposisi penjualan, biaya sewa, listrik, penyusutan, promosi, dan kehilangan stok semuanya."
 pubDate: 2026-09-08T10:00:00+07:00
 updatedDate: 2026-09-08T10:00:00+07:00
+date: 2026-09-08T10:00:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["keuntungan franchise frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/keuntungan-franchise-frozen-food.webp"
 imageAlt: "Pemilik toko frozen food indonesia memeriksa dashboard penjualan di tablet"

@@ -4,8 +4,10 @@ slug: "lokasi-usaha-frozen-food"
 description: "Lokasi yang baik bukan selalu lokasi paling mahal. Akses, visibilitas, populasi sekitar, pola lalu lintas, parkir, kompetitor, listrik, dan biaya sewa haru."
 pubDate: 2026-09-08T10:10:00+07:00
 updatedDate: 2026-09-08T10:10:00+07:00
+date: 2026-09-08T10:10:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["lokasi usaha frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/lokasi-usaha-frozen-food.webp"
 imageAlt: "Pengusaha indonesia melakukan survei lokasi ruko untuk toko frozen food"

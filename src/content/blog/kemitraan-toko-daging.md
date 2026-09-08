@@ -4,8 +4,10 @@ slug: "kemitraan-toko-daging"
 description: "Kemitraan toko daging dan seafood menggabungkan produk protein hewani dengan kebutuhan penyimpanan dingin. Mitra perlu memahami pengelolaan stok, kebersiha."
 pubDate: 2026-09-08T09:50:00+07:00
 updatedDate: 2026-09-08T09:50:00+07:00
+date: 2026-09-08T09:50:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["kemitraan toko daging", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/kemitraan-toko-daging.webp"
 imageAlt: "Mitra indonesia berdiri di toko daging dan seafood beku yang bersih"

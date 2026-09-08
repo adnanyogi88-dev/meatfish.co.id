@@ -4,8 +4,10 @@ slug: "peluang-usaha-frozen-food"
 description: "Kawasan perumahan memiliki permintaan untuk makanan praktis, tetapi potensi setiap lokasi berbeda. Kepadatan penghuni, akses, daya beli, kompetitor, dan ke."
 pubDate: 2026-09-08T10:40:00+07:00
 updatedDate: 2026-09-08T10:40:00+07:00
+date: 2026-09-08T10:40:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["peluang usaha frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/peluang-usaha-frozen-food.webp"
 imageAlt: "Toko frozen food dekat perumahan indonesia dengan pelanggan keluarga"

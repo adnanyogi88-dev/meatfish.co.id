@@ -4,8 +4,10 @@ slug: "franchise-toko-frozen-food"
 description: "Gerai frozen food membutuhkan lokasi yang mudah dijangkau, pasokan listrik stabil, freezer yang memadai, stok terukur, dan pelayanan konsisten. Sistem kemi."
 pubDate: 2026-09-08T09:40:00+07:00
 updatedDate: 2026-09-08T09:40:00+07:00
+date: 2026-09-08T09:40:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise toko frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-toko-frozen-food.webp"
 imageAlt: "Toko frozen food lingkungan perumahan indonesia dengan interior modern dan freezer"

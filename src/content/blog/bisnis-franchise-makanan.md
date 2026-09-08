@@ -4,8 +4,10 @@ slug: "bisnis-franchise-makanan"
 description: "Franchise memberikan sistem dan identitas usaha yang sudah disiapkan, tetapi tidak menghapus risiko. Calon mitra perlu membaca perjanjian, memahami struktu."
 pubDate: 2026-09-08T08:00:00+07:00
 updatedDate: 2026-09-08T08:00:00+07:00
+date: 2026-09-08T08:00:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["bisnis franchise makanan", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/bisnis-franchise-makanan.webp"
 imageAlt: "Meeting bisnis franchise makanan antara pemilik merek dan calon mitra indonesia"

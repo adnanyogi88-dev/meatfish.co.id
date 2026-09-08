@@ -4,8 +4,10 @@ slug: "usaha-franchise-modal-kecil"
 description: "Istilah modal kecil perlu diterjemahkan menjadi komponen biaya yang jelas: biaya kemitraan, tempat, peralatan, stok awal, perizinan, promosi, dan modal ker."
 pubDate: 2026-09-08T11:10:00+07:00
 updatedDate: 2026-09-08T11:10:00+07:00
+date: 2026-09-08T11:10:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["usaha franchise modal kecil", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/usaha-franchise-modal-kecil.webp"
 imageAlt: "Pasangan pengusaha indonesia menghitung anggaran usaha di toko frozen food kecil"

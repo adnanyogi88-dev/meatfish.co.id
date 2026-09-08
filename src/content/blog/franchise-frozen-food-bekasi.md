@@ -4,8 +4,10 @@ slug: "franchise-frozen-food-bekasi"
 description: "Bekasi memiliki kawasan perumahan dan komuter dengan kebutuhan makanan praktis. Namun, potensi gerai perlu diuji melalui survei mikro di radius layanan, bu."
 pubDate: 2026-09-08T08:30:00+07:00
 updatedDate: 2026-09-08T08:30:00+07:00
+date: 2026-09-08T08:30:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise frozen food Bekasi", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-frozen-food-bekasi.webp"
 imageAlt: "Gerai frozen food di kawasan perumahan bekasi dengan suasana sore"

@@ -4,8 +4,10 @@ slug: "operasional-toko-frozen-food"
 description: "SOP membantu gerai menjaga mutu produk dan pengalaman pelanggan. Rutinitas utama meliputi pengecekan suhu, rotasi stok, kebersihan, penerimaan barang, penc."
 pubDate: 2026-09-08T10:30:00+07:00
 updatedDate: 2026-09-08T10:30:00+07:00
+date: 2026-09-08T10:30:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["operasional toko frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/operasional-toko-frozen-food.webp"
 imageAlt: "Staf toko indonesia mengecek suhu freezer dan stok frozen food"

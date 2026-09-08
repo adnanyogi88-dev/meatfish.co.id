@@ -4,8 +4,10 @@ slug: "franchise-makanan-2026"
 description: "Peluang franchise makanan pada 2026 ditentukan oleh relevansi produk, kemampuan merek mendukung mitra, efisiensi operasional, dan kecocokan pasar lokal. Tr."
 pubDate: 2026-09-08T09:20:00+07:00
 updatedDate: 2026-09-08T09:20:00+07:00
+date: 2026-09-08T09:20:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise makanan 2026", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-makanan-2026.webp"
 imageAlt: "Pengusaha muda indonesia mengamati toko makanan beku modern yang ramai"

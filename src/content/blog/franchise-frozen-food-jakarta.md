@@ -4,8 +4,10 @@ slug: "franchise-frozen-food-jakarta"
 description: "Jakarta menawarkan pasar besar sekaligus persaingan tinggi. Calon mitra perlu memilih area layanan, menilai biaya lokasi, memetakan kebutuhan warga, dan me."
 pubDate: 2026-09-08T08:40:00+07:00
 updatedDate: 2026-09-08T08:40:00+07:00
+date: 2026-09-08T08:40:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise frozen food Jakarta", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-frozen-food-jakarta.webp"
 imageAlt: "Toko frozen food modern di kawasan urban jakarta dengan pelanggan lokal"

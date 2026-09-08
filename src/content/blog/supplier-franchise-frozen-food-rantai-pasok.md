@@ -4,8 +4,10 @@ slug: "supplier-franchise-frozen-food-rantai-pasok"
 description: "Pasokan yang konsisten merupakan fondasi gerai frozen food. Sistem kemitraan perlu menjelaskan jadwal pengiriman, spesifikasi produk, minimum order, penang."
 pubDate: 2026-09-08T11:00:00+07:00
 updatedDate: 2026-09-08T11:00:00+07:00
+date: 2026-09-08T11:00:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["supplier franchise frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/supplier-franchise-frozen-food-rantai-pasok.webp"
 imageAlt: "Gudang dingin bersih dengan staf menyiapkan pasokan untuk jaringan toko"

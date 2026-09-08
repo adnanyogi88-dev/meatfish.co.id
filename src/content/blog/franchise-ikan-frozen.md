@@ -4,8 +4,10 @@ slug: "franchise-ikan-frozen"
 description: "Ikan frozen dapat menjangkau pelanggan rumah tangga, kuliner, katering, dan reseller. Model franchise membantu menstandarkan pasokan serta tampilan toko, s."
 pubDate: 2026-09-08T09:10:00+07:00
 updatedDate: 2026-09-08T09:10:00+07:00
+date: 2026-09-08T09:10:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise ikan frozen", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-ikan-frozen.webp"
 imageAlt: "Pemilik gerai indonesia menata fillet ikan frozen dalam freezer display"

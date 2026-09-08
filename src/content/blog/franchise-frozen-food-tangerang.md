@@ -4,8 +4,10 @@ slug: "franchise-frozen-food-tangerang"
 description: "Pertumbuhan kawasan hunian di Tangerang menciptakan peluang untuk toko kebutuhan harian. Calon mitra perlu menilai akses, kompetitor, daya beli, biaya sewa."
 pubDate: 2026-09-08T09:00:00+07:00
 updatedDate: 2026-09-08T09:00:00+07:00
+date: 2026-09-08T09:00:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise frozen food Tangerang", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-frozen-food-tangerang.webp"
 imageAlt: "Toko frozen food di ruko modern kawasan tangerang dengan keluarga berbelanja"

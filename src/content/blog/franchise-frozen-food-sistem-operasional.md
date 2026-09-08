@@ -4,8 +4,10 @@ slug: "franchise-frozen-food-sistem-operasional"
 description: "Franchise frozen food menawarkan model usaha berbasis produk yang dapat disimpan dan dijual bertahap. Calon mitra tetap perlu menilai kebutuhan modal, duku."
 pubDate: 2026-09-08T08:50:00+07:00
 updatedDate: 2026-09-08T08:50:00+07:00
+date: 2026-09-08T08:50:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-frozen-food-sistem-operasional.webp"
 imageAlt: "Calon mitra indonesia berdiskusi di dalam toko frozen food modern"

@@ -4,8 +4,10 @@ slug: "franchise-meat-shop-panduan-calon-mitra"
 description: "Franchise meat shop melayani kebutuhan daging, ikan, seafood, dan produk beku dalam satu gerai. Keberhasilannya dipengaruhi pemilihan produk, lokasi, keper."
 pubDate: 2026-09-08T09:30:00+07:00
 updatedDate: 2026-09-08T09:30:00+07:00
+date: 2026-09-08T09:30:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["franchise meat shop", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/franchise-meat-shop-panduan-calon-mitra.webp"
 imageAlt: "Interior meat shop indonesia dengan display daging ikan dan frozen food"

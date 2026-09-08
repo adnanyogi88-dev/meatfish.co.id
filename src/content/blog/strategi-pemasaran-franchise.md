@@ -4,8 +4,10 @@ slug: "strategi-pemasaran-franchise"
 description: "Gerai baru membutuhkan kombinasi pemasaran lokal, Google Business Profile, media sosial, WhatsApp, promo pembukaan, dan kerja sama komunitas. Semua kanal s."
 pubDate: 2026-09-08T10:50:00+07:00
 updatedDate: 2026-09-08T10:50:00+07:00
+date: 2026-09-08T10:50:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["strategi pemasaran franchise frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/strategi-pemasaran-franchise.webp"
 imageAlt: "Tim kecil indonesia membuat konten pemasaran di dalam toko frozen food"

@@ -4,8 +4,10 @@ slug: "cara-memilih-franchise-makanan"
 description: "Pemilihan franchise perlu dilakukan melalui verifikasi merek, dokumen, biaya, dukungan, kondisi mitra berjalan, dan kecocokan wilayah. Hindari keputusan ya."
 pubDate: 2026-09-08T08:20:00+07:00
 updatedDate: 2026-09-08T08:20:00+07:00
+date: 2026-09-08T08:20:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["cara memilih franchise makanan", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/cara-memilih-franchise-makanan.webp"
 imageAlt: "Calon mitra membandingkan beberapa proposal franchise makanan di meja kerja"

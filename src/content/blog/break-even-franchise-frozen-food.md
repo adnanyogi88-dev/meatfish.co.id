@@ -4,8 +4,10 @@ slug: "break-even-franchise-frozen-food"
 description: "Break-even menunjukkan kapan kontribusi penjualan menutup biaya tetap dan investasi sesuai asumsi. Perhitungan harus memakai data konservatif serta diperba."
 pubDate: 2026-09-08T08:10:00+07:00
 updatedDate: 2026-09-08T08:10:00+07:00
+date: 2026-09-08T08:10:00+07:00
 author: "Yogi Adnan"
 category: "Franchise"
+categories: ["Franchise"]
 tags: ["break-even franchise frozen food", "Meat & Fish", "kemitraan usaha"]
 image: "/images/blog/break-even-franchise-frozen-food.webp"
 imageAlt: "Pengusaha indonesia menghitung break even toko frozen food dengan kalkulator dan laptop"
