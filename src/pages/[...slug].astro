@@ -24,7 +24,11 @@ const formatPublishDate = (date:string) => new Date(date).toLocaleDateString("id
 export function getStaticPaths() {
   const requiredPaths = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
   const routeModules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
-  const postPaths = routeModules.filter((post:any)=>isPublished(post.frontmatter)).map((post:any) => `/${post.frontmatter.slug}/`);
+  const isRoutePublished = (frontmatter:any) => {
+    const publishDate = new Date(frontmatter.pubDate || frontmatter.date || 0).getTime();
+    return frontmatter.draft !== true && frontmatter.published !== false && publishDate <= Date.now();
+  };
+  const postPaths = routeModules.filter((post:any)=>isRoutePublished(post.frontmatter)).map((post:any) => `/${post.frontmatter.slug}/`);
   const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`), ...postPaths])].filter(x=>x!=="/");
   return routePaths.map((path:string)=>({params:{slug:path.replace(/^\/|\/$/g,"")},props:{path}}));
 }
