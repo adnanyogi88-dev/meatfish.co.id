@@ -7,12 +7,12 @@ export async function GET() {
   const modules: any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
   const posts = modules
     .map((module) => module.frontmatter)
-    .filter((post) => post?.slug && post?.draft !== true)
+    .filter((post) => {\n      const publishDate = new Date(post?.pubDate || post?.date || 0).getTime();\n      return post?.slug && post?.draft !== true && post?.published !== false && publishDate <= Date.now();\n    })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   const urls = posts
     .map((post) => {
-      const loc = `${site}/${String(post.slug).replace(/^\/+|\/+$/g, "")}/`;
+      const loc = `${site}/${String(post.slug).replace(/^\\/+|\\/+$/g, "")}/`;
       const lastmod = post.date ? `<lastmod>${escapeXml(new Date(post.date).toISOString())}</lastmod>` : "";
       return `<url><loc>${escapeXml(loc)}</loc>${lastmod}</url>`;
     })
