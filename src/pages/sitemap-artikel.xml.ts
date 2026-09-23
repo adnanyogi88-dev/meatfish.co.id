@@ -7,7 +7,10 @@ export async function GET() {
   const modules: any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
   const posts = modules
     .map((module) => module.frontmatter)
-    .filter((post) => {\n      const publishDate = new Date(post?.pubDate || post?.date || 0).getTime();\n      return post?.slug && post?.draft !== true && post?.published !== false && publishDate <= Date.now();\n    })
+    .filter((post) => {
+      const publishDate = new Date(post?.pubDate || post?.date || 0).getTime();
+      return post?.slug && post?.draft !== true && post?.published !== false && publishDate <= Date.now();
+    })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   const urls = posts
