@@ -15,7 +15,8 @@ export async function GET() {
 
   const urls = posts
     .map((post) => {
-      const loc = `${site}/${String(post.slug).replace(/^\\/+|\\/+$/g, "")}/`;
+      const cleanSlug = String(post.slug).split("/").filter(Boolean).join("/");
+      const loc = `${site}/${cleanSlug}/`;
       const lastmod = post.date ? `<lastmod>${escapeXml(new Date(post.date).toISOString())}</lastmod>` : "";
       return `<url><loc>${escapeXml(loc)}</loc>${lastmod}</url>`;
     })
