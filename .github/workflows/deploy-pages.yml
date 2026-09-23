@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: "5 3 * * *" # 10:05 WIB, rebuild konten terjadwal
 
 permissions:
   contents: read

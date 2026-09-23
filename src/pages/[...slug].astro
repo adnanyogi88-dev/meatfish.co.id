@@ -9,7 +9,11 @@ import { getContextualBacklinks } from "../data/contextual-backlinks";
 
 const required = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
 const modules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
-const posts = modules.map((m:any)=>({frontmatter:m.frontmatter, Content:m.Content}));
+const isPublished = (frontmatter:any) => {
+  const publishDate = new Date(frontmatter.pubDate || frontmatter.date || 0).getTime();
+  return frontmatter.draft !== true && frontmatter.published !== false && publishDate <= Date.now();
+};
+const posts = modules.map((m:any)=>({frontmatter:m.frontmatter, Content:m.Content})).filter((post:any)=>isPublished(post.frontmatter));
 // sort posts by date descending so newest appear first
 posts.sort((a:any,b:any)=>{
   const dateA = new Date(a.frontmatter.pubDate || a.frontmatter.date || 0).getTime();
@@ -20,7 +24,7 @@ const formatPublishDate = (date:string) => new Date(date).toLocaleDateString("id
 export function getStaticPaths() {
   const requiredPaths = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
   const routeModules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
-  const postPaths = routeModules.map((post:any) => `/${post.frontmatter.slug}/`);
+  const postPaths = routeModules.filter((post:any)=>isPublished(post.frontmatter)).map((post:any) => `/${post.frontmatter.slug}/`);
   const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`), ...postPaths])].filter(x=>x!=="/");
   return routePaths.map((path:string)=>({params:{slug:path.replace(/^\/|\/$/g,"")},props:{path}}));
 }
