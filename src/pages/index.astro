@@ -61,6 +61,7 @@ const supplierCards = [
 
 const allPosts = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }))
   .map((post: any) => post.frontmatter)
+  .filter((post: any) => !post.draft && new Date(post.date).getTime() <= Date.now())
   .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
 ;
 
