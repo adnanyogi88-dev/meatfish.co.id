@@ -31,7 +31,7 @@ export function getStaticPaths() {
   const postPaths = routeModules.filter((post:any)=>isRoutePublished(post.frontmatter)).map((post:any) => `/${post.frontmatter.slug}/`);
   const scheduledSlugs = new Set(routeModules.filter((post:any)=>!isRoutePublished(post.frontmatter)).map((post:any)=>post.frontmatter.slug));
   const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`), ...postPaths])]
-    .filter((path:string)=>path!=="/" && !scheduledSlugs.has(path.replace(/^\\/|\\/$/g,"")));
+    .filter((path:string)=>path!=="/" && !scheduledSlugs.has(path.split("/").filter(Boolean).at(-1)));
   return routePaths.map((path:string)=>({params:{slug:path.replace(/^\/|\/$/g,"")},props:{path}}));
 }
 const { path } = Astro.props;
