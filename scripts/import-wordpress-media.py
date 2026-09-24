@@ -76,18 +76,19 @@ def download(record):
         return "cached", record
     target.parent.mkdir(parents=True, exist_ok=True)
     error = None
-    sources = [record["source"]]
+    sources = ["https://meatfish.co.id" + record["path"]]
     if urlparse(record["source"]).hostname == "indofishmart.id":
         sources.append(record["source"].replace("indofishmart.id", "meatfish.id", 1))
+    sources.append(record["source"])
     for source in sources:
         parts = urlsplit(source)
         safe_source = urlunsplit(
             (parts.scheme, parts.netloc, quote(unquote(parts.path), safe="/"), parts.query, parts.fragment)
         )
-        for attempt in range(3):
+        for attempt in range(1):
             try:
                 request = Request(safe_source, headers={"User-Agent": "Mozilla/5.0"})
-                with urlopen(request, timeout=45) as response:
+                with urlopen(request, timeout=12) as response:
                     data = response.read()
                 if not data:
                     raise ValueError("empty response")
@@ -104,7 +105,7 @@ def main():
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     counts = {"downloaded": 0, "cached": 0, "failed": 0, "required_failed": 0}
-    with ThreadPoolExecutor(max_workers=48) as pool:
+    with ThreadPoolExecutor(max_workers=16) as pool:
         futures = [pool.submit(download, record) for record in records]
         for index, future in enumerate(as_completed(futures), 1):
             status, record = future.result()
