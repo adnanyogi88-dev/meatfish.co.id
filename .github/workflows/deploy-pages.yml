@@ -29,6 +29,11 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Cache imported media
+        uses: actions/cache@v4
+        with:
+          path: public/wp-content/uploads
+          key: wordpress-media-v1
       - name: Import WordPress media
         run: python scripts/import-wordpress-media.py
       - name: Optimize media for Pages
