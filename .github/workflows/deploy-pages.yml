@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "5 3 * * *" # 10:05 WIB, rebuild konten terjadwal
+    - cron: "35 3 * * *" # 10:35 WIB, cadangan jika run pertama tertunda
 
 permissions:
   contents: read
