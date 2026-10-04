@@ -12,8 +12,8 @@ tags:
   - "lokasi franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "lokasi franchise 2026"
-image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food.webp"
-featured_image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food.webp"
+image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food-primary.webp"
+featured_image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Checklist Survey Lokasi Franchise 2026 Sebelum Menandatangani Kerja Sama"
 author: "Yogi Adnan"
 published: true

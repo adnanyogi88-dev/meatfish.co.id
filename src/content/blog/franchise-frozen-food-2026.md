@@ -12,8 +12,8 @@ tags:
   - "franchise frozen food 2026"
   - "kemitraan Meatfish"
 primary_keyword: "franchise frozen food 2026"
-image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis.webp"
-featured_image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis.webp"
+image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+featured_image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise Frozen Food 2026 untuk Pasar Perumahan dan Perkotaan"
 author: "Yogi Adnan"
 published: true

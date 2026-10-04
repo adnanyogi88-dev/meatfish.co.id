@@ -12,8 +12,8 @@ tags:
   - "paket kemitraan franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "paket kemitraan franchise 2026"
-image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food.webp"
-featured_image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food.webp"
+image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food-primary.webp"
+featured_image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Cara Membandingkan Paket Kemitraan Franchise 2026"
 author: "Yogi Adnan"
 published: true

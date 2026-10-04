@@ -12,8 +12,8 @@ tags:
   - "peluang franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "peluang franchise 2026"
-image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan.webp"
-featured_image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan.webp"
+image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+featured_image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Peluang Franchise 2026 yang Menjanjikan untuk Pengusaha Pemula"
 author: "Yogi Adnan"
 published: true

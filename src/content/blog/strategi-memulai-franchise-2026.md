@@ -12,8 +12,8 @@ tags:
   - "memulai franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "memulai franchise 2026"
-image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist.webp"
-featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist.webp"
+image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Strategi Memulai Franchise 2026 dari Nol hingga Siap Berjualan"
 author: "Yogi Adnan"
 published: true

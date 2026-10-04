@@ -12,8 +12,8 @@ tags:
   - "memilih franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "memilih franchise 2026"
-image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist.webp"
-featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist.webp"
+image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Cara Memilih Franchise 2026 yang Aman dan Berpotensi Tumbuh"
 author: "Yogi Adnan"
 published: true

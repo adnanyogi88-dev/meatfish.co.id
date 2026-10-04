@@ -12,8 +12,8 @@ tags:
   - "sistem stok franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "sistem stok franchise 2026"
-image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai.webp"
-featured_image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai.webp"
+image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
+featured_image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise 2026 dan Pentingnya Sistem Stok yang Rapi"
 author: "Yogi Adnan"
 published: true

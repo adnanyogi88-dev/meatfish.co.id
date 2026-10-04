@@ -12,8 +12,8 @@ tags:
   - "tren franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "tren franchise 2026"
-image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko.webp"
-featured_image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko.webp"
+image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko-primary.webp"
+featured_image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Tren Franchise 2026 yang Layak Dipertimbangkan di Indonesia"
 author: "Yogi Adnan"
 published: true

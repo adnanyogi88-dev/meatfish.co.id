@@ -12,8 +12,8 @@ tags:
   - "evaluasi franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "evaluasi franchise 2026"
-image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence.webp"
-featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Panduan Evaluasi Franchise 2026 Sebelum Memutuskan Bergabung"
 author: "Yogi Adnan"
 published: true

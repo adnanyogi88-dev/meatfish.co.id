@@ -12,8 +12,8 @@ tags:
   - "modal franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "modal franchise 2026"
-image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya.webp"
-featured_image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya.webp"
+image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya-primary.webp"
+featured_image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya-primary.webp"
 image_alt: "Ilustrasi aktivitas usaha frozen food untuk Modal Franchise 2026 yang Perlu Disiapkan Sebelum Membuka Gerai"
 author: "Yogi Adnan"
 published: true
