@@ -12,9 +12,9 @@ tags:
   - "franchise 2026 untuk anak muda"
   - "kemitraan Meatfish"
 primary_keyword: "franchise 2026 untuk anak muda"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "franchise 2026 untuk anak muda Meatfish Indonesia"
+image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko.webp"
+featured_image: "/wp-content/uploads/keuntungan-franchise-frozen-food-dan-risiko.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise 2026 untuk Generasi Muda yang Ingin Mulai Berbisnis"
 author: "Yogi Adnan"
 published: true
 ---

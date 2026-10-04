@@ -12,9 +12,9 @@ tags:
   - "promosi franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "promosi franchise 2026"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "promosi franchise 2026 Meatfish Indonesia"
+image: "/wp-content/uploads/strategi-pemasaran-franchise-frozen-food.webp"
+featured_image: "/wp-content/uploads/strategi-pemasaran-franchise-frozen-food.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Strategi Promosi Grand Opening Franchise 2026 agar Cepat Dikenal"
 author: "Yogi Adnan"
 published: true
 ---

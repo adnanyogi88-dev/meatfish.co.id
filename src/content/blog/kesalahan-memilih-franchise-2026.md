@@ -12,9 +12,9 @@ tags:
   - "kesalahan franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "kesalahan franchise 2026"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "kesalahan franchise 2026 Meatfish Indonesia"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Kesalahan Memilih Franchise 2026 yang Harus Dihindari Pemula"
 author: "Yogi Adnan"
 published: true
 ---

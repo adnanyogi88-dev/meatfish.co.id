@@ -12,9 +12,9 @@ tags:
   - "franchise 2026 untuk pasangan"
   - "kemitraan Meatfish"
 primary_keyword: "franchise 2026 untuk pasangan"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "franchise 2026 untuk pasangan Meatfish Indonesia"
+image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan.webp"
+featured_image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Peluang Franchise 2026 untuk Pasangan Suami Istri"
 author: "Yogi Adnan"
 published: true
 ---

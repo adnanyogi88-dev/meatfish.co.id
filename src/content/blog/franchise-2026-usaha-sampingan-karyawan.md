@@ -12,9 +12,9 @@ tags:
   - "franchise 2026 untuk karyawan"
   - "kemitraan Meatfish"
 primary_keyword: "franchise 2026 untuk karyawan"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "franchise 2026 untuk karyawan Meatfish Indonesia"
+image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya.webp"
+featured_image: "/wp-content/uploads/modal-franchise-frozen-food-komponen-biaya.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise 2026 untuk Karyawan yang Ingin Memiliki Usaha Sampingan"
 author: "Yogi Adnan"
 published: true
 last_reviewed: 2026-10-01

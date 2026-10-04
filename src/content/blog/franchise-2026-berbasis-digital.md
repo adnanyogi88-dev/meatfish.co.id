@@ -12,9 +12,9 @@ tags:
   - "franchise digital 2026"
   - "kemitraan Meatfish"
 primary_keyword: "franchise digital 2026"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "franchise digital 2026 Meatfish Indonesia"
+image: "/wp-content/uploads/strategi-pemasaran-franchise-frozen-food.webp"
+featured_image: "/wp-content/uploads/strategi-pemasaran-franchise-frozen-food.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise 2026 Berbasis Digital untuk Menjangkau Konsumen Lokal"
 author: "Yogi Adnan"
 published: true
 ---

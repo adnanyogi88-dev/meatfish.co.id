@@ -12,9 +12,9 @@ tags:
   - "balik modal franchise 2026"
   - "kemitraan Meatfish"
 primary_keyword: "balik modal franchise 2026"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "balik modal franchise 2026 Meatfish Indonesia"
+image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food.webp"
+featured_image: "/wp-content/uploads/cara-menghitung-balik-modal-franchise-frozen-food.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Cara Menghitung Balik Modal Franchise 2026 Secara Realistis"
 author: "Yogi Adnan"
 published: true
 ---

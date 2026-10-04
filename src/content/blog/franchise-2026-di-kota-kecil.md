@@ -12,9 +12,9 @@ tags:
   - "franchise 2026 di kota kecil"
   - "kemitraan Meatfish"
 primary_keyword: "franchise 2026 di kota kecil"
-image: "/images/article-placeholder.svg"
-featured_image: "/images/article-placeholder.svg"
-image_alt: "franchise 2026 di kota kecil Meatfish Indonesia"
+image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food.webp"
+featured_image: "/wp-content/uploads/cara-memilih-lokasi-franchise-frozen-food.webp"
+image_alt: "Ilustrasi aktivitas usaha frozen food untuk Franchise 2026 di Kota Kecil Apakah Masih Menguntungkan"
 author: "Yogi Adnan"
 published: true
 last_reviewed: 2026-10-02
