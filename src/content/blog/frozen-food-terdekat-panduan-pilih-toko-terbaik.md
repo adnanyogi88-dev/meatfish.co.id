@@ -4,7 +4,10 @@ slug: "frozen-food-terdekat-panduan-pilih-toko-terbaik"
 description: "Frozen Food Terdekat: Cara Memilih Toko Terbaik, Lengkap, dan Terpercaya. Panduan praktis MeatFish untuk frozen food terdekat, lengkap dengan tips memilih..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/frozen-food-terdekat-panduan-pilih-toko-terbaik.webp"
+heroImage: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+featured_image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "frozen food terdekat"

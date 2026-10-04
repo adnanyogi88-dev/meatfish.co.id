@@ -4,7 +4,10 @@ slug: "reseller-frozen-food-pemula-panduan-2026"
 description: "Reseller Frozen Food untuk Pemula: Panduan Praktis Memulai di 2026. Panduan praktis MeatFish untuk reseller frozen food, lengkap dengan tips memilih produk..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/reseller-frozen-food-pemula-panduan-2026.webp"
+heroImage: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
+image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
+featured_image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "reseller frozen food"

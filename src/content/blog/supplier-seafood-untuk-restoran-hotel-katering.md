@@ -4,7 +4,10 @@ slug: "supplier-seafood-untuk-restoran-hotel-katering"
 description: "Supplier Seafood untuk Restoran, Hotel, Katering, dan Bisnis Kuliner. Panduan praktis MeatFish untuk supplier seafood, lengkap dengan tips memilih produk,..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/supplier-seafood-untuk-restoran-hotel-katering.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "supplier seafood"

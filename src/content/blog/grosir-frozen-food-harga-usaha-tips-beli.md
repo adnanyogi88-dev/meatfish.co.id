@@ -4,7 +4,10 @@ slug: "grosir-frozen-food-harga-usaha-tips-beli"
 description: "Grosir Frozen Food: Tips Mendapat Harga Usaha Tanpa Salah Stok. Panduan praktis MeatFish untuk grosir frozen food, lengkap dengan tips memilih produk, supp..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/grosir-frozen-food-harga-usaha-tips-beli.webp"
+heroImage: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+featured_image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "grosir frozen food"

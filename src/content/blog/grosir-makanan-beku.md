@@ -4,7 +4,7 @@ slug: "grosir-makanan-beku"
 date: 2026-08-01T10:00:00+07:00
 draft: false
 description: "Ingin memulai bisnis frozen food? Temukan panduan lengkap tentang peluang dan tips sukses menjadi grosir makanan beku di tahun 2026 bersama Meat & Fish."
-image: "/wp-content/uploads/grosir-makanan-beku-primary.png"
+image: "/wp-content/uploads/franchise-repeat-order-tinggi-cara-menilai-primary.webp"
 categories:
   - "Bisnis"
 tags:

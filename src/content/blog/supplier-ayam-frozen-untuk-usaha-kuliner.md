@@ -4,7 +4,10 @@ slug: "supplier-ayam-frozen-untuk-usaha-kuliner"
 description: "Supplier Ayam Frozen untuk Usaha Kuliner: Panduan Memilih Pasokan. Panduan praktis MeatFish untuk supplier ayam frozen, lengkap dengan tips memilih produk,..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/supplier-ayam-frozen-untuk-usaha-kuliner.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "supplier ayam frozen"

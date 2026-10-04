@@ -4,7 +4,10 @@ slug: "supplier-frozen-food-jakarta-barat"
 description: "Supplier Frozen Food Jakarta Barat: Cara Memilih untuk Rumah Tangga dan Usaha. Panduan praktis MeatFish untuk supplier frozen food Jakarta Barat, lengkap d..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/supplier-frozen-food-jakarta-barat.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "supplier frozen food Jakarta Barat"

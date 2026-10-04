@@ -4,7 +4,10 @@ slug: "frozen-food-murah-tetap-berkualitas"
 description: "Frozen Food Murah: Cara Hemat Tanpa Mengorbankan Kualitas. Panduan praktis MeatFish untuk frozen food murah, lengkap dengan tips memilih produk, supplier,..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/frozen-food-murah-tetap-berkualitas.webp"
+heroImage: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "frozen food murah"

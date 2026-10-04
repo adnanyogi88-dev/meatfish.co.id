@@ -4,7 +4,10 @@ slug: "frozen-food-halal-panduan-pilih-produk"
 description: "Frozen Food Halal: Panduan Memilih Produk untuk Keluarga dan Usaha. Panduan praktis MeatFish untuk frozen food halal, lengkap dengan tips memilih produk, s..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/frozen-food-halal-panduan-pilih-produk.webp"
+heroImage: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "frozen food halal"

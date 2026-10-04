@@ -4,7 +4,10 @@ slug: "bisnis-frozen-food-cara-mulai-dari-nol"
 description: "Bisnis Frozen Food: Cara Mulai dari Nol sampai Mendapat Repeat Order. Panduan praktis MeatFish untuk bisnis frozen food, lengkap dengan tips memilih produk..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/bisnis-frozen-food-cara-mulai-dari-nol.webp"
+heroImage: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+featured_image: "/wp-content/uploads/franchise-frozen-food-2026-peluang-bisnis-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "bisnis frozen food"

@@ -4,7 +4,10 @@ slug: "frozen-food-bekasi-supplier-dan-peluang-usaha"
 description: "Frozen Food Bekasi: Panduan Mencari Supplier dan Peluang Usaha Lokal. Panduan praktis MeatFish untuk frozen food Bekasi, lengkap dengan tips memilih produk..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/frozen-food-bekasi-supplier-dan-peluang-usaha.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "frozen food Bekasi"

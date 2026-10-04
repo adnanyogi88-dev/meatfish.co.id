@@ -4,7 +4,10 @@ slug: "toko-frozen-food-cara-pilih-lokasi-dan-produk"
 description: "Toko Frozen Food: Cara Memilih Lokasi, Produk, dan Strategi Penjualan. Panduan praktis MeatFish untuk toko frozen food, lengkap dengan tips memilih produk,..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/toko-frozen-food-cara-pilih-lokasi-dan-produk.webp"
+heroImage: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+featured_image: "/wp-content/uploads/bisnis-frozen-food-di-perumahan-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "toko frozen food"

@@ -4,7 +4,10 @@ slug: "distributor-frozen-food-untuk-bisnis-kuliner"
 description: "Distributor Frozen Food: Cara Memilih Mitra Pasokan untuk Bisnis Kuliner. Panduan praktis MeatFish untuk distributor frozen food, lengkap dengan tips memil..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/distributor-frozen-food-untuk-bisnis-kuliner.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "distributor frozen food"

@@ -4,7 +4,10 @@ slug: "franchise-makanan-2026-cara-memilih"
 description: "Franchise Makanan 2026: Cara Memilih Bisnis yang Tidak Sekadar Viral. Panduan praktis MeatFish untuk franchise makanan, lengkap dengan tips memilih produk,..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/franchise-makanan-2026-cara-memilih.webp"
+heroImage: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+featured_image: "/wp-content/uploads/franchise-makanan-untuk-pemula-checklist-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "franchise makanan"

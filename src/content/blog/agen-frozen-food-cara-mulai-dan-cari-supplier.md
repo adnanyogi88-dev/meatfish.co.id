@@ -4,7 +4,10 @@ slug: "agen-frozen-food-cara-mulai-dan-cari-supplier"
 description: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan. Panduan praktis MeatFish untuk agen frozen food, lengkap dengan tips memilih produk, sup..."
 pubDate: 2026-08-21
 updatedDate: 2026-08-21
-heroImage: "/images/blog/agen-frozen-food-cara-mulai-dan-cari-supplier.webp"
+heroImage: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+featured_image: "/wp-content/uploads/kemitraan-frozen-food-investor-due-diligence-primary.webp"
+image_alt: "Ilustrasi aktivitas usaha dan produk frozen food"
 author: "MeatFish Editorial"
 tags:
   - "agen frozen food"
