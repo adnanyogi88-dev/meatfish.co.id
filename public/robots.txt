@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://meatfish.co.id/sitemap-index.xml
-Sitemap: https://meatfish.co.id/sitemap-artikel.xml
