@@ -59,11 +59,11 @@ const supplierCards = [
   }
 ];
 
+const publishDate = (post: any) => post.pubDate || post.date || 0;
 const allPosts = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }))
   .map((post: any) => post.frontmatter)
-  .filter((post: any) => post.draft !== true && post.published !== false && new Date(post.pubDate || post.date || 0).getTime() <= Date.now())
-  .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
-;
+  .filter((post: any) => post.draft !== true && post.published !== false && new Date(publishDate(post)).getTime() <= Date.now())
+  .sort((a: any, b: any) => new Date(publishDate(b)).getTime() - new Date(publishDate(a)).getTime());
 
 const latestPosts = allPosts.slice(0, 8);
 const featuredPosts = latestPosts.slice(0, 4);
@@ -183,8 +183,8 @@ const categories = [
             <div class="card-body">
               <span class="pill">{post.categories?.[0] || "Instagram"}</span>
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
-              <p class="article-publish-cat">{formatPublishDate(post.date)} · {post.categories?.[0] || "Instagram"}</p>
-              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
+              <p class="article-publish-cat">{formatPublishDate(publishDate(post))} · {post.categories?.[0] || "Instagram"}</p>
+              <p class="article-meta">Publish {formatPublishDate(publishDate(post))} · By {post.author || "Yogi Adnan"}</p>
               <p>{post.description}</p>
             </div>
           </article>
@@ -206,8 +206,8 @@ const categories = [
             <div class="card-body">
               <span class="pill">{post.categories?.[0] || "Artikel"}</span>
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
-              <p class="article-publish-cat">{formatPublishDate(post.date)} · {post.categories?.[0] || "Artikel"}</p>
-              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
+              <p class="article-publish-cat">{formatPublishDate(publishDate(post))} · {post.categories?.[0] || "Artikel"}</p>
+              <p class="article-meta">Publish {formatPublishDate(publishDate(post))} · By {post.author || "Yogi Adnan"}</p>
               <p>{post.description}</p>
             </div>
           </article>
@@ -236,8 +236,8 @@ const categories = [
             <img src={post.image || "/images/article-placeholder.svg"} alt={post.title} loading="lazy" />
             <div class="card-body">
               <h3><a href={`/${post.slug}/`}>{post.title}</a></h3>
-              <p class="article-publish-cat">{formatPublishDate(post.date)} · {post.categories?.[0] || "Artikel"}</p>
-              <p class="article-meta">Publish {formatPublishDate(post.date)} · By {post.author || "Yogi Adnan"}</p>
+              <p class="article-publish-cat">{formatPublishDate(publishDate(post))} · {post.categories?.[0] || "Artikel"}</p>
+              <p class="article-meta">Publish {formatPublishDate(publishDate(post))} · By {post.author || "Yogi Adnan"}</p>
             </div>
           </article>
         ))}
