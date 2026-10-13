@@ -70,7 +70,7 @@ const crumbs = post || isArchive || isListing ? [...(!isListing || pageNumber > 
   <Breadcrumbs items={crumbs} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
   {post ? <>
-    <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time> · Oleh {authorName}</p></header>
+    <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time>{updatedDate(data)?.getTime() > publicationDate(data)?.getTime() && <> · Diperbarui <time datetime={updatedDate(data)?.toISOString()}>{formatDate(updatedDate(data))}</time></>} · Oleh {authorName}</p></header>
     <div class="container article-layout"><article class="article-content">
       <img class="article-featured" src={image} alt={data.imageAlt || data.image_alt || data.title} width="1200" height="675" fetchpriority="high" decoding="async" />
       <post.Content />

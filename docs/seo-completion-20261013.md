@@ -33,7 +33,7 @@ Halaman kosong berasal dari URL Meatfish.id yang ikut terbawa ke situs co.id. In
 ## Data yang masih diperlukan
 
 1. Measurement ID GA4 atau Container ID GTM yang benar-benar digunakan untuk Meatfish.co.id. ID pada Meatfish.id tidak membuktikan kepemilikan atau konfigurasi stream co.id.
-2. Koneksi GSC/GA4 untuk property co.id atau ekspor performance GSC agar dampak trafik, CTR, keyword, dan leads dapat diukur. Belum ada angka peningkatan yang terverifikasi.
+2. Koneksi GA4 untuk property co.id agar interaksi CTA dan leads dapat diukur. GSC co.id sudah terbaca melalui Windsor pada 13 Oktober 2026; periode sebelum deployment dipakai sebagai baseline, bukan bukti peningkatan akibat perubahan hari ini.
 3. Nama badan usaha, alamat perusahaan, harga investasi, MOQ, pembayaran, dan ketentuan retur/pengiriman resmi. Informasi tersebut tidak dibuat dari asumsi.
 
 ## Aktivasi analytics
@@ -43,3 +43,14 @@ Workflow build sudah membaca repository variables PUBLIC_GA4_ID dan PUBLIC_GTM_I
 ## Pemulihan
 
 Perubahan disiapkan di branch seo/complete-recovery-20261013 dengan parent e159f34740f176301f1616c33b65535414a2259e. Revert commit merge bila pemulihan diperlukan; riwayat dan backup sebelum tahap pertama tetap tersedia.
+
+## Tindak lanjut dari GSC
+
+- Empat artikel aktif diprioritaskan: penyimpanan lele, udang, ikan, dan supplier frozen food di Bekasi. Slug dan tanggal publikasi asli tetap dipertahankan.
+- Judul, deskripsi, jawaban awal, dan tautan menuju katalog serta pasokan B2B diperjelas. Informasi masa simpan mengacu pada FoodSafety.gov dan FDA. Klaim jaminan harga, stok, serta masa simpan produk tanpa dasar dihapus.
+- Tanggal pembaruan nyata ditambahkan pada keempat artikel, schema Article, dan sitemap artikel. Tanggal terbit tidak diganti menjadi tanggal pembaruan.
+- Data baseline, halaman, query, perangkat, dan sitemap disimpan dalam laporan terpisah. Data analytics privat tidak dimasukkan ke repository publik.
+- Sitemap co.id sudah terdaftar di GSC dan diumumkan dalam robots.txt. Status pembacaan Google yang tersedia masih berasal dari sebelum deployment ini. Windsor tidak menyediakan action submit sitemap atau URL Inspection; tindakan tersebut belum dilakukan melalui konektor.
+- GA4 belum tercantum sebagai sumber terhubung dan Measurement ID co.id belum terverifikasi. Event CTA tetap siap, tetapi belum ada klaim event terkirim ke GA4.
+
+Rujukan isi: https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts dan https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely
