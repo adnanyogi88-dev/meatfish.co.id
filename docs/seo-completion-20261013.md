@@ -32,13 +32,16 @@ Halaman kosong berasal dari URL Meatfish.id yang ikut terbawa ke situs co.id. In
 
 ## Data yang masih diperlukan
 
-1. Measurement ID GA4 atau Container ID GTM yang benar-benar digunakan untuk Meatfish.co.id. ID pada Meatfish.id tidak membuktikan kepemilikan atau konfigurasi stream co.id.
-2. Koneksi GA4 untuk property co.id agar interaksi CTA dan leads dapat diukur. GSC co.id sudah terbaca melalui Windsor pada 13 Oktober 2026; periode sebelum deployment dipakai sebagai baseline, bukan bukti peningkatan akibat perubahan hari ini.
-3. Nama badan usaha, alamat perusahaan, harga investasi, MOQ, pembayaran, dan ketentuan retur/pengiriman resmi. Informasi tersebut tidak dibuat dari asumsi.
+1. Nama badan usaha, alamat perusahaan, harga investasi, MOQ, pembayaran, dan ketentuan retur/pengiriman resmi. Informasi tersebut tidak dibuat dari asumsi.
+2. Data sesudah deployment untuk menilai dampak trafik dan interaksi. Data GSC sebelum deployment dipakai sebagai baseline; belum membuktikan peningkatan akibat perubahan hari ini.
 
 ## Aktivasi analytics
 
-Workflow build sudah membaca repository variables PUBLIC_GA4_ID dan PUBLIC_GTM_ID. Gunakan salah satu jalur; GTM diprioritaskan bila keduanya diisi. Sesudah ID yang benar tersedia, lakukan build ulang dan verifikasi pengiriman page_view serta event CTA di property yang sesuai. Untuk GTM, buat trigger custom event whatsapp_click dan catalog_click, lalu kirim event tersebut ke GA4 dengan parameter cta_purpose, source_page_path, source_page_title, dan button_text. Event klik merupakan interaksi CTA, bukan bukti lead atau transaksi selesai.
+Pada 13 Oktober 2026, properti Meatfish.co.id dan web stream https://meatfish.co.id dibuat melalui Admin GA4. Zona waktu Jakarta dan mata uang rupiah ditetapkan. Measurement ID G-8VKQ0404HZ diverifikasi dari petunjuk pemasangan stream tersebut.
+
+ID publik disimpan di src/data/analytics.json agar build dapat memuat Google tag tanpa mengharuskan pengisian repository variable. PUBLIC_GA4_ID dapat mengganti ID itu; PUBLIC_GTM_ID tetap diprioritaskan bila diisi untuk menghindari tag ganda. Halaman pengalihan lama tidak memuat tracker sehingga page_view dari pengalihan retail tidak masuk sebagai kunjungan halaman perusahaan.
+
+Google tag mengirim page_view secara otomatis. Klik CTA mengirim whatsapp_click dan catalog_click melalui gtag dengan parameter cta_purpose, source_page_path, source_page_title, dan button_text. Gunakan ?ga_debug=1 untuk pengujian DebugView. Event klik merupakan interaksi CTA, bukan bukti lead atau transaksi selesai. Koneksi pelaporan GA4 melalui Windsor terpisah dari pemasangan tag website.
 
 ## Pemulihan
 
@@ -51,6 +54,6 @@ Perubahan disiapkan di branch seo/complete-recovery-20261013 dengan parent e159f
 - Tanggal pembaruan nyata ditambahkan pada keempat artikel, schema Article, dan sitemap artikel. Tanggal terbit tidak diganti menjadi tanggal pembaruan.
 - Data baseline, halaman, query, perangkat, dan sitemap disimpan dalam laporan terpisah. Data analytics privat tidak dimasukkan ke repository publik.
 - Sitemap co.id sudah terdaftar di GSC dan diumumkan dalam robots.txt. Status pembacaan Google yang tersedia masih berasal dari sebelum deployment ini. Windsor tidak menyediakan action submit sitemap atau URL Inspection; tindakan tersebut belum dilakukan melalui konektor.
-- GA4 belum tercantum sebagai sumber terhubung dan Measurement ID co.id belum terverifikasi. Event CTA tetap siap, tetapi belum ada klaim event terkirim ke GA4.
+- Measurement ID co.id sudah diverifikasi melalui Admin GA4 dan dikonfigurasi pada website. Penerimaan data produksi diperiksa setelah deployment melalui properti yang sama.
 
 Rujukan isi: https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts dan https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely

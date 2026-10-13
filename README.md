@@ -32,7 +32,7 @@ Sesudah build, jalankan `npm run check:seo` untuk memeriksa tanggal, canonical, 
 
 ## Analytics
 
-Atur `PUBLIC_GTM_ID` atau `PUBLIC_GA4_ID` saat build menggunakan ID properti yang benar. Jika keduanya disediakan, GTM digunakan untuk menghindari pemasangan ganda. Tanpa ID, tracker tidak dimuat.
+GA4 Meatfish.co.id menggunakan Measurement ID `G-8VKQ0404HZ`, yang diverifikasi dari web stream `https://meatfish.co.id` pada 13 Oktober 2026. Nilai publik ini disimpan di `src/data/analytics.json` dan dipakai saat build bila `PUBLIC_GA4_ID` tidak diisi. `PUBLIC_GTM_ID` tetap diprioritaskan bila diisi agar tag tidak terpasang ganda. Halaman pengalihan lama tidak memuat tracker. Tambahkan `?ga_debug=1` saat pengujian DebugView; traffic normal tidak diberi penanda debug.
 
 Event yang disiapkan adalah `whatsapp_click` dan `catalog_click`, dengan asal halaman dan tujuan CTA. Klik WhatsApp adalah interaksi, bukan bukti lead atau transaksi. Untuk GTM, hubungkan custom event tersebut ke tag GA4 pada container yang sesuai.
 

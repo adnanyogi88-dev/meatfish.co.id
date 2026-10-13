@@ -1,6 +1,7 @@
 ---
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import analytics from "../data/analytics.json";
 import "../styles/global.css";
 const {
   title = "Meatfish | Kemitraan Frozen Food & Pasokan untuk Bisnis",
@@ -12,8 +13,9 @@ const {
   redirectTo = '',
 } = Astro.props;
 const canonical = new URL(canonicalPath, Astro.site);
-const gtmId = /^GTM-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GTM_ID || '') ? import.meta.env.PUBLIC_GTM_ID : '';
-const ga4Id = !gtmId && /^G-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GA4_ID || '') ? import.meta.env.PUBLIC_GA4_ID : '';
+const gtmId = !redirectTo && /^GTM-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GTM_ID || '') ? import.meta.env.PUBLIC_GTM_ID : '';
+const configuredGa4Id = /^G-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GA4_ID || '') ? import.meta.env.PUBLIC_GA4_ID : analytics.ga4MeasurementId;
+const ga4Id = !redirectTo && !gtmId && /^G-[A-Z0-9]+$/.test(configuredGa4Id) ? configuredGa4Id : '';
 const organization = {
   "@context": "https://schema.org", "@type": "Organization", name: "Meat & Fish",
   url: "https://meatfish.co.id", logo: new URL("/wp-content/uploads/2025/10/mf-logo.webp", Astro.site).href
@@ -41,7 +43,8 @@ const organization = {
         window.dataLayer = window.dataLayer || [];
         window.gtag = function(){window.dataLayer.push(arguments);};
         window.gtag('js', new Date());
-        window.gtag('config', ga4Id);
+        var debugMode = new URLSearchParams(window.location.search).get('ga_debug') === '1';
+        window.gtag('config', ga4Id, debugMode ? { debug_mode: true } : {});
       </script>
     </>}
   </head>
