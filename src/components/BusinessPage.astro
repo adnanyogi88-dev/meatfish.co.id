@@ -1,0 +1,56 @@
+---
+import WhatsAppButton from './WhatsAppButton.astro';
+import LocationCards from './LocationCards.astro';
+import { productCatalog, pdfCatalogUrl } from '../data/catalog';
+const { slug } = Astro.props;
+---
+<section class="section"><div class="container">
+  {slug === 'gabung-kemitraan' ? <>
+    <header class="page-head"><span class="eyebrow dark">Kemitraan Meatfish</span><h1>Bangun rencana toko frozen food bersama Meatfish</h1><p class="lead">Konsultasikan konsep usaha, lokasi, kebutuhan produk, dan persiapan operasional sebelum memilih penawaran kemitraan.</p></header>
+    <div class="article-content business-content">
+      <h2>Siapkan gambaran usaha Anda</h2><p>Kebutuhan setiap calon mitra berbeda. Informasi berikut membantu tim memahami rencana Anda dan membahas pilihan yang sesuai.</p>
+      <ul><li>Wilayah dan lokasi rencana toko, kondisi tempat, serta target pelanggan.</li><li>Anggaran investasi awal dan modal kerja yang disiapkan.</li><li>Kategori produk yang ingin dijual dan perkiraan kapasitas penyimpanan.</li><li>Rencana waktu pembukaan serta keterlibatan Anda dalam pengelolaan usaha.</li></ul>
+      <h2>Informasi penawaran yang perlu dibahas</h2>
+      <table><thead><tr><th>Bagian</th><th>Informasi untuk diminta</th></tr></thead><tbody>
+        <tr><td>Paket dan investasi</td><td>Rincian komponen biaya, fasilitas, peralatan, stok awal, dan biaya yang dibayar terpisah.</td></tr>
+        <tr><td>Pasokan produk</td><td>Pilihan produk, spesifikasi, minimum pemesanan, jadwal kirim, ketentuan pembayaran, dan penanganan retur.</td></tr>
+        <tr><td>Operasional dan dukungan</td><td>Cakupan pendampingan, pelatihan, sistem stok, pemasaran, serta tanggung jawab pusat dan mitra.</td></tr>
+        <tr><td>Lokasi dan perjanjian</td><td>Persyaratan tempat, wilayah layanan, masa kerja sama, dan kewajiban yang tercantum dalam penawaran.</td></tr>
+      </tbody></table>
+      <h2>Diskusikan perhitungan usaha dengan asumsi yang jelas</h2><p>Perhitungan balik modal perlu memuat asumsi penjualan, margin, biaya bulanan, dan kebutuhan modal kerja. Minta rincian yang dapat Anda periksa sesuai kondisi lokasi dan rencana operasional.</p>
+      <h2>Langkah konsultasi kemitraan</h2><ol><li>Sampaikan rencana lokasi, anggaran, dan target waktu pembukaan.</li><li>Bahas kebutuhan toko dan ruang lingkup penawaran dengan tim.</li><li>Pelajari rincian biaya, dukungan, dan dokumen kerja sama sebelum mengambil keputusan.</li></ol>
+      <p>Pelajari juga <a href="/franchise-frozen-food/">panduan franchise frozen food</a> dan <a href="/produk-meatfish/">kategori produk Meatfish</a>.</p>
+      <div class="cta"><h2>Mulai dengan rencana usaha Anda</h2><p>Hubungi tim untuk membahas lokasi dan informasi penawaran kemitraan.</p><WhatsAppButton label="Konsultasi Kemitraan" purpose="kemitraan" /></div>
+    </div>
+  </> : slug === 'pasokan-untuk-bisnis' ? <>
+    <header class="page-head"><span class="eyebrow dark">Kebutuhan pasokan B2B</span><h1>Pasokan daging, ikan, seafood, dan frozen food untuk usaha</h1><p class="lead">Sampaikan kebutuhan restoran, katering, reseller, atau bisnis kuliner Anda untuk meminta informasi produk dan penawaran.</p></header>
+    <div class="article-content business-content">
+      <h2>Sesuaikan produk dengan kebutuhan menu dan stok</h2><p>Pemilihan pasokan dimulai dari kategori produk, ukuran atau potongan, bentuk kemasan, serta volume penggunaan. Lihat <a href="/produk-meatfish/">katalog produk Meatfish</a> sebagai awal pembahasan dengan tim.</p>
+      <h2>Informasi yang membantu penyusunan penawaran</h2><table><thead><tr><th>Kebutuhan</th><th>Detail yang disampaikan</th></tr></thead><tbody>
+        <tr><td>Produk dan spesifikasi</td><td>Nama produk, bentuk potongan, ukuran, berat, dan kemasan yang dibutuhkan.</td></tr>
+        <tr><td>Volume pembelian</td><td>Perkiraan kilogram atau jumlah kemasan per pesanan dan frekuensi pembelian.</td></tr>
+        <tr><td>Lokasi dan jadwal</td><td>Alamat atau wilayah pengiriman, jadwal kebutuhan, dan waktu penerimaan barang.</td></tr>
+        <tr><td>Ketentuan pemesanan</td><td>Konfirmasikan ketersediaan, minimum order, harga penawaran, ongkir, pembayaran, dan retur kepada tim.</td></tr>
+      </tbody></table>
+      <h2>Dari kebutuhan menuju pemesanan</h2><ol><li>Kirim daftar produk dan perkiraan kebutuhan usaha Anda.</li><li>Konfirmasikan spesifikasi, ketersediaan, serta ketentuan pengiriman.</li><li>Pelajari penawaran dan sepakati detail pemesanan dengan tim.</li></ol>
+      <p>Untuk persiapan pembelian, baca <a href="/supplier-seafood-untuk-restoran-hotel-katering/">panduan supplier seafood untuk bisnis kuliner</a>.</p>
+      <div class="cta"><h2>Minta informasi pasokan untuk usaha Anda</h2><p>Sertakan kategori produk, volume, dan lokasi agar pembahasan lebih terarah.</p><WhatsAppButton label="Minta Penawaran B2B" purpose="b2b" /></div>
+    </div>
+  </> : slug === 'tentang-meatfish' ? <>
+    <header class="page-head"><h1>Tentang Meatfish</h1><p class="lead">Informasi kemitraan toko dan kebutuhan produk daging, ikan, seafood, ayam, serta frozen food bagi pelaku usaha.</p></header>
+    <div class="article-content business-content"><h2>Temukan jalur yang sesuai dengan kebutuhan Anda</h2><p>Meatfish mempertemukan kebutuhan calon mitra toko, pembeli untuk usaha, dan pemasok produk. Setiap kebutuhan memiliki informasi serta tahapan pembahasan yang berbeda.</p>
+      <ul><li><a href="/gabung-kemitraan/">Kemitraan toko:</a> diskusikan konsep usaha, lokasi, investasi, dan ruang lingkup dukungan.</li><li><a href="/pasokan-untuk-bisnis/">Pasokan B2B:</a> sampaikan spesifikasi produk, volume pembelian, wilayah, dan jadwal kebutuhan.</li><li><a href="/daftar-supplier-meatfish/">Pengajuan pemasok:</a> perkenalkan produk, legalitas, kapasitas, dan area distribusi.</li></ul>
+      <h2>Produk dan informasi untuk pelanggan retail</h2><p>Untuk belanja dan informasi toko, kunjungi <a href="https://meatfish.id/">Meatfish.id</a>. Anda juga dapat mengikuti <a href="https://www.instagram.com/meatfish.id" target="_blank" rel="noopener noreferrer">Instagram Meatfish</a>.</p>
+      <h2>Mulai dari informasi yang tepat</h2><p>Sampaikan tujuan, kebutuhan produk, dan wilayah Anda saat menghubungi tim. Konfirmasikan penawaran serta ketersediaan sebelum menyusun rencana pembelian atau kerja sama.</p><div class="cta"><h2>Hubungi tim Meatfish</h2><WhatsAppButton /></div>
+    </div>
+  </> : slug === 'daftar-supplier-meatfish' ? <>
+    <header class="page-head"><span class="eyebrow dark">Pengajuan pemasok</span><h1>Ajukan produk sebagai pemasok Meatfish</h1><p class="lead">Perkenalkan usaha dan produk Anda untuk dibahas bersama tim Meatfish.</p></header>
+    <div class="article-content business-content"><h2>Kategori produk</h2><p>Pengajuan dapat membahas daging, ikan, ayam, seafood, makanan olahan beku, bumbu, dan produk pendukung yang sesuai dengan kebutuhan bisnis.</p><h2>Siapkan profil dan spesifikasi</h2><ul><li>Nama usaha, kontak penanggung jawab, dan wilayah distribusi.</li><li>Daftar produk, spesifikasi, ukuran kemasan, dan informasi penanganan.</li><li>Dokumen produk dan legalitas usaha yang relevan.</li><li>Kapasitas pasokan, jadwal pengiriman, minimum order, dan ketentuan penawaran.</li></ul><p>Tim akan membahas informasi pengajuan dan kebutuhan produk. Sampaikan data yang tersedia agar proses konsultasi lebih jelas.</p><div class="cta"><h2>Perkenalkan produk Anda</h2><WhatsAppButton label="Ajukan Sebagai Pemasok" purpose="supplier" /></div><p>Ingin membeli pasokan untuk usaha? Kunjungi <a href="/pasokan-untuk-bisnis/">halaman penawaran B2B</a>.</p></div>
+  </> : slug === 'produk-meatfish' ? <>
+    <header class="page-head"><h1>Katalog produk Meatfish untuk kebutuhan usaha</h1><p class="lead">Gunakan katalog sebagai awal pembahasan produk. Konfirmasikan spesifikasi, ketersediaan, volume, dan harga penawaran kepada tim.</p></header>
+    {productCatalog.map(section => <div class="catalog-section"><h2>{section.title}</h2><div class="grid">{section.items.map(([name, image]) => <article class="card product-card">{image && <img src={image} alt={name} width="720" height="450" loading="lazy" decoding="async" />}<div class="card-body"><h3>{name}</h3><WhatsAppButton label="Tanyakan Produk" purpose="b2b" /></div></article>)}</div></div>)}
+    <div class="cta catalog-cta"><h2>Katalog produk Meatfish</h2><a class="button secondary" href={pdfCatalogUrl} target="_blank" rel="noopener noreferrer" data-track="catalog">Lihat Katalog PDF</a></div>
+  </> : slug === 'lokasi-meat-fish' ? <>
+    <header class="page-head"><h1>Informasi lokasi toko Meatfish</h1><p class="lead">Konfirmasikan alamat, status toko, dan jam operasional kepada tim sebelum berkunjung. Informasi belanja juga tersedia di <a href="https://meatfish.id/">Meatfish.id</a>.</p></header><LocationCards />
+  </> : null}
+</div></section>

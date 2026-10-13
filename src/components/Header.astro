@@ -1,18 +1,18 @@
 ---
 const links = [
-  ["Meat & Fish", "/"],
-  ["Lokasi Toko", "/lokasi-meat-fish/"],
-  ["Jadi Supplier", "/daftar-supplier-meatfish/"],
-  ["Gabung Kemitraan", "/gabung-kemitraan/"],
+  ["Kemitraan", "/gabung-kemitraan/"],
+  ["Pasokan B2B", "/pasokan-untuk-bisnis/"],
   ["Produk", "/produk-meatfish/"],
+  ["Daftar Pemasok", "/daftar-supplier-meatfish/"],
   ["Artikel", "/trend-daging-ikan-frozen/"],
-  ["Tentang", "/tentang-meatfish/"]
+  ["Tentang", "/tentang-meatfish/"],
+  ["Belanja Retail", "https://meatfish.id/"]
 ];
 const current = Astro.url.pathname;
 ---
 <header class="site-header">
   <div class="container header-inner">
-    <a class="site-logo" href="/" aria-label="Meat & Fish homepage"><img src="/wp-content/uploads/2025/10/mf-logo.webp" alt="Meat & Fish" /></a>
+    <a class="site-logo" href="/" aria-label="Meat & Fish homepage"><img src="/wp-content/uploads/2025/10/mf-logo.webp" alt="Meat & Fish" width="145" height="54" /></a>
     <input id="nav-toggle" class="nav-toggle" type="checkbox" aria-label="Buka menu" />
     <label for="nav-toggle" class="nav-button" aria-hidden="true">☰</label>
     <nav class="main-nav" aria-label="Navigasi utama">

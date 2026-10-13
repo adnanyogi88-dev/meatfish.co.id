@@ -1,0 +1,14 @@
+---
+const { current = 1, total, base } = Astro.props;
+const url = (page: number) => page === 1 ? base : `${base}page/${page}/`;
+const pages = Array.from({ length: total }, (_, i) => i + 1)
+  .filter(page => page === 1 || page === total || Math.abs(page - current) <= 2);
+---
+{total > 1 && <nav class="pagination" aria-label="Halaman artikel">
+  {current > 1 && <a href={url(current - 1)} rel="prev">← Sebelumnya</a>}
+  {pages.map((page, index) => <>
+    {index > 0 && page - pages[index - 1] > 1 && <span aria-hidden="true">…</span>}
+    {page === current ? <span aria-current="page">{page}</span> : <a href={url(page)} aria-label={`Halaman ${page}`}>{page}</a>}
+  </>)}
+  {current < total && <a href={url(current + 1)} rel="next">Berikutnya →</a>}
+</nav>}
