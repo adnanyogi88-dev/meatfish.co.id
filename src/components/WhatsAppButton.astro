@@ -1,4 +1,5 @@
 ---
+import { whatsappContact } from '../lib/contacts';
 const { label = "Hubungi WhatsApp", class: className = "button", purpose = 'umum' } = Astro.props;
 const messages: Record<string, string> = {
   kemitraan: 'Halo Meatfish, saya ingin berkonsultasi tentang kemitraan toko frozen food. Lokasi rencana usaha: ...',
@@ -7,7 +8,7 @@ const messages: Record<string, string> = {
   umum: 'Halo Meatfish, saya ingin bertanya tentang produk atau layanan Meatfish.',
 };
 ---
-<a class:list={[className, "whatsapp-button"]} href="https://wa.link/89ffhn" target="_blank" rel="nofollow noopener noreferrer" data-track="whatsapp" data-purpose={purpose} data-message={messages[purpose] || messages.umum}>
+<a class:list={[className, "whatsapp-button"]} href={whatsappContact(purpose)} target="_blank" rel="nofollow noopener noreferrer" data-track="whatsapp" data-purpose={purpose} data-message={messages[purpose] || messages.umum}>
   <img src="/images/WhatsApp_icon.png" alt="" aria-hidden="true" width="22" height="22" />
   <span>{label}</span>
 </a>

@@ -2,7 +2,7 @@ export type Frontmatter = Record<string, any>;
 
 export const coreSlugs = [
   'produk-meatfish', 'daftar-supplier-meatfish', 'gabung-kemitraan',
-  'pasokan-untuk-bisnis', 'trend-daging-ikan-frozen', 'tentang-meatfish', 'lokasi-meat-fish',
+  'pasokan-untuk-bisnis', 'trend-daging-ikan-frozen', 'tentang-meatfish', 'lokasi-meat-fish', 'sitemap',
 ];
 
 export function parseDate(value: unknown): Date | null {
