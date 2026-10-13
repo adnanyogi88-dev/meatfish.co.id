@@ -1,0 +1,18 @@
+---
+const { posts, categories } = Astro.props;
+const services = [
+  ['Kemitraan toko', '/gabung-kemitraan/'],
+  ['Pasokan untuk bisnis', '/pasokan-untuk-bisnis/'],
+  ['Pengajuan pemasok', '/daftar-supplier-meatfish/'],
+  ['Katalog produk', '/produk-meatfish/'],
+  ['Tentang Meatfish', '/tentang-meatfish/'],
+  ['Informasi toko', '/lokasi-meat-fish/'],
+  ['Panduan bisnis', '/trend-daging-ikan-frozen/'],
+];
+---
+<section class="section"><div class="container business-content">
+  <header class="page-head"><h1>Peta situs Meatfish</h1><p class="lead">Temukan layanan, topik, dan panduan yang tersedia di Meatfish.co.id.</p></header>
+  <h2>Layanan dan informasi</h2><ul>{services.map(([name, url]) => <li><a href={url}>{name}</a></li>)}</ul>
+  <h2>Topik panduan</h2><ul>{categories.map(category => <li><a href={`/category/${category.slug}/`}>{category.name}</a></li>)}</ul>
+  <h2>Seluruh panduan terbit</h2><ul>{posts.map(post => <li><a href={`/${post.frontmatter.slug}/`}>{post.frontmatter.title}</a></li>)}</ul>
+</div></section>

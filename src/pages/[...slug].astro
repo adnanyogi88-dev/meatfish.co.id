@@ -2,10 +2,12 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import BusinessPage from '../components/BusinessPage.astro';
+import SiteMapPage from '../components/SiteMapPage.astro';
 import PostCards from '../components/PostCards.astro';
 import Pagination from '../components/Pagination.astro';
 import WhatsAppButton from '../components/WhatsAppButton.astro';
 import routes from '../data/routes.json';
+import legacyRedirects from '../data/legacy-redirects.json';
 import { posts, allPosts, archivePosts, categories, indexablePagePaths } from '../lib/posts';
 import { coreSlugs, categorySlug, formatDate, isPublished, publicationDate, updatedDate, postImage, categoriesFor } from '../lib/content-utils';
 import { getContextualBacklinks } from '../data/contextual-backlinks';
@@ -30,6 +32,8 @@ const pageCount = Math.ceil(listedPosts.length / 12);
 const pagePosts = listedPosts.slice((pageNumber - 1) * 12, pageNumber * 12);
 const post = !isArchive && !isListing ? posts.find(post => post.frontmatter.slug === clean) : undefined;
 const staticType = coreSlugs.includes(clean) && !isListing ? clean : null;
+const redirectTarget = !post && !staticType && !isArchive && !isListing
+  ? (legacyRedirects as Record<string, string>)[clean] || '' : '';
 const pretty = (value: string) => value.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 const pageMeta: Record<string, { title: string; description: string }> = {
   'gabung-kemitraan': { title: 'Kemitraan Toko Frozen Food Meatfish', description: 'Konsultasikan rencana kemitraan toko Meatfish, kebutuhan investasi, lokasi, produk, dan informasi penawaran bersama tim.' },
@@ -38,12 +42,13 @@ const pageMeta: Record<string, { title: string; description: string }> = {
   'daftar-supplier-meatfish': { title: 'Daftar Pemasok Produk Meatfish', description: 'Ajukan profil usaha, produk, spesifikasi, kapasitas pasokan, dan area distribusi sebagai pemasok Meatfish.' },
   'tentang-meatfish': { title: 'Tentang Meatfish: Kemitraan & Pasokan B2B', description: 'Kenali informasi kemitraan toko, kebutuhan pasokan untuk usaha, dan pengajuan pemasok produk Meatfish.' },
   'lokasi-meat-fish': { title: 'Informasi Lokasi Toko Meatfish', description: 'Temukan informasi lokasi toko Meatfish dan konfirmasikan alamat serta jam operasional sebelum berkunjung.' },
+  'sitemap': { title: 'Peta Situs Meatfish', description: 'Temukan halaman layanan, topik, dan seluruh panduan terbit di Meatfish.co.id.' },
 };
 const archiveTitle = kind === 'category' ? categories.find(category => category.slug === categorySlug(archiveSlug))?.name || pretty(archiveSlug) : pretty(archiveSlug);
 const baseTitle = post?.frontmatter.title || (staticType && pageMeta[staticType]?.title) || (isListing ? 'Panduan Bisnis, Kemitraan & Frozen Food' : isArchive ? archiveTitle : pretty(parts.at(-1) || clean));
 const title = `${baseTitle}${pageNumber > 1 ? ` – Halaman ${pageNumber}` : ''}`;
 const description = post?.frontmatter.description || (staticType && pageMeta[staticType]?.description) || (isListing || isArchive ? `Jelajahi panduan Meatfish tentang ${isArchive ? archiveTitle.toLowerCase() : 'kemitraan, pasokan, dan pengelolaan bisnis frozen food'}.` : 'Lihat panduan bisnis dan informasi layanan Meatfish yang tersedia.');
-const canonicalPath = isListing || isArchive ? pageNumber > 1 ? `${archiveBase}page/${pageNumber}/` : archiveBase : path;
+const canonicalPath = redirectTarget || (isListing || isArchive ? pageNumber > 1 ? `${archiveBase}page/${pageNumber}/` : archiveBase : path);
 const noindex = isListing || isArchive ? listedPosts.length === 0 || pageNumber > pageCount : !post && !staticType;
 const image = post ? postImage(post.frontmatter) : '/wp-content/uploads/2025/10/mf-logo.webp';
 const data = post?.frontmatter;
@@ -61,7 +66,7 @@ const availableTargets = new Set([...posts.map(post => `https://meatfish.co.id/$
 const related = contextual && availableTargets.has(contextual.meatfishCoId.href) ? contextual.meatfishCoId : null;
 const crumbs = post || isArchive || isListing ? [...(!isListing || pageNumber > 1 ? [{ name: 'Panduan Bisnis', url: '/trend-daging-ikan-frozen/' }] : []), { name: title, url: canonicalPath }] : [{ name: title, url: path }];
 ---
-<BaseLayout title={`${title} | Meatfish`} description={description} image={image} type={post ? 'article' : 'website'} noindex={noindex} canonicalPath={canonicalPath}>
+<BaseLayout title={`${title} | Meatfish`} description={description} image={image} type={post ? 'article' : 'website'} noindex={noindex} canonicalPath={canonicalPath} redirectTo={redirectTarget}>
   <Breadcrumbs items={crumbs} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
   {post ? <>
@@ -75,7 +80,9 @@ const crumbs = post || isArchive || isListing ? [...(!isListing || pageNumber > 
   </> : isArchive || isListing ? <section class="section"><div class="container">
     <header class="page-head"><h1>{title}</h1><p class="lead">{description}</p></header>
     {pagePosts.length > 0 ? <><PostCards posts={pagePosts} level={2} /><Pagination current={pageNumber} total={pageCount} base={archiveBase} /></> : <div class="business-content"><p>Belum ada panduan yang tersedia pada halaman ini. Jelajahi panduan bisnis dan produk melalui halaman berikut.</p><a class="button secondary" href="/trend-daging-ikan-frozen/">Lihat Panduan Meatfish</a></div>}
-  </div></section> : staticType ? <BusinessPage slug={staticType} /> : <section class="section"><div class="container business-content">
+  </div></section> : staticType === 'sitemap' ? <SiteMapPage posts={posts} categories={categories} /> : staticType ? <BusinessPage slug={staticType} /> : redirectTarget ? <section class="section"><div class="container business-content">
+    <header class="page-head"><h1>Temukan halaman yang Anda cari</h1></header><p>Anda akan diarahkan ke halaman yang sesuai. Jika pengalihan belum berjalan, gunakan tautan berikut.</p><a class="button secondary" href={redirectTarget}>Buka Halaman Tujuan</a>
+  </div></section> : <section class="section"><div class="container business-content">
     <header class="page-head"><h1>{title}</h1></header><p>Informasi lengkap untuk halaman ini belum tersedia. Anda dapat menjelajahi panduan yang sudah diterbitkan atau menghubungi tim untuk informasi produk dan layanan Meatfish.</p>
     <div class="reference-actions"><a class="button secondary" href="/trend-daging-ikan-frozen/">Jelajahi Panduan</a><WhatsAppButton label="Hubungi Tim Meatfish" /></div>
   </div></section>}

@@ -3,11 +3,28 @@ import WhatsAppButton from './WhatsAppButton.astro';
 import LocationCards from './LocationCards.astro';
 import { productCatalog, pdfCatalogUrl } from '../data/catalog';
 const { slug } = Astro.props;
+const partnershipPackages = [
+  { name: 'Minimarket', stock: 'Sekitar 1 ton', distance: 'Minimal 1 km', purpose: 'paket-minimarket' },
+  { name: 'Medium', stock: 'Sekitar 1,5 ton', distance: 'Minimal 2 km', purpose: 'paket-medium' },
+  { name: 'Premium', stock: 'Sekitar 2 ton', distance: 'Minimal 3 km', purpose: 'paket-premium' },
+];
+const supplierCategories = [
+  { title: 'Bumbu dan bahan pendukung', text: 'Sampaikan jenis bumbu, kemasan, kapasitas, dan area distribusi.', purpose: 'supplier-bumbu' },
+  { title: 'Makanan olahan beku', text: 'Perkenalkan produk olahan, spesifikasi, kemasan, dan penawaran pasokan.', purpose: 'supplier-olahan' },
+  { title: 'Daging, ikan, dan ayam', text: 'Sampaikan jenis produk, potongan, ukuran, kapasitas, dan jadwal pasokan.', purpose: 'supplier-protein' },
+];
 ---
 <section class="section"><div class="container">
   {slug === 'gabung-kemitraan' ? <>
     <header class="page-head"><span class="eyebrow dark">Kemitraan Meatfish</span><h1>Bangun rencana toko frozen food bersama Meatfish</h1><p class="lead">Konsultasikan konsep usaha, lokasi, kebutuhan produk, dan persiapan operasional sebelum memilih penawaran kemitraan.</p></header>
     <div class="article-content business-content">
+      <h2>Pilihan paket kemitraan Meatfish</h2>
+      <p>Bandingkan acuan paket sebelum mendiskusikan kebutuhan toko dan modal kerja Anda.</p>
+      <div class="table-scroll"><table><thead><tr><th>Paket</th><th>Acuan dukungan produk</th><th>Acuan jarak antartoko</th><th>Konsultasi</th></tr></thead><tbody>
+        {partnershipPackages.map(item => <tr><td><strong>{item.name}</strong></td><td>{item.stock}</td><td>{item.distance}</td><td><WhatsAppButton label={`Tanyakan ${item.name}`} purpose={item.purpose} class="button secondary" /></td></tr>)}
+      </tbody></table></div>
+      <p>Pembahasan paket mencakup penggunaan merek, perangkat penyimpanan, penataan toko, pasokan awal, serta dukungan pemasaran dan perencanaan usaha. Harga investasi, lokasi, fasilitas, serta stok akhir dikonfirmasi melalui penawaran tim kemitraan.</p>
+      <p class="article-meta">Acuan: <a href="https://meatfish.id/gabung-kemitraan/">informasi kemitraan Meatfish</a>, diperiksa 13 Oktober 2026.</p>
       <h2>Siapkan gambaran usaha Anda</h2><p>Kebutuhan setiap calon mitra berbeda. Informasi berikut membantu tim memahami rencana Anda dan membahas pilihan yang sesuai.</p>
       <ul><li>Wilayah dan lokasi rencana toko, kondisi tempat, serta target pelanggan.</li><li>Anggaran investasi awal dan modal kerja yang disiapkan.</li><li>Kategori produk yang ingin dijual dan perkiraan kapasitas penyimpanan.</li><li>Rencana waktu pembukaan serta keterlibatan Anda dalam pengelolaan usaha.</li></ul>
       <h2>Informasi penawaran yang perlu dibahas</h2>
@@ -45,7 +62,7 @@ const { slug } = Astro.props;
     </div>
   </> : slug === 'daftar-supplier-meatfish' ? <>
     <header class="page-head"><span class="eyebrow dark">Pengajuan pemasok</span><h1>Ajukan produk sebagai pemasok Meatfish</h1><p class="lead">Perkenalkan usaha dan produk Anda untuk dibahas bersama tim Meatfish.</p></header>
-    <div class="article-content business-content"><h2>Kategori produk</h2><p>Pengajuan dapat membahas daging, ikan, ayam, seafood, makanan olahan beku, bumbu, dan produk pendukung yang sesuai dengan kebutuhan bisnis.</p><h2>Siapkan profil dan spesifikasi</h2><ul><li>Nama usaha, kontak penanggung jawab, dan wilayah distribusi.</li><li>Daftar produk, spesifikasi, ukuran kemasan, dan informasi penanganan.</li><li>Dokumen produk dan legalitas usaha yang relevan.</li><li>Kapasitas pasokan, jadwal pengiriman, minimum order, dan ketentuan penawaran.</li></ul><p>Tim akan membahas informasi pengajuan dan kebutuhan produk. Sampaikan data yang tersedia agar proses konsultasi lebih jelas.</p><div class="cta"><h2>Perkenalkan produk Anda</h2><WhatsAppButton label="Ajukan Sebagai Pemasok" purpose="supplier" /></div><p>Ingin membeli pasokan untuk usaha? Kunjungi <a href="/pasokan-untuk-bisnis/">halaman penawaran B2B</a>.</p></div>
+    <div class="article-content business-content"><h2>Pilih kategori pengajuan</h2><div class="grid service-grid">{supplierCategories.map(item => <article class="card"><div class="card-body"><h3>{item.title}</h3><p>{item.text}</p><WhatsAppButton label="Ajukan Produk" purpose={item.purpose} /></div></article>)}</div><h2>Siapkan profil dan spesifikasi</h2><ul><li>Nama usaha, kontak penanggung jawab, dan wilayah distribusi.</li><li>Daftar produk, spesifikasi, ukuran kemasan, dan informasi penanganan.</li><li>Dokumen produk dan legalitas usaha yang relevan.</li><li>Kapasitas pasokan, jadwal pengiriman, minimum order, dan ketentuan penawaran.</li></ul><p>Tim akan membahas informasi pengajuan dan kebutuhan produk. Sampaikan data yang tersedia agar proses konsultasi lebih jelas.</p><div class="cta"><h2>Perkenalkan produk Anda</h2><WhatsAppButton label="Ajukan Sebagai Pemasok" purpose="supplier" /></div><p>Ingin membeli pasokan untuk usaha? Kunjungi <a href="/pasokan-untuk-bisnis/">halaman penawaran B2B</a>.</p></div>
   </> : slug === 'produk-meatfish' ? <>
     <header class="page-head"><h1>Katalog produk Meatfish untuk kebutuhan usaha</h1><p class="lead">Gunakan katalog sebagai awal pembahasan produk. Konfirmasikan spesifikasi, ketersediaan, volume, dan harga penawaran kepada tim.</p></header>
     {productCatalog.map(section => <div class="catalog-section"><h2>{section.title}</h2><div class="grid">{section.items.map(([name, image]) => <article class="card product-card">{image && <img src={image} alt={name} width="720" height="450" loading="lazy" decoding="async" />}<div class="card-body"><h3>{name}</h3><WhatsAppButton label="Tanyakan Produk" purpose="b2b" /></div></article>)}</div></div>)}

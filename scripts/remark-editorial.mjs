@@ -5,7 +5,8 @@ const textOf = node => node.value ?? (node.children ?? []).map(textOf).join('');
 const normalize = text => text.replace(/\s+/g, ' ').trim().toLowerCase();
 const slugify = text => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const directory = new URL('../src/content/blog/', import.meta.url);
-const known = new Set(['/', '/gabung-kemitraan/', '/pasokan-untuk-bisnis/', '/produk-meatfish/', '/daftar-supplier-meatfish/', '/tentang-meatfish/', '/lokasi-meat-fish/', '/trend-daging-ikan-frozen/']);
+const legacyRedirects = JSON.parse(readFileSync(new URL('../src/data/legacy-redirects.json', import.meta.url), 'utf8'));
+const known = new Set(['/', '/gabung-kemitraan/', '/pasokan-untuk-bisnis/', '/produk-meatfish/', '/daftar-supplier-meatfish/', '/tentang-meatfish/', '/lokasi-meat-fish/', '/trend-daging-ikan-frozen/', '/sitemap/']);
 const aliases = { '/franchise-2026-frozen-food-sistematis/': '/franchise-frozen-food/', '/produk-kami/': '/produk-meatfish/', '/rekomendasi-franchise-terbaik-2026-peluang-emas-bersama-meatfish/': '/10-franchise-terbaik-2026-yang-diprediksi-viral-di-indonesia/' };
 for (const file of readdirSync(directory).filter(name => name.endsWith('.md'))) {
   const text = readFileSync(new URL(file, directory), 'utf8');
@@ -33,6 +34,14 @@ function repairLinks(parent) {
       if (url.hostname !== 'meatfish.co.id') return [node];
       const path = url.pathname.endsWith('/') ? url.pathname : `${url.pathname}/`;
       const target = aliases[path] ?? path;
+      const legacy = !known.has(target) && legacyRedirects[target.replace(/^\/+|\/+$/g, '')];
+      if (legacy) {
+        const destination = new URL(legacy);
+        destination.search = url.search;
+        destination.hash = url.hash;
+        node.url = destination.href;
+        return [node];
+      }
       if (!known.has(target)) return node.children;
       url.pathname = target;
       node.url = node.url.startsWith('/') ? `${url.pathname}${url.search}${url.hash}` : url.href;

@@ -9,6 +9,7 @@ const {
   type = "website",
   noindex = false,
   canonicalPath = Astro.url.pathname,
+  redirectTo = '',
 } = Astro.props;
 const canonical = new URL(canonicalPath, Astro.site);
 const gtmId = /^GTM-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GTM_ID || '') ? import.meta.env.PUBLIC_GTM_ID : '';
@@ -25,6 +26,7 @@ const organization = {
     <title>{title}</title><meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
+    {redirectTo && <meta http-equiv="refresh" content={`0; url=${redirectTo}`} />}
     <meta property="og:type" content={type} /><meta property="og:title" content={title} />
     <meta property="og:description" content={description} /><meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL(image, Astro.site)} />
@@ -48,7 +50,7 @@ const organization = {
     <Header />
     <main><slot /></main>
     <Footer />
-    <a class="floating-wa" href="https://wa.link/89ffhn" target="_blank" aria-label="Chat WhatsApp" rel="nofollow noopener noreferrer"><img src="/images/WhatsApp_icon.png" alt="" /></a>
+    <a class="floating-wa" href="https://wa.link/89ffhn" target="_blank" aria-label="Chat WhatsApp" rel="nofollow noopener noreferrer" data-purpose="umum"><img src="/images/WhatsApp_icon.png" alt="" /></a>
     <script is:inline define:vars={{ directAnalytics: Boolean(ga4Id) }}>
       (function () {
         var messagePrefix =
@@ -72,6 +74,8 @@ const organization = {
         function buildWhatsAppUrl(originalUrl, link) {
           try {
             var url = new URL(originalUrl, window.location.origin);
+            // wa.link owns its prefilled message; adding a text query is not supported.
+            if (url.hostname === 'wa.link' || url.hostname.endsWith('.wa.link')) return url.toString();
             var message = (link.getAttribute('data-message') || url.searchParams.get('text') || messagePrefix) + '\nHalaman: ' + document.title + ' - ' + window.location.href;
             url.searchParams.set("text", message);
             return url.toString();
@@ -106,7 +110,7 @@ const organization = {
               source_page_path: window.location.pathname,
               source_page_title: document.title,
               cta_purpose: link.getAttribute('data-purpose') || 'umum',
-              button_text: (link.innerText || link.getAttribute("aria-label") || "WhatsApp CTA").trim()
+              button_text: (link.innerText || link.textContent || link.getAttribute("aria-label") || "WhatsApp CTA").trim()
             };
             window.dataLayer = window.dataLayer || [];
             if (directAnalytics && typeof window.gtag === 'function') window.gtag('event', eventName, params);
