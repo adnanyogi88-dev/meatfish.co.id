@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: "5 3 * * *" # 10:05 WIB, rebuild konten terjadwal
@@ -14,7 +16,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -42,13 +44,19 @@ jobs:
           python -m pip install Pillow
           python scripts/optimize-media.py
       - name: Build
+        env:
+          PUBLIC_GA4_ID: ${{ vars.PUBLIC_GA4_ID }}
+          PUBLIC_GTM_ID: ${{ vars.PUBLIC_GTM_ID }}
         run: npm run build
+      - name: Verify publication and SEO output
+        run: npm run check:seo
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
   deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

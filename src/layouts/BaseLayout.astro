@@ -3,12 +3,16 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 const {
-  title = "Meat & Fish – Daging, Ikan & Frozen Food",
-  description = "Pusat daging, ikan, seafood, dan frozen food berkualitas untuk keluarga dan bisnis.",
+  title = "Meatfish | Kemitraan Frozen Food & Pasokan untuk Bisnis",
+  description = "Kenali kemitraan toko Meatfish dan konsultasikan kebutuhan pasokan daging, ikan, seafood, serta frozen food untuk usaha Anda.",
   image = "/wp-content/uploads/2025/10/mf-logo.webp",
-  type = "website"
+  type = "website",
+  noindex = false,
+  canonicalPath = Astro.url.pathname,
 } = Astro.props;
-const canonical = new URL(Astro.url.pathname, Astro.site);
+const canonical = new URL(canonicalPath, Astro.site);
+const gtmId = /^GTM-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GTM_ID || '') ? import.meta.env.PUBLIC_GTM_ID : '';
+const ga4Id = !gtmId && /^G-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GA4_ID || '') ? import.meta.env.PUBLIC_GA4_ID : '';
 const organization = {
   "@context": "https://schema.org", "@type": "Organization", name: "Meat & Fish",
   url: "https://meatfish.co.id", logo: new URL("/wp-content/uploads/2025/10/mf-logo.webp", Astro.site).href
@@ -19,20 +23,33 @@ const organization = {
   <head>
     <meta charset="UTF-8" /><meta name="viewport" content="width=device-width" />
     <title>{title}</title><meta name="description" content={description} />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content={type} /><meta property="og:title" content={title} />
     <meta property="og:description" content={description} /><meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL(image, Astro.site)} />
     <meta name="twitter:card" content="summary_large_image" />
     <script type="application/ld+json" set:html={JSON.stringify(organization)} />
+    {gtmId && <script is:inline define:vars={{ gtmId }}>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',gtmId);
+    </script>}
+    {ga4Id && <>
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>
+      <script is:inline define:vars={{ ga4Id }}>
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function(){window.dataLayer.push(arguments);};
+        window.gtag('js', new Date());
+        window.gtag('config', ga4Id);
+      </script>
+    </>}
   </head>
   <body>
+    {gtmId && <noscript><iframe src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`} height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe></noscript>}
     <Header />
     <main><slot /></main>
     <Footer />
     <a class="floating-wa" href="https://wa.link/89ffhn" target="_blank" aria-label="Chat WhatsApp" rel="nofollow noopener noreferrer"><img src="/images/WhatsApp_icon.png" alt="" /></a>
-    <script is:inline>
+    <script is:inline define:vars={{ directAnalytics: Boolean(ga4Id) }}>
       (function () {
         var messagePrefix =
           "Halo Meatfish, saya ingin bertanya tentang produk seafood, daging, ayam, atau frozen food. Saya datang dari halaman: ";
@@ -52,10 +69,10 @@ const organization = {
           }
         }
 
-        function buildWhatsAppUrl(originalUrl) {
+        function buildWhatsAppUrl(originalUrl, link) {
           try {
             var url = new URL(originalUrl, window.location.origin);
-            var message = messagePrefix + (document.title || "") + " - " + window.location.href;
+            var message = (link.getAttribute('data-message') || url.searchParams.get('text') || messagePrefix) + '\nHalaman: ' + document.title + ' - ' + window.location.href;
             url.searchParams.set("text", message);
             return url.toString();
           } catch (error) {
@@ -67,7 +84,9 @@ const organization = {
           var href = link.getAttribute("href") || "";
           if (!isWhatsAppLink(href)) return false;
 
-          link.setAttribute("href", buildWhatsAppUrl(link.href));
+          var originalUrl = link.getAttribute('data-original-href') || link.href;
+          link.setAttribute('data-original-href', originalUrl);
+          link.setAttribute("href", buildWhatsAppUrl(originalUrl, link));
           link.setAttribute("target", "_blank");
           link.setAttribute("rel", "nofollow noopener noreferrer");
           link.setAttribute("data-track", "whatsapp");
@@ -78,18 +97,20 @@ const organization = {
           document.querySelectorAll("a[href]").forEach(prepareWhatsAppLink);
 
           document.addEventListener("click", function (event) {
-            var link = event.target.closest("a[href]");
-            if (!link || !prepareWhatsAppLink(link)) return;
-
-            window.dataLayer = window.dataLayer || [];
-            window.dataLayer.push({
-              event: "whatsapp_click",
-              source_page_url: window.location.href,
+            var link = event.target instanceof Element ? event.target.closest("a[href]") : null;
+            if (!link) return;
+            var isWhatsApp = prepareWhatsAppLink(link);
+            if (!isWhatsApp && link.getAttribute('data-track') !== 'catalog') return;
+            var eventName = isWhatsApp ? 'whatsapp_click' : 'catalog_click';
+            var params = {
               source_page_path: window.location.pathname,
               source_page_title: document.title,
-              whatsapp_url: link.href,
+              cta_purpose: link.getAttribute('data-purpose') || 'umum',
               button_text: (link.innerText || link.getAttribute("aria-label") || "WhatsApp CTA").trim()
-            });
+            };
+            window.dataLayer = window.dataLayer || [];
+            if (directAnalytics && typeof window.gtag === 'function') window.gtag('event', eventName, params);
+            else window.dataLayer.push(Object.assign({ event: eventName }, params));
           });
 
           new MutationObserver(function (mutations) {

@@ -8,7 +8,7 @@ const locations = [
   {
     name: "Pondok Ungu Bekasi",
     image: "https://meatfish.id/wp-content/uploads/elementor/thumbs/i-rcy8n6p7q6k9kqblch9ls6x1bm6rux0u2g1bjj2xxc.webp",
-    maps: "https://www.google.com/maps/dir//INDOFISHMART+KAYURINGIN/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e698d907be722b5:0x391ee0444adae6de?sa=X&ved=1t:3061&hl=id&ictx=111"
+    maps: null
   },
   {
     name: "Pedurungan Semarang",
@@ -33,9 +33,9 @@ const locations = [
 <div class="grid location-grid">
   {locations.map((location) => (
     <article class="card location-card">
-      <img src={location.image} alt={`Toko Meat & Fish ${location.name}`} loading="lazy" />
+      <img src={location.image} alt={`Informasi toko Meat & Fish ${location.name}`} loading="lazy" width="720" height="540" />
       <div class="card-body">
-        <span class="pill">{location.maps ? "Buka sekarang" : "Segera hadir"}</span>
+        <span class="pill">Konfirmasi informasi toko</span>
         <h3>{location.name}</h3>
         <div class="location-actions">
           {location.maps && <a class="map-button" href={location.maps} target="_blank" rel="noopener">Lihat di Google Maps</a>}

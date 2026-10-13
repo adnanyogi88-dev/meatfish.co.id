@@ -1,0 +1,18 @@
+---
+import { categoriesFor, formatDate, postImage, publicationDate } from '../lib/content-utils';
+const { posts, level = 3 } = Astro.props;
+const Heading = level === 2 ? 'h2' : 'h3';
+---
+<div class="grid post-grid">
+  {posts.map(({ frontmatter: data }: any) => (
+    <article class="card post-card">
+      <img src={postImage(data)} alt={data.imageAlt || data.image_alt || data.title} width="720" height="450" loading="lazy" decoding="async" />
+      <div class="card-body">
+        <span class="pill">{categoriesFor(data)[0]}</span>
+        <Heading><a href={`/${data.slug}/`}>{data.title}</a></Heading>
+        <p class="article-meta"><time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time></p>
+        <p>{data.description}</p>
+      </div>
+    </article>
+  ))}
+</div>

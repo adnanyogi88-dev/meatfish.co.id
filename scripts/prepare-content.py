@@ -158,7 +158,10 @@ def clean_markdown(text, paths, records):
     text = text.replace("http://indofishmart.id", "https://meatfish.co.id")
     text = text.replace("https://meatfish.id", "https://meatfish.co.id")
     text = text.replace("http://meatfish.id", "https://meatfish.co.id")
-    text = re.sub(r"\bIndofishmart\b", "Meat & Fish", text, flags=re.I)
+    # Rebrand prose while preserving URL slugs and media filenames.
+    fragments = re.split(r"(https?://[^\s<>\"\)]+)", text)
+    text = "".join(fragment if index % 2 else re.sub(r"\bIndofishmart\b", "Meat & Fish", fragment, flags=re.I)
+                   for index, fragment in enumerate(fragments))
     
     parts = text.split("---", 2)
     if len(parts) > 2 and "\nauthor:" not in parts[1]:
@@ -203,8 +206,6 @@ def main():
         old.name: old.read_text(encoding="utf-8-sig")
         for old in BLOG.glob("*.md")
     }
-    for old in BLOG.glob("*.md"):
-        old.unlink()
     generated_names = set()
     if ZIP.exists():
         with zipfile.ZipFile(ZIP) as archive:
@@ -215,12 +216,12 @@ def main():
                     raw = archive.read(member).decode("utf-8-sig")
                     name = re.sub(r"^\d+-", "", Path(member).name)
                     generated_names.add(name)
-                    (BLOG / name).write_text(clean_markdown(raw, paths, media), encoding="utf-8")
+                    # The ZIP is an import source, not the authority for edited posts.
+                    # Reinstalling dependencies must never overwrite editorial fixes.
+                    if name not in existing_markdown:
+                        (BLOG / name).write_text(clean_markdown(raw, paths, media), encoding="utf-8")
                 except Exception as e:
                     print(f"Error processing {member}: {e}")
-    for name, text in existing_markdown.items():
-        if name not in generated_names:
-            (BLOG / name).write_text(text, encoding="utf-8")
     print(f"Prepared {len(records)} routes and {len(list(BLOG.glob('*.md')))} articles")
 
 

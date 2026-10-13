@@ -1,139 +1,82 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import Breadcrumbs from "../components/Breadcrumbs.astro";
-import LocationCards from "../components/LocationCards.astro";
-import WhatsAppButton from "../components/WhatsAppButton.astro";
-import routes from "../data/routes.json";
-import routeMedia from "../data/route-media.json";
-import { getContextualBacklinks } from "../data/contextual-backlinks";
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import BusinessPage from '../components/BusinessPage.astro';
+import PostCards from '../components/PostCards.astro';
+import Pagination from '../components/Pagination.astro';
+import WhatsAppButton from '../components/WhatsAppButton.astro';
+import routes from '../data/routes.json';
+import { posts, allPosts, archivePosts, categories, indexablePagePaths } from '../lib/posts';
+import { coreSlugs, categorySlug, formatDate, isPublished, publicationDate, updatedDate, postImage, categoriesFor } from '../lib/content-utils';
+import { getContextualBacklinks } from '../data/contextual-backlinks';
 
-const required = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
-const modules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
-const isPublished = (frontmatter:any) => {
-  const publishDate = new Date(frontmatter.pubDate || frontmatter.date || 0).getTime();
-  return frontmatter.draft !== true && frontmatter.published !== false && publishDate <= Date.now();
-};
-const posts = modules.map((m:any)=>({frontmatter:m.frontmatter, Content:m.Content})).filter((post:any)=>isPublished(post.frontmatter));
-// sort posts by date descending so newest appear first
-posts.sort((a:any,b:any)=>{
-  const dateA = new Date(a.frontmatter.pubDate || a.frontmatter.date || 0).getTime();
-  const dateB = new Date(b.frontmatter.pubDate || b.frontmatter.date || 0).getTime();
-  return dateB - dateA;
-});
-const formatPublishDate = (date:string) => new Date(date).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric", timeZone: "Asia/Jakarta" });
 export function getStaticPaths() {
-  const requiredPaths = ["produk-meatfish","daftar-supplier-meatfish","gabung-kemitraan","trend-daging-ikan-frozen","tentang-meatfish","lokasi-meat-fish"];
-  const routeModules:any[] = Object.values(import.meta.glob("../content/blog/*.md", { eager: true }));
-  const isRoutePublished = (frontmatter:any) => {
-    const publishDate = new Date(frontmatter.pubDate || frontmatter.date || 0).getTime();
-    return frontmatter.draft !== true && frontmatter.published !== false && publishDate <= Date.now();
-  };
-  const postPaths = routeModules.filter((post:any)=>isRoutePublished(post.frontmatter)).map((post:any) => `/${post.frontmatter.slug}/`);
-  const scheduledSlugs = new Set(routeModules.filter((post:any)=>!isRoutePublished(post.frontmatter)).map((post:any)=>post.frontmatter.slug));
-  const routePaths = [...new Set([...routes.map((r:any)=>r.path), ...requiredPaths.map(x=>`/${x}/`), ...postPaths])]
-    .filter((path:string)=>path!=="/" && !scheduledSlugs.has(path.split("/").filter(Boolean).at(-1)));
-  return routePaths.map((path:string)=>({params:{slug:path.replace(/^\/|\/$/g,"")},props:{path}}));
+  const unavailable = new Set(allPosts.filter(post => !isPublished(post.frontmatter)).map(post => `/${post.frontmatter.slug}/`));
+  const paths = [...new Set([...routes.map(route => route.path), ...indexablePagePaths(), ...posts.map(post => `/${post.frontmatter.slug}/`)])]
+    .filter(path => path !== '/' && !unavailable.has(path));
+  return paths.map(path => ({ params: { slug: path.replace(/^\/|\/$/g, '') }, props: { path } }));
 }
 const { path } = Astro.props;
-const clean = path.replace(/^\/|\/$/g,"");
-const parts = clean.split("/");
+const clean = path.replace(/^\/|\/$/g, '');
+const parts = clean.split('/');
 const kind = parts[0];
-const slug = parts.at(-1);
-const post:any = posts.find((p:any)=>p.frontmatter.slug===slug);
-const pretty = (value:string) => value.replace(/-/g," ").replace(/\b\w/g,c=>c.toUpperCase());
-const title = post?.frontmatter.title || pretty(slug);
-const description = post?.frontmatter.description || `Informasi ${title} dari Meat & Fish, penyedia daging, ikan, seafood, dan frozen food berkualitas.`;
-const pageImage = (routeMedia as Record<string,string>)[path] || "/wp-content/uploads/2025/10/mf-logo.webp";
-const isArchive = kind==="tag" || kind==="category";
-const staticType = required.includes(clean) ? clean : null;
-const categoryPosts = isArchive ? posts.filter((p:any)=>{
-  const vals = kind==="category" ? p.frontmatter.categories||[] : p.frontmatter.tags||[];
-  return vals.some((v:string)=>v.toLowerCase().replace(/\s+/g,"-")===slug);
-}) : [];
-const articleLd = post ? {"@context":"https://schema.org","@type":"Article",headline:title,datePublished:post.frontmatter.date,author:{"@type":"Person","name":post.frontmatter.author||"Yogi Adnan"},image:new URL(post.frontmatter.image||"/images/article-placeholder.svg",Astro.site).href} : null;
-const articleTopic = [
-  title,
-  description,
-  post?.frontmatter.category,
-  ...(post?.frontmatter.categories || []),
-  ...(post?.frontmatter.tags || []),
-].filter(Boolean).join(" ").toLowerCase();
-const contextualBacklinks = post ? getContextualBacklinks(articleTopic, slug) : null;
-const productCatalog = [
-  {
-    title: "Daging Frozen",
-    items: [
-      ["Beef Slice Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp"],
-      ["Beef Steak Sirloin Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Steak-Sirloin-1.webp"],
-      ["Beef Steak Tenderloin Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Steak-Tenderloin-2.webp"],
-      ["Daging Rendang Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Daging-Rendang-3.webp"],
-      ["Beef Short Ribeye Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Short-Ribeye-2.webp"],
-      ["Beef Shortplate Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Shortplate-1.webp"],
-      ["Beef Oxtail Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Oxtail-Import-2.webp"],
-      ["Beef Steak Sirloin Meltique Frozen", "https://meatfish.id/wp-content/uploads/2024/07/Sirloin-Meltique-2.webp"],
-      ["Daging Frozen lainnya", "https://meatfish.id/wp-content/uploads/2024/07/WhatsApp-Image-2025-12-22-at-17.35.31-1.webp"]
-    ]
-  },
-  {
-    title: "Ayam Frozen",
-    items: [
-      ["Ayam Frozen", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
-      ["Paha Ayam Frozen", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
-      ["Ati Ampela Frozen", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
-    ]
-  },
-  {
-    title: "Ikan & Seafood Frozen",
-    items: [
-      ["Ikan Dori Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"],
-      ["Ikan Lele Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Lele-Fillet-3.webp"],
-      ["Ikan Salmon Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Salmon-Portion-1-1.webp"],
-      ["Cumi Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cumi-Ring-2.webp"],
-      ["Udang Beku", "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"],
-      ["Ikan Tuna Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tuna-Steak-3.webp"],
-      ["Ikan Gurame Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Gurame-1.webp"],
-      ["Ikan Tenggiri Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tenggiri-Steak-3-1.webp"],
-      ["Ikan Salem Beku", "https://meatfish.id/wp-content/uploads/2024/07/Salem-1.webp"],
-      ["Ikan Nila Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Tilapia-2.png"],
-      ["Ikan Cucut Fillet Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cucut-Fillet-2.webp"],
-      ["Ikan Kakap Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kakap-Merah-Fillet-3.webp"],
-      ["Ikan Kembung Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kembung-Banjar-2.webp"],
-      ["Ikan Shisamo Beku", "https://meatfish.id/wp-content/uploads/2024/07/Shisamo-1.webp"],
-      ["Ikan Kembung Beku", "https://meatfish.id/wp-content/uploads/2024/07/Kembung-Banjar-2.webp"],
-      ["Ikan Cakalang Beku", "https://meatfish.id/wp-content/uploads/2024/07/Cakalang-1.webp"],
-      ["Ikan Bandeng Beku", "https://meatfish.id/wp-content/uploads/2024/07/Bandeng-2.webp"],
-      ["Ikan Fillet Frozen lainnya", "https://meatfish.id/wp-content/uploads/2024/07/WhatsApp-Image-2025-12-22-at-17.35.31-1.webp"]
-    ]
-  },
-  {
-    title: "Frozen Food",
-    items: [
-      ["CIDEA", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
-      ["KENZLER", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
-      ["BELFOODS", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
-    ]
-  },
-  {
-    title: "Bumbu Dapur",
-    items: [
-      ["SASA", "https://meatfish.id/wp-content/uploads/2024/08/DALL%C2%B7E-2024-08-29-21.06.58-A-beautifully-plated-dish-featuring-a-grilled-frozen-salmon-fillet-surrounded-by-roasted-vegetables-such-as-zucchini-red-bell-peppers-and-onions.-Th.webp"],
-      ["MAMASUKA", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-21.52.51-A-beautifully-presented-dish-of-grilled-salmon-on-a-white-plate.-The-salmon-is-perfectly-cooked-with-a-golden-brown-crust-on-top-garnished-with-fresh.webp"],
-      ["INDOFOOD", "https://meatfish.id/wp-content/uploads/2024/09/DALL%C2%B7E-2024-09-03-22.01.52-A-kitchen-scene-with-a-focus-on-cooking-frozen-seafood.-A-chef-is-preparing-a-dish-using-various-frozen-seafood-items-like-shrimp-calamari-and-mixed.webp"]
-    ]
-  }
-] as const;
-const pdfCatalogUrl = "https://drive.google.com/file/d/1v7RIv-XQXVv6rr2fq5mZRWBkSI1CmzKJ/view?usp=sharing";
+const isArchive = kind === 'category' || kind === 'tag';
+const isListing = clean === 'trend-daging-ikan-frozen' || /^trend-daging-ikan-frozen\/page\/\d+$/.test(clean);
+const pageNumber = isListing ? Number(parts[2]) || 1 : isArchive && parts[2] === 'page' ? Number(parts[3]) || 1 : 1;
+const archiveSlug = isArchive ? parts[1] : '';
+const archiveBase = isArchive ? `/${kind}/${kind === 'category' ? categorySlug(archiveSlug) : archiveSlug}/` : '/trend-daging-ikan-frozen/';
+const listedPosts = isListing ? posts : isArchive ? archivePosts(kind, archiveSlug) : [];
+const pageCount = Math.ceil(listedPosts.length / 12);
+const pagePosts = listedPosts.slice((pageNumber - 1) * 12, pageNumber * 12);
+const post = !isArchive && !isListing ? posts.find(post => post.frontmatter.slug === clean) : undefined;
+const staticType = coreSlugs.includes(clean) && !isListing ? clean : null;
+const pretty = (value: string) => value.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const pageMeta: Record<string, { title: string; description: string }> = {
+  'gabung-kemitraan': { title: 'Kemitraan Toko Frozen Food Meatfish', description: 'Konsultasikan rencana kemitraan toko Meatfish, kebutuhan investasi, lokasi, produk, dan informasi penawaran bersama tim.' },
+  'pasokan-untuk-bisnis': { title: 'Pasokan Daging, Ikan & Frozen Food untuk Bisnis', description: 'Minta informasi produk dan penawaran pasokan Meatfish untuk restoran, katering, reseller, serta usaha kuliner.' },
+  'produk-meatfish': { title: 'Katalog Produk Meatfish untuk Kebutuhan Usaha', description: 'Lihat kategori daging, ikan, seafood, ayam, dan frozen food Meatfish. Konfirmasikan spesifikasi dan kebutuhan pembelian usaha kepada tim.' },
+  'daftar-supplier-meatfish': { title: 'Daftar Pemasok Produk Meatfish', description: 'Ajukan profil usaha, produk, spesifikasi, kapasitas pasokan, dan area distribusi sebagai pemasok Meatfish.' },
+  'tentang-meatfish': { title: 'Tentang Meatfish: Kemitraan & Pasokan B2B', description: 'Kenali informasi kemitraan toko, kebutuhan pasokan untuk usaha, dan pengajuan pemasok produk Meatfish.' },
+  'lokasi-meat-fish': { title: 'Informasi Lokasi Toko Meatfish', description: 'Temukan informasi lokasi toko Meatfish dan konfirmasikan alamat serta jam operasional sebelum berkunjung.' },
+};
+const archiveTitle = kind === 'category' ? categories.find(category => category.slug === categorySlug(archiveSlug))?.name || pretty(archiveSlug) : pretty(archiveSlug);
+const baseTitle = post?.frontmatter.title || (staticType && pageMeta[staticType]?.title) || (isListing ? 'Panduan Bisnis, Kemitraan & Frozen Food' : isArchive ? archiveTitle : pretty(parts.at(-1) || clean));
+const title = `${baseTitle}${pageNumber > 1 ? ` – Halaman ${pageNumber}` : ''}`;
+const description = post?.frontmatter.description || (staticType && pageMeta[staticType]?.description) || (isListing || isArchive ? `Jelajahi panduan Meatfish tentang ${isArchive ? archiveTitle.toLowerCase() : 'kemitraan, pasokan, dan pengelolaan bisnis frozen food'}.` : 'Lihat panduan bisnis dan informasi layanan Meatfish yang tersedia.');
+const canonicalPath = isListing || isArchive ? pageNumber > 1 ? `${archiveBase}page/${pageNumber}/` : archiveBase : path;
+const noindex = isListing || isArchive ? listedPosts.length === 0 || pageNumber > pageCount : !post && !staticType;
+const image = post ? postImage(post.frontmatter) : '/wp-content/uploads/2025/10/mf-logo.webp';
+const data = post?.frontmatter;
+const authorName = data?.author && data.author !== 'administrator' ? data.author : 'Tim Meatfish';
+const articleLd = data ? {
+  '@context': 'https://schema.org', '@type': 'Article', headline: data.title,
+  datePublished: publicationDate(data)?.toISOString(), dateModified: updatedDate(data)?.toISOString(),
+  mainEntityOfPage: `https://meatfish.co.id${path}`,
+  author: { '@type': /editorial|tim meatfish|meat & fish/i.test(authorName) ? 'Organization' : 'Person', name: authorName },
+  publisher: { '@type': 'Organization', name: 'Meat & Fish', url: 'https://meatfish.co.id/' },
+  image: new URL(image, Astro.site).href,
+} : null;
+const contextual = data ? getContextualBacklinks([data.title, data.description, ...categoriesFor(data)].join(' '), data.slug) : null;
+const availableTargets = new Set([...posts.map(post => `https://meatfish.co.id/${post.frontmatter.slug}/`), ...coreSlugs.map(slug => `https://meatfish.co.id/${slug}/`)]);
+const related = contextual && availableTargets.has(contextual.meatfishCoId.href) ? contextual.meatfishCoId : null;
+const crumbs = post || isArchive || isListing ? [...(!isListing || pageNumber > 1 ? [{ name: 'Panduan Bisnis', url: '/trend-daging-ikan-frozen/' }] : []), { name: title, url: canonicalPath }] : [{ name: title, url: path }];
 ---
-<BaseLayout title={`${title} | Meat & Fish`} description={description} image={post?.frontmatter.image || pageImage} type={post?"article":"website"}>
-  <Breadcrumbs items={isArchive?[{name:pretty(kind),url:`/${kind}/`},{name:title,url:path}]:[{name:title,url:path}]} />
+<BaseLayout title={`${title} | Meatfish`} description={description} image={image} type={post ? 'article' : 'website'} noindex={noindex} canonicalPath={canonicalPath}>
+  <Breadcrumbs items={crumbs} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
-  {post ? <><header class="page-head container"><span class="pill">{post.frontmatter.categories?.[0]||"Artikel"}</span><h1>{title}</h1><p class="article-meta">Publish {new Date(post.frontmatter.date).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric", timeZone: "Asia/Jakarta" })} · By {post.frontmatter.author||"Yogi Adnan"}</p></header><div class="container article-layout"><article class="article-content"><img src={post.frontmatter.image||"/images/article-placeholder.svg"} alt={title}/><post.Content />{contextualBacklinks && <aside class="related-article" aria-label="Referensi Meat & Fish terkait"><span>Artikel terkait</span><p>{contextualBacklinks.intro} <a href={contextualBacklinks.meatfishId.href}>{contextualBacklinks.meatfishId.label}</a> dan <a href={contextualBacklinks.meatfishCoId.href}>{contextualBacklinks.meatfishCoId.label}</a>.</p></aside>}<section class="cta" aria-label="Konsultasi produk dan kemitraan Meat & Fish"><h2>Konsultasi Produk dan Kemitraan Frozen Food</h2><p>Butuh informasi mengenai daging, ikan, seafood, frozen food, atau peluang kemitraan Meat & Fish? <a href="https://wa.me/6285921327969" target="_blank" rel="nofollow noopener noreferrer" data-track="whatsapp">Hubungi WhatsApp 0859-2132-7969</a> untuk konsultasi langsung dengan tim kami.</p></section></article><aside class="sidebar"><h2>Terbaru</h2>{posts.slice(0,8).map((p:any)=><a href={`/${p.frontmatter.slug}/`}>{p.frontmatter.title}</a>)}<h2>Categories</h2>{["Ayam","Daging","Franchise","Frozen","Ikan","Resep masakan","Seafood","Supplier","Tips"].map(c=><a href={`/category/${c.toLowerCase().replace(" ","-")}/`}>{c}</a>)}</aside></div></>
-  : isArchive ? <section class="section"><div class="container"><header class="page-head archive-head"><div><span class="eyebrow">{pretty(kind)}</span><h1>{title}</h1></div><img src={pageImage} alt={title} /></header>{categoryPosts.length?<div class="grid">{categoryPosts.map((p:any)=><article class="card"><img src={p.frontmatter.image||pageImage} alt={p.frontmatter.title} loading="lazy"/><div class="card-body"><h3><a href={`/${p.frontmatter.slug}/`}>{p.frontmatter.title}</a></h3><p>{p.frontmatter.description}</p></div></article>)}</div>:<p class="empty-note">Arsip ini sudah memiliki URL aktif. Artikel terkait akan ditampilkan saat konten dengan label ini diterbitkan.</p>}</div></section>
-  : staticType==="produk-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Produk Meat & Fish</h1></header>{productCatalog.map((section)=> <div class="catalog-section"><h2>{section.title}</h2><div class="grid">{section.items.map(([name,image]) => <article class="card product-card"><img src={image} alt={name} loading="lazy" /><div class="card-body"><h3>{name}</h3><WhatsAppButton label="Order" /></div></article>)}</div></div>)}<div class="cta catalog-cta"><h2>DOWNLOAD PDF KATALOG PRODUK Meat & Fish</h2><a class="button secondary" href={pdfCatalogUrl} target="_blank" rel="noopener noreferrer">KLIK DISINI DOWNLOAD PDF</a></div><div class="catalog-footnote"><WhatsAppButton label="Klik disini untuk tanya-tanya dulu" /></div></div></section>
-  : staticType==="gabung-kemitraan" ? <section class="section"><div class="container"><header class="page-head"><h1>Gabung Kemitraan Meat & Fish</h1><p class="lead">Bisnis toko daging dan frozen food dengan dukungan supply chain dan digitalisasi.</p></header><div class="grid">{["Tentang Kemitraan","Visi & Misi","Konsep Kemitraan","Dukungan Digitalisasi","Dukungan Supply Chain","Proyeksi BEP"].map(x=><article class="card"><div class="card-body"><h2>{x}</h2><p>Program disiapkan untuk membantu mitra menjalankan toko secara terstruktur, efisien, dan berkelanjutan.</p></div></article>)}</div><div class="cta"><h2>Paket Minimarket, Medium, dan Premium</h2><p>Konsultasikan lokasi, modal, dan paket yang sesuai dengan tim kemitraan.</p><WhatsAppButton label="Gabung Kemitraan" /></div></div></section>
-  : staticType==="daftar-supplier-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Daftar Jadi Supplier Meat & Fish</h1></header><div class="grid">{["Bumbu Masak","Makanan Olahan Frozen","Daging / Ikan / Ayam Frozen"].map(x=><article class="card"><div class="card-body"><h2>{x}</h2><p>Ajukan produk, legalitas, kapasitas pasokan, dan area distribusi Anda.</p><WhatsAppButton label="Daftar Supplier" /></div></article>)}</div></div></section>
-  : staticType==="lokasi-meat-fish" ? <section class="section"><div class="container"><header class="page-head"><span class="eyebrow dark">Kunjungi toko kami</span><h1>Lokasi Toko Meat & Fish</h1><p class="lead">Buka petunjuk Google Maps atau hubungi toko melalui WhatsApp.</p></header><LocationCards /></div></section>
-  : staticType==="tentang-meatfish" ? <section class="section"><div class="container"><header class="page-head"><h1>Tentang Meat & Fish</h1></header><div class="article-content"><p>Meat & Fish menyediakan daging, ayam, ikan, seafood, dan frozen food berkualitas untuk kebutuhan keluarga dan pelaku bisnis.</p><h2>Pasokan yang dapat diandalkan</h2><p>Kami mengembangkan jaringan toko, supplier, dan mitra untuk memperluas akses produk protein yang praktis dan berkualitas.</p></div></div></section>
-  : staticType==="trend-daging-ikan-frozen" ? <section class="section"><div class="container"><header class="page-head"><h1>Trend Daging & Ikan Frozen</h1></header><div class="grid">{posts.map((p:any)=><article class="card"><img src={p.frontmatter.heroImage||p.frontmatter.image||"/images/article-placeholder.svg"} alt={p.frontmatter.title}/><div class="card-body"><h2><a href={`/${p.frontmatter.slug}/`}>{p.frontmatter.title}</a></h2><p class="article-meta">{formatPublishDate(p.frontmatter.pubDate || p.frontmatter.date)}</p><p>{p.frontmatter.description}</p></div></article>)}</div></div></section>
-  : <section class="section"><div class="container"><header class="page-head"><span class="pill">Meat & Fish</span><h1>{title}</h1><p class="lead">{description}</p></header><div class="article-layout"><article class="article-content"><img src={pageImage} alt={title}/><p>Halaman ini disiapkan berdasarkan struktur URL resmi Meat & Fish. Konten lengkap sedang ditinjau sebelum dipublikasikan.</p><h2>Produk berkualitas untuk kebutuhan Anda</h2><p>Temukan pilihan daging, ayam, ikan, seafood, dan makanan beku untuk kebutuhan keluarga maupun bisnis kuliner.</p><WhatsAppButton label="Tanya Produk" /></article><aside class="sidebar"><h2>Jelajahi</h2><a href="/produk-meatfish/">Produk</a><a href="/daftar-supplier-meatfish/">Supplier</a><a href="/gabung-kemitraan/">Kemitraan</a></aside></div></div></section>}
+  {post ? <>
+    <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time> · Oleh {authorName}</p></header>
+    <div class="container article-layout"><article class="article-content">
+      <img class="article-featured" src={image} alt={data.imageAlt || data.image_alt || data.title} width="1200" height="675" fetchpriority="high" decoding="async" />
+      <post.Content />
+      {related && <aside class="related-article"><span>Panduan terkait</span><p><a href={related.href}>{related.label}</a></p></aside>}
+      <section class="cta"><h2>Konsultasikan kebutuhan usaha Anda</h2><p>Bahas rencana <a href="/gabung-kemitraan/">kemitraan toko</a> atau <a href="/pasokan-untuk-bisnis/">kebutuhan pasokan B2B</a> bersama tim Meatfish.</p><WhatsAppButton label="Hubungi Tim Meatfish" purpose={/franchise|kemitraan|waralaba/i.test(data.title) ? 'kemitraan' : 'b2b'} /></section>
+    </article><aside class="sidebar"><h2>Panduan terbaru</h2>{posts.filter(item => item.frontmatter.slug !== data.slug).slice(0, 6).map(item => <a href={`/${item.frontmatter.slug}/`}>{item.frontmatter.title}</a>)}<h2>Topik</h2>{categories.map(category => <a href={`/category/${category.slug}/`}>{category.name}</a>)}</aside></div>
+  </> : isArchive || isListing ? <section class="section"><div class="container">
+    <header class="page-head"><h1>{title}</h1><p class="lead">{description}</p></header>
+    {pagePosts.length > 0 ? <><PostCards posts={pagePosts} level={2} /><Pagination current={pageNumber} total={pageCount} base={archiveBase} /></> : <div class="business-content"><p>Belum ada panduan yang tersedia pada halaman ini. Jelajahi panduan bisnis dan produk melalui halaman berikut.</p><a class="button secondary" href="/trend-daging-ikan-frozen/">Lihat Panduan Meatfish</a></div>}
+  </div></section> : staticType ? <BusinessPage slug={staticType} /> : <section class="section"><div class="container business-content">
+    <header class="page-head"><h1>{title}</h1></header><p>Informasi lengkap untuk halaman ini belum tersedia. Anda dapat menjelajahi panduan yang sudah diterbitkan atau menghubungi tim untuk informasi produk dan layanan Meatfish.</p>
+    <div class="reference-actions"><a class="button secondary" href="/trend-daging-ikan-frozen/">Jelajahi Panduan</a><WhatsAppButton label="Hubungi Tim Meatfish" /></div>
+  </div></section>}
 </BaseLayout>
