@@ -42,7 +42,7 @@ function repairLinks(parent) {
       const path = url.pathname.endsWith('/') ? url.pathname : `${url.pathname}/`;
       const target = aliases[path] ?? path;
       if (oldDomain) {
-        if (!known.has(target)) return [node];
+        if (!known.has(target)) return node.children;
         url.hostname = 'meatfish.co.id';
         url.pathname = target;
         node.url = url.href;
