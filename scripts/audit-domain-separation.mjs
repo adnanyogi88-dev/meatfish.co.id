@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Repository-level audit for separation between meatfish.co.id (B2B) and meatfish.id (retail).
- * This is diagnostic: it reports candidates and does not auto-delete or rewrite content.
+ * Diagnostic repository audit for separating meatfish.co.id (B2B) and meatfish.id (retail).
+ * Reports candidates only; it never automatically deletes or rewrites content.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -13,8 +13,6 @@ const redirectsPath = path.join(root, 'src/data/legacy-redirects.json');
 const files = fs.readdirSync(contentDir).filter(file => file.endsWith('.md')).sort();
 const media = JSON.parse(fs.readFileSync(mediaPath, 'utf8'));
 const redirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
-const localMediaSources = new Set(media.map(item => item.source));
-const slugToFiles = new Map();
 const titleToFiles = new Map();
 const imageToFiles = new Map();
 const slugRedirectCollisions = [];
@@ -23,7 +21,7 @@ const outboundRefs = [];
 const published = [];
 
 const norm = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase('id')
-  .replace(/<[^>]*>/g, ' ').replace(/[^\\p{L}\\p{N}]+/gu, ' ').trim();
+  .replace(/<[^>]*>/g, ' ').replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 const scalar = (frontmatter, key) => {
   const match = frontmatter.match(new RegExp('^' + key + ':\\s*(.*)$', 'm'));
   return match ? match[1].trim().replace(/^['"]|['"]$/g, '') : '';
@@ -32,29 +30,29 @@ const scalar = (frontmatter, key) => {
 for (const file of files) {
   const fullPath = path.join(contentDir, file);
   const text = fs.readFileSync(fullPath, 'utf8');
-  const match = text.match(/^---\\s*\\n([\\s\\S]*?)\\n---/);
+  const match = text.match(/^---\s*\n([\s\S]*?)\n---/);
   if (!match) continue;
   const fm = match[1];
-  const slug = scalar(fm, 'slug') || file.replace(/\\.md$/, '');
+  const slug = scalar(fm, 'slug') || file.replace(/\.md$/, '');
   const title = scalar(fm, 'title');
   const image = scalar(fm, 'image');
   const draft = scalar(fm, 'draft').toLowerCase() === 'true';
   const item = { file: 'src/content/blog/' + file, slug, title, image };
-  if (slugToFiles.has(slug)) slugToFiles.get(slug).push(item); else slugToFiles.set(slug, [item]);
   if (title) {
     const key = norm(title);
     if (titleToFiles.has(key)) titleToFiles.get(key).push(item); else titleToFiles.set(key, [item]);
   }
   if (image) {
-    if (image.startsWith('http://') || image.startsWith('https://')) {
-      if (new URL(image).hostname === 'meatfish.id' || new URL(image).hostname.endsWith('.meatfish.id')) {
-        remoteImages.push(item);
-      }
+    if (/^https?:\/\//i.test(image)) {
+      try {
+        const host = new URL(image).hostname;
+        if (host === 'meatfish.id' || host.endsWith('.meatfish.id')) remoteImages.push(item);
+      } catch {}
     }
     if (imageToFiles.has(image)) imageToFiles.get(image).push(item); else imageToFiles.set(image, [item]);
   }
-  if (/https?:\\/\\/meatfish\\.id\\//i.test(text)) {
-    const urls = [...new Set(text.match(/https?:\\/\\/meatfish\\.id\\/[^\\s)\\]"']*/gi) || [])];
+  if (/https?:\/\/meatfish\.id\//i.test(text)) {
+    const urls = [...new Set(text.match(/https?:\/\/meatfish\.id\/[^\s)\]"']*/gi) || [])];
     outboundRefs.push({ file: item.file, urls: urls.slice(0, 8) });
   }
   if (!draft) published.push(item);
@@ -72,9 +70,9 @@ const repeatedImages = [...imageToFiles.entries()].filter(([image, group]) => im
   .map(([image, group]) => ({ image, count: group.length, files: group.map(item => item.file) }))
   .sort((a, b) => b.count - a.count);
 
-const report = {
+console.log(JSON.stringify({
   generatedAt: new Date().toISOString(),
-  note: 'Repository-level diagnostics only; this does not prove cross-domain uniqueness without a live .id crawl/export.',
+  note: 'Repository-level diagnostics only; cross-domain uniqueness requires a live .id crawl/export.',
   markdownFiles: files.length,
   publishedArticles: published.length,
   legacyRedirects: Object.keys(redirects).length,
@@ -90,5 +88,4 @@ const report = {
     remoteMeatfishIdImages: remoteImages.length,
     markdownFilesWithOutboundMeatfishIdLinks: outboundRefs.length
   }
-};
-console.log(JSON.stringify(report, null, 2));
+}, null, 2));
