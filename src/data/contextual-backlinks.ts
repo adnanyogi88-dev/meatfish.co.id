@@ -130,7 +130,7 @@ export function getContextualBacklinks(subject: string, currentSlug: string) {
 
   return {
     intro: choice.intro,
-    meatfishId: choice.meatfishId,
+    meatfishId: meatfishCoId,
     meatfishCoId,
   };
 }
