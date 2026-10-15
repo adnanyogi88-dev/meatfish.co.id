@@ -24,7 +24,7 @@ const supplierCategories = [
         {partnershipPackages.map(item => <tr><td><strong>{item.name}</strong></td><td>{item.stock}</td><td>{item.distance}</td><td><WhatsAppButton label={`Tanyakan ${item.name}`} purpose={item.purpose} class="button secondary" /></td></tr>)}
       </tbody></table></div>
       <p>Pembahasan paket mencakup penggunaan merek, perangkat penyimpanan, penataan toko, pasokan awal, serta dukungan pemasaran dan perencanaan usaha. Harga investasi, lokasi, fasilitas, serta stok akhir dikonfirmasi melalui penawaran tim kemitraan.</p>
-      <p class="article-meta">Acuan: <a href="https://meatfish.id/gabung-kemitraan/">informasi kemitraan Meatfish</a>, diperiksa 13 Oktober 2026.</p>
+      <p class="article-meta">Acuan: <a href="/gabung-kemitraan/">informasi kemitraan Meatfish</a>, diperiksa 13 Oktober 2026.</p>
       <h2>Siapkan gambaran usaha Anda</h2><p>Kebutuhan setiap calon mitra berbeda. Informasi berikut membantu tim memahami rencana Anda dan membahas pilihan yang sesuai.</p>
       <ul><li>Wilayah dan lokasi rencana toko, kondisi tempat, serta target pelanggan.</li><li>Anggaran investasi awal dan modal kerja yang disiapkan.</li><li>Kategori produk yang ingin dijual dan perkiraan kapasitas penyimpanan.</li><li>Rencana waktu pembukaan serta keterlibatan Anda dalam pengelolaan usaha.</li></ul>
       <h2>Informasi penawaran yang perlu dibahas</h2>
@@ -68,6 +68,6 @@ const supplierCategories = [
     {productCatalog.map(section => <div class="catalog-section"><h2>{section.title}</h2><div class="grid">{section.items.map(([name, image]) => <article class="card product-card">{image && <img src={image} alt={name} width="720" height="450" loading="lazy" decoding="async" />}<div class="card-body"><h3>{name}</h3><WhatsAppButton label="Tanyakan Produk" purpose="b2b" /></div></article>)}</div></div>)}
     <div class="cta catalog-cta"><h2>Katalog produk Meatfish</h2><a class="button secondary" href={pdfCatalogUrl} target="_blank" rel="noopener noreferrer" data-track="catalog">Lihat Katalog PDF</a></div>
   </> : slug === 'lokasi-meat-fish' ? <>
-    <header class="page-head"><h1>Informasi lokasi toko Meatfish</h1><p class="lead">Konfirmasikan alamat, status toko, dan jam operasional kepada tim sebelum berkunjung. Informasi belanja juga tersedia di <a href="https://meatfish.id/">Meatfish.id</a>.</p></header><LocationCards />
+    <header class="page-head"><h1>Informasi lokasi toko Meatfish</h1><p class="lead">Konfirmasikan alamat, status toko, dan jam operasional kepada tim sebelum berkunjung. Informasi belanja juga tersedia di <a href="/produk-meatfish/">halaman produk Meatfish</a>.</p></header><LocationCards />
   </> : null}
 </div></section>
