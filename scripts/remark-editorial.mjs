@@ -6,6 +6,8 @@ const normalize = text => text.replace(/\s+/g, ' ').trim().toLowerCase();
 const slugify = text => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const directory = new URL('../src/content/blog/', import.meta.url);
 const legacyRedirects = JSON.parse(readFileSync(new URL('../src/data/legacy-redirects.json', import.meta.url), 'utf8'));
+const media = JSON.parse(readFileSync(new URL('../src/data/media.json', import.meta.url), 'utf8'));
+const localMedia = new Map(media.map(item => [item.source, item.path]));
 const known = new Set(['/', '/gabung-kemitraan/', '/pasokan-untuk-bisnis/', '/produk-meatfish/', '/daftar-supplier-meatfish/', '/tentang-meatfish/', '/lokasi-meat-fish/', '/trend-daging-ikan-frozen/', '/sitemap/']);
 const aliases = { '/franchise-2026-frozen-food-sistematis/': '/franchise-frozen-food/', '/produk-kami/': '/produk-meatfish/', '/rekomendasi-franchise-terbaik-2026-peluang-emas-bersama-meatfish/': '/10-franchise-terbaik-2026-yang-diprediksi-viral-di-indonesia/' };
 for (const file of readdirSync(directory).filter(name => name.endsWith('.md'))) {
@@ -28,12 +30,24 @@ function repairLinks(parent) {
   if (!parent.children) return;
   parent.children = parent.children.flatMap(node => {
     repairLinks(node);
+    if (node.type === 'image' && node.url && localMedia.has(node.url)) {
+      node.url = localMedia.get(node.url);
+      return [node];
+    }
     if (node.type !== 'link' || !node.url || /^(mailto:|tel:|#)/i.test(node.url)) return [node];
     try {
       const url = new URL(node.url, 'https://meatfish.co.id/');
-      if (url.hostname !== 'meatfish.co.id') return [node];
+      const oldDomain = url.hostname === 'meatfish.id';
+      if (url.hostname !== 'meatfish.co.id' && !oldDomain) return [node];
       const path = url.pathname.endsWith('/') ? url.pathname : `${url.pathname}/`;
       const target = aliases[path] ?? path;
+      if (oldDomain) {
+        if (!known.has(target)) return [node];
+        url.hostname = 'meatfish.co.id';
+        url.pathname = target;
+        node.url = url.href;
+        return [node];
+      }
       const legacy = !known.has(target) && legacyRedirects[target.replace(/^\/+|\/+$/g, '')];
       if (legacy) {
         const destination = new URL(legacy);
