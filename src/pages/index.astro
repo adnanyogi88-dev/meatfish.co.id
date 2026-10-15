@@ -5,9 +5,9 @@ import PostCards from '../components/PostCards.astro';
 import { posts } from '../lib/posts';
 const latest = posts.filter(({ frontmatter: data }) => /franchise|kemitraan|supplier|pasokan|usaha|bisnis/i.test(data.title)).slice(0, 6);
 const products = [
-  { title: 'Daging untuk kebutuhan usaha', image: 'https://meatfish.id/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp', text: 'Konsultasikan kebutuhan daging slice, steak, rendang, dan potongan lainnya.' },
-  { title: 'Ikan dan seafood', image: 'https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp', text: 'Tanyakan pilihan ikan fillet, udang, cumi, dan produk seafood sesuai menu usaha.' },
-  { title: 'Produk beku untuk bisnis kuliner', image: 'https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp', text: 'Diskusikan kategori produk, kebutuhan stok, dan spesifikasi sebelum meminta penawaran.' },
+  { title: 'Daging untuk kebutuhan usaha', image: '/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp', text: 'Konsultasikan kebutuhan daging slice, steak, rendang, dan potongan lainnya.' },
+  { title: 'Ikan dan seafood', image: '/wp-content/uploads/2024/07/Dori-Fillet-2.webp', text: 'Tanyakan pilihan ikan fillet, udang, cumi, dan produk seafood sesuai menu usaha.' },
+  { title: 'Produk beku untuk bisnis kuliner', image: '/wp-content/uploads/2024/07/Udang-CPND-2.webp', text: 'Diskusikan kategori produk, kebutuhan stok, dan spesifikasi sebelum meminta penawaran.' },
 ];
 ---
 <BaseLayout>
