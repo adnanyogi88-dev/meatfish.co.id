@@ -1,9 +1,15 @@
 import routes from '../data/routes.json';
+import media from '../data/media.json';
 import { archiveMatches, categoriesFor, categorySlug, coreSlugs, isPublished, publicationDate, updatedDate } from './content-utils';
 
 const modules: any[] = Object.values(import.meta.glob('../content/blog/*.md', { eager: true }));
+const localMedia = new Map(media.map(item => [item.source, item.path]));
+
 export const allPosts = modules.map(module => ({
-  frontmatter: module.frontmatter,
+  frontmatter: {
+    ...module.frontmatter,
+    image: localMedia.get(module.frontmatter.image) ?? module.frontmatter.image,
+  },
   Content: module.Content,
 }));
 export const posts = allPosts.filter(post => isPublished(post.frontmatter))
