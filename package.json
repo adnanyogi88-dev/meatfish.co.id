@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "check:seo": "node --experimental-strip-types scripts/check-content-dates.mjs && python scripts/check-built-seo.py",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "audit:domain-separation": "node scripts/audit-domain-separation.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
