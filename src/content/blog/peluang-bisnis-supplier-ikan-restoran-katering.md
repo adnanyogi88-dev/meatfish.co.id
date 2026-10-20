@@ -2,8 +2,8 @@
 title: "Peluang Bisnis Supplier Ikan untuk Restoran dan Katering"
 slug: "peluang-bisnis-supplier-ikan-restoran-katering"
 description: "Langkah menyiapkan layanan pasokan ikan untuk restoran dan katering, dari spesifikasi produk sampai jadwal pengiriman."
-pubDate: 2026-10-27
-updatedDate: 2026-10-27
+pubDate: 2026-10-28
+updatedDate: 2026-10-28
 author: "MeatFish Editorial"
 category: "Supplier B2B"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"
