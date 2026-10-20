@@ -2,8 +2,8 @@
 title: "Peluang Usaha Seafood untuk Pemula: Panduan Memulai"
 slug: "peluang-usaha-seafood-untuk-pemula"
 description: "Pelajari cara memetakan pelanggan, memilih produk seafood, menjaga kualitas, dan menyusun operasional usaha untuk pemula."
-pubDate: 2026-10-20
-updatedDate: 2026-10-20
+pubDate: 2026-10-21
+updatedDate: 2026-10-21
 author: "MeatFish Editorial"
 category: "Peluang Usaha"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"
