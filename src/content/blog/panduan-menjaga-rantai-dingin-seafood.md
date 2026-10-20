@@ -2,8 +2,8 @@
 title: "Panduan Menjaga Rantai Dingin Produk Seafood"
 slug: "panduan-menjaga-rantai-dingin-seafood"
 description: "Praktik penanganan dan penyimpanan seafood untuk membantu mempertahankan mutu sejak penerimaan hingga penjualan."
-pubDate: 2026-10-26
-updatedDate: 2026-10-26
+pubDate: 2026-10-27
+updatedDate: 2026-10-27
 author: "MeatFish Editorial"
 category: "Operasional"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"
