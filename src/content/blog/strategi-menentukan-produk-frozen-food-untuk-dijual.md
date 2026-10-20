@@ -2,8 +2,8 @@
 title: "Strategi Menentukan Produk Frozen Food untuk Dijual"
 slug: "strategi-menentukan-produk-frozen-food-untuk-dijual"
 description: "Cara menentukan variasi produk berdasarkan target pelanggan, ruang penyimpanan, kebutuhan pasar, dan kemampuan pasokan."
-pubDate: 2026-10-25
-updatedDate: 2026-10-25
+pubDate: 2026-10-26
+updatedDate: 2026-10-26
 author: "MeatFish Editorial"
 category: "Bisnis Frozen Food"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"
