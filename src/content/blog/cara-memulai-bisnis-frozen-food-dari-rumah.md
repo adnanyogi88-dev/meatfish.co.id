@@ -2,8 +2,8 @@
 title: "Cara Memulai Bisnis Frozen Food dari Rumah"
 slug: "cara-memulai-bisnis-frozen-food-dari-rumah"
 description: "Panduan awal memilih produk, menghitung kebutuhan operasional, menyimpan stok, dan memasarkan bisnis frozen food dari rumah."
-pubDate: 2026-10-19
-updatedDate: 2026-10-19
+pubDate: 2026-10-20
+updatedDate: 2026-10-20
 author: "MeatFish Editorial"
 category: "Bisnis Frozen Food"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"
