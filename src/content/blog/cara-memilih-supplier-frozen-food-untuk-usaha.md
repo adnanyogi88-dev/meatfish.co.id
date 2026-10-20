@@ -2,8 +2,8 @@
 title: "Cara Memilih Supplier Frozen Food untuk Usaha"
 slug: "cara-memilih-supplier-frozen-food-untuk-usaha"
 description: "Checklist memilih supplier frozen food berdasarkan mutu produk, rantai dingin, kelengkapan informasi, dan konsistensi pasokan."
-pubDate: 2026-10-21
-updatedDate: 2026-10-21
+pubDate: 2026-10-22
+updatedDate: 2026-10-22
 author: "MeatFish Editorial"
 category: "Supplier"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp"
