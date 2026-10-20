@@ -2,8 +2,8 @@
 title: "Cara Mengelola Stok Frozen Food agar Lebih Efisien"
 slug: "cara-mengelola-stok-frozen-food"
 description: "Tips pencatatan stok, rotasi produk, penetapan batas pemesanan ulang, dan pemantauan kapasitas freezer."
-pubDate: 2026-10-28
-updatedDate: 2026-10-28
+pubDate: 2026-10-29
+updatedDate: 2026-10-29
 author: "MeatFish Editorial"
 category: "Operasional"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"
