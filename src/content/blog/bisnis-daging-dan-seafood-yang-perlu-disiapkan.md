@@ -2,8 +2,8 @@
 title: "Bisnis Daging dan Seafood: Hal yang Perlu Disiapkan"
 slug: "bisnis-daging-dan-seafood-yang-perlu-disiapkan"
 description: "Kenali persiapan produk, penyimpanan, pencatatan stok, dan layanan pelanggan untuk bisnis daging dan seafood."
-pubDate: 2026-10-22
-updatedDate: 2026-10-22
+pubDate: 2026-10-23
+updatedDate: 2026-10-23
 author: "MeatFish Editorial"
 category: "Peluang Usaha"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Dori-Fillet-2.webp"
