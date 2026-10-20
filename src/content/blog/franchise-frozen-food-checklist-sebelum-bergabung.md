@@ -2,8 +2,8 @@
 title: "Franchise Frozen Food: Checklist Sebelum Bergabung"
 slug: "franchise-frozen-food-checklist-sebelum-bergabung"
 description: "Daftar pertanyaan untuk mengevaluasi paket kemitraan frozen food, dukungan operasional, pasokan, dan rincian biaya."
-pubDate: 2026-10-23
-updatedDate: 2026-10-23
+pubDate: 2026-10-24
+updatedDate: 2026-10-24
 author: "MeatFish Editorial"
 category: "Franchise"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Udang-CPND-2.webp"
