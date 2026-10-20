@@ -2,8 +2,8 @@
 title: "Cara Menghitung Modal Awal Usaha Frozen Food"
 slug: "cara-menghitung-modal-awal-usaha-frozen-food"
 description: "Susun perkiraan modal usaha frozen food dengan mengelompokkan peralatan, stok, tempat, utilitas, dan biaya operasional."
-pubDate: 2026-10-24
-updatedDate: 2026-10-24
+pubDate: 2026-10-25
+updatedDate: 2026-10-25
 author: "MeatFish Editorial"
 category: "Bisnis Frozen Food"
 image: "https://meatfish.id/wp-content/uploads/2024/07/Beef-Slice-Low-Fat-1.webp"
