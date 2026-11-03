@@ -27,6 +27,7 @@ menghasilkan route dan konten siap-build dari kedua sumber tersebut.
 - Konten Markdown yang sudah diedit dipertahankan saat import diulang.
 - Sitemap hanya memuat artikel yang sudah terbit, halaman bisnis, dan arsip berisi konten. Halaman lama tanpa isi tetap dapat diakses, dengan `noindex, follow`, sampai sumber teks tersedia.
 - Daftar panduan dan arsip memakai 12 artikel per halaman.
+- Setiap artikel dengan minimal dua heading H2–H4 menampilkan Daftar Isi otomatis dengan tautan anchor unik; fitur diproses oleh `scripts/remark-editorial.mjs` dan ditata melalui `src/styles/global.css`.
 
 Sesudah build, jalankan `npm run check:seo` untuk memeriksa tanggal, canonical, sitemap, H1, dan tautan internal.
 
