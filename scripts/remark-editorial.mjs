@@ -97,9 +97,9 @@ export default function cleanEditorialContent() {
     ).join('');
     for (const node of tree.children) {
       if (node.type !== 'heading' || node.depth < 2 || node.depth > 4) continue;
-      const label = headingText(node).replace(/\\s+/g, ' ').trim();
+      const label = headingText(node).replace(/\s+/g, ' ').trim();
       if (!label) continue;
-      const base = slugify(label.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')) || 'bagian';
+      const base = slugify(label.normalize('NFD').replace(/[\u0300-\u036f]/g, '')) || 'bagian';
       let id = base;
       let suffix = 2;
       while (usedIds.has(id)) id = `${base}-${suffix++}`;
