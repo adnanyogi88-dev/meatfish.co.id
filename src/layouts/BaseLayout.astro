@@ -17,8 +17,29 @@ const gtmId = !redirectTo && /^GTM-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GTM_I
 const configuredGa4Id = /^G-[A-Z0-9]+$/.test(import.meta.env.PUBLIC_GA4_ID || '') ? import.meta.env.PUBLIC_GA4_ID : analytics.ga4MeasurementId;
 const ga4Id = !redirectTo && !gtmId && /^G-[A-Z0-9]+$/.test(configuredGa4Id) ? configuredGa4Id : '';
 const organization = {
-  "@context": "https://schema.org", "@type": "Organization", name: "Meat & Fish",
-  url: "https://meatfish.co.id", logo: new URL("/wp-content/uploads/2025/10/mf-logo.webp", Astro.site).href
+  "@type": "Organization",
+  "@id": "https://meatfish.co.id/#organization",
+  name: "Meat & Fish",
+  alternateName: "Meatfish",
+  url: "https://meatfish.co.id/",
+  description: "Informasi kemitraan toko, pasokan B2B, produk daging, ikan, seafood, dan frozen food untuk kebutuhan usaha.",
+  logo: {
+    "@type": "ImageObject",
+    url: new URL("/wp-content/uploads/2025/10/mf-logo.webp", Astro.site).href
+  }
+};
+const website = {
+  "@type": "WebSite",
+  "@id": "https://meatfish.co.id/#website",
+  url: "https://meatfish.co.id/",
+  name: "Meatfish",
+  alternateName: "Meat & Fish",
+  inLanguage: "id-ID",
+  publisher: { "@id": "https://meatfish.co.id/#organization" }
+};
+const siteStructuredData = {
+  "@context": "https://schema.org",
+  "@graph": [organization, website]
 };
 ---
 <!doctype html>
@@ -26,14 +47,16 @@ const organization = {
   <head>
     <meta charset="UTF-8" /><meta name="viewport" content="width=device-width" />
     <title>{title}</title><meta name="description" content={description} />
-    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta name="robots" content={noindex ? "noindex, follow" : "index, follow, max-image-preview:large"} />
+    <meta name="author" content="Meat & Fish" />
+    <meta property="og:locale" content="id_ID" />
     <link rel="canonical" href={canonical} />
     {redirectTo && <meta http-equiv="refresh" content={`0; url=${redirectTo}`} />}
-    <meta property="og:type" content={type} /><meta property="og:title" content={title} />
+    <meta property="og:type" content={type} /><meta property="og:site_name" content="Meatfish" /><meta property="og:title" content={title} />
     <meta property="og:description" content={description} /><meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL(image, Astro.site)} />
-    <meta name="twitter:card" content="summary_large_image" />
-    <script type="application/ld+json" set:html={JSON.stringify(organization)} />
+    <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content={title} /><meta name="twitter:description" content={description} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteStructuredData)} />
     {gtmId && <script is:inline define:vars={{ gtmId }}>
       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',gtmId);
     </script>}
@@ -77,7 +100,6 @@ const organization = {
         function buildWhatsAppUrl(originalUrl, link) {
           try {
             var url = new URL(originalUrl, window.location.origin);
-            // wa.link owns its prefilled message; adding a text query is not supported.
             if (url.hostname === 'wa.link' || url.hostname.endsWith('.wa.link')) return url.toString();
             var message = (link.getAttribute('data-message') || url.searchParams.get('text') || messagePrefix) + '\nHalaman: ' + document.title + ' - ' + window.location.href;
             url.searchParams.set("text", message);
@@ -90,7 +112,6 @@ const organization = {
         function prepareWhatsAppLink(link) {
           var href = link.getAttribute("href") || "";
           if (!isWhatsAppLink(href)) return false;
-
           var originalUrl = link.getAttribute('data-original-href') || link.href;
           link.setAttribute('data-original-href', originalUrl);
           link.setAttribute("href", buildWhatsAppUrl(originalUrl, link));
@@ -102,7 +123,6 @@ const organization = {
 
         function setupWhatsAppTracking() {
           document.querySelectorAll("a[href]").forEach(prepareWhatsAppLink);
-
           document.addEventListener("click", function (event) {
             var link = event.target instanceof Element ? event.target.closest("a[href]") : null;
             if (!link) return;
@@ -119,7 +139,6 @@ const organization = {
             if (directAnalytics && typeof window.gtag === 'function') window.gtag('event', eventName, params);
             else window.dataLayer.push(Object.assign({ event: eventName }, params));
           });
-
           new MutationObserver(function (mutations) {
             mutations.forEach(function (mutation) {
               mutation.addedNodes.forEach(function (node) {
@@ -130,12 +149,8 @@ const organization = {
             });
           }).observe(document.body, { childList: true, subtree: true });
         }
-
-        if (document.readyState === "loading") {
-          document.addEventListener("DOMContentLoaded", setupWhatsAppTracking);
-        } else {
-          setupWhatsAppTracking();
-        }
+        if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setupWhatsAppTracking);
+        else setupWhatsAppTracking();
       })();
     </script>
   </body>
