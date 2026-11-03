@@ -1,5 +1,22 @@
 User-agent: *
 Allow: /
 
+# Allow AI search crawlers to discover public Meatfish pages.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Search visibility is enabled without opting public pages into GPT model training.
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://meatfish.co.id/sitemap-index.xml
 Sitemap: https://meatfish.co.id/sitemap-artikel.xml
