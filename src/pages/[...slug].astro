@@ -54,21 +54,38 @@ const image = post ? postImage(post.frontmatter) : '/wp-content/uploads/2025/10/
 const data = post?.frontmatter;
 const authorName = data?.author && data.author !== 'administrator' ? data.author : 'Tim Meatfish';
 const articleLd = data ? {
-  '@context': 'https://schema.org', '@type': 'Article', headline: data.title,
-  datePublished: publicationDate(data)?.toISOString(), dateModified: updatedDate(data)?.toISOString(),
-  mainEntityOfPage: `https://meatfish.co.id${path}`,
+  '@context': 'https://schema.org', '@type': 'Article',
+  headline: data.title,
+  description: data.description,
+  inLanguage: 'id-ID',
+  articleSection: categoriesFor(data),
+  datePublished: publicationDate(data)?.toISOString(),
+  dateModified: updatedDate(data)?.toISOString(),
+  mainEntityOfPage: { '@type': 'WebPage', '@id': `https://meatfish.co.id${path}` },
+  isPartOf: { '@id': 'https://meatfish.co.id/#website' },
   author: { '@type': /editorial|tim meatfish|meat & fish/i.test(authorName) ? 'Organization' : 'Person', name: authorName },
-  publisher: { '@type': 'Organization', name: 'Meat & Fish', url: 'https://meatfish.co.id/' },
+  publisher: { '@id': 'https://meatfish.co.id/#organization' },
   image: new URL(image, Astro.site).href,
 } : null;
 const contextual = data ? getContextualBacklinks([data.title, data.description, ...categoriesFor(data)].join(' '), data.slug) : null;
 const availableTargets = new Set([...posts.map(post => `https://meatfish.co.id/${post.frontmatter.slug}/`), ...coreSlugs.map(slug => `https://meatfish.co.id/${slug}/`)]);
 const related = contextual && availableTargets.has(contextual.meatfishCoId.href) ? contextual.meatfishCoId : null;
 const crumbs = post || isArchive || isListing ? [...(!isListing || pageNumber > 1 ? [{ name: 'Panduan Bisnis', url: '/trend-daging-ikan-frozen/' }] : []), { name: title, url: canonicalPath }] : [{ name: title, url: path }];
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: crumbs.map((crumb, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: crumb.name,
+    item: new URL(crumb.url, Astro.site).href,
+  })),
+};
 ---
 <BaseLayout title={`${title} | Meatfish`} description={description} image={image} type={post ? 'article' : 'website'} noindex={noindex} canonicalPath={canonicalPath} redirectTo={redirectTarget}>
   <Breadcrumbs items={crumbs} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   {post ? <>
     <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time>{updatedDate(data)?.getTime() > publicationDate(data)?.getTime() && <> · Diperbarui <time datetime={updatedDate(data)?.toISOString()}>{formatDate(updatedDate(data))}</time></>} · Oleh {authorName}</p></header>
     <div class="container article-layout"><article class="article-content">
