@@ -88,5 +88,34 @@ export default function cleanEditorialContent() {
       seen.add(key);
       return true;
     });
+
+    // Add stable anchor IDs and a collapsible table of contents to every article.
+    const usedIds = new Set();
+    const headings = [];
+    const headingText = node => (node.children ?? []).map(child =>
+      child.type === 'text' || child.type === 'inlineCode' ? child.value : headingText(child)
+    ).join('');
+    for (const node of tree.children) {
+      if (node.type !== 'heading' || node.depth < 2 || node.depth > 4) continue;
+      const label = headingText(node).replace(/\\s+/g, ' ').trim();
+      if (!label) continue;
+      const base = slugify(label.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')) || 'bagian';
+      let id = base;
+      let suffix = 2;
+      while (usedIds.has(id)) id = `${base}-${suffix++}`;
+      usedIds.add(id);
+      node.data = { ...(node.data ?? {}), hProperties: { ...(node.data?.hProperties ?? {}), id } };
+      headings.push({ id, label, depth: node.depth });
+    }
+    if (headings.length >= 2) {
+      const links = headings.map(item => {
+        const safeLabel = item.label.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        return `<li class="article-toc-level-${item.depth}"><a href="#${item.id}">${safeLabel}</a></li>`;
+      }).join('');
+      tree.children.unshift({
+        type: 'html',
+        value: `<nav class="article-toc" aria-label="Daftar isi"><details open><summary>Daftar Isi</summary><ol>${links}</ol></details></nav>`,
+      });
+    }
   };
 }
