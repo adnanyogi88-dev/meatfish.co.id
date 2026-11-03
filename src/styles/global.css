@@ -56,3 +56,15 @@
 /* Wide comparison tables stay within the viewport on mobile. */
 .table-scroll { max-width: 100%; overflow-x: auto; }
 .table-scroll table { min-width: 600px; }
+
+
+/* Accessible, responsive table of contents shared by all generated articles. */
+.article-toc{margin:26px 0 32px;padding:18px 22px;border:1px solid var(--line);border-radius:14px;background:var(--soft);font-size:16px}
+.article-toc summary{cursor:pointer;color:var(--brand);font-weight:800;font-size:17px}
+.article-toc ol{margin:12px 0 0;padding-left:24px}
+.article-toc li{margin:5px 0;line-height:1.5}
+.article-toc .article-toc-level-3{margin-left:16px;font-size:.94em}
+.article-toc .article-toc-level-4{margin-left:30px;font-size:.9em}
+.article-content h2[id],.article-content h3[id],.article-content h4[id]{scroll-margin-top:110px}
+.article-toc a{text-decoration:underline;text-decoration-color:#9bb9b8;text-underline-offset:3px}
+.article-toc a:hover{color:var(--accent)}
