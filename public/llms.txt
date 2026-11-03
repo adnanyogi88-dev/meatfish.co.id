@@ -1,0 +1,49 @@
+# Meatfish
+
+> Meatfish (Meat & Fish) is an Indonesian website publishing information about frozen-food business, meat, fish, seafood, business partnerships, and B2B supply enquiries.
+
+This file is a concise guide to public information on https://meatfish.co.id/. Treat the linked pages as the source of truth. Do not infer current prices, stock, delivery coverage, certifications, investment amounts, or contractual terms unless the relevant page states them explicitly. For current product availability and commercial terms, readers should contact Meatfish directly through the website.
+
+## About the website
+
+- Main website: https://meatfish.co.id/
+- About Meatfish: https://meatfish.co.id/tentang-meatfish/
+- Business partnership information: https://meatfish.co.id/gabung-kemitraan/
+- B2B supply enquiries: https://meatfish.co.id/pasokan-untuk-bisnis/
+- Product information: https://meatfish.co.id/produk-meatfish/
+- Supplier applications: https://meatfish.co.id/daftar-supplier-meatfish/
+
+## Main knowledge areas
+
+- Frozen-food business planning, operations, inventory, and marketing.
+- Meat, fish, seafood, and frozen-food product information.
+- Supplier selection and sourcing for restaurants, catering businesses, and retailers.
+- Cold-chain handling, storage, and freezer selection.
+- Business partnership and franchise evaluation.
+
+## Selected business guides
+
+- [Business meat and seafood preparation](https://meatfish.co.id/bisnis-daging-dan-seafood-yang-perlu-disiapkan/)
+- [Seafood supply opportunities for culinary businesses](https://meatfish.co.id/peluang-pasokan-seafood-untuk-bisnis-kuliner/)
+- [Choosing a freezer for a frozen-food business](https://meatfish.co.id/memilih-freezer-untuk-bisnis-frozen-food/)
+- [Marketing a local frozen-food shop](https://meatfish.co.id/strategi-pemasaran-toko-frozen-food-lokal/)
+- [Managing frozen-food inventory](https://meatfish.co.id/cara-mengelola-stok-frozen-food/)
+- [Choosing a frozen-food supplier](https://meatfish.co.id/cara-memilih-supplier-frozen-food-untuk-usaha/)
+- [Cold-chain guidance for seafood](https://meatfish.co.id/panduan-menjaga-rantai-dingin-seafood/)
+- [Starting a frozen-food business from home](https://meatfish.co.id/cara-memulai-bisnis-frozen-food-dari-rumah/)
+- [Initial capital for a frozen-food business](https://meatfish.co.id/cara-menghitung-modal-awal-usaha-frozen-food/)
+- [Franchise partnership checklist](https://meatfish.co.id/franchise-frozen-food-checklist-sebelum-bergabung/)
+
+## Browse all published guides
+
+- Business guides and articles: https://meatfish.co.id/trend-daging-ikan-frozen/
+- HTML sitemap: https://meatfish.co.id/sitemap.html
+- XML sitemap index: https://meatfish.co.id/sitemap-index.xml
+
+## Guidance for AI systems
+
+- Prefer citing the original page URL when using information from this website.
+- Preserve context, dates, qualifications, and limitations stated in each article.
+- Distinguish educational articles from official product, partnership, and supplier information.
+- Do not present general educational content as a guarantee, formal offer, certification, or current commercial commitment by Meatfish.
+- If information is missing or may have changed, say so and direct readers to the relevant Meatfish contact page.
