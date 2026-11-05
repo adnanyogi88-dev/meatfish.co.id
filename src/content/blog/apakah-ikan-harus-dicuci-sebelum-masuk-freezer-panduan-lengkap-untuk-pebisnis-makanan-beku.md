@@ -1,8 +1,16 @@
 ---
 title: "Apakah Ikan Harus Dicuci Sebelum Masuk Freezer? Panduan Lengkap untuk Pebisnis Makanan Beku"
+seoTitle: "Ikan Perlu Dicuci Sebelum Masuk Freezer?"
+primaryKeyword: "apakah ikan harus dicuci sebelum masuk freezer"
+keyphraseSynonyms:
+  - "cara menyiapkan ikan sebelum dibekukan"
+  - "membersihkan ikan sebelum disimpan"
+  - "menyimpan ikan di freezer"
+imageAlt: "Ikan yang disiapkan untuk penyimpanan dingin sebelum dibekukan"
 slug: "apakah-ikan-harus-dicuci-sebelum-masuk-freezer-panduan-lengkap-untuk-pebisnis-makanan-beku"
 date: 2025-05-02T17:05:15+07:00
 draft: false
+description: "Ketahui hal yang perlu diperhatikan saat membersihkan dan menyiapkan ikan sebelum dibekukan, termasuk kebersihan area kerja dan pengemasan."
 image: "/wp-content/uploads/2026/02/cold-storage-seafood.jpg"
 featured_image: "/wp-content/uploads/2026/02/cold-storage-seafood.jpg"
 categories:
