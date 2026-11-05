@@ -1,10 +1,17 @@
 ---
 title: "Berapa Lama Ikan Tahan di Freezer? Panduan Suhu & Stok"
+seoTitle: "Berapa Lama Ikan Tahan di Freezer? Tabel Masa Simpan"
+primaryKeyword: "berapa lama ikan tahan di freezer"
+keyphraseSynonyms:
+  - "masa simpan ikan beku"
+  - "suhu freezer untuk ikan"
+  - "cara menyimpan ikan di freezer"
+imageAlt: "Beragam ikan mentah yang dikemas dan disimpan beku di dalam freezer"
 slug: "berapa-lama-ikan-tahan-di-freezer-panduan-lengkap-penyimpanan-ikan-beku"
 date: 2025-04-28T16:26:43+07:00
-updatedDate: 2026-10-13
+updatedDate: 2026-11-05
 draft: false
-description: "Lama simpan ikan beku berbeda menurut jenisnya. Lihat acuan suhu, penanganan bahan, dan pengelolaan stok untuk restoran atau katering."
+description: "Ketahui acuan masa simpan berbagai jenis ikan pada suhu −18°C, perbedaan mutu dan kedaluwarsa, serta cara mengelola stok ikan beku."
 image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png"
 featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png"
 categories:

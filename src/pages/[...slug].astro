@@ -46,7 +46,8 @@ const pageMeta: Record<string, { title: string; description: string }> = {
 };
 const archiveTitle = kind === 'category' ? categories.find(category => category.slug === categorySlug(archiveSlug))?.name || pretty(archiveSlug) : pretty(archiveSlug);
 const baseTitle = post?.frontmatter.title || (staticType && pageMeta[staticType]?.title) || (isListing ? 'Panduan Bisnis, Kemitraan & Frozen Food' : isArchive ? archiveTitle : pretty(parts.at(-1) || clean));
-const title = `${baseTitle}${pageNumber > 1 ? ` – Halaman ${pageNumber}` : ''}`;
+const seoBaseTitle = post?.frontmatter.seoTitle || baseTitle;
+const title = `${seoBaseTitle}${pageNumber > 1 ? ` – Halaman ${pageNumber}` : ''}`;
 const description = post?.frontmatter.description || (staticType && pageMeta[staticType]?.description) || (isListing || isArchive ? `Jelajahi panduan Meatfish tentang ${isArchive ? archiveTitle.toLowerCase() : 'kemitraan, pasokan, dan pengelolaan bisnis frozen food'}.` : 'Lihat panduan bisnis dan informasi layanan Meatfish yang tersedia.');
 const canonicalPath = redirectTarget || (isListing || isArchive ? pageNumber > 1 ? `${archiveBase}page/${pageNumber}/` : archiveBase : path);
 const noindex = isListing || isArchive ? listedPosts.length === 0 || pageNumber > pageCount : !post && !staticType;

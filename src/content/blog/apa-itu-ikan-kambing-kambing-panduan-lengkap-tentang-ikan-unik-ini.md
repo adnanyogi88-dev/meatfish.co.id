@@ -1,9 +1,16 @@
 ---
 title: "Apa Itu Ikan Kambing-Kambing? Panduan Lengkap Tentang Ikan Unik Ini"
+seoTitle: "Ikan Kambing-Kambing: Ciri, Habitat, dan Konsumsi"
+primaryKeyword: "ikan kambing-kambing"
+keyphraseSynonyms:
+  - "apa itu ikan kambing-kambing"
+  - "ciri-ciri ikan kambing-kambing"
+  - "habitat ikan kambing-kambing"
+imageAlt: "Ikan kambing-kambing di lingkungan perairan laut tropis"
 slug: "apa-itu-ikan-kambing-kambing-panduan-lengkap-tentang-ikan-unik-ini"
 date: 2025-02-20T08:54:10+07:00
 draft: false
-description: "Dalam artikel ini, kita akan membahas secara lengkap mengenai ikan kambing-kambing, mulai dari habitatnya, manfaatnya, hingga peluang bisnis"
+description: "Kenali ikan kambing-kambing, ciri fisik, habitat, jenis, dan hal yang perlu diketahui sebelum memilihnya sebagai bahan pangan."
 image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_36_36-PM.png"
 featured_image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-14-2025-01_36_36-PM.png"
 categories:
