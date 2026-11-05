@@ -1,5 +1,12 @@
 ---
 title: "Biaya Franchise Frozen Food 2026: Komponen Modal dan Cara Menyiapkan Anggaran"
+seoTitle: "Biaya Franchise Frozen Food 2026: Komponen Modal dan…"
+primaryKeyword: "biaya franchise frozen food 2026"
+keyphraseSynonyms:
+  - "biaya franchise frozen food 2026 panduan"
+  - "biaya franchise frozen food 2026 informasi"
+imageAlt: "Biaya Franchise Frozen Food 2026: Komponen Modal dan Cara Menyiapkan Anggaran — panduan dan informasi Meatfish"
+
 slug: "biaya-franchise-frozen-food-2026"
 description: "Pelajari biaya franchise frozen food 2026, komponen modal, dana cadangan, dan simulasi anggaran agar keputusan bisnis lebih terukur."
 date: 2026-07-22T06:00:00+07:00

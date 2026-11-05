@@ -1,5 +1,12 @@
 ---
 title: "Apa Saja Menu Makanan 4 Sehat 5 Sempurna"
+seoTitle: "Apa Saja Menu Makanan 4 Sehat 5 Sempurna"
+primaryKeyword: "apa saja menu makanan 4 sehat 5 sempurna"
+keyphraseSynonyms:
+  - "apa saja menu makanan 4 sehat 5 sempurna panduan"
+  - "apa saja menu makanan 4 sehat 5 sempurna informasi"
+imageAlt: "Apa Saja Menu Makanan 4 Sehat 5 Sempurna — panduan dan informasi Meatfish"
+
 slug: "apa-saja-menu-makanan-4-sehat-5-sempurna"
 date: 2024-08-12T21:18:43+07:00
 draft: false

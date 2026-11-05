@@ -1,5 +1,12 @@
 ---
 title: "Berapa Lama Ikan Lele Bertelur? Panduan Lengkap Budidaya & Peluang Bisnis"
+seoTitle: "Berapa Lama Ikan Lele Bertelur? Panduan Lengkap Budidaya…"
+primaryKeyword: "berapa lama ikan lele bertelur"
+keyphraseSynonyms:
+  - "berapa lama ikan lele bertelur panduan"
+  - "berapa lama ikan lele bertelur informasi"
+imageAlt: "Berapa Lama Ikan Lele Bertelur? Panduan Lengkap Budidaya & Peluang Bisnis — panduan dan informasi Meatfish"
+
 slug: "berapa-lama-ikan-lele-bertelur-panduan-lengkap-budidaya-peluang-bisnis"
 date: 2025-10-11T11:38:30+07:00
 draft: false

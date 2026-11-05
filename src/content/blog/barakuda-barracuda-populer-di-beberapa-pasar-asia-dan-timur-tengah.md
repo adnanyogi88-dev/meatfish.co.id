@@ -1,5 +1,12 @@
 ---
 title: "Barakuda (Barracuda): Populer di Beberapa Pasar Asia dan Timur Tengah"
+seoTitle: "Barakuda (Barracuda): Populer di Beberapa Pasar Asia dan…"
+primaryKeyword: "barakuda (barracuda)"
+keyphraseSynonyms:
+  - "barakuda (barracuda) panduan"
+  - "barakuda (barracuda) informasi"
+imageAlt: "Barakuda (Barracuda): Populer di Beberapa Pasar Asia dan Timur Tengah — panduan dan informasi Meatfish"
+
 slug: "barakuda-barracuda-populer-di-beberapa-pasar-asia-dan-timur-tengah"
 date: 2025-08-15T16:30:13+07:00
 draft: false
