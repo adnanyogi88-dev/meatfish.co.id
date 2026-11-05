@@ -66,7 +66,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <script>
 const byId = (id) => document.getElementById(id);
-const escapeHtml = (value) => String(value).replace(/[&<>\"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[char]));
+const escapeHtml = (value) => String(value).replace(/[&<>\"']/g, char => char === '&' ? '&amp;' : char === '<' ? '&lt;' : char === '>' ? '&gt;' : char === '\"' ? '&quot;' : '&#39;');
 const stripHtml = (value) => { const node = document.createElement('div'); node.innerHTML = value; return (node.textContent || node.innerText || '').replace(/\s+/g, ' ').trim(); };
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const wordCount = (text) => (text.match(/[\p{L}\p{N}]+/gu) || []).length;
