@@ -1,0 +1,158 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="SEO Content Checker | Meatfish"
+  description="Periksa optimasi SEO on-page dan keterbacaan artikel Meatfish sebelum diterbitkan."
+  noindex={true}
+  canonicalPath="/seo-checker/"
+>
+  <section class="seo-tool">
+    <div class="seo-tool__head">
+      <span class="seo-tool__eyebrow">MEATFISH · EDITORIAL TOOL</span>
+      <h1>SEO Content Checker</h1>
+      <p>Periksa judul SEO, slug, meta description, frasa kunci, struktur artikel, tautan, dan keterbacaan sebelum artikel dipublikasikan.</p>
+      <p class="seo-tool__note">Analisis ini adalah panduan editorial berbasis aturan, bukan skor resmi Google atau jaminan peringkat.</p>
+    </div>
+
+    <div class="seo-tool__layout">
+      <section class="seo-tool__editor" aria-label="Form pemeriksaan artikel">
+        <div class="seo-tool__section-title"><h2>Informasi SEO</h2><span>1 · Metadata</span></div>
+        <label>Judul artikel (H1)<input id="articleTitle" type="text" placeholder="Contoh: Cara Memulai Bisnis Frozen Food" /></label>
+        <label>Judul SEO<input id="seoTitle" type="text" placeholder="Judul yang tampil di Google" /><small><span id="titleCount">0</span> karakter · rekomendasi sekitar 50–60</small></label>
+        <label>Slug<input id="slug" type="text" placeholder="cara-memulai-bisnis-frozen-food" /><small>Gunakan huruf kecil, pisahkan kata dengan tanda hubung.</small></label>
+        <label>Meta description<textarea id="metaDescription" rows="3" placeholder="Ringkasan artikel yang menjelaskan manfaat bagi pembaca."></textarea><small><span id="metaCount">0</span> karakter · rekomendasi sekitar 140–160</small></label>
+        <label>Frasa kunci utama<input id="focusKeyphrase" type="text" placeholder="bisnis frozen food" /></label>
+        <label>Sinonim / frasa terkait<input id="synonyms" type="text" placeholder="usaha makanan beku, jualan frozen food" /><small>Pisahkan dengan koma.</small></label>
+
+        <div class="seo-tool__section-title"><h2>Konten artikel</h2><span>2 · Isi</span></div>
+        <label>Tempel teks artikel atau HTML artikel<textarea id="articleContent" rows="16" placeholder="Tempel isi artikel di sini. Untuk analisis tautan, gunakan HTML artikel agar href dapat dibaca."></textarea><small>Tempel HTML jika ingin pemeriksaan tautan internal dan gambar alt lebih akurat. Jangan masukkan data rahasia.</small></label>
+        <label>URL artikel (opsional)<input id="articleUrl" type="url" placeholder="https://meatfish.co.id/panduan/contoh-artikel/" /></label>
+        <div class="seo-tool__actions"><button id="analyzeBtn" type="button">Analisis SEO artikel</button><button id="resetBtn" class="secondary" type="button">Bersihkan</button></div>
+      </section>
+
+      <aside class="seo-tool__results" aria-live="polite">
+        <div class="seo-tool__score">
+          <div class="seo-tool__score-ring" id="scoreRing"><strong id="scoreValue">—</strong><span>/ 100</span></div>
+          <div><h2>Skor optimasi</h2><p id="scoreLabel">Masukkan artikel untuk memulai analisis.</p></div>
+        </div>
+        <div class="seo-tool__tabs" role="tablist" aria-label="Kategori analisis">
+          <button type="button" class="active" data-tab="seo">SEO <span id="seoCount">0/0</span></button>
+          <button type="button" data-tab="readability">Keterbacaan <span id="readCount">0/0</span></button>
+          <button type="button" data-tab="links">Tautan &amp; media <span id="linkCount">0/0</span></button>
+        </div>
+        <div id="seoPanel" class="seo-tool__panel"><p class="seo-tool__empty">Hasil pemeriksaan akan tampil di sini.</p></div>
+        <div id="readabilityPanel" class="seo-tool__panel" hidden></div>
+        <div id="linksPanel" class="seo-tool__panel" hidden></div>
+
+        <div class="seo-tool__preview">
+          <h3>Pratinjau hasil pencarian</h3>
+          <div class="seo-tool__google">
+            <span>meatfish.co.id</span>
+            <strong id="previewTitle">Judul SEO akan tampil di sini</strong>
+            <p id="previewMeta">Meta description akan tampil di sini.</p>
+            <small id="previewUrl">https://meatfish.co.id/</small>
+          </div>
+        </div>
+        <p class="seo-tool__disclaimer">Panjang judul dan deskripsi hanyalah indikator. Google dapat menyusun ulang cuplikan berdasarkan kueri dan perangkat. Nilai hijau bukan jaminan artikel akan terindeks atau mendapat peringkat.</p>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.seo-tool{background:#f5f8f7;min-height:80vh;padding:42px 0 76px}.seo-tool__head,.seo-tool__layout{width:min(calc(100% - 32px),1180px);margin:auto}.seo-tool__head{padding:18px 0 28px}.seo-tool__eyebrow{font-size:11px;letter-spacing:.16em;font-weight:850;color:#e64c35}.seo-tool__head h1{font-size:clamp(34px,5vw,48px);line-height:1.08;margin:8px 0;color:#143037}.seo-tool__head>p{max-width:760px;color:#587076;margin:8px 0}.seo-tool__note{font-size:13px}.seo-tool__layout{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(340px,.9fr);gap:22px;align-items:start}.seo-tool__editor,.seo-tool__results{background:#fff;border:1px solid #dce6e4;border-radius:16px;padding:24px;box-shadow:0 8px 24px #12310a}.seo-tool__section-title{display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid #e5ecea;margin:5px 0 18px;padding-bottom:10px}.seo-tool__section-title:not(:first-child){margin-top:30px}.seo-tool__section-title h2{font-size:20px;margin:0}.seo-tool__section-title span{font-size:11px;color:#718489;font-weight:750}.seo-tool__editor label{display:block;font-weight:750;font-size:13px;color:#26434a;margin:14px 0}.seo-tool__editor input,.seo-tool__editor textarea{display:block;width:100%;margin-top:6px;padding:12px 13px;border:1px solid #cbd9d6;border-radius:9px;background:#fff;color:#143037;font:inherit;font-size:14px}.seo-tool__editor input:focus,.seo-tool__editor textarea:focus{outline:2px solid #0b5965;outline-offset:1px}.seo-tool__editor small{display:block;color:#718489;font-size:11px;font-weight:450;margin-top:5px}.seo-tool__actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}.seo-tool__actions button{border:0;border-radius:9px;padding:12px 18px;background:#0b5965;color:white;font-weight:800;cursor:pointer}.seo-tool__actions .secondary{background:#eaf1ef;color:#21434a}.seo-tool__score{display:flex;align-items:center;gap:16px;padding-bottom:20px}.seo-tool__score h2{font-size:20px;margin:0}.seo-tool__score p{font-size:13px;color:#718489;margin:4px 0}.seo-tool__score-ring{width:76px;height:76px;border:7px solid #e2ebe8;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;flex-shrink:0}.seo-tool__score-ring strong{font-size:24px;line-height:1}.seo-tool__score-ring span{font-size:9px;color:#718489}.seo-tool__tabs{display:flex;border-bottom:1px solid #dce6e4;gap:4px}.seo-tool__tabs button{flex:1;border:0;background:transparent;padding:12px 4px;color:#718489;font-weight:800;font-size:12px;cursor:pointer;border-bottom:3px solid transparent}.seo-tool__tabs button.active{color:#0b5965;border-color:#0b5965}.seo-tool__tabs span{display:block;font-size:10px;font-weight:600}.seo-tool__panel{padding:12px 0;max-height:510px;overflow:auto}.seo-tool__empty{font-size:13px;color:#718489;padding:10px}.seo-check{display:flex;gap:10px;padding:12px 2px;border-bottom:1px solid #edf1f0}.seo-check__icon{font-size:16px;line-height:1.4}.seo-check strong{display:block;font-size:13px;color:#24434a}.seo-check p{font-size:12px;line-height:1.5;color:#718489;margin:3px 0 0}.seo-check.good .seo-check__icon{color:#18834b}.seo-check.warn .seo-check__icon{color:#d18b17}.seo-check.bad .seo-check__icon{color:#d04444}.seo-tool__preview{margin-top:18px;padding-top:16px;border-top:1px solid #e5ecea}.seo-tool__preview h3{font-size:16px;margin:0 0 10px}.seo-tool__google{border:1px solid #e5ecea;border-radius:10px;padding:14px}.seo-tool__google span,.seo-tool__google small{display:block;font-size:11px;color:#718489}.seo-tool__google strong{display:block;font-size:18px;line-height:1.3;color:#1a0dab;font-weight:500;margin:5px 0}.seo-tool__google p{font-size:12px;color:#526166;line-height:1.5;margin:4px 0}.seo-tool__disclaimer{font-size:11px;line-height:1.55;color:#829095;margin:14px 0 0}@media(max-width:850px){.seo-tool__layout{grid-template-columns:1fr}.seo-tool__results{order:2}}@media(max-width:520px){.seo-tool{padding-top:20px}.seo-tool__editor,.seo-tool__results{padding:16px}.seo-tool__tabs button{font-size:11px}.seo-tool__section-title h2{font-size:18px}}
+</style>
+
+<script>
+const byId = (id) => document.getElementById(id);
+const stripHtml = (value) => { const node = document.createElement('div'); node.innerHTML = value; return (node.textContent || node.innerText || '').replace(/\s+/g, ' ').trim(); };
+const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const wordCount = (text) => (text.match(/[\p{L}\p{N}]+/gu) || []).length;
+const checks = { seo: [], readability: [], links: [] };
+const renderChecks = (items) => items.map(item => `<div class="seo-check ${item.status}"><span class="seo-check__icon">${item.status === 'good' ? '✓' : item.status === 'warn' ? '!' : '×'}</span><div><strong>${item.title}</strong><p>${item.detail}</p></div></div>`).join('');
+function analyze() {
+  const title = byId('articleTitle').value.trim();
+  const seoTitle = byId('seoTitle').value.trim();
+  const slug = byId('slug').value.trim();
+  const meta = byId('metaDescription').value.trim();
+  const key = byId('focusKeyphrase').value.trim().toLocaleLowerCase('id');
+  const synonyms = byId('synonyms').value.split(',').map(s => s.trim().toLocaleLowerCase('id')).filter(Boolean);
+  const raw = byId('articleContent').value.trim();
+  const htmlMode = /<\/?[a-z][\s\S]*>/i.test(raw);
+  const doc = new DOMParser().parseFromString(htmlMode ? raw : `<article>${raw.replace(/\n/g,'<br>')}</article>`, 'text/html');
+  const text = (doc.body.textContent || '').replace(/\s+/g,' ').trim();
+  const words = wordCount(text);
+  const lower = text.toLocaleLowerCase('id');
+  const h1s = doc.querySelectorAll('h1');
+  const h2s = doc.querySelectorAll('h2');
+  const h3s = doc.querySelectorAll('h3');
+  const headings = [...doc.querySelectorAll('h1,h2,h3,h4')].map(h => h.textContent.trim()).filter(Boolean);
+  const internalLinks = [...doc.querySelectorAll('a[href]')].filter(a => { try { return new URL(a.getAttribute('href'), location.origin).hostname === 'meatfish.co.id'; } catch { return false; } });
+  const externalLinks = [...doc.querySelectorAll('a[href]')].filter(a => { try { return /^https?:/.test(a.getAttribute('href')) && new URL(a.getAttribute('href')).hostname !== 'meatfish.co.id'; } catch { return false; } });
+  const images = [...doc.querySelectorAll('img')];
+  const keyRegex = key ? new RegExp(escapeRegExp(key), 'giu') : null;
+  const countKey = keyRegex ? (lower.match(keyRegex) || []).length : 0;
+  const density = words ? countKey / words * 100 : 0;
+  const inTitle = key && (seoTitle.toLocaleLowerCase('id').includes(key) || title.toLocaleLowerCase('id').includes(key));
+  const inSlug = key && slug.toLocaleLowerCase('id').includes(key.replace(/\s+/g,'-'));
+  const inMeta = key && meta.toLocaleLowerCase('id').includes(key);
+  const inIntro = key && lower.slice(0,260).includes(key);
+  const seo = [];
+  const add = (arr,status,title,detail) => arr.push({status,title,detail});
+  add(seo, seoTitle.length >= 30 && seoTitle.length <= 60 ? 'good' : seoTitle.length ? 'warn':'bad', 'Judul SEO', seoTitle ? `${seoTitle.length} karakter. Target panduan 50–60 karakter.` : 'Judul SEO belum diisi.');
+  add(seo, !!title && h1s.length <= 1 ? 'good':'bad', 'Satu H1 utama', title ? `Judul artikel diisi; ditemukan ${h1s.length} tag H1 pada konten.` : 'Isi judul artikel/H1.');
+  add(seo, slug && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug) ? 'good':'warn', 'Struktur slug', slug ? 'Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect.' : 'Slug belum diisi.');
+  add(seo, meta.length >= 120 && meta.length <= 160 ? 'good' : meta.length ? 'warn':'bad', 'Meta description', meta ? `${meta.length} karakter. Target panduan 140–160 karakter.` : 'Meta description belum diisi.');
+  add(seo, !!key ? 'good':'bad', 'Frasa kunci utama', key ? `Frasa kunci “${key}” digunakan ${countKey} kali pada konten.` : 'Tentukan satu frasa kunci utama yang sesuai dengan maksud pencarian.');
+  add(seo, inTitle ? 'good':'warn', 'Frasa kunci di judul', inTitle ? 'Frasa kunci ditemukan pada judul.' : 'Gunakan frasa kunci secara alami pada judul SEO atau H1.');
+  add(seo, inSlug ? 'good':'warn', 'Frasa kunci di slug', inSlug ? 'Frasa kunci ditemukan pada slug.' : 'Pertimbangkan memasukkan frasa kunci ke slug jika tetap ringkas.');
+  add(seo, inMeta ? 'good':'warn', 'Frasa kunci di meta description', inMeta ? 'Frasa kunci ditemukan pada meta description.' : 'Masukkan frasa kunci secara alami ke meta description.');
+  add(seo, inIntro ? 'good':'warn', 'Frasa kunci pada pembuka', inIntro ? 'Frasa kunci muncul pada bagian awal artikel.' : 'Sebutkan topik utama secara alami di paragraf pembuka.');
+  add(seo, words >= 300 ? 'good':'warn', 'Kelengkapan konten', `${words} kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas.`);
+  add(seo, h2s.length >= 2 ? 'good':'warn', 'Subjudul terstruktur', `${h2s.length} H2 dan ${h3s.length} H3 ditemukan. Gunakan heading untuk membantu pembaca memindai.`);
+  add(seo, density > 0 && density <= 2.5 ? 'good' : density > 2.5 ? 'warn':'warn', 'Penggunaan frasa kunci', key ? `Kepadatan perkiraan ${density.toFixed(2)}%. Hindari pengulangan yang terasa dipaksakan.` : 'Isi frasa kunci untuk memeriksa kemunculannya.');
+  add(seo, synonyms.length && synonyms.some(s => lower.includes(s)) ? 'good':'warn', 'Sinonim dan istilah terkait', synonyms.length ? 'Gunakan variasi istilah yang benar-benar relevan dengan konteks.' : 'Tambahkan sinonim jika ada variasi istilah yang wajar.');
+  const readability = [];
+  const sentences = text.split(/[.!?]+/).map(s=>s.trim()).filter(Boolean);
+  const avgSentence = sentences.length ? words/sentences.length : 0;
+  const longSentences = sentences.filter(s=>wordCount(s)>25).length;
+  const paragraphs = htmlMode ? [...doc.querySelectorAll('p')].filter(p=>p.textContent.trim()) : raw.split(/\n\s*\n/).filter(p=>p.trim());
+  const longParagraphs = paragraphs.filter(p=>wordCount(htmlMode?p.textContent:p)>100).length;
+  const transitionWords = ['selain itu','namun','karena itu','oleh sebab itu','sebagai contoh','misalnya','selanjutnya','di sisi lain','dengan demikian','pertama','kemudian'];
+  const transitionCount = transitionWords.filter(w=>lower.includes(w)).length;
+  add(readability, avgSentence > 0 && avgSentence <= 20 ? 'good':'warn', 'Panjang kalimat', sentences.length ? `Rata-rata ${avgSentence.toFixed(1)} kata per kalimat; ${longSentences} kalimat lebih dari 25 kata.` : 'Belum ada kalimat yang bisa dianalisis.');
+  add(readability, longParagraphs === 0 ? 'good':'warn', 'Panjang paragraf', longParagraphs ? `${longParagraphs} paragraf lebih dari 100 kata. Pecah jika membantu alur baca.` : 'Tidak ditemukan paragraf yang terlalu panjang.');
+  add(readability, h2s.length >= 2 ? 'good':'warn', 'Subjudul membantu pemindaian', `${h2s.length} subjudul H2 ditemukan.`);
+  add(readability, transitionCount >= 2 ? 'good':'warn', 'Kata transisi', `${transitionCount} variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis.`);
+  add(readability, words >= 250 ? 'good':'warn', 'Konteks dan penjelasan', `${words} kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan.`);
+  const links = [];
+  add(links, internalLinks.length ? 'good':'warn', 'Tautan internal', `${internalLinks.length} tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan.`);
+  add(links, externalLinks.length ? 'good':'warn', 'Tautan eksternal', `${externalLinks.length} tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual.`);
+  add(links, images.length && images.every(img => (img.getAttribute('alt')||'').trim()) ? 'good' : images.length ? 'warn':'warn', 'Alt text gambar', images.length ? `${images.filter(img=>(img.getAttribute('alt')||'').trim()).length} dari ${images.length} gambar memiliki alt text.` : 'Belum ada gambar pada HTML yang ditempel.');
+  add(links, headings.length && new Set(headings).size === headings.length ? 'good':'warn', 'Kejelasan heading', headings.length ? 'Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan.' : 'Tambahkan heading H2/H3 pada konten.');
+  add(links, !!byId('articleUrl').value.trim() ? 'good':'warn', 'URL artikel', byId('articleUrl').value.trim() ? 'URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman.' : 'URL belum diisi. Pemeriksa ini tidak dapat mengecek canonical atau status HTTP secara langsung.');
+  Object.assign(checks,{seo,readability,links});
+  const all=[...seo,...readability,...links];
+  const points=all.reduce((sum,c)=>sum+(c.status==='good'?1:0),0);
+  const score=Math.round(points/all.length*100);
+  byId('scoreValue').textContent=score;
+  byId('scoreLabel').textContent=score>=85?'Optimasi konten sudah kuat':score>=65?'Masih ada beberapa hal untuk diperbaiki':'Perlu perbaikan sebelum diterbitkan';
+  byId('scoreRing').style.borderColor=score>=85?'#18834b':score>=65?'#d18b17':'#d04444';
+  byId('seoCount').textContent=seo.filter(c=>c.status==='good').length+'/'+seo.length;
+  byId('readCount').textContent=readability.filter(c=>c.status==='good').length+'/'+readability.length;
+  byId('linkCount').textContent=links.filter(c=>c.status==='good').length+'/'+links.length;
+  byId('seoPanel').innerHTML=renderChecks(seo);
+  byId('readabilityPanel').innerHTML=renderChecks(readability);
+  byId('linksPanel').innerHTML=renderChecks(links);
+  byId('previewTitle').textContent=seoTitle||title||'Judul SEO akan tampil di sini';
+  byId('previewMeta').textContent=meta||'Meta description akan tampil di sini.';
+  byId('previewUrl').textContent=byId('articleUrl').value.trim()||'https://meatfish.co.id/'+slug;
+}
+byId('seoTitle').addEventListener('input',e=>{byId('titleCount').textContent=e.target.value.length;byId('previewTitle').textContent=e.target.value||'Judul SEO akan tampil di sini';});
+byId('metaDescription').addEventListener('input',e=>{byId('metaCount').textContent=e.target.value.length;byId('previewMeta').textContent=e.target.value||'Meta description akan tampil di sini';});
+byId('slug').addEventListener('input',e=>{if(!byId('articleUrl').value)byId('previewUrl').textContent='https://meatfish.co.id/'+e.target.value;});
+byId('analyzeBtn').addEventListener('click',analyze);
+byId('resetBtn').addEventListener('click',()=>{document.querySelectorAll('.seo-tool__editor input,.seo-tool__editor textarea').forEach(el=>el.value='');byId('titleCount').textContent='0';byId('metaCount').textContent='0';byId('scoreValue').textContent='—';byId('scoreLabel').textContent='Masukkan artikel untuk memulai analisis.';byId('scoreRing').style.borderColor='#e2ebe8';byId('seoPanel').innerHTML='<p class="seo-tool__empty">Hasil pemeriksaan akan tampil di sini.</p>';byId('readabilityPanel').innerHTML='';byId('linksPanel').innerHTML='';['seoCount','readCount','linkCount'].forEach(id=>byId(id).textContent='0/0');byId('previewTitle').textContent='Judul SEO akan tampil di sini';byId('previewMeta').textContent='Meta description akan tampil di sini.';byId('previewUrl').textContent='https://meatfish.co.id/';});
+document.querySelectorAll('.seo-tool__tabs button').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('.seo-tool__tabs button').forEach(b=>b.classList.toggle('active',b===button));['seo','readability','links'].forEach(tab=>byId(tab+'Panel').hidden=tab!==button.dataset.tab);}));
+</script>
