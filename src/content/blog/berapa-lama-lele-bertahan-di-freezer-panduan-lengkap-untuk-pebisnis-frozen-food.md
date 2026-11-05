@@ -1,5 +1,12 @@
 ---
 title: "Lele di Freezer Tahan Berapa Lama? Acuan 2–3 Bulan"
+seoTitle: "Lele di Freezer Tahan Berapa Lama? Panduan Simpan"
+primaryKeyword: "lele di freezer tahan berapa lama"
+keyphraseSynonyms:
+  - "berapa lama lele bertahan di freezer"
+  - "lele beku tahan berapa lama"
+  - "cara menyimpan lele beku"
+imageAlt: "Lele beku yang disimpan dalam freezer untuk kebutuhan rumah tangga dan usaha kuliner"
 slug: "berapa-lama-lele-bertahan-di-freezer-panduan-lengkap-untuk-pebisnis-frozen-food"
 date: 2025-06-03T17:17:23+07:00
 updatedDate: 2026-10-13
