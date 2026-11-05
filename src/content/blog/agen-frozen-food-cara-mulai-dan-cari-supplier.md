@@ -1,5 +1,12 @@
 ---
 title: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan"
+seoTitle: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun…"
+primaryKeyword: "agen frozen food"
+keyphraseSynonyms:
+  - "agen frozen food panduan"
+  - "agen frozen food informasi"
+imageAlt: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan — panduan dan informasi Meatfish"
+
 slug: "agen-frozen-food-cara-mulai-dan-cari-supplier"
 description: "Agen Frozen Food: Cara Mulai, Cari Supplier, dan Bangun Pelanggan. Panduan praktis MeatFish untuk agen frozen food, lengkap dengan tips memilih produk, sup..."
 pubDate: 2026-08-21

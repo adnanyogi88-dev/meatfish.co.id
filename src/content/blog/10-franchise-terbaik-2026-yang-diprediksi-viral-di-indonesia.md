@@ -1,5 +1,11 @@
 ---
 title: "10 Pilihan Franchise 2026: Perbandingan Model Usaha dan Checklist"
+seoTitle: "10 Pilihan Franchise 2026: Perbandingan Model Usaha dan…"
+primaryKeyword: "10 pilihan franchise 2026"
+keyphraseSynonyms:
+  - "10 pilihan franchise 2026 panduan"
+  - "10 pilihan franchise 2026 informasi"
+
 slug: "10-franchise-terbaik-2026-yang-diprediksi-viral-di-indonesia"
 description: "Bandingkan 10 model usaha franchise 2026, kebutuhan operasional, pasokan, dan pertanyaan sebelum memilih kemitraan frozen food atau bisnis lain."
 pubDate: 2026-10-13

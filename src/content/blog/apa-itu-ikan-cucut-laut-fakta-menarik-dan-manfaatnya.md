@@ -1,5 +1,12 @@
 ---
 title: "Apa Itu Ikan Cucut Laut? Fakta Menarik dan Manfaatnya"
+seoTitle: "Apa Itu Ikan Cucut Laut? Fakta Menarik dan Manfaatnya"
+primaryKeyword: "apa itu ikan cucut laut"
+keyphraseSynonyms:
+  - "apa itu ikan cucut laut panduan"
+  - "apa itu ikan cucut laut informasi"
+imageAlt: "Apa Itu Ikan Cucut Laut? Fakta Menarik dan Manfaatnya — panduan dan informasi Meatfish"
+
 slug: "apa-itu-ikan-cucut-laut-fakta-menarik-dan-manfaatnya"
 date: 2024-11-26T08:40:15+07:00
 draft: false

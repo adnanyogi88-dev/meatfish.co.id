@@ -1,5 +1,12 @@
 ---
 title: "10 Rekomendasi Restoran Seafood Terenak di Jakarta"
+seoTitle: "10 Rekomendasi Restoran Seafood Terenak di Jakarta"
+primaryKeyword: "10 rekomendasi restoran seafood terenak di jakarta"
+keyphraseSynonyms:
+  - "10 rekomendasi restoran seafood terenak di jakarta panduan"
+  - "10 rekomendasi restoran seafood terenak di jakarta informasi"
+imageAlt: "10 Rekomendasi Restoran Seafood Terenak di Jakarta — panduan dan informasi Meatfish"
+
 slug: "10-rekomendasi-restoran-seafood-terenak-di-jakarta"
 date: 2024-12-19T14:31:12+07:00
 draft: false

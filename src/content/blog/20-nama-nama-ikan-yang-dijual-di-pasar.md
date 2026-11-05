@@ -1,5 +1,12 @@
 ---
 title: "20 Nama-Nama Ikan yang Dijual Di Pasar"
+seoTitle: "20 Nama-Nama Ikan yang Dijual Di Pasar"
+primaryKeyword: "20 nama-nama ikan yang dijual di pasar"
+keyphraseSynonyms:
+  - "20 nama-nama ikan yang dijual di pasar panduan"
+  - "20 nama-nama ikan yang dijual di pasar informasi"
+imageAlt: "20 Nama-Nama Ikan yang Dijual Di Pasar — panduan dan informasi Meatfish"
+
 slug: "20-nama-nama-ikan-yang-dijual-di-pasar"
 date: 2024-12-02T09:51:27+07:00
 draft: false
