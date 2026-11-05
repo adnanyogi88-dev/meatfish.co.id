@@ -70,7 +70,7 @@ const stripHtml = (value) => { const node = document.createElement('div'); node.
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const wordCount = (text) => (text.match(/[\p{L}\p{N}]+/gu) || []).length;
 const checks = { seo: [], readability: [], links: [] };
-const renderChecks = (items) => items.map(item => `<div class="seo-check ${item.status}"><span class="seo-check__icon">${item.status === 'good' ? '✓' : item.status === 'warn' ? '!' : '×'}</span><div><strong>${item.title}</strong><p>${item.detail}</p></div></div>`).join('');
+const renderChecks = (items) => items.map(item => `<div class="seo-check ${item.status}"><span class="seo-check__icon">${item.status === 'good' ? '✓' : item.status === 'warn' ? '!' : '×'}</span><div><strong>${escapeHtml(item.title)}</strong><p>${escapeHtml(item.detail)}</p></div></div>`).join('');
 function analyze() {
   const title = byId('articleTitle').value.trim();
   const seoTitle = byId('seoTitle').value.trim();
