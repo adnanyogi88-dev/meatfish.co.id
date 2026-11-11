@@ -1,4 +1,3 @@
----
 const links = [
   ["Kemitraan", "/gabung-kemitraan/"],
   ["Pasokan B2B", "/pasokan-untuk-bisnis/"],
@@ -17,6 +16,7 @@ const current = Astro.url.pathname;
     <label for="nav-toggle" class="nav-button" aria-hidden="true">☰</label>
     <nav class="main-nav" aria-label="Navigasi utama">
       {links.map(([label, href]) => <a class:list={{active: href === "/" ? current === "/" : current.startsWith(href)}} href={href}>{label}</a>)}
+      <a class:list={{active: current.startsWith("/login") || current.startsWith("/dashboard")}} href="/login/">Login / Affiliate</a>
     </nav>
   </div>
 </header>
