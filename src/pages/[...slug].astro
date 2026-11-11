@@ -30,10 +30,9 @@ const archiveBase = isArchive ? `/${kind}/${kind === 'category' ? categorySlug(a
 const listedPosts = isListing ? posts : isArchive ? archivePosts(kind, archiveSlug) : [];
 const pageCount = Math.ceil(listedPosts.length / 12);
 const pagePosts = listedPosts.slice((pageNumber - 1) * 12, pageNumber * 12);
-const post = !isArchive && !isListing ? posts.find(post => post.frontmatter.slug === clean) : undefined;
-const staticType = coreSlugs.includes(clean) && !isListing ? clean : null;
-const redirectTarget = !post && !staticType && !isArchive && !isListing
-  ? (legacyRedirects as Record<string, string>)[clean] || '' : '';
+const redirectTarget = (legacyRedirects as Record<string, string>)[clean] || '';
+const post = !redirectTarget && !isArchive && !isListing ? posts.find(post => post.frontmatter.slug === clean) : undefined;
+const staticType = !redirectTarget && coreSlugs.includes(clean) && !isListing ? clean : null;
 const pretty = (value: string) => value.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 const pageMeta: Record<string, { title: string; description: string }> = {
   'gabung-kemitraan': { title: 'Kemitraan Toko Frozen Food Meatfish', description: 'Konsultasikan rencana kemitraan toko Meatfish, kebutuhan investasi, lokasi, produk, dan informasi penawaran bersama tim.' },
@@ -50,7 +49,7 @@ const seoBaseTitle = post?.frontmatter.seoTitle || baseTitle;
 const title = `${seoBaseTitle}${pageNumber > 1 ? ` – Halaman ${pageNumber}` : ''}`;
 const description = post?.frontmatter.description || (staticType && pageMeta[staticType]?.description) || (isListing || isArchive ? `Jelajahi panduan Meatfish tentang ${isArchive ? archiveTitle.toLowerCase() : 'kemitraan, pasokan, dan pengelolaan bisnis frozen food'}.` : 'Lihat panduan bisnis dan informasi layanan Meatfish yang tersedia.');
 const canonicalPath = redirectTarget || (isListing || isArchive ? pageNumber > 1 ? `${archiveBase}page/${pageNumber}/` : archiveBase : path);
-const noindex = isListing || isArchive ? listedPosts.length === 0 || pageNumber > pageCount : !post && !staticType;
+const noindex = Boolean(redirectTarget) || (isListing || isArchive ? listedPosts.length === 0 || pageNumber > pageCount : !post && !staticType);
 const image = post ? postImage(post.frontmatter) : '/wp-content/uploads/2025/10/mf-logo.webp';
 const data = post?.frontmatter;
 const authorName = data?.author && data.author !== 'administrator' ? data.author : 'Tim Meatfish';
@@ -87,7 +86,9 @@ const breadcrumbLd = {
   <Breadcrumbs items={crumbs} />
   {articleLd && <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />}
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
-  {post ? <>
+  {redirectTarget ? <section class="section"><div class="container business-content">
+    <header class="page-head"><h1>Temukan halaman yang Anda cari</h1></header><p>Anda akan diarahkan ke halaman yang sesuai. Jika pengalihan belum berjalan, gunakan tautan berikut.</p><a class="button secondary" href={redirectTarget}>Buka Halaman Tujuan</a>
+  </div></section> : post ? <>
     <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time>{updatedDate(data)?.getTime() > publicationDate(data)?.getTime() && <> · Diperbarui <time datetime={updatedDate(data)?.toISOString()}>{formatDate(updatedDate(data))}</time></>} · Oleh {authorName}</p></header>
     <div class="container article-layout"><article class="article-content">
       <img class="article-featured" src={image} alt={data.imageAlt || data.image_alt || data.title} width="1200" height="675" fetchpriority="high" decoding="async" />
