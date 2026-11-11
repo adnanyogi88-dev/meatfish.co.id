@@ -1,0 +1,13 @@
+import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
+import { SUPABASE_URL, SUPABASE_ANON_KEY } from "/affiliate/auth-config.js";
+const $=id=>document.getElementById(id), params=new URLSearchParams(location.search);
+const valid=SUPABASE_URL.startsWith("https://")&&SUPABASE_ANON_KEY.length>20;
+let client=null,mode="login";
+function message(s,ok=false){$("status").textContent=s;$("status").style.color=ok?"#17623b":"#a13b2c";}
+function setMode(next){mode=next;const reg=mode==="register";$("title").textContent=reg?"Daftar akun Meatfish":"Masuk ke akun Meatfish";$("nameLabel").hidden=!reg;$("nameLabel").querySelector("input").required=reg;$("submit").textContent=reg?"Buat akun":"Masuk";$("forgot").hidden=reg;document.querySelectorAll("[data-mode]").forEach(b=>b.classList.toggle("active",b.dataset.mode===mode));}
+document.querySelectorAll("[data-mode]").forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.mode)));
+if(!valid){message("Autentikasi belum aktif. Admin perlu mengisi PUBLIC_SUPABASE_URL dan PUBLIC_SUPABASE_PUBLISHABLE_KEY di environment deploy.");}
+else{client=createClient(SUPABASE_URL,SUPABASE_ANON_KEY);client.auth.onAuthStateChange((event,session)=>{if(event==="SIGNED_IN"&&session)location.href="/dashboard/";if(event==="PASSWORD_RECOVERY")$("title").textContent="Buat password baru";});}
+$("authForm").addEventListener("submit",async e=>{e.preventDefault();if(!client)return;const f=new FormData(e.currentTarget),email=String(f.get("email")).trim(),password=String(f.get("password"));$("submit").disabled=true;message("Memproses...");try{if(mode==="register"){const {error}=await client.auth.signUp({email,password,options:{data:{display_name:String(f.get("name")).trim(),referral_code:params.get("ref")||""},emailRedirectTo:location.origin+"/dashboard/"}});if(error)throw error;message("Pendaftaran berhasil dikirim. Periksa email untuk verifikasi.",true);}else{const {error}=await client.auth.signInWithPassword({email,password});if(error)throw error;location.href="/dashboard/";}}catch(err){message(err.message||"Tidak dapat memproses akun.");}finally{$("submit").disabled=false;}});
+$("google").addEventListener("click",async()=>{if(!client)return;const {error}=await client.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+"/dashboard/"}});if(error)message(error.message);});
+$("forgot").addEventListener("click",async()=>{if(!client)return;const email=$("authForm").elements.email.value.trim();if(!email)return message("Isi email terlebih dahulu.");const {error}=await client.auth.resetPasswordForEmail(email,{redirectTo:location.origin+"/login/"});message(error?"Gagal mengirim email pemulihan.":"Jika email terdaftar, tautan pemulihan akan dikirim.",!error);});
