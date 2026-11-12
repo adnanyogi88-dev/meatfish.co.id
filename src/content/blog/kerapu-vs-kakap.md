@@ -3,7 +3,7 @@ title: "Kerapu vs Kakap: Perbedaan Rasa, Tekstur, Harga, dan Menu yang Cocok"
 slug: "kerapu-vs-kakap"
 date: 2026-07-11T08:00:00+07:00
 draft: false
-description: "Artikel komparatif untuk pengguna yang ingin memilih kerapu atau kakap sesuai menu dan budget."
+description: "Bandingkan kerapu vs kakap dari rasa, tekstur, ukuran, harga, dan kecocokan menu. Pelajari cara memilih ikan untuk rumah tangga maupun usaha kuliner."\nupdatedDate: 2026-11-12\nkeyphraseSynonyms: ["perbedaan ikan kerapu dan kakap", "kerapu atau kakap lebih enak", "harga ikan kerapu dan kakap"]
 categories:
   - "Seafood"
 tags: ["kerapu vs kakap", "ikan kerapu", "ikan kakap", "seafood"]
