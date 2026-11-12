@@ -82,9 +82,15 @@ Mengetahui apakah ikan harus anda cuci sebelum anda bekukan sangat relevan bagi 
 
 Untuk Anda yang ingin mengetahui lebih lanjut tentang potensi bisnis frozen food, berikut beberapa artikel penting:
 
-- [Keunggulan Dropshipper Frozen Food Meat & Fish](https://meatfish.co.id/keunggulan-dropshipper-frozen-food-Meat & Fish/)
+- [Keunggulan Dropshipper Frozen Food Meat & Fish](https://meatfish.co.id/supplier-frozen-food-tangan-pertama-di-bekasi/)
 - [Usaha Ikan Konsumsi Paling Laris Saat Ini dan Peluang Bisnisnya](https://meatfish.co.id/usaha-ikan-konsumsi-paling-laris-saat-ini-dan-peluang-bisnisnya/)
 - [Usaha Restoran Seafood yang Akan Sukses di 2025](https://meatfish.co.id/usaha-restoran-seafood-yang-akan-sukses-di-2025/)
+
+### Ikan belum dibersihkan, apakah boleh masuk freezer?
+
+Jika ikan belum dibersihkan, jangan langsung menganggap semua jenis ikan dan kondisi penanganan memiliki prosedur yang sama. Ikuti standar penanganan pangan yang berlaku untuk jenis produk, bersihkan isi perut bila diperlukan, cegah kontak silang antara ikan mentah dan makanan siap santap, lalu kemas rapat serta beri label tanggal dan identitas batch. Pertahankan suhu freezer sesuai petunjuk produk. Untuk ikan komersial atau produk kemasan, ikuti instruksi pemasok dan labelnya.
+
+Baca juga [berapa lama ikan tahan di freezer](/berapa-lama-ikan-tahan-di-freezer-panduan-lengkap-penyimpanan-ikan-beku/) dan [cara menyimpan lele beku](/berapa-lama-lele-bertahan-di-freezer-panduan-lengkap-untuk-pebisnis-frozen-food/).
 
 ### Kesimpulan: Pilih Langkah Sesuai Kebutuhan Bisnis Anda
 

@@ -3,7 +3,7 @@ title: "Supplier Frozen Food Tangan Pertama di Bekasi: Panduan B2B"
 slug: "supplier-frozen-food-tangan-pertama-di-bekasi"
 date: 2024-10-24T20:40:50+07:00
 updatedDate: 2026-10-13
-draft: false
+draft: true
 description: "Cari pasokan frozen food untuk usaha di Bekasi? Bandingkan spesifikasi, harga, minimum order, dan pengiriman sebelum meminta penawaran Meatfish."
 image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 featured_image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"

@@ -1,15 +1,15 @@
 ---
 title: "Udang di Freezer Tahan Berapa Lama? Suhu & Cara Simpan"
 seoTitle: "Udang di Freezer Tahan Berapa Lama? Ini Acuannya"
-primaryKeyword: "udang di freezer tahan berapa lama"
+primary_keyword: "udang di freezer tahan berapa lama"
 keyphraseSynonyms:
   - "masa simpan udang beku"
   - "cara menyimpan udang di freezer"
   - "berapa lama udang beku tahan"
-imageAlt: "Udang mentah yang dikemas untuk disimpan dalam freezer"
+image_alt: "Udang mentah yang dikemas untuk disimpan dalam freezer"
 slug: "udang-di-freezer-tahan-berapa-lama-panduan-lengkap-menyimpan-udang-beku-agar-tetap-segar"
 date: 2025-04-28T16:38:15+07:00
-updatedDate: 2026-11-05
+updatedDate: 2026-11-12
 draft: false
 description: "Pelajari acuan mutu udang beku pada suhu −18°C, perbedaan penyimpanan freezer dan chiller, cara pencairan, serta pencatatan stok usaha."
 image: "/wp-content/uploads/2025/10/ChatGPT-Image-Oct-21-2025-10_00_19-AM.png"
