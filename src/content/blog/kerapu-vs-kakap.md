@@ -10,7 +10,6 @@ keyphraseSynonyms: ["perbedaan ikan kerapu dan kakap", "kerapu atau kakap lebih 
 categories:
   - "Seafood"
 tags: ["kerapu vs kakap", "ikan kerapu", "ikan kakap", "seafood"]
-primary_keyword: "kerapu vs kakap"
 image: "/uploads/kerapu-vs-kakap-primary.png"
 featured_image: "/uploads/kerapu-vs-kakap-primary.png"
 image_alt: "Ilustrasi perbandingan kerapu dan kakap"
