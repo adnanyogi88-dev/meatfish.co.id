@@ -16,7 +16,7 @@ export function getStaticPaths() {
   const unavailable = new Set(allPosts.filter(post => !isPublished(post.frontmatter)).map(post => `/${post.frontmatter.slug}/`));
   const legacyPaths = Object.keys(legacyRedirects).map(slug => `/${slug}/`);
   const paths = [...new Set([...routes.map(route => route.path), ...indexablePagePaths(), ...posts.map(post => `/${post.frontmatter.slug}/`), ...legacyPaths])]
-    .filter(path => path !== '/' && (!unavailable.has(path) || Boolean((legacyRedirects as Record<string, string>)[path.replace(/^\\/|\\/$/g, '')])));
+    .filter(path => path !== '/' && (!unavailable.has(path) || Boolean((legacyRedirects as Record<string, string>)[path.slice(1, -1)])));
   return paths.map(path => ({ params: { slug: path.replace(/^\/|\/$/g, '') }, props: { path } }));
 }
 const { path } = Astro.props;
