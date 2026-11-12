@@ -1,10 +1,12 @@
 ---
-title: "20 Nama-Nama Ikan yang Dijual Di Pasar"
+title: "20 Nama Ikan yang Umum Dijual di Pasar Indonesia"
 slug: "20-nama-nama-ikan-yang-dijual-di-pasar"
 date: 2024-12-02T09:51:27+07:00
 draft: false
 description: "Kenali 20 nama ikan yang umum dijual di pasar Indonesia, karakteristik, kegunaan untuk menu, serta cara memilih ikan untuk rumah tangga dan usaha."
 updatedDate: 2026-11-12
+seoTitle: "20 Nama Ikan yang Umum Dijual di Pasar Indonesia | Meatfish"
+primary_keyword: "nama-nama ikan yang dijual di pasar"
 primaryKeyword: "nama-nama ikan yang dijual di pasar"
 keyphraseSynonyms:
   - "jenis ikan di pasar"
@@ -36,7 +38,7 @@ Dengan beragamnya spesies ikan yang mereka tawarkan, pasar ikan lokal membuka pe
 
 **Baca juga:** [perbedaan kerapu vs kakap](/kerapu-vs-kakap/) dan [katalog produk ikan serta seafood Meatfish](/produk-meatfish/).
 
-### Nama-Nama Ikan Di Pasar
+### 20 Nama Ikan yang Umum Dijual di Pasar
 
 Pasar ikan Indonesia menawarkan beragam jenis ikan yang berbeda, masing-masing dengan keunikan dan kegunaannya tersendiri. Berikut adalah dua puluh nama ikan yang umum kita temukan di pasar ikan lokal, yang mencerminkan kekayaan biodiversitas laut dan tawar di Indonesia:
 
@@ -51,11 +53,11 @@ Pasar ikan Indonesia menawarkan beragam jenis ikan yang berbeda, masing-masing d
 9. **Ikan Tongkol**: Ekonomis dan sering digunakan dalam masakan khas nusantara.
 10. **Ikan Bawal**: Dagingnya tebal dan lezat, cocok untuk digoreng atau dibakar.
 11. **Ikan Sarden**: Kecil dan biasanya diawetkan dalam kaleng.
-12. **Ikan Teri**: Kecil namun kaya akan rasa, sering dijadikan lauk pempek.
+12. **Ikan Teri**: Ikan berukuran kecil yang umum diolah menjadi ikan asin, sambal, atau lauk goreng.
 13. **Ikan Guppy**: Meskipun lebih sering sebagai ikan hias, beberapa budaya mengkonsumsinya.
 14. **Ikan Hiu**: Digunakan dalam sup sirip hiu, namun kontroversial karena aspek konservasi.
 15. **Ikan Salmon**: Tinggi omega-3, populer di kalangan pecinta makanan sehat.
-16. **Ikan Makarel**: Dikenal juga sebagai ikan kembung, banyak diolah menjadi ikan asin.
+16. **Ikan Makarel**: Ikan laut yang sering diolah menjadi lauk, panggang, atau produk kalengan.
 17. **Ikan Betutu**: Spesies ini khas dari Papua, sering dibakar atau dibuat kuah.
 18. **Ikan Rohu**: Populer di kalangan komunitas Asia Selatan, digunakan dalam curry.
 19. **Ikan Sidat**: Mahal dan eksklusif, sering diimpor ke Jepang untuk unagi.
