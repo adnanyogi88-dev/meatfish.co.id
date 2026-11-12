@@ -11,7 +11,7 @@ keyphraseSynonyms:
   - "supplier frozen food B2B"
 image_alt: "Pasokan produk frozen food untuk kebutuhan restoran, reseller, dan usaha kuliner"
 draft: false
-description: "Cari pasokan frozen food untuk usaha di Bekasi? Bandingkan spesifikasi, harga, minimum order, dan pengiriman sebelum meminta penawaran Meatfish."
+description: "Cari supplier frozen food tangan pertama di Bekasi untuk usaha? Bandingkan spesifikasi, harga, minimum order, dan pengiriman sebelum meminta penawaran Meatfish."
 image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 featured_image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 categories:
