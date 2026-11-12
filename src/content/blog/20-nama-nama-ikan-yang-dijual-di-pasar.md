@@ -7,7 +7,6 @@ description: "Kenali 20 nama ikan yang umum dijual di pasar Indonesia, karakteri
 updatedDate: 2026-11-12
 seoTitle: "20 Nama Ikan yang Umum Dijual di Pasar Indonesia | Meatfish"
 primary_keyword: "nama-nama ikan yang dijual di pasar"
-primaryKeyword: "nama-nama ikan yang dijual di pasar"
 keyphraseSynonyms:
   - "jenis ikan di pasar"
   - "nama ikan konsumsi"
@@ -54,14 +53,14 @@ Pasar ikan Indonesia menawarkan beragam jenis ikan yang berbeda, masing-masing d
 10. **Ikan Bawal**: Dagingnya tebal dan lezat, cocok untuk digoreng atau dibakar.
 11. **Ikan Sarden**: Kecil dan biasanya diawetkan dalam kaleng.
 12. **Ikan Teri**: Ikan berukuran kecil yang umum diolah menjadi ikan asin, sambal, atau lauk goreng.
-13. **Ikan Guppy**: Meskipun lebih sering sebagai ikan hias, beberapa budaya mengkonsumsinya.
-14. **Ikan Hiu**: Digunakan dalam sup sirip hiu, namun kontroversial karena aspek konservasi.
+13. **Ikan Kakap**: Ikan laut yang umum diolah menjadi sup, digoreng, atau dimasak dengan saus.
+14. **Ikan Tenggiri**: Banyak digunakan sebagai bahan pempek, otak-otak, dan olahan ikan.
 15. **Ikan Salmon**: Tinggi omega-3, populer di kalangan pecinta makanan sehat.
 16. **Ikan Makarel**: Ikan laut yang sering diolah menjadi lauk, panggang, atau produk kalengan.
-17. **Ikan Betutu**: Spesies ini khas dari Papua, sering dibakar atau dibuat kuah.
-18. **Ikan Rohu**: Populer di kalangan komunitas Asia Selatan, digunakan dalam curry.
-19. **Ikan Sidat**: Mahal dan eksklusif, sering diimpor ke Jepang untuk unagi.
-20. **Ikan Koi**: Biasanya sebagai ikan hias, tapi juga dimakan di beberapa negara.
+17. **Ikan Gurame**: Ikan air tawar yang populer untuk digoreng atau dibakar.
+18. **Ikan Layang**: Ikan laut yang sering diolah menjadi lauk harian.
+19. **Ikan Belanak**: Ikan yang dapat ditemukan di pasar pesisir dan diolah dengan berbagai cara.
+20. **Ikan Bawal Laut**: Ikan yang dapat diolah dengan cara digoreng atau dipanggang.
 
 Setiap jenis ikan ini menawarkan keunikan dalam rasa dan cara pengolahannya, menciptakan keragaman kuliner yang luas dan memikat bagi konsumen baik di dalam maupun luar negeri. Dengan memahami karakteristik dan kegunaan masing-masing ikan, para pengusaha dapat mengidentifikasi peluang dan memilih jenis ikan yang paling sesuai dengan bisnis mereka di pasar ikan.
 
