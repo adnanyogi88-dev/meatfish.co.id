@@ -1,15 +1,15 @@
 ---
 title: "Lele di Freezer Tahan Berapa Lama? Acuan 2–3 Bulan"
 seoTitle: "Lele di Freezer Tahan Berapa Lama? Panduan Simpan"
-primaryKeyword: "lele di freezer tahan berapa lama"
+primary_keyword: "lele di freezer tahan berapa lama"
 keyphraseSynonyms:
   - "berapa lama lele bertahan di freezer"
   - "lele beku tahan berapa lama"
   - "cara menyimpan lele beku"
-imageAlt: "Lele beku yang disimpan dalam freezer untuk kebutuhan rumah tangga dan usaha kuliner"
+image_alt: "Lele beku yang disimpan dalam freezer untuk kebutuhan rumah tangga dan usaha kuliner"
 slug: "berapa-lama-lele-bertahan-di-freezer-panduan-lengkap-untuk-pebisnis-frozen-food"
 date: 2025-06-03T17:17:23+07:00
-updatedDate: 2026-10-13
+updatedDate: 2026-11-12
 draft: false
 description: "Acuan mutu lele beku 2–3 bulan pada −18°C. Periksa label produk, kondisi penyimpanan, dan pencatatan stok sebelum digunakan."
 image: "/wp-content/uploads/2025/11/ChatGPT-Image-Nov-27-2025-10_27_09-AM.png"
@@ -31,11 +31,11 @@ published: true
 
 **Acuan mutu lele mentah beku adalah 2–3 bulan pada suhu −18°C atau lebih rendah**, mengikuti kategori catfish dalam [Cold Food Storage Chart dari FoodSafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts). Gunakan informasi ini sebagai panduan umum. Untuk lele kemasan, ikuti tanggal dan petunjuk penyimpanan produsen.
 
-## Bedakan lele mentah, marinasi, dan matang
+## Lele marinasi tahan berapa lama di kulkas?
 
 Lele mentah tanpa bumbu berbeda dari lele marinasi atau hidangan matang. Bumbu, proses pengolahan, kemasan, dan kondisi penyimpanan membuat satu angka tidak dapat dipakai untuk semua produk.
 
-Jika Anda mencari informasi **lele marinasi tahan berapa lama di kulkas**, periksa petunjuk produk atau tanyakan kepada pembuatnya. Catat juga waktu kemasan dibuka. Jangan memakai acuan lele mentah beku sebagai tanggal kedaluwarsa lele marinasi di chiller.
+Untuk menjawab pertanyaan **lele marinasi tahan berapa lama di kulkas**, jangan gunakan angka masa simpan lele mentah beku. Lama penyimpanan dipengaruhi bahan marinasi, proses persiapan, suhu chiller, kebersihan alat, kemasan, dan apakah produk sudah dibuka. Simpan pada suhu dingin sesuai panduan keamanan pangan yang berlaku, beri label waktu persiapan, dan ikuti petunjuk pembuat atau produsen. Jika suhu penyimpanan tidak terjaga atau riwayat waktunya tidak diketahui, jangan mengandalkan bau atau tampilan saja untuk memastikan keamanan.
 
 Untuk seafood mentah yang akan digunakan dalam dua hari setelah pembelian, [FDA menyarankan penyimpanan pada sekitar 4°C atau lebih rendah](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely). Jika lebih lama, bungkus dengan baik lalu bekukan.
 
