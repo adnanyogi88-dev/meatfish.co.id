@@ -1,17 +1,10 @@
 ---
-title: "Supplier Frozen Food Tangan Pertama di Bekasi untuk Usaha"
+title: "Supplier Frozen Food Tangan Pertama di Bekasi: Panduan B2B"
 slug: "supplier-frozen-food-tangan-pertama-di-bekasi"
 date: 2024-10-24T20:40:50+07:00
-updatedDate: 2026-11-12
-seoTitle: "Supplier Frozen Food Tangan Pertama di Bekasi | Meatfish"
-primary_keyword: "supplier frozen food tangan pertama"
-keyphraseSynonyms:
-  - "supplier frozen food Bekasi"
-  - "supplier frozen food untuk usaha"
-  - "supplier frozen food B2B"
-image_alt: "Pasokan produk frozen food untuk kebutuhan restoran, reseller, dan usaha kuliner"
-draft: false
-description: "Cari supplier frozen food tangan pertama di Bekasi untuk usaha? Bandingkan spesifikasi, harga, minimum order, dan pengiriman sebelum meminta penawaran Meatfish."
+updatedDate: 2026-10-13
+draft: true
+description: "Cari pasokan frozen food untuk usaha di Bekasi? Bandingkan spesifikasi, harga, minimum order, dan pengiriman sebelum meminta penawaran Meatfish."
 image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 featured_image: "/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_20_08-AM.jpg"
 categories:
@@ -33,17 +26,11 @@ published: true
 
 Mencari **supplier frozen food tangan pertama di Bekasi** perlu dimulai dari kebutuhan usaha dan kejelasan asal produk. Untuk pasokan Meatfish, lihat [kategori produk](/produk-meatfish/) lalu sampaikan kebutuhan kepada tim melalui [halaman pasokan untuk bisnis](/pasokan-untuk-bisnis/).
 
-## Apa arti supplier frozen food tangan pertama?
+## Apa arti supplier tangan pertama?
 
 Istilah tangan pertama biasanya dipakai untuk pemasok yang berhubungan langsung dengan produsen atau sumber produk. Dalam praktiknya, jalur pasokan dapat berbeda untuk setiap merek dan kategori.
 
 Tanyakan siapa produsen, pemilik merek, atau distributor produk yang ditawarkan. Gunakan spesifikasi dan dokumen produk untuk menilai penawaran. Istilah tangan pertama saja tidak membuktikan harga paling murah, stok selalu tersedia, atau mutu setiap batch.
-
-## Supplier frozen food untuk restoran, reseller, dan usaha kuliner
-
-Kebutuhan setiap pembeli berbeda. Restoran biasanya memerlukan spesifikasi dan jadwal pengiriman yang konsisten, sedangkan reseller perlu menghitung harga per unit, ukuran kemasan, dan ruang penyimpanan. Sebelum memilih supplier frozen food, cocokkan jenis produk, berat bersih, bentuk potongan, merek, volume, serta frekuensi pemesanan.
-
-Untuk membandingkan pemasok seafood secara lebih terarah, baca panduan [supplier seafood untuk restoran, hotel, dan katering](/supplier-seafood-untuk-restoran-hotel-katering/).
 
 ## Siapkan kebutuhan frozen food usaha Anda
 
