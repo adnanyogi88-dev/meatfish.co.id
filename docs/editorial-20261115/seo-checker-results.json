@@ -1,0 +1,2526 @@
+{
+  "checkerSource": "https://github.com/adnanyogi88-dev/meatfish.co.id/blob/397ab8744471dac02e4d512c31b8e343a76f7c6b/src/pages/seo-checker.astro",
+  "method": "Original checker JavaScript executed unchanged in jsdom against actual built article HTML and metadata, including hero and caption; excludes shared site CTA and related-navigation blocks (the CTA contains an intentionally decorative empty-alt WhatsApp icon). Not a Google, Yoast or Rank Math score.",
+  "results": [
+    {
+      "slug": "spesifikasi-pembelian-ikan-fillet",
+      "title": "Spesifikasi Pembelian Ikan Fillet untuk Dapur Usaha",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "56 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "143 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “spesifikasi pembelian ikan fillet” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "631 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.48%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 11.3 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "631 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "uji-yield-ikan-fillet",
+      "title": "Uji Yield Ikan Fillet: Rumus dan Biaya per Porsi",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "59 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "147 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “uji yield ikan fillet” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "618 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.49%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 9.8 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "618 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "glazing-ikan-beku",
+      "title": "Glazing Ikan Beku: Cara Membaca Berat dan Harga",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "143 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “glazing ikan beku” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "580 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.52%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 9.5 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "580 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "ukuran-udang-count",
+      "title": "Ukuran Udang Count: Panduan Pembelian untuk Usaha",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "60 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "147 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “ukuran udang count” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "590 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.51%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 11.1 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "6 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "590 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "2 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "spesifikasi-daging-slice",
+      "title": "Spesifikasi Daging Slice untuk Shabu dan Rice Bowl",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "55 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "138 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “spesifikasi daging slice” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "574 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.52%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.6 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "574 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "purchase-order-frozen-food",
+      "title": "Purchase Order Frozen Food: Kolom dan Contoh PO",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "144 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “purchase order frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "563 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.2 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "6 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "563 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "12 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "minimum-order-frozen-food",
+      "title": "Minimum Order Frozen Food: Cara Menghitung Kebutuhan",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "54 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "148 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “minimum order frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "557 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 9.6 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "6 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "557 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "lead-time-pemasok-frozen-food",
+      "title": "Lead Time Pemasok Frozen Food: Ukur Waktu Pasokan",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "60 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "144 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “lead time pemasok frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "544 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.55%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 11.1 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "544 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "12 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "reorder-point-frozen-food",
+      "title": "Reorder Point Frozen Food: Rumus dan Contoh Hitung",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "54 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "150 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “reorder point frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "569 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.3 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "569 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "14 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "safety-stock-frozen-food",
+      "title": "Safety Stock Frozen Food: Menentukan Stok Cadangan",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "56 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "145 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “safety stock frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "556 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.3 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "556 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "analisis-abc-stok-frozen-food",
+      "title": "Analisis ABC Stok Frozen Food untuk Prioritas Produk",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "146 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “analisis abc stok frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "562 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.2 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "562 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "stock-opname-frozen-food",
+      "title": "Stock Opname Frozen Food: Langkah dan Cek Selisih",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "60 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "144 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “stock opname frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "548 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.55%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.5 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "5 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "548 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "kode-batch-frozen-food",
+      "title": "Kode Batch Frozen Food: Cara Mencatat dan Menelusuri",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "146 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “kode batch frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "555 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.1 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "3 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "555 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "scorecard-supplier-frozen-food",
+      "title": "Scorecard Supplier Frozen Food: Contoh Evaluasi",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "144 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “scorecard supplier frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "555 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.3 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "555 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "ongkir-frozen-food-b2b",
+      "title": "Ongkir Frozen Food B2B: Hitung Biaya per Kilogram",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "60 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "148 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “ongkir frozen food b2b” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "567 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 8.6 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "6 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "567 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "food-cost-menu-seafood",
+      "title": "Food Cost Menu Seafood: Rumus dan Contoh per Porsi",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "56 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "144 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “food cost menu seafood” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "569 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 9.2 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "569 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "forecast-kebutuhan-katering",
+      "title": "Forecast Kebutuhan Katering: Hitung Bahan per Acara",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "58 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "147 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “forecast kebutuhan katering” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "561 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.53%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 11.0 kata per kalimat; 2 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "561 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "transfer-stok-antar-outlet",
+      "title": "Transfer Stok Antar Outlet: Alur untuk Frozen Food",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "55 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "150 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “transfer stok antar outlet” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "536 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.56%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 9.7 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "6 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "536 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "14 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "katalog-produk-frozen-food-b2b",
+      "title": "Katalog Produk Frozen Food B2B: Isi dan Struktur",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "59 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "146 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “katalog produk frozen food b2b” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "553 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.6 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "3 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "553 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    },
+    {
+      "slug": "uji-sampel-produk-frozen-food",
+      "title": "Uji Sampel Produk Frozen Food: Panduan Dapur Usaha",
+      "score": 100,
+      "seo": [
+        {
+          "status": "good",
+          "title": "Judul SEO",
+          "detail": "52 karakter. Target panduan 50–60 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Satu H1 utama",
+          "detail": "Judul artikel diisi; ditemukan 0 tag H1 pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Struktur slug",
+          "detail": "Pastikan slug singkat, deskriptif, dan tidak berubah setelah terbit tanpa redirect."
+        },
+        {
+          "status": "good",
+          "title": "Meta description",
+          "detail": "147 karakter. Target panduan 140–160 karakter."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci utama",
+          "detail": "Frasa kunci “uji sampel produk frozen food” digunakan 3 kali pada konten."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di judul",
+          "detail": "Frasa kunci ditemukan pada judul."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di slug",
+          "detail": "Frasa kunci ditemukan pada slug."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci di meta description",
+          "detail": "Frasa kunci ditemukan pada meta description."
+        },
+        {
+          "status": "good",
+          "title": "Frasa kunci pada pembuka",
+          "detail": "Frasa kunci muncul pada bagian awal artikel."
+        },
+        {
+          "status": "good",
+          "title": "Kelengkapan konten",
+          "detail": "558 kata terdeteksi. Panjang bukan faktor ranking tunggal; pastikan topik terjawab tuntas."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul terstruktur",
+          "detail": "6 H2 dan 3 H3 ditemukan. Gunakan heading untuk membantu pembaca memindai."
+        },
+        {
+          "status": "good",
+          "title": "Penggunaan frasa kunci",
+          "detail": "Kepadatan perkiraan 0.54%. Hindari pengulangan yang terasa dipaksakan."
+        },
+        {
+          "status": "good",
+          "title": "Sinonim dan istilah terkait",
+          "detail": "Gunakan variasi istilah yang benar-benar relevan dengan konteks."
+        }
+      ],
+      "readability": [
+        {
+          "status": "good",
+          "title": "Panjang kalimat",
+          "detail": "Rata-rata 10.1 kata per kalimat; 1 kalimat lebih dari 25 kata."
+        },
+        {
+          "status": "good",
+          "title": "Panjang paragraf",
+          "detail": "Tidak ditemukan paragraf yang terlalu panjang."
+        },
+        {
+          "status": "good",
+          "title": "Subjudul membantu pemindaian",
+          "detail": "6 subjudul H2 ditemukan."
+        },
+        {
+          "status": "good",
+          "title": "Kata transisi",
+          "detail": "4 variasi kata transisi terdeteksi. Gunakan seperlunya agar alur logis."
+        },
+        {
+          "status": "good",
+          "title": "Konteks dan penjelasan",
+          "detail": "558 kata terdeteksi. Tambahkan contoh, langkah, atau jawaban praktis jika diperlukan."
+        }
+      ],
+      "links": [
+        {
+          "status": "good",
+          "title": "Tautan internal",
+          "detail": "13 tautan internal ditemukan dalam HTML. Hubungkan ke artikel atau halaman layanan yang relevan."
+        },
+        {
+          "status": "good",
+          "title": "Tautan eksternal",
+          "detail": "1 tautan eksternal ditemukan. Cantumkan sumber tepercaya saat membuat klaim faktual."
+        },
+        {
+          "status": "good",
+          "title": "Alt text gambar",
+          "detail": "1 dari 1 gambar memiliki alt text."
+        },
+        {
+          "status": "good",
+          "title": "Kejelasan heading",
+          "detail": "Hindari heading berulang dan pastikan setiap bagian menjelaskan topik yang dijanjikan."
+        },
+        {
+          "status": "good",
+          "title": "URL artikel",
+          "detail": "URL tersedia untuk referensi pemeriksaan manual canonical dan status halaman."
+        }
+      ]
+    }
+  ]
+}

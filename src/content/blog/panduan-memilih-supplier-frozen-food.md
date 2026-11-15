@@ -123,3 +123,7 @@ Temukan pilihan daging, ikan, seafood, serta frozen food melalui [Meat & Fish](h
 
 > **Membutuhkan stok frozen food, meat food, atau fish food untuk rumah dan usaha?** Kunjungi [Meat & Fish](https://meatfish.co.id/) untuk melihat informasi produk, lokasi toko, dan peluang kemitraan.
 
+
+## Dokumen dan evaluasi pasokan
+
+Bandingkan [katalog produk B2B](/katalog-produk-frozen-food-b2b/) dengan kebutuhan dapur, lalu catat pesanan melalui [purchase order](/purchase-order-frozen-food/). Setelah pasokan berjalan, gunakan [scorecard supplier](/scorecard-supplier-frozen-food/) untuk menilai produk, jumlah, jadwal, dan respons secara konsisten.

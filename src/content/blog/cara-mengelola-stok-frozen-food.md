@@ -68,3 +68,7 @@ Tidak. Biaya dan hasil dipengaruhi lokasi, skala usaha, produk, biaya logistik, 
 Langkah yang terencana membantu bisnis berkembang dengan fondasi yang lebih kuat. Mulailah dari kebutuhan pelanggan, pilih proses yang realistis, dan periksa hasilnya secara rutin. Untuk mempelajari pilihan produk, pasokan usaha, atau peluang kemitraan, kunjungi halaman Meatfish yang relevan dan konfirmasikan seluruh ketentuan langsung kepada tim resmi sebelum mengambil keputusan.
 
 *Catatan: Informasi ini bersifat edukatif. Harga, ketersediaan produk, syarat pasokan, dan ketentuan kemitraan dapat berubah; konfirmasikan informasi terkini melalui kanal resmi Meatfish.*
+
+## Panduan perhitungan dan pemeriksaan stok
+
+Gunakan [reorder point frozen food](/reorder-point-frozen-food/) untuk menentukan waktu pesan, lalu tinjau [safety stock](/safety-stock-frozen-food/) secara terpisah. Cocokkan saldo melalui [stock opname](/stock-opname-frozen-food/) dan prioritaskan pemeriksaan dengan [analisis ABC](/analisis-abc-stok-frozen-food/).

@@ -68,3 +68,7 @@ Tidak. Biaya dan hasil dipengaruhi lokasi, skala usaha, produk, biaya logistik, 
 Langkah yang terencana membantu bisnis berkembang dengan fondasi yang lebih kuat. Mulailah dari kebutuhan pelanggan, pilih proses yang realistis, dan periksa hasilnya secara rutin. Untuk mempelajari pilihan produk, pasokan usaha, atau peluang kemitraan, kunjungi halaman Meatfish yang relevan dan konfirmasikan seluruh ketentuan langsung kepada tim resmi sebelum mengambil keputusan.
 
 *Catatan: Informasi ini bersifat edukatif. Harga, ketersediaan produk, syarat pasokan, dan ketentuan kemitraan dapat berubah; konfirmasikan informasi terkini melalui kanal resmi Meatfish.*
+
+## Panduan teknis untuk tim pembelian
+
+Mulai dari [spesifikasi ikan fillet](/spesifikasi-pembelian-ikan-fillet/) atau [spesifikasi daging slice](/spesifikasi-daging-slice/) sesuai menu. Selanjutnya, gunakan [uji sampel produk](/uji-sampel-produk-frozen-food/) dan [food cost menu seafood](/food-cost-menu-seafood/) untuk membandingkan hasil serta biaya porsi.
