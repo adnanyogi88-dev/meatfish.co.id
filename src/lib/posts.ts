@@ -1,5 +1,6 @@
 import routes from '../data/routes.json';
 import media from '../data/media.json';
+import legacyRedirects from '../data/legacy-redirects.json';
 import { archiveMatches, categoriesFor, categorySlug, coreSlugs, isPublished, publicationDate, updatedDate } from './content-utils';
 
 const modules: any[] = Object.values(import.meta.glob('../content/blog/*.md', { eager: true }));
@@ -12,7 +13,8 @@ export const allPosts = modules.map(module => ({
   },
   Content: module.Content,
 }));
-export const posts = allPosts.filter(post => isPublished(post.frontmatter))
+export const posts = allPosts.filter(post => isPublished(post.frontmatter)
+  && !Object.prototype.hasOwnProperty.call(legacyRedirects, post.frontmatter.slug))
   .sort((a, b) => publicationDate(b.frontmatter)!.getTime() - publicationDate(a.frontmatter)!.getTime());
 
 export const categories = [...new Map(posts.flatMap(post => categoriesFor(post.frontmatter))
@@ -38,7 +40,7 @@ export function indexablePagePaths(): string[] {
   return [...new Set([
     '/', ...coreSlugs.map(slug => `/${slug}/`), ...archiveBases, ...archivePages,
     ...Array.from({ length: Math.max(0, pageCount - 1) }, (_, i) => `/trend-daging-ikan-frozen/page/${i + 2}/`),
-  ])];
+  ])].filter(path => !Object.prototype.hasOwnProperty.call(legacyRedirects, path.replace(/^\/+|\/+$/g, '')));
 }
 
 export function articleSitemap() {

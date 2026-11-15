@@ -50,7 +50,7 @@ Berapa modal yang diperlukan untuk memulai usaha seafood? Jawabannya tergantung 
 
 #### **1. Biaya Pembelian Bahan Baku**
 
-Bahan baku adalah komponen terbesar dalam bisnis seafood. Untuk usaha skala kecil, modal yang diperlukan untuk bahan baku bisa dimulai dari Rp5 juta hingga Rp20 juta. Jika Anda ingin menjadi supplier *frozen seafood*, Anda bisa mendapatkan bahan baku dari [supplier terpercaya](https://meatfish.co.id/supplier-frozen-food-tangan-pertama-di-bekasi/) untuk menekan biaya.
+Bahan baku adalah komponen terbesar dalam bisnis seafood. Untuk usaha skala kecil, modal yang diperlukan untuk bahan baku bisa dimulai dari Rp5 juta hingga Rp20 juta. Jika Anda ingin menjadi supplier *frozen seafood*, Anda bisa mendapatkan bahan baku dari [supplier terpercaya](https://meatfish.id/supplier-frozen-food-tangan-pertama-cara-cerdas-dapat-harga-terbaik/) untuk menekan biaya.
 
 #### **2. Biaya Peralatan**
 
@@ -106,7 +106,7 @@ Untuk memberikan gambaran nyata, berikut adalah studi kasus pengusaha yang sukse
 **Modal Awal**: Rp15 juta
 **Pendekatan**:
 
-- Membeli bahan baku dari [supplier tangan pertama](https://meatfish.co.id/supplier-frozen-food-tangan-pertama-di-bekasi/).
+- Membeli bahan baku dari [supplier tangan pertama](https://meatfish.id/supplier-frozen-food-tangan-pertama-cara-cerdas-dapat-harga-terbaik/).
 - Memanfaatkan media sosial untuk pemasaran.
 - Bergabung dalam kemitraan distribusi Meat & Fish.
 

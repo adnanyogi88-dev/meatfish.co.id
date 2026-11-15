@@ -1,0 +1,105 @@
+{
+  "method": "Built-in image generation; one independent image per article; WebP optimization retains composition.",
+  "prompts": [
+    {
+      "id": 1,
+      "slug": "spesifikasi-pembelian-ikan-fillet",
+      "prompt": "Use case: photorealistic-natural. Create one premium editorial photograph for an Indonesian frozen-food B2B article titled 'Spesifikasi Pembelian Ikan Fillet untuk Dapur Usaha'. Landscape 16:9 composition. A real-looking Indonesian purchasing manager in clean navy workwear and a chef with hair covering compare sealed transparent packs of white fish fillets on a stainless receiving table, clipboard with indistinct marks, chilled professional kitchen setting. Natural documentary photography, authentic skin texture, subtle daylight, accurate hands, credible packaging. No visible logos, no promotional text, no watermark. This is an illustrative scene, not an actual Meatfish facility. Save generated asset for use in website project."
+    },
+    {
+      "id": 2,
+      "slug": "uji-yield-ikan-fillet",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about uji-yield-ikan-fillet. Scene: A chef in a hairnet weighs raw trimmed white fish fillets on a clean stainless digital kitchen scale; separate trays show measured portions. Side angle close documentary shot with an Indonesian kitchen manager recording results. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 3,
+      "slug": "glazing-ikan-beku",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about glazing-ikan-beku. Scene: Macro editorial photograph of two sealed transparent frozen white fish packs with a thin visible ice glaze, buyer hands comparing packs on a stainless refrigerated receiving counter, Indonesian professional kitchen softly blurred. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 4,
+      "slug": "ukuran-udang-count",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about ukuran-udang-count. Scene: Top-down editorial photograph of three distinct sizes of raw whole shrimp arranged on separate chilled stainless trays, hands of a chef holding a small ruler nearby, clean commercial kitchen, no printed numbers. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 5,
+      "slug": "spesifikasi-daging-slice",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about spesifikasi-daging-slice. Scene: Indonesian chef with hairnet checking thin raw beef slices using kitchen tongs over a stainless tray, sealed sample beef pack nearby, realistic marbling and delicate layered cuts, natural professional kitchen light. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 6,
+      "slug": "purchase-order-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about purchase-order-frozen-food. Scene: Indonesian restaurant purchasing officer at desk prepares an order on a laptop, paper purchase list with indistinct writing, sealed food cartons visible in refrigerated receiving area behind glass, candid documentary scene. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 7,
+      "slug": "minimum-order-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about minimum-order-frozen-food. Scene: Indonesian small catering owner and warehouse coordinator compare a single sealed frozen seafood carton with a stack of cartons, clipboard and clean warehouse carts, all packages closed, realistic business discussion. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 8,
+      "slug": "lead-time-pemasok-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about lead-time-pemasok-frozen-food. Scene: Refrigerated delivery van at a commercial kitchen loading bay, Indonesian logistics coordinator in workwear checks wristwatch and clipboard while staff move closed insulated food crates, realistic morning light. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 9,
+      "slug": "reorder-point-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about reorder-point-frozen-food. Scene: Frozen food store manager checks inventory on a tablet beside neatly stocked closed glass-door freezers, sealed seafood packs on shelves, authentic Indonesian neighborhood store, natural lighting. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 10,
+      "slug": "safety-stock-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about safety-stock-frozen-food. Scene: Organized cold-room shelf of closed frozen food cartons with a clearly separated reserve section using a different color blank shelf marker, Indonesian warehouse staff counts boxes with clipboard, warm protective workwear. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 11,
+      "slug": "analisis-abc-stok-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about analisis-abc-stok-frozen-food. Scene: Indonesian shop owner at a tidy counter compares three color-coded groups of inventory cards next to a laptop with blurred bar chart, glass door freezer background, natural realistic business photography. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 12,
+      "slug": "stock-opname-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about stock-opname-frozen-food. Scene: Two Indonesian warehouse staff in clean insulated workwear count sealed frozen food cartons on stainless cold-room shelves, one scans a barcode label while another records on tablet, documentary wide composition. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 13,
+      "slug": "kode-batch-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about kode-batch-frozen-food. Scene: Close-up hands scan a small generic barcode and indistinct lot label on a sealed frozen fish pack, rows of identical packages in food-safe plastic crate, realistic professional receiving environment. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 14,
+      "slug": "scorecard-supplier-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about scorecard-supplier-frozen-food. Scene: Indonesian purchasing manager and kitchen supervisor review a supplier assessment sheet at a stainless meeting counter, neatly arranged product samples still sealed, subtle calculator and laptop, candid natural scene. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 15,
+      "slug": "ongkir-frozen-food-b2b",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about ongkir-frozen-food-b2b. Scene: Commercial refrigerated delivery vehicle beside stacked closed insulated food crates on a loading dock, Indonesian coordinator uses calculator and route sheet, clean daylight, logistics editorial photography. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 16,
+      "slug": "food-cost-menu-seafood",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about food-cost-menu-seafood. Scene: Indonesian restaurant chef and manager compare a finished shrimp rice dish with a recipe costing notebook and calculator at a clean kitchen pass, appetizing realistic plated food, no branding. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 17,
+      "slug": "forecast-kebutuhan-katering",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about forecast-kebutuhan-katering. Scene: Indonesian catering kitchen planning team review order counts on a laptop with indistinct grid, rows of empty meal trays in clean preparation area, chef in hairnet discussing a menu board without legible text. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 18,
+      "slug": "transfer-stok-antar-outlet",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about transfer-stok-antar-outlet. Scene: Two Indonesian store supervisors exchange a closed insulated frozen-food crate and check a transfer receipt at a clean store loading area, one small refrigerated vehicle behind, documentary business photo. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 19,
+      "slug": "katalog-produk-frozen-food-b2b",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about katalog-produk-frozen-food-b2b. Scene: Indonesian sales coordinator photographs sealed fish, shrimp and beef packs on a clean tabletop for a wholesale product catalog, camera on small tripod and laptop to side, accurate realistic package shapes. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    },
+    {
+      "id": 20,
+      "slug": "uji-sampel-produk-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Generate ONE distinct 16:9 landscape primary editorial image for an Indonesian B2B frozen food article about uji-sampel-produk-frozen-food. Scene: Small Indonesian restaurant team conducts a blind tasting of three small cooked fish portions on plain numbered-free plates, chef and purchasing manager note texture observations, professional kitchen tasting counter. Authentic faces, natural skin texture, correct anatomy and hands, real food detail, premium documentary photography. No readable text, no logo, no watermark, no collage. Illustrative setting, do not imply an actual Meatfish facility. Keep food handling clean and credible."
+    }
+  ]
+}

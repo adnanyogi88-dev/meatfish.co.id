@@ -14,7 +14,7 @@ import { getContextualBacklinks } from '../data/contextual-backlinks';
 
 export function getStaticPaths() {
   const unavailable = new Set(allPosts.filter(post => !isPublished(post.frontmatter)).map(post => `/${post.frontmatter.slug}/`));
-  const paths = [...new Set([...routes.map(route => route.path), ...indexablePagePaths(), ...posts.map(post => `/${post.frontmatter.slug}/`)])]
+  const paths = [...new Set([...routes.map(route => route.path), ...Object.keys(legacyRedirects).map(slug => `/${slug}/`), ...indexablePagePaths(), ...posts.map(post => `/${post.frontmatter.slug}/`)])]
     .filter(path => path !== '/' && !unavailable.has(path));
   return paths.map(path => ({ params: { slug: path.replace(/^\/|\/$/g, '') }, props: { path } }));
 }
@@ -92,6 +92,7 @@ const breadcrumbLd = {
     <header class="page-head container"><span class="pill">{categoriesFor(data)[0]}</span><h1>{baseTitle}</h1><p class="article-meta">Terbit <time datetime={publicationDate(data)?.toISOString()}>{formatDate(publicationDate(data))}</time>{updatedDate(data)?.getTime() > publicationDate(data)?.getTime() && <> · Diperbarui <time datetime={updatedDate(data)?.toISOString()}>{formatDate(updatedDate(data))}</time></>} · Oleh {authorName}</p></header>
     <div class="container article-layout"><article class="article-content">
       <img class="article-featured" src={image} alt={data.imageAlt || data.image_alt || data.title} width="1200" height="675" fetchpriority="high" decoding="async" />
+      {data.imageCaption && <p class="article-meta">{data.imageCaption}</p>}
       <post.Content />
       {related && <aside class="related-article"><span>Panduan terkait</span><p><a href={related.href}>{related.label}</a></p></aside>}
       <section class="cta"><h2>Konsultasikan kebutuhan usaha Anda</h2><p>Bahas rencana <a href="/gabung-kemitraan/">kemitraan toko</a> atau <a href="/pasokan-untuk-bisnis/">kebutuhan pasokan B2B</a> bersama tim Meatfish.</p><WhatsAppButton label="Hubungi Tim Meatfish" purpose={/franchise|kemitraan|waralaba/i.test(data.title) ? 'kemitraan' : 'b2b'} /></section>
