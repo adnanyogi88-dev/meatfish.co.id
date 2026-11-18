@@ -1,0 +1,167 @@
+{
+  "batch": "editorial-20261118",
+  "aspectRatio": "16:9",
+  "resolution": "1200x675",
+  "format": "WebP",
+  "prompts": [
+    {
+      "id": 1,
+      "slug": "suhu-cold-storage-daging-beku",
+      "prompt": "Use case: photorealistic-natural. Create one premium editorial photograph for an Indonesian frozen-food B2B article titled Standar Suhu Cold Storage Daging Beku untuk Usaha Kuliner. Landscape 16:9 composition. A real-looking Indonesian cold storage warehouse manager and a chef in clean uniform inspect digital thermometer reading -18C on a stainless industrial freezer wall. Neatly stacked sealed meat cartons on plastic pallets. Natural documentary lighting, clean commercial facility.",
+      "imagePath": "/uploads/editorial-20261118/suhu-cold-storage-daging-beku.webp",
+      "altText": "Pemeriksaan indikator suhu cold storage daging beku minus 18 derajat celsius di dapur komersial",
+      "linkTarget": "https://meatfish.co.id/pasokan-untuk-bisnis/"
+    },
+    {
+      "id": 2,
+      "slug": "cara-defrosting-daging-beku-restoran",
+      "prompt": "Use case: photorealistic-natural. Landscape 16:9 editorial photograph for an Indonesian B2B culinary guide about cara defrosting daging beku restoran. Professional Indonesian head chef carefully handling vacuum-sealed beef portions thawing inside a stainless temperature-controlled prep sink, HACCP log sheet on clipboard.",
+      "imagePath": "/uploads/editorial-20261118/cara-defrosting-daging-beku-restoran.webp",
+      "altText": "Chef mendokumentasikan cara defrosting daging beku restoran sesuai prosedur keamanan pangan",
+      "linkTarget": "https://meatfish.co.id/produk-meatfish/"
+    },
+    {
+      "id": 3,
+      "slug": "sertifikat-halal-supplier-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Landscape 16:9 editorial photograph showing Indonesian restaurant purchasing manager holding official halal certified compliance document folder, reviewing meat supplier documents in a bright corporate food service office.",
+      "imagePath": "/uploads/editorial-20261118/sertifikat-halal-supplier-frozen-food.webp",
+      "altText": "Verifikasi dokumen sertifikat halal supplier frozen food oleh purchasing manager restoran",
+      "linkTarget": "https://meatfish.co.id/pasokan-untuk-bisnis/"
+    },
+    {
+      "id": 4,
+      "slug": "haccp-industri-daging-dan-seafood",
+      "prompt": "Use case: photorealistic-natural. Landscape 16:9 photograph of a food safety QA auditor in white coat using digital infrared temperature probe inspecting frozen seafood pallets in a clean Indonesian food distribution hub.",
+      "imagePath": "/uploads/editorial-20261118/haccp-industri-daging-dan-seafood.webp",
+      "altText": "Penerapan audit HACCP industri daging dan seafood pada rantai dingin penerimaan barang",
+      "linkTarget": "https://meatfish.co.id/uji-sampel-produk-frozen-food/"
+    },
+    {
+      "id": 5,
+      "slug": "standar-packaging-vacuum-pack-daging-beku",
+      "prompt": "Use case: photorealistic-natural. Close-up 16:9 photograph of premium frozen sliced beef tightly packaged in heavy-duty clear vacuum seal pouch, pristine clean stainless kitchen counter, subtle condensation on packaging.",
+      "imagePath": "/uploads/editorial-20261118/standar-packaging-vacuum-pack-daging-beku.webp",
+      "altText": "Karakteristik standar packaging vacuum pack daging beku tahan bocor untuk supply dapur resto",
+      "linkTarget": "https://meatfish.co.id/spesifikasi-daging-slice/"
+    },
+    {
+      "id": 6,
+      "slug": "spesifikasi-daging-ayam-fillet-horeca",
+      "prompt": "Use case: photorealistic-natural. Landscape 16:9 shot of an Indonesian butcher in professional kitchen attire weighing fresh trimmed boneless skinless chicken fillets on precision scale, clean commercial cutting board.",
+      "imagePath": "/uploads/editorial-20261118/spesifikasi-daging-ayam-fillet-horeca.webp",
+      "altText": "Pemeriksaan ketebalan dan kadar air spesifikasi daging ayam fillet horeca untuk katering",
+      "linkTarget": "https://meatfish.co.id/produk-meatfish/"
+    },
+    {
+      "id": 7,
+      "slug": "spesifikasi-cumi-tube-beku-restoran",
+      "prompt": "Use case: photorealistic-natural. Clean 16:9 culinary photograph of fresh cleaned white frozen squid tubes on crushed ice tray, chef examining uniform size grades with culinary tongs in a seafood restaurant prep kitchen.",
+      "imagePath": "/uploads/editorial-20261118/spesifikasi-cumi-tube-beku-restoran.webp",
+      "altText": "Pengecekan kualitas dan persentase glazing spesifikasi cumi tube beku restoran seafood",
+      "linkTarget": "https://meatfish.co.id/glazing-ikan-beku/"
+    },
+    {
+      "id": 8,
+      "slug": "spesifikasi-salmon-fillet-sashimi-grade",
+      "prompt": "Use case: photorealistic-natural. 16:9 premium gastronomy shot of fresh Norwegian salmon Trim E fillet with distinct white marbling on black slate board, Japanese knife and chef hands slicing sashimi precisely.",
+      "imagePath": "/uploads/editorial-20261118/spesifikasi-salmon-fillet-sashimi-grade.webp",
+      "altText": "Potongan salmon trim E standar spesifikasi salmon fillet sashimi grade untuk restoran sushi",
+      "linkTarget": "https://meatfish.co.id/spesifikasi-pembelian-ikan-fillet/"
+    },
+    {
+      "id": 9,
+      "slug": "kebutuhan-bahan-baku-dapur-cloud-kitchen",
+      "prompt": "Use case: photorealistic-natural. Modern fast-paced cloud kitchen facility with multiple cooking stations, Indonesian cook arranging standardized vacuum portions of meat into bento prep trays, efficient bright setting.",
+      "imagePath": "/uploads/editorial-20261118/kebutuhan-bahan-baku-dapur-cloud-kitchen.webp",
+      "altText": "Efisiensi pasokan kebutuhan bahan baku dapur cloud kitchen dengan sistem pre-cut frozen meat",
+      "linkTarget": "https://meatfish.co.id/pasokan-untuk-bisnis/"
+    },
+    {
+      "id": 10,
+      "slug": "pemilihan-potongan-daging-steak-komersial",
+      "prompt": "Use case: photorealistic-natural. High-end food photography of raw ribeye and striploin steak portions on a dark rustic wooden cutting board, sprigs of fresh rosemary, coarse sea salt, dramatic warm steakhouse lighting.",
+      "imagePath": "/uploads/editorial-20261118/pemilihan-potongan-daging-steak-komersial.webp",
+      "altText": "Perbandingan marbling dan ketebalan pemilihan potongan daging steak komersial untuk kafe",
+      "linkTarget": "https://meatfish.co.id/produk-meatfish/"
+    },
+    {
+      "id": 11,
+      "slug": "term-of-payment-supplier-bahan-baku-restoran",
+      "prompt": "Use case: photorealistic-natural. Indonesian restaurant finance manager and owner reviewing supplier terms of payment agreement and invoice spreadsheets in a modern cafe back office, laptop and financial records on desk.",
+      "imagePath": "/uploads/editorial-20261118/term-of-payment-supplier-bahan-baku-restoran.webp",
+      "altText": "Diskusi pengaturan term of payment supplier bahan baku restoran untuk menjaga arus kas dapur",
+      "linkTarget": "https://meatfish.co.id/purchase-order-frozen-food/"
+    },
+    {
+      "id": 12,
+      "slug": "kontrak-harga-tahunan-bahan-baku-makanan",
+      "prompt": "Use case: photorealistic-natural. Business meeting between Indonesian restaurant chain procurement director and frozen food supply director signing an annual supply contract, professional conference room setting.",
+      "imagePath": "/uploads/editorial-20261118/kontrak-harga-tahunan-bahan-baku-makanan.webp",
+      "altText": "Penandatanganan kontrak harga tahunan bahan baku makanan antara pengusaha kuliner dan supplier",
+      "linkTarget": "https://meatfish.co.id/scorecard-supplier-frozen-food/"
+    },
+    {
+      "id": 13,
+      "slug": "service-level-agreement-pengiriman-frozen-food",
+      "prompt": "Use case: photorealistic-natural. Commercial refrigerated truck at a restaurant loading dock, delivery driver and receiving supervisor checking frozen food carton temperature with digital probe, clipboard checklist.",
+      "imagePath": "/uploads/editorial-20261118/service-level-agreement-pengiriman-frozen-food.webp",
+      "altText": "Pemeriksaan kepatuhan service level agreement pengiriman frozen food pada area bongkar muat",
+      "linkTarget": "https://meatfish.co.id/lead-time-pemasok-frozen-food/"
+    },
+    {
+      "id": 14,
+      "slug": "sop-retur-barang-frozen-food-rusak",
+      "prompt": "Use case: photorealistic-natural. Indonesian restaurant receiving officer documenting a rejected damaged carton of frozen seafood using smartphone camera on a stainless dock table, official return report on clipboard.",
+      "imagePath": "/uploads/editorial-20261118/sop-retur-barang-frozen-food-rusak.webp",
+      "altText": "Dokumentasi bukti klaim sesuai SOP retur barang frozen food rusak pada saat penerimaan",
+      "linkTarget": "https://meatfish.co.id/uji-sampel-produk-frozen-food/"
+    },
+    {
+      "id": 15,
+      "slug": "perhitungan-waste-bahan-baku-daging-resto",
+      "prompt": "Use case: photorealistic-natural. Professional chef in commercial kitchen cutting trimmed beef cut on a heavy wooden board, separated fat trimmings placed on a stainless balance scale, recipe cost notebook alongside.",
+      "imagePath": "/uploads/editorial-20261118/perhitungan-waste-bahan-baku-daging-resto.webp",
+      "altText": "Pemisahan lemak dan perhitungan waste bahan baku daging resto untuk kalkulasi yield resep"
+    },
+    {
+      "id": 16,
+      "slug": "kapasitas-chest-freezer-vs-upright-freezer-resto",
+      "prompt": "Use case: photorealistic-natural. Stainless commercial restaurant storage room featuring both an open chest freezer packed with labeled food cartons and a tall upright glass-door freezer side by side.",
+      "imagePath": "/uploads/editorial-20261118/kapasitas-chest-freezer-vs-upright-freezer-resto.webp",
+      "altText": "Analisis perbandingan kapasitas chest freezer vs upright freezer resto untuk penataan stok",
+      "linkTarget": "https://meatfish.co.id/gabung-kemitraan/"
+    },
+    {
+      "id": 17,
+      "slug": "thermal-box-vs-armada-reefer-van-pengiriman",
+      "prompt": "Use case: photorealistic-natural. Indonesian cold chain logistics warehouse with insulated thermal boxes stacked next to an open refrigerated reefer delivery truck, workers loading chilled cartons in morning sunlight.",
+      "imagePath": "/uploads/editorial-20261118/thermal-box-vs-armada-reefer-van-pengiriman.webp",
+      "altText": "Pilihan moda pengiriman thermal box vs armada reefer van pengiriman frozen food komersial",
+      "linkTarget": "https://meatfish.co.id/ongkir-frozen-food-b2b/"
+    },
+    {
+      "id": 18,
+      "slug": "pencegahan-freezer-burn-pada-seafood-beku",
+      "prompt": "Use case: photorealistic-natural. Split side-by-side macro editorial shot of two frozen fish fillets: one with dry grayish freezer burn spots vs one fresh vibrant perfectly glazed frozen fish fillet, pristine restaurant backdrop.",
+      "imagePath": "/uploads/editorial-20261118/pencegahan-freezer-burn-pada-seafood-beku.webp",
+      "altText": "Teknik pencegahan freezer burn pada seafood beku dengan kontrol kelembapan dan glazing rapat",
+      "linkTarget": "https://meatfish.co.id/glazing-ikan-beku/"
+    },
+    {
+      "id": 19,
+      "slug": "metode-fifo-dan-fefo-stok-dapur-komersial",
+      "prompt": "Use case: photorealistic-natural. Restaurant kitchen steward attaching colorful date labels to frozen meat cartons on organized stainless steel shelving unit in cold storage room, systematic rotation display.",
+      "imagePath": "/uploads/editorial-20261118/metode-fifo-dan-fefo-stok-dapur-komersial.webp",
+      "altText": "Penerapan metode fifo dan fefo stok dapur komersial menggunakan label tanggal masuk barang",
+      "linkTarget": "https://meatfish.co.id/stock-opname-frozen-food/"
+    },
+    {
+      "id": 20,
+      "slug": "audit-kebersihan-cold-storage-restoran",
+      "prompt": "Use case: photorealistic-natural. Restaurant hygiene supervisor in clean coat inspecting spotless stainless steel shelving and sanitized floor drain inside a commercial walk-in cold room, clipboard and flashlight in hand.",
+      "imagePath": "/uploads/editorial-20261118/audit-kebersihan-cold-storage-restoran.webp",
+      "altText": "Pemeriksaan checklist audit kebersihan cold storage restoran untuk mencegah kontaminasi silang",
+      "linkTarget": "https://meatfish.co.id/pasokan-untuk-bisnis/"
+    }
+  ]
+}
