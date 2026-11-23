@@ -75,4 +75,4 @@ Bandingkan porsi rencana, porsi aktual, bahan terpakai, serta sisa menurut statu
 
 ## Rujukan dan konsultasi bahan
 
-[BCcampus: Converting and Adjusting Recipes](https://opentextbc.ca/basickitchenandfoodservicemanagement/chapter/convert-and-adjust-recipes-and-formulas/) membahas penyesuaian jumlah resep. Contoh pada artikel ini merupakan simulasi katering. Sampaikan rencana kebutuhan kepada [pasokan B2B Meatfish](/pasokan-untuk-bisnis/) untuk konfirmasi pilihan produk.
+[BCcampus: Converting and Adjusting Recipes](https://opentextbc.ca/basickitchenandfoodservicemanagement/chapter/convert-and-adjust-recipes-and-formulas/) membahas penyesuaian jumlah resep. Contoh pada artikel ini merupakan simulasi katering. Sampaikan rencana kebutuhan kepada [pasokan B2B Meatfish](/pasokan-untuk-bisnis/) untuk konfirmasi pilihan produk. Untuk melihat contoh kanal pasar digital di sektor bahan pangan, kunjungi [Bos Pangan](https://bospangan.com/).
